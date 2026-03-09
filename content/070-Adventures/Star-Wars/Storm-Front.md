@@ -41,6 +41,7 @@ Jess
 
 ![[sw_stormfront.pdf]]
 
+**Stormfront by Tim Howe**
 ## Written by [[Jenny-H|Jenny H.]] (Jess)
 
 Jess was in one of her rages.  There hadn't been one particular thing that had set her off; there had been several, all men.  It was as if there was a universal conspiracy amongst all the men in her life to annoy the hell out of her.

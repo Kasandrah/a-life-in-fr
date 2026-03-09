@@ -11,6 +11,8 @@ draft: false
 
 ![[cc_athos.jpg]]
 
+**Athos**
+
 | Aspect             | Description                                                           |
 | ------------------ | --------------------------------------------------------------------- |
 | _Height / weight:_ | 6 feet 2 inches / 210 lbs                                             |
@@ -32,6 +34,8 @@ draft: false
 Athos has blue eyes and shoulder-length, curly black hair.
 
 ![[cc_paul_gross.jpg]]
+
+**Athos**
 
 | Personal Timeline | Adventure                                               |
 | ----------------- | ------------------------------------------------------- |

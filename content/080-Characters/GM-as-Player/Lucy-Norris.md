@@ -16,6 +16,7 @@ _[Lucy](https://www.dndbeyond.com/characters/65716389/5sdXuW)_ started the campa
 ## Character Sheet
 
 ![[gm_lucy_norris.pdf]]
+
 **Captain Lucy Norris, D&D 5E, D&D Beyond**
 
 ## Campaign Background

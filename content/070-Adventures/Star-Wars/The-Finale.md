@@ -7,11 +7,12 @@ draft: false
 ---
 # The Finale
 
-After obtaining the Imperial food contract for the Gesaril prison asteroid, the _Red Storm Rising_ and her crew participate in a full scale Alliance attack on the prison.  Drun Cairnwick is freed along with hundreds of other political prisoners.  The  freed prisoners are escorted to Alliance transport ships.
+After obtaining the Imperial food contract for the Gesaril prison asteroid, the _Red Storm Rising_ and her crew participate in a full-scale Alliance attack on the prison.  Drun Cairnwick is freed along with hundreds of other political prisoners.  The  freed prisoners are escorted to Alliance transport ships.
 
-While making a detour to Gesaril before returning Drun Cairnwick to Adarlon, the crew recover a cloaking device and a 3000 year old Jedi Master named Troy.  Troy stays but the cloaking device is delivered to Alliance ships still near the prison asteroid.
+While making a detour to Gesaril before returning Drun Cairnwick to Adarlon, the crew recover a cloaking device and a 3000-year-old Jedi Master named Troy.  Troy stays, but the cloaking device is delivered to Alliance ships still near the prison asteroid.
 
 ![[sw_boddi_hela_and_troy.jpg]]
+
 **Boddi, Hela, and Troy by Tim Howe**
 
 Drun Cairnwick is returned to Adarlon to lead the Rebels in Minos Sector again, but the crew learns that Tor Skylow's ship has been destroyed and their pirate ally taken to Travnin as a prisoner of the Imperial Moff.  After attempting to enter Travnin space lanes and being threatened by a vastly superior Imperial force, the crew reluctantly head for the co-ordinates given to them by Wedge Antilles.

@@ -14,6 +14,7 @@ While on Adarlon the crew accept a three month contract to carry a small travell
 While on Yelsain the crew join the Grand Moot just south of Tradetown, where they help the circus set up for performances.  Here the scout Lou Ashton joins the crew, as does Hela's aunt, a mysterious woman by the name of Boddi.  Boddi is in a hurry to leave Yelsain and pays for her passage with a handful of small red gems.  The last two new crewmembers onboard before lift-off are Nogradus, an ex-Imperial storm trooper now looking to join the Rebel Alliance, and Deak Freehold.  Deak's Alliance contact in Minos Sector, Tor Skylow, has told him where to find Jess.  Deak tells Jess that her maternal grandfather, who Jess thought had been dead for years, is alive and an important member of the Rebel Alliance.  He also tells her that her father, Taran Storm, is a member of the Rebel Alliance.  Rebellion runs in Jess's family on both sides!
 
 ![[sw_boddi_and_party.jpg]]
+
 **(Left to Right) Lou, Jess, Deak, Boddi, Hela, and Nogradis by Tim Howe**
 
 While on Eliad, the crew attend a young noble's party to add "atmosphere", brushing shoulders with "The Iceman".  Also there is the pirate, Tor Skylow, and her crew.  They are adding to the "atmosphere" for a large fee.

@@ -33,6 +33,8 @@ Gavin: “white hawk”
 
 ![[cc_gavin_lewis.jpg]]
 
+**Gavin Lewis**
+
 Gavin is tall and slender with sandy brown hair and hazel green eyes.  His hair is short and a lock of it always falls down across his forehead, no matter how he combs it.  He has long legs and arms and a tanned complexion due to spending a lot of time out of doors.  Gavin looks best in tweeds and uniforms.
 
 Gavin has very good eyesight.

@@ -11,6 +11,7 @@ draft: false
 
 | ![[dd_shandell.jpg]] | ![[dd_shandell_2.jpg]] |
 | -------------------- | ---------------------- |
+
 **Shandell (inspired by [Travis Fimmel's](https://www.imdb.com/name/nm1379938/?ref_=nmbio_ov_bk) Calvin Klein days)**
 
 _[[Devis|Devis]]_ has described Shandell as:

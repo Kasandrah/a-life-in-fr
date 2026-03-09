@@ -31,6 +31,7 @@ Most of these plays were on-the-spot creative endeavours that I used to add more
 ## 3000 BC – A Fire in Memphis
 
 ![[onp_memphis.jpg]]
+
 **Memphis, Egypt**
 
 _[[Lillane-of-Clan-Bahari|Lillane's]]_ sire _[[Leda-of-Clan-Bahari|Leda]]_ becomes a monster of the first order and slays thousands, including _[[Tyler|Theshen]]_, an Egyptian architect and Lillane’s lover. After Leda kills Theshen, Lillane determines a plan for Leda’s destruction.
@@ -42,6 +43,7 @@ The Angel and Phoenix use their powers of Air and Fire respectively to create a 
 ## 83 AD – When in Rome
 
 ![[onp_gladiators.jpg]]
+
 **Gladiators**
 
 After a 3,000-year wait, Lillane (as _[[Lillane-of-Clan-Bahari|Livillia]]_) brings her reincarnated lover _Theshen_, now _Tribune Aquila Sabinus Tatianus_, into Clan Bahari and her heart as her ghoul, _[[Tyler|Tyler]]_. Lillane also makes _[[020-The-Antediluvians#Monico|Monico]]_, a citizen of Rome, her ghoul.
@@ -51,6 +53,7 @@ Read [[020-Rome-83-AD|Rome 83 AD]].
 ## 387 AD – Macaw Feathers and Yax Spots
 
 ![[onp_copan_scaled.jpg]]
+
 **Rosalila Temple, Copán**
 
 The _[[Si-Ling|Phoenix]]_ incarnates as K’inick Yax K’uk’ Mo’, Sun-eyed Green Quetzal Macaw, in what will become Honduras, Central America. He establishes the Mayan Copan dynasty in 426 AD and rules until 738 AD when he is poisoned, captured and sacrificed by the king of a rival city-state. The _[[Abdiel|Angel]]_ incarnates as the god-king’s Shaman-Priestess and dies soon after his murder.
@@ -58,6 +61,7 @@ The _[[Si-Ling|Phoenix]]_ incarnates as K’inick Yax K’uk’ Mo’, Sun-eyed 
 ## 495 AD – The Once and Future King
 
 ![[onp_map_logres.jpg]]
+
 **Map of Logres, Pendragon**
 
 Beginning of the [[030-Arthurian-Britain|Arthurian Britain]] campaign. Lillane (as _[[Lillane-of-Clan-Bahari|Lady Leda]]_) embraces _[[010-Knights-of-Arthurian-Britain#Sir Brion|Sir Brion]]_, an Irish knight, after he is possessed by the Morrigan. Lucifer (as _[[Lucifer-Morningstar|Lucien]]_) builds several castles of advanced structure to educate the locals.
@@ -71,6 +75,7 @@ Lillane embraces _[[Gwyn|Gwyn]]_, a female Celtic knight, after Gwyn dies protec
 ## 600 AD – On the Viking Coast
 
 ![[onp_viking_coast.jpg]]
+
 **Viking Coast, Nick Perrotta**
 
 Lillane embraces _[[020-The-Antediluvians#Wolfstead Hengisson|Wolfstead Hengisson]]_, a Saxon warrior of impressive stature and abilities.
@@ -100,6 +105,7 @@ Beginning of the [[040-Dark-Ages|Dark Ages]] campaign.
 ## 1250 AD – A Templar Knight Falls
 
 ![[onp_templar1.jpg]]
+
 **Joakim Nätterqvist in “Arn: The Knight Templar”, photo: Svensk Filmindustri**
 
 Spain
@@ -121,6 +127,7 @@ Later, Lillane embraces the soldier.
 ## 1640 AD – A Small Matter of a Dagger
 
 ![[onp_fallen_lucien.jpg]]
+
 **Fallen Lucien – Inspiration From Tim Curry, ‘Legend’, 1985**
 
 Narbonne, France
@@ -130,6 +137,7 @@ Lillane and Tyler are importing Spanish horses into Narbonne from Andorra, Spain
 ## 1671 AD – A Storm at Sea
 
 ![[onp_sailing_ship.jpg]]
+
 **Sailing on the High Seas**
 
 Jamaica, West Indies
@@ -145,6 +153,7 @@ On returning to Jamaica, Lillane ingratiates herself with Morgan and “persuade
 ## 1725 AD – The Legend of the Firebird
 
 ![[onp_towers_smolny_cathedral.jpg]]
+
 **Towers of Smolny Cathedral, St. Petersburg, 1725**
 
 Lucifer (as [[Lucifer-Morningstar|Count Vladimir Ludevich Petrov syn Turgeneva]]), hereditary noble, landowner and builder of bridges, cathedrals, and palaces, has been commissioned by Tsar Peter the Great to build the first floating bridge over the Neva River in the new capital of St Petersburg. Assisting the Count is Rafael, a young Venetian architect and canal builder, newly arrived in the “Venice of the North” after leaving a difficult and dangerous personal situation in somewhat of a hurry.
@@ -176,6 +185,7 @@ Here they try to make a new life for themselves. The blacksmith learns to make w
 ## 1850 AD – A Gamble Lost
 
 ![[onp_american_queen.jpg]]
+
 **American Queen Steamboat, Interior**
 
 New Orleans, Louisiana
@@ -203,6 +213,7 @@ November 20th to 22nd – the adventure of the Sussex Vampire in Lamberly, south
 ## 1897 AD – Dracula
 
 ![[onp_dracula.jpg]]
+
 **Jonathan Rhys Meyers, “Dracula”, NBC**
 
 Whitby, England
@@ -212,6 +223,7 @@ Once a Ventrue, always a Ventrue.
 ## 1910 AD – Jack the Ripper II
 
 ![[onp_old_cape_town_harbor.jpg]]
+
 **Old Cape Town Harbor, Cape Town Daily Photo, www.capetowndailyphoto.com**
 
 Lillane and Tyler travel to Cape Town and Johannesburg in pursuit of a 3rd Gen Doctor skilled with a scalpel. Once again, Clan Bahari feels the death of one of their own. Tyler knows better than to say, “I told you so”.
@@ -219,6 +231,7 @@ Lillane and Tyler travel to Cape Town and Johannesburg in pursuit of a 3rd Gen D
 ## 1922 AD to 1933 AD – The Roaring Twenties
 
 ![[onp_duesenberg_j_torpedo_phaeton.jpg]]
+
 **Duesenberg Model J Torpedo Phaeton**
 
 New York, Boston, and Long Island, USA
@@ -228,6 +241,7 @@ Nothing like a little prohibition, bootlegging, racketeering, Charleston dances,
 ## 1995 AD – Let’s Try Again
 
 ![[onp_st_corantyn.jpg]]
+
 **St Corantyn, 263 East Terrace, Adelaide, Australia**
 
 After nearly three centuries spent tracking down and executing renegade progeny, Lillane and Tyler opt for the quiet life in the Antipodes. Lillane embraces four new Bahari after recognizing each person as a recent incarnation of a prior acquaintance and begins training them in their new “un-life”.

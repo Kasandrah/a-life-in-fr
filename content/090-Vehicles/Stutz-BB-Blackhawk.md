@@ -8,7 +8,6 @@ draft: false
 # 1928 Stutz Model BB Blackhawk Boattail Speedster
 
 ![[cc_stutz_bb_blackhawk.jpg]]
-**1928 Stutz Model BB Blackhawk Boattail Speedster**
 
 The car that was the essence of glamour and the epitome of speed – **the** car to be seen in. More so than any other automobile built during the 1920s, it made a statement – a statement of style, sophistication, and, most of all, speed.
 

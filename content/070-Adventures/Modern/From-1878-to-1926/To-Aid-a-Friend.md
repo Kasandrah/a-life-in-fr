@@ -17,7 +17,8 @@ draft: false
 # To Aid a Friend
 
 ![[cc_to_aid_a_friend.jpg]]
-**To Aid a Friend, MS Copilot** %%aat-ignore-line%%
+
+**To Aid a Friend, MS Copilot**
 
 1925 August 8th - Carter Fell, Elldridge Wells, Northumberland
 
@@ -44,4 +45,5 @@ Alex released Heather by destroying the bracelet and the remains of the monster.
 None.
 
 ![[cc_carter_fell.jpg]]
+
 **Carter Fell, Northumberland, UK**

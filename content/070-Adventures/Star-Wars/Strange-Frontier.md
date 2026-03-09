@@ -177,6 +177,7 @@ The boy walks back to his mother, puts his arms around her and holds her.  She'
 **Boddi:** "Their new Guardian."
 
 ![[sw_deak_and_tor_xmas.jpg]]
+
 **Cover of Tim's Christmas card to the GM**
 
 A much-cherished keepsake.

@@ -24,6 +24,7 @@ The crew set out to investigate the settlement, tracked by Sari's Jedi senses. 
 He then informs the crew that someone has been asking after them and their ship for the last few days, from before they arrived on the planet.  Noval Garaint is a freelance bounty hunter who has worked for Yerkys Ne Dago before.  Dermod is taken back to the ship, where he is forced into a bath, new clothes, and a hair cut.  He scrubs up to a handsome human, older than first appearances.  He is not from the planet originally, but barely remembers his parents and the circumstances of his arrival.
 
 ![[sw_dermod_2.jpg]]
+
 **Dermod - Master of Disguise**
 
 Jaidyn offers him the option of staying on as part of the crew (especially as he'd let slip Spar's real name) or being dropped off on another planet.  Dermod decides to stay on and is later inducted into the Alliance.  In return, he gives them the location of Garaint's ship and the information that he is very good.  They discuss the possibility of luring Garaint into a trap.  Sari and Spar converse telepathically about the recent events.  Dermod is bright enough to suspect from their body language that they are talking.  Spar confirms this by winking at him, much to Sari's disgust.  Sari offers to teach Spar how to keep his mouth shut.

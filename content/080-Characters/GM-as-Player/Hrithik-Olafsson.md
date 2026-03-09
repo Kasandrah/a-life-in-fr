@@ -11,6 +11,7 @@ draft: false
 # Hrithik Olafsson
 
 ![[gm_hrithik.jpeg]]
+
 **Hrithik Olafsson**
 
 Hrithik is a male Aasimar with shiny feathers instead of hair, shimmering glossy black wings, taloned fingers and toes, and amber eyes. His father is the angel Shahrukh, a noble and impetuous bird-like member of Alteria's heavenly host, making Hrithik a half-celestial.
@@ -92,11 +93,13 @@ All members of the "A Team" from the Adventurer's Guild, Kherkrub. Sir Edwin Coh
 ## Character Sheet
 
 ![[gm_hrithik_character_sheet.pdf]]
-**Hrithik Olafsson, D&D 3.5 Foundry VTT**
+
+**Hrithik Olafsson, D&D 3.5 FoundryVTT**
 
 ## Campaign Background
 
 ![[gm_calidar.jpg]]
+
 **Campaign Map, inspired by [Calidar by Bruce Heard](https://www.amazon.com.au/Calidar-Stranger-Skies-Bruce-Heard-ebook/dp/B013C1CM2M)**
 
 ### Religion

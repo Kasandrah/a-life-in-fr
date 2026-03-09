@@ -42,6 +42,7 @@ First of Matthew's instructions is for Sarah and Charles to attend a three-day o
 On finding out that _[[The-White-Magicians#Dr Alexander Notting|Dr Alexander Notting]]_ and _[[The-White-Magicians#Professor Edwin Occultree|Professor Edwin Occultree]]_ are also attending the conference, Charles agrees to go.
 
 ![[cc_dion_fortune.gif]]
+
 **Dion Fortune, Fraternity of the Inner Light**
 
 Sarah and Charles return from their recent adventure in Egypt via the Orient Express to Boulogne, where the ferry is waiting to connect with the English part of the train at Folkestone.  They pick up their car in Folkestone and drive to Bexhill-on-Sea for the conference.

@@ -8,6 +8,7 @@ draft: false
 # Nephilim NPCs
 
 ![[np_mark_dacascos.jpeg]]
+
 **Azrael (Mark Dacascos)**
 
 ## Mark
@@ -57,4 +58,5 @@ Manager of Thor's Bar and Grill.  Member of the Strength Arcanum.
 3rd Rank Hell-bound Assassin.
 
 ![[np_hellina.gif]]
+
 **Hellina**

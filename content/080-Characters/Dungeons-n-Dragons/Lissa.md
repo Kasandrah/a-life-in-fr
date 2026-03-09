@@ -12,6 +12,7 @@ draft: false
 # Lissa
 
 ![[dd_lissa_01.jpg]]
+
 **Lissa**
 
 Lissa was my very first Player Character (PC) – created for [[Neil-F|Neil F.’s]] Tharamaylor Campaign in the summer of 1984. In this campaign, she was a young apprentice mage on the run from her master, the wizard _[[Zatarn|Zatarn]]_.
@@ -21,11 +22,13 @@ In my [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign, Lissa is a Thyat
 Lissa’s familiar is a female peregrine falcon named Talisman.
 
 ![[dd_talisman.jpg]]
+
 **Talisman**
 
 # Character Sheet
 
 ![[dd_lissa_vorloi.pdf]]
+
 **Lissa Vorloi, D&D 3.5 PCGen**
 
 # Background (Tharamaylor)

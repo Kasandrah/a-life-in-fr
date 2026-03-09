@@ -51,7 +51,7 @@ I interspersed these ongoing campaigns with a number of short one or two session
 
 ![[pd_the_accolade.png]]
 
-**‘The Accolade’ – Edmund Blair Leighton**
+**The Accolade – Edmund Blair Leighton**
 
 _**What if** King Arthur had really existed, and he’d married Maeve instead of Guinevere?_
 
@@ -74,6 +74,7 @@ The campaign turned into one big, high-stakes scavenger hunt across vast realms 
 ## Modern
 
 ![[mo_bridge.jpg]]
+
 **Le Viaduc de Millau, Autoroute E11-A75, Aveyron, France**
 
 **[[010-Modern-Timeline|Modern Timeline]]**
@@ -131,6 +132,7 @@ These campaigns occurred in different spaces and times than the above Earth-base
 ## Dungeons & Dragons
 
 ![[dd_green_dragon_battle.jpg]]
+
 **Dungeons & Dragons**
 
 After decades playing a variety of role-playing games, I’ve settled on Dungeons & Dragons – a classic game in every sense of the word. We've play both the [3.5 edition](http://www.d20srd.org/index.htm) and the [5.0 edition](https://dnd.wizards.com/products?category=where-to-start). My [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign is set in [Mystara](http://pandius.com/).
@@ -138,6 +140,7 @@ After decades playing a variety of role-playing games, I’ve settled on Dungeon
 ## Star Wars
 
 ![[sw_darth_vader.jpg]]
+
 **Star Wars**
 
 In a galaxy far, far away …
@@ -147,6 +150,7 @@ My players still regard my [[070-Star-Wars|Star Wars]] campaign as one of the 
 ## Dreamlands
 
 ![[dl_dreamlands_map.jpg]]
+
 **[Dreamlands](https://mockman.com/comic/color-map-of-h-p-lovecrafts-dreamlands/)**
 
 The realms of sleep have their own existence separate from dreamers, and dreamers can lose their way and never wake up. Characters from all eras and planes of existence often wind up in my [[080-Dreamlands|Dreamlands]] campaign as they sleep, where a whole new adventure awaits them.
@@ -166,6 +170,7 @@ It’s been decades since this campaign crashed and burned, but I still wanted t
 ## Anfar Refinli
 
 ![[ar_anfar_refinli.jpg]]
+
 **Anfar Refinli**
 
 [[100-Anfar-Refinli|Anfar Refinli]] was a much-loved [RuneQuest](https://en.wikipedia.org/wiki/RuneQuest) campaign created and run by [[Neil-F|Neil F.]], my first GM, and set on a Celtic-flavoured island in a world of his making. The campaign was retired after Neil’s untimely death in 1999. I’ve included it here because it was Neil’s finest work, and because two of my most loved characters started off in this game.

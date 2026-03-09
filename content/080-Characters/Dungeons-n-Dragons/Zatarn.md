@@ -8,6 +8,7 @@ draft: false
 # Zatarn
 
 ![[dd_zatarn.jpg]]
+
 **Zatarn**
 
 Zatarn is the evil wizard who is Lissa’s nemesis. Zatarn is 6’ 6” tall, lean, has long pale blond hair and is clean-shaven. Chemical burns have scarred badly on the back of his right hand. His eyes are black-green; his complexion is medium.

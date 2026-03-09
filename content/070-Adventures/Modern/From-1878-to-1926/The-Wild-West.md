@@ -17,7 +17,8 @@ draft: false
 # The Wild West
 
 ![[cc_dodge_city.jpg]]
-**Dodge City, 1878** %%aat-ignore-line%%
+
+**Dodge City, 1878**
 
 1925 November – Kenneton Wells, Arizona with time travel back to 1878 December
 

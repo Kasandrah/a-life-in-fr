@@ -34,6 +34,7 @@ Aletta is an Egyptian adventuress and thief with a liking for gemstones, hard cu
 ## Appearance
 
 ![[cc_aletta_and_viktor.jpg]]
+
 **Aletta and Viktor**
 
 Aletta is a small, exceptionally beautiful Egyptian woman with hip-length black hair, dark eastern eyes, and dark brown skin.  She wears Egyptian-style clothing in keeping with her professed Muslim beliefs, although the veils are sheer silks and the jewellery is exquisite and expensive.

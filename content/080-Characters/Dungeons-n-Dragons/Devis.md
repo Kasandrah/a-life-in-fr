@@ -17,6 +17,7 @@ That said, Devis developed into one of the most intense RPG characters I've ever
 ## Appearance
 
 ![[dd_devis.bmp]]
+
 **Devis**
 
 >**Player's Note:** Devis became a half-dragon over the course of his original campaign.
@@ -28,6 +29,7 @@ He has red/copper/gold scales across the top of his forehead, down around both h
 Devis has a magical tattoo - "GI" on his left butt cheek and "NI" on his right - encircled artistically and in a large heart shape by tiny flowers, hearts and vine leaves.  The whole thing covers his butt from the small of his back to the top of the back of his legs, and from hip around to opposite hip at the widest curve of the heart shape.
 
 ![[dd_gini.jpg]]
+
 **Gini**
 
 A point of trivia about elves. They're hairless except for eyebrows, eyelashes, and the top of their heads. No other body hair.  Devis takes after his mother's side of the family in this respect.  Gini had a smooth, hairless canvas to work on.
@@ -35,6 +37,7 @@ A point of trivia about elves. They're hairless except for eyebrows, eyelashes, 
 ## Character Sheet
 
 ![[dd_devis.pdf]]
+
 **Devis, D&D 3.5 PCGen** 
 
 ## Background
@@ -100,6 +103,7 @@ For Devis' information:
 ## Second Dream - Written by [[Simon-M|Simon M.]]
 
 ![[dd_ashardalon.jpg]]
+
 **Ashardalon**
 
 He moves quietly through the dark tunnels.  The only sound of his passage is the occasional rasp of a scale against stone or the click of a talon on rock.  Yet to senses like his even this quiet passage is too loud, he is constantly astounded that the food does not hear him, smell him or just feel him.  For he can feel them.  Always he is aware of the other life around him, the sounds that echo through the mountain, the smells, but mostly the feel of life - little glows, some near, most far away yet always there at the edge of his awareness.

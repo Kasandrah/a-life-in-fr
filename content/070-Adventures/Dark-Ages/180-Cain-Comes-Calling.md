@@ -26,6 +26,7 @@ My father was beside himself with excitement and he could not help but reveal th
 In the silence that followed, Abdiel returned to his human form of Juan Carlos and entered the central Circle and tells everyone that _[[Cain|Cain]]_ is coming. Michael had told him and told him to come here to tell us. When I question him further, he replies that the agreement of the Circle is why he is here … to help, for Cain is coming for Lillane! Inshallah! (As God wills!)
 
 ![[da_cain_2.jpg]]
+
 **Cain**
 
 In the uproar that follows, taking a step back, I can see that Lillane is allowing us to come up with what to do in her usual manner, but I think she knows as much (or as little) as we do. The reason of why Cain would be coming now, as opposed to any other time, is fairly obvious, I think. Lilith has sent instructions on the past and some of our future plans, and Cain obviously thinks we are now to be dealt with in some manner. Neither Rachel nor Lucio, come up with any suggestions. We can only devise of three possible things we can try before Cain is likely to get here: we can contact Lilith, we can contact _[[Lelia-of-Clan-Bahari|Lelia]]_, and (as Monico suggested) we try to make use of the Horn of Ilvilon which is supposed to be able to “cure” any vampire touching it of their curse.

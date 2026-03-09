@@ -12,4 +12,5 @@ Commander Deak Freehold and Lieutenant Mara Jade are rescued from a deep underco
 ## **Tim Howe's Comic Adaptation**
 
 ![[sw_deak_and_mara.pdf]]
+
 **Mad, Bad, and Dangerous to Know by Tim Howe**

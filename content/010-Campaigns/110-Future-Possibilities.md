@@ -8,7 +8,7 @@ draft: false
 
 This site helps me look forward as well as back. I'm interested in running these scenarios at some future opportunity. Something old and something new.
 
-As my focus is running games online via[ FoundryVTT](https://foundryvtt.com/), my priority for choosing a future possibility is whether it has, or can be adapted to, a Foundry-based [game system](https://foundryvtt.com/packages/systems).
+As my focus is running games online via[ FoundryVTT](https://foundryvtt.com/), my priority for choosing a future possibility is whether it has been, or can be, adapted to a Foundry-based [game system](https://foundryvtt.com/packages/systems).
 
 ## Earth-Based Campaigns
 
@@ -26,7 +26,7 @@ As my focus is running games online via[ FoundryVTT](https://foundryvtt.com/), m
 
 ---
 
-**[Cthulhu by Gaslight](https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-pdf/)** - (late 1800s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - the other system I'm reviewing for [Antipodean Moon](https://antipodeanmoon.com/), supplemented by [Pulp Cthulhu](https://www.drivethrurpg.com/en/product/199600/pulp-cthulhu-7th-edition-call-of-cthulhu)
+**[Cthulhu by Gaslight](https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-pdf/)** - (late 1800s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - the other system I'm reviewing for [Antipodean Moon](https://antipodeanmoon.com/), supplemented by [Dark Designs](https://www.drivethrurpg.com/en/product/1676/dark-designs) and [Pulp Cthulhu](https://www.drivethrurpg.com/en/product/199600/pulp-cthulhu-7th-edition-call-of-cthulhu)
  - [Hudson & Brand](https://www.drivethrurpg.com/en/product/229175/hudson-brand-inquiry-agents-of-the-obscure-a-call-of-cthulhu-setting-for-cthulhu-by-gaslight) with [Spirits of London](https://www.drivethrurpg.com/en/product/229177/the-spirits-of-london-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), [The Thirteen](https://www.drivethrurpg.com/en/product/229178/the-thirteen-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), and [A Lens of Darkness](https://www.drivethrurpg.com/en/product/231982/a-lens-of-darkness) (Victorian Era London)
 
 ---
@@ -70,9 +70,13 @@ Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the op
 
 ## Alternate Worlds
 
+**[Dragon Age](https://www.drivethrurpg.com/en/product/147899/dragon-age-rpg-core-rulebook)** - (using the [The Expanse Ruleset](https://foundryvtt.com/packages/expanse), the only FoundryVTT system based on Green Ronin's [Adventure Game Engine](https://greenronin.com/what-is-age-the-adventure-game-engine/), the system underlying Dragon Age) - a licensed IP roleplaying game based on the video games of the [same name](https://www.ea.com/games/dragon-age).
+
+---
+
 **[[060-Dungeons-n-Dragons|Dungeons & Dragons]]** - (1000 AC using [Old School Essentials](https://www.foundryvtt.store/products/ose-advancedfantasytome) instead of [BECMI](https://www.drivethrurpg.com/en/browse?ruleSystem=44828-basic-becmi-or-od-d))
 
- - [Thunder Rift](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clmokg2nd005a033cwvm71x05/) from 1st to 5th level then landing in [Pendleton](https://index.rpg.net/display-entry.phtml?mainid=14683) 
+ - [Thunder Rift](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clmokg2nd005a033cwvm71x05/) from 1st to 5th level, then landing in [Pendleton](https://index.rpg.net/display-entry.phtml?mainid=14683) 
  - [Rules Cyclopedia](https://www.drivethrurpg.com/en/product/17171/d-d-rules-cyclopedia-basic) + BECMI Adventures from 1st to ? level
 	 - [B1-9: In Search of Adventure](https://index.rpg.net/display-entry.phtml?mainid=64) from 1st to 3rd level
 
@@ -83,11 +87,12 @@ Dungeons & Dragons - same setting and era as the Old School Essentials campaign 
  - [Ghoul Island](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/cladh2zlu0008033c1zdcgu9j/) then moving on to the [Isle of Dread](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/ckn73hfrca5il0762pgsk2nk5/), referencing [Cthulhu by Torchlight](https://marketplace.dndbeyond.com/category/DBIRFDZMU)  
  - [Rime of the Frostmaiden](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clmk3zshy0003033cvz46mgvs/)
 
-I've not adapted the following adventures to Mystara, so they will require additional work before being ready to play.
+I've not adapted the following D&D 5E adventures to Mystara, so they will require additional work before being ready to play.
 
  - [Dragon of Icespire Peak](https://marketplace.dndbeyond.com/adventures/SRC-00041) levels 1-7, [Storm Lord’s Wrath](https://marketplace.dndbeyond.com/adventures/SRC-00050) levels 7-9, [Sleeping Dragon's Wake](https://marketplace.dndbeyond.com/adventures/SRC-00051) levels 9-11, and [Divine Contention](https://marketplace.dndbeyond.com/adventures/SRC-00052) levels 11-13, an adventure path.
- - [The Wild Beyond the Witchlight](https://marketplace.dndbeyond.com/adventures/wild-beyond-the-witchlight?pid=SRC-00079) levels 1-8, set in the Feywild, also known as the Plane of Faerie, hence easier to run in Mystara than other adventures on this list.
+ - [Heroes of the Borderlands](https://marketplace.dndbeyond.com/category/4705000?pid=DB4705000&Digital%2FPhysical=Digital), a classic entry-level campaign rebooted for the modern era with 40 to 60 hours of playtime for levels 1-5
  - [Lost Caverns of Tsojcanth](https://www.dndbeyond.com/claim/source/descent-into-tsojcanth) level 9, an abridged version based on an [AD&D original](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRp88CAAAAARpM2ExTb_VoOmVtqcBXwj4?e=ApawPk), can be placed in any mountain range near a kingdom or settlement. Contains just the lesser caverns.
+ - [The Wild Beyond the Witchlight](https://marketplace.dndbeyond.com/adventures/wild-beyond-the-witchlight?pid=SRC-00079) levels 1-8, set in the Feywild, also known as the Plane of Faerie, hence easier to run in Mystara than other adventures on this list. 
 
 ---
 

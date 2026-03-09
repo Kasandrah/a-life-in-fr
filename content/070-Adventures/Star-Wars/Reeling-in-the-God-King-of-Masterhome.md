@@ -14,4 +14,5 @@ _Red Storm Rising's_ crew organised an attack on the shuttle, defeating the Imp
 After _Red Storm Rising_ returned to Generis Base with Lord Dixton as a prisoner and with a Jedi subdued Tor, Troy reversed Tor's mind wipe and personality rebuild.
 
 ![[sw_boddi_jess_and_tor.jpg]]
+
 **Jess, Boddi, and Tor by Tim Howe**

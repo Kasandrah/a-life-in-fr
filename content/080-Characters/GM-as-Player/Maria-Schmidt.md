@@ -14,6 +14,7 @@ A character in [[Craig-B|Craig B.'s]] WWII campaign run under the D20 Modern sys
 ## Character Sheet
 
 ![[d20m_maria_schmidt.pdf]]
+
 **Maria Schmidt, D20 Modern PCGen**
 
 ## Touch of the Wolf
@@ -69,4 +70,5 @@ Level 20          Teleport 1/per day
 **Written by [[Craig-B|Craig B.]]**
 
 ![[gm_d_section.pdf]]
+
 **D Section SOE Special Operations Executive**

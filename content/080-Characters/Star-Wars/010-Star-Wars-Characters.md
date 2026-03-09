@@ -24,6 +24,7 @@ Contents:
 - [[010-Star-Wars-Characters#Others|Others]]
 
 ![[sw_original_crew.jpg]]
+
 **It Takes All Kinds to Win**
 
 Left to right:  Roger, Jess, Varth, Deak, Busurra, Tor, Ash, Nogradis, and Lou - as drawn by Tim Howe.
@@ -110,7 +111,7 @@ Wants to:
 - be a better Jedi - training and resulting skill increases
 - follow up on the Tagge family (on the prison planet Kessel).
  
-While still growing in maturity and power, Syll keeps what he is at heart.  He likes [[010-Star-Wars-Characters#_Carly - X-Wing Pilot_|Carly]], luxuries, the senses, and the Force.  He dislikes discomfort, the Dark Side, and [[010-Star-Wars-Characters#_Tagge, Baron Ormon_|Baron Ormon Tagge]].
+While still growing in maturity and power, Syll keeps what he is at heart.  He likes [[010-Star-Wars-Characters#Carly - X-Wing Pilot|Carly]], luxuries, the senses, and the Force.  He dislikes discomfort, the Dark Side, and [[010-Star-Wars-Characters#Tagge, Baron Ormon|Baron Ormon Tagge]].
 
 Played by [[Ben-G|Ben G.]]
 

@@ -14,6 +14,7 @@ Deak convinces the crew that the planet should be used as a new Alliance safe-wo
 Nichelle shows her ability by intuitively navigating back from unknown space to Generis Base.
 
 ![[sw_deak_and_tor.jpg]]
+
 **Tor Skyow and Deak Freehold by Tim Howe**
 
 ---

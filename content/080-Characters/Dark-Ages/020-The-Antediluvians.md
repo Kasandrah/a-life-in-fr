@@ -25,6 +25,7 @@ Embraced **2400 BC**, Kingdom of Kush. Angelica killed Dion in combat in 1199 A
 Embraced in **573 BC**, Babylon, Enshunu is a gifted male artist who created the designs for the decoration of the Ishtar Gate.
 
 ![[da_ishtar_gate.jpg]]
+
 **Ishtar Gate**
 
 ## Dikaiosyne
@@ -56,6 +57,7 @@ A 7-ft., 300 lbs Saxon warrior of impressive stature and abilities embraced **[
 Played by [[Craig-B|Craig B.]]
 
 ![[da_wolfstead.jpg]]
+
 **Wolfstead Hengisson, Clan Bahari**
 
 ## Roland
@@ -63,6 +65,7 @@ Played by [[Craig-B|Craig B.]]
 [[020-Family|Embraced 778 AD, Roncesvaux, Pyrenees]] at the scene of his defeat by the Basques. Roland was Count of the Marches of Brittany and a nephew of Charlemagne, King of the Franks. Roland changed his name to _Rollon_ to distance himself from his defeat, made famous by the epic poem, the [“Song of Roland”](https://en.wikipedia.org/wiki/The_Song_of_Roland).
 
 ![[da_roland.jpg]]
+
 **Rollon, Clan Bahari**
 
 Lillane embraced Roland on the battlefield because she recognized the reincarnated Arthur, King of the Britons, who had slipped from her grasp over 200 years earlier. At that time, the Arch-mage Merlin rescued Tyler from the teeth of an undead dragon necromancer named Varis. In return, Merlin made Lillane vow she would never embrace Arthur. Lillane waited and watched, then embraced Roland instead.
@@ -90,6 +93,7 @@ Played by [[Michael-H|Michael H.]]
 Embraced by Rollon **1199 AD**, Saragossa, Spain. _[[Angelica|Angelica]]_ was the Emir of Seville’s daughter and Rollon’s lover. Rollon broke one of the primary laws of Clan Bahari. By killing Lillane’s 3rd Gen, Dion of Kush, and drinking his blood, Angelica stepped up from being a 4th Gen Bahari and out from under a death sentence.
 
 ![[da_angelica.jpg]]
+
 **Angelica, Clan Bahari**
 
 ## German Soldier
@@ -147,6 +151,7 @@ Made a **ghoul** in **[[010-One-Night-Plays#83 AD – When in Rome|83 AD]]**,
 He was wrongly accused of conspiracy against Emperor Domitian and sentenced to death in the arena. Lillane recognised Tatianus as the reincarnation of Theshen, her Egyptian lover, and made him her ghoul so he could survive. He changed his name to Tyler after the sack of Rome in 410 AD. More recently known as Tomas or Thomas.
 
 ![[da_christopher_lee_6.jpg]]
+
 **Tyler, Clan Bahari Ghoul**
 
 ## Monico
@@ -156,6 +161,7 @@ A citizen from an Imperial Roman province, Monico was also made a **ghoul** i
 Played by [[Simon-M|Simon M.]]
 
 ![[da_monico.jpg]]
+
 **Monico, Clan Bahari Ghoul**
 
 ## Romegio
@@ -165,6 +171,7 @@ A vintner and monk, Romegio was made a ghoul in **[[010-One-Night-Plays#1189 
 Played by [[Michael-B|Michael B.]]
 
 ![[da_romegio.jpg]]
+
 **Romegio, Clan Bahari Ghoul**
 
 ## Owain and Juanita

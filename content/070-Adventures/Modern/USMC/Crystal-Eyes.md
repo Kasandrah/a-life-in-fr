@@ -27,6 +27,7 @@ draft: false
 ## Highlights
 
 ![[cc_ayrton_senna_2.jpeg]]
+
 **Antonio Andrada da Silva**
 
 Rebecca Wallace and her friend Anna Dunbain are threatened while walking home from school.  Suspicion eventually falls on the General, a Director of a company that lost the bid for a new dam project to one of Ambassador Wallace’s business associates.

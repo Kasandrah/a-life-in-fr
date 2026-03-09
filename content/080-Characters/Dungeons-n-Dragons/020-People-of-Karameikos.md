@@ -40,6 +40,7 @@ _Karameikos, Lord Justin_ – (2nd Fighter, 18), Thyatian.
 _Karameikos, Lord Valen_ – (1st Fighter, 14), Thyatian. Rescued by Vlad and party on the Duke’s Road many miles from Specularum.
 
 ![[dd_royal_family.jpg]]
+
 **Duke Stefan Karameikos III and Family**
 
 _Karameikos IV, Lord Stefan_ – (Fighter, 25), Thyatian, General of the 1st Division of Karameikos, Specularum City Guard (Guard Phorsis). ^78b8c4
@@ -49,6 +50,7 @@ Eldest son of Duke Stefan Karameikos III and heir to the Grand Duchy of Karameik
 He is handsome with white-blonde hair worn short, purple eyes that shade to dark blue at the edges and a pale complexion. Stefan dresses in black and gold to emphasise his colouring.
 
 ![[dd_stronghold.jpg]]
+
 **Duke's Stronghold - Specularum**
 
 # At Court
@@ -64,6 +66,7 @@ _Tisza, Lord Valdo_ – (40, Traldaran) – Minister of Finance. Was right hand
 _Yarol, Lord Zogrev_ – (9th Fighter, 50, Traldaran) – Minister of State, wife is of the Torenescu Clan, was Secretary for Lord Cordelius.
 
 ![[dd_court.jpg]]
+
 **From Left to Right: Lord Tisza, Lord Cordelius, Lord Yarol and Admiral Hyraksos**
 
 ## Ambassadors
@@ -81,6 +84,7 @@ _Osteric, Lord Cornel_ – (7th Fighter, 45, Thyatian) – Ambassador of the Em
 _Schonberg, Gunter_ – (11th Fighter, Thyatian) – Ambassador of the Kingdom of Ierendi. Fast friend of Lord Korrigan. Intense dislike of Hamid. Frequents the Black-Heart Lily.
 
 ![[dd_ambassadors.jpg]]
+
 **Ambassador Schonberg and Sheik Abdallah ibn Hamid**
 
 _Shalander_ – (7th Elf, Alfheim, 110) – Ambassador of Alfheim. Ladies man.
@@ -90,11 +94,13 @@ _Voll, Aladan_ – (5th Fighter, Minrothad Guildsman) – Ambassador of the Min
 _Whitehall, Estella_ – Ambassador of Darokin. Friend of Flintfoot and Shalander.
 
 ![[dd_shalandar.jpg]]
+
 **From Left to Right: Lord Osteric, Dona Marianita and Shalander**
 
 # At Church
 
 ![[dd_church.jpg]]
+
 **Lord Oliver (right), Patriarchs Aleksyev (centre) and Sergyev (far left)**
 
 ## Church of Karameikos
@@ -259,6 +265,7 @@ _Tormandros, Lord Lucas_ – (4th Fighter, 36, Thyatian, black hair, blue eyes)
 Black-Heart Lily Inn
 
 ![[dd_yolanda.jpg]]
+
 **Yolanda of Luln**
 
 _Sforza, Luthier_ – (5th Fighter, Tavern Keeper)  
@@ -302,6 +309,8 @@ His curly chest hair is revealed by the cut of the white satin shirts he favours
 
 ![[dd_kelvin.jpg]]
 
+**Kelvin**
+
 _Ashgarth_ – (1st Fighter, 25, Thyatian, red hair and blue eyes) – Rescued from Skarda’s Mirror.
 
 _Kelvin, Lady Alerena_ – (20, daughter of Desmond) – Engaged to Lord Kaerin Penhaligon.
@@ -318,6 +327,8 @@ Its held to be a great honour to be a Member of the Order, and so each year many
 
 ![[dd_threshold.jpg]]
 
+**Threshold**
+
 _Arthol, Sergeant_ – (3rd Fighter) – Town Guard.
 
 _Halaran, Aleena_ – (12th Cleric, 22, Thyatian) – Member, Order of the Griffon. Daughter of Baron Halaran’s brother, Merrik. Parents died of disease a few years ago.
@@ -329,6 +340,7 @@ _Sindar_ – Elvish merchant and father of the Elf maid, Merisa.
 _Zira_ – (4th Fighter, 25, Traldaran, short black hair and blue eyes) – Became one of Skarda’s Elite Guard before aiding escape from the mirror.
 
 ![[dd_aleena.jpg]]
+
 **Baron Sherlane and Aleena**
 
 _Halaran, Aleena_ – (12th Cleric, 22, Thyatian) – Member, Order of the Griffon. Daughter of Baron Halaran’s brother, Merrik. Parents died of disease a few years ago.
@@ -352,6 +364,7 @@ Ludwig is utterly jealous of Duke Stefan and thoroughly contemptuous of human li
 _Bargle the Infamous_ – (15th Magic-User, 30?, Traldaran) ^725955
 
 ![[dd_bargle.jpg]]
+
 **Bargle and Baron Ludwig**
 
 ## The Iron Ring

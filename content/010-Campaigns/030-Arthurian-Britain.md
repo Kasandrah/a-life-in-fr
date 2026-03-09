@@ -9,6 +9,7 @@ draft: false
 # Arthurian Britain  
   
 ![[pd_arthur_boy_king.jpg]]
+
 **Arthur, The Boy King**
 
 Pendragon – Cymric for “High King” – “ben” = “chief”, “dragon” = “warlord”.

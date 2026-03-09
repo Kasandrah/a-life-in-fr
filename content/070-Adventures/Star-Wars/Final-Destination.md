@@ -14,9 +14,11 @@ Captain Tor Skylow of the Imperial Navy Customs Frigate _Empress_ and trusted 
 ## **Tim Howe's Comic Adaptation**
 
 ![[sw_final_destination.pdf]]
+
 **Deak and Tor Final Destination by Tim Howe**
 
 ![[sw_deak_and_camie.jpg]]
+
 **Deak and Camie by Tim Howe**
 
 Camie is the friend Deak left behind on Ondos.

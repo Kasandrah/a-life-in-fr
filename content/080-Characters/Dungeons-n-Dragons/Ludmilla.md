@@ -12,6 +12,7 @@ draft: false
 # Ludmilla
 
 ![[dd_ludmilla_02.jpg]]
+
 **Ludmilla Vladimirovna Dangov**
 
 ## Written by [[Jenny-H|Jenny H.]]

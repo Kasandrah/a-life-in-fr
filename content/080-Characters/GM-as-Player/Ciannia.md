@@ -18,6 +18,7 @@ Her party included:
 ## Appearance
 
 ![[gm_ciannia_full.jpg]]
+
 **Ciannia, Pictish Priestess of Mund**
 
 A female halfling in early adulthood. Waist-length thin braids with beads and feathers. Close-fitting light leather shirt and pants. Studded leather armour.
@@ -25,6 +26,7 @@ A female halfling in early adulthood. Waist-length thin braids with beads and fe
 ## Character Sheet
 
 ![[gm_ciannia_clr9.pdf]]
+
 **Ciannia, D&D 3.5 PCGen**
 
 

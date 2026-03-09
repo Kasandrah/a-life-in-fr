@@ -20,6 +20,7 @@ At present Mabhan was brooding, irritable. His fingers plucked fitfully at the g
 “My apologies, o Mabhan.” Anwyn was as smooth as a courtier born. “But I thought that you here; in your own domain?”
 
 ![[ar_house_maban_site_map.JPG]]
+
 **The House of Mabhan, site map**
 
 Mabhan grinned broadly, showing square white teeth. Voklaynn noticed that he did that often. But then he as suddenly looked sour. He almost, though not quite, looked at her as she stood aside a little from Tintagel, nursing [[Karwin|Karwin]]. Smudge was well back from her, but she knew his exact location as surely as she knew hers, Tintagil’s and Karwin’s. The child played entranced with strands of snow-hair and gurgled nonsense sounds solemnly to himself and her. Somewhere behind her and to her right were Lan and Melitha.

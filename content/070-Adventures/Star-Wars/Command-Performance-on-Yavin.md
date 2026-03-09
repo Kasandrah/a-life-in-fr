@@ -22,4 +22,5 @@ After _Red Storm Rising_ left the area the bulk of the Imperial Navy arrived t
 After abandoning the base on Yavin IV, the Rebel HQ moved to Thila.
 
 ![[sw_deak_and_tor_on_yavin.jpg]]
+
 **Deak and Tor: Time Out for Love on Yavin IV by Tim Howe**

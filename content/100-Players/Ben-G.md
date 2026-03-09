@@ -16,7 +16,7 @@ draft: false
 - _[[010-DnD-Adventurers#Kubinski, Yakov|Kubinski, Yakov]]_
 - _[[Nephilim-PCs#James Martel|Martel, James]]_
 - _[[The-White-Magicians#Dr Alexander Notting|Notting, Dr Alexander]]_
-- _[[The-White-Magicians#Kellion O’Shea|O'Shea, Killion]]_
+- _[[The-White-Magicians#Kellion O’Shea|O'Shea, Kellion]]_
 - _[[010-Knights-of-Arthurian-Britain#Lord Rhodri|Rhodri, Lord]]_
 - _[[020-The-Antediluvians#Raushan ibn Taariq|ibn Taariq, Raushan]]_
 - _[[010-Star-Wars-Characters#Tagge, Asher Norton|Tagge, Asher Norton (Spar, Syll)]]_

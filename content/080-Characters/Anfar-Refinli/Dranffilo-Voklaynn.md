@@ -10,6 +10,7 @@ draft: false
 # Dranffilo Voklaynn
 
 ![[ar_voklaynn.jpg]]
+
 **Voklaynn, pencil by Willis, 1991**
 
 | Aspect             | Description                                                       |

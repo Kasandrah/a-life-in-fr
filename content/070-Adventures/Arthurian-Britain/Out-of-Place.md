@@ -270,10 +270,10 @@ All of my other players expressed vehement frustration at:
  - my focus on this character's story at the expense of the other characters' stories
  - the significant time I'd spent "one-on-one" gaming with this character's player outside of scheduled games
  - the additional time I'd spent responding to this player's emails and write-ups
- - allowing this player to set campaign direction
+ - allowing this player to set the campaign direction
  - making my other players feel like bit players at my gaming table.
 
-Here I was doing it again before the **520 AD** campaign had even started. The rest of my players declined to continue.
+Here I was doing it again in the **520 AD** campaign. The rest of my players declined to continue.
 
 Had I not made rookie GM blunders, Brennos and Niani would have "lived happily ever after" in [[100-Anfar-Refinli|Anfar Refinli]], a closed book since the original GM's death in 1999. I wouldn't have turned my campaign inside out to accommodate them, and I wouldn't have attracted the justified ire of my other players.
 

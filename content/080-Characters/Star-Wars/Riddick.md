@@ -9,6 +9,7 @@ draft: false
 # Riddick
 
 ![[sw_riddick.jpg]]
+
 **Riddick**
 
 Riddick is a very dark character who is struggling, knowing that for the first time in his life he is being treated as someone special and unique, for reasons he doesn't yet accept and expects to evaporate real soon.

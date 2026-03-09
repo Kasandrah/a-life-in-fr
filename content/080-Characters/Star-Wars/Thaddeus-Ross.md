@@ -14,6 +14,7 @@ draft: false
 # Captain Thaddeus Ross
 
 ![[sw_ross_kirby_morrow.jpg]]
+
 **Captain Thaddeus Ross**
 
 >**GM's Note:** Sourced from emails between myself and a guest player, Robin E., who played Ross for a few sessions in February 2001.

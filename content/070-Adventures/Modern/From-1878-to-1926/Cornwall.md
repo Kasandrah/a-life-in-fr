@@ -50,6 +50,7 @@ A Celtic faerie knight sent to retrieve the chalice killed the thieves and pursu
 The chalice and one hour of time disappeared while the party travelled through the “ley line”.
 
 ![[cc_charles_in_leather_jacket.jpeg]]
+
 **Charles van Buren**
 
 ## Injuries

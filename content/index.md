@@ -7,6 +7,7 @@ draft: false
 # An Introduction  
 
 ![[anin_dice1.jpg]]
+
 **Dice for Fantasy Role-Players**
 
 In January 1984, I began playing in an [Advanced Dungeons & Dragons (AD&D)](https://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons#Advanced_Dungeons_&_Dragons) campaign set in the world of Tharamaylor, an invention of my first [Game Master (GM)](https://en.wikipedia.org/wiki/Gamemaster), [[Neil-F|Neil F.]] What I didn’t realise at the time was that this nervous step into a new hobby would become a lifelong passion.

@@ -15,6 +15,7 @@ draft: false
 # Lillane of Clan Bahari
 
 ![[da_lillane1.jpg]]
+
 **Lillane**
 
 2nd Gen Vampire, a 5,500-year-old vampiric descendant of _[[Lilith|Lilith]]_. Lillane has sired all the PC Vampires and Ghouls, and is the only vampire of Clan Bahari to create male Vampires and Ghouls.

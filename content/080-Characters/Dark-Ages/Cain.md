@@ -7,7 +7,7 @@ draft: false
 ---
 ![[da_cain_1.jpg]]
 
-Cain
+**Cain**
 
 The bastard son of Sama’el and Eve. Bitter and twisted from the revelation of his true parentage, Cain is a being with outstanding powers and hatred to match. God cursed Cain with vampirism as punishment for slaying his brother Abel in a jealous rage.
 

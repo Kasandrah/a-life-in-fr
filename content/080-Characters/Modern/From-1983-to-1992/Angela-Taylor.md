@@ -113,11 +113,11 @@ Returned to 1925 London with £60,000 in gold from the people who sent the party
 
 ![[cc_1926_evening.jpg]]
 
-1926 Evening Gown
+**1926 Evening Gown**
 
 ![[cc_1926_bandeau.jpg]]
 
-1926 Bandeau
+**1926 Bandeau**
 
 ## Character Sheets
 
@@ -136,9 +136,11 @@ Angela started off as a Call of Cthulhu character for whom I used [[Neil-F|Neil 
 ### D20 Modern
 
 ![[cc_angela_taylor.pdf]]
+
 **Angela Taylor, D20 Modern PCGen**
 
 ### The Dhole's House
 
 ![[cc_angela_taylor_dh.pdf]]
+
 **Angela Taylor, Call of Cthulhu Modern Era, The Dhole's House**

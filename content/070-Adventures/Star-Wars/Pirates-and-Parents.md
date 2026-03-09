@@ -12,4 +12,5 @@ Generis Base receives word that a supply ship is on its way from the Core Worlds
 "Kidnapped" from the ship for ransom were Deak's parents, Senator Montross Freehold and his wife.  They were escaping from ISB spies and assassins set on them by the Emperor after he dissolved the Senate.
 
 ![[sw_varth_and_jess.jpg]]
+
 **Captain Jess Storm and Commander Varth by Tim Howe**

@@ -9,6 +9,7 @@ draft: false
   
 
 ![[onp_firebird.jpg]]
+
 **Firebird**
 
 In a far away land a thief stole golden apples from Tsar Berendey's magic Garden. These apples had the power of bestowing youth and beauty. The guards of the Tsar were unable to stop the thief, for as hard as they tried, the thief always got away. None of the guards could even see the thief. The Tsar was frustrated for he needed the golden apples for himself, as he was married to a very beautiful young Queen.

@@ -20,15 +20,16 @@ Played by [[Craig-B|Craig B.]]
 Traldaran Cleric, Bishop of the Church of Traladara.
 
 ![[dd_ludmilla_01.jpg]]
+
 **Ludmilla Vladimirovna Dangov**
 
 [[Ludmilla|Ludmilla]] is originally from Specularum and has a magical owl named “Meyric”, named after her Dragon Mage lover. Ludmilla wants to smite _[[020-People-of-Karameikos#^725955|Bargle]]_ and Elendorath while pursuing her relationship with the blue dragon Mage, Meyric.
 
 ![[dd_meyric_owlbear.jpg]]
 
-Meyric the Owl
+**Meyric the Owl**
 
-“Fly” – once every 24 hours, 8-hour duration. By day the owner can see through the owl’s eyes, hear with its ears and give it general directions of flight and return. By night, all the previous, plus (if the owner concentrates very hard) the owner can detect vague intentions of humans or creatures encountered. When the owner is attempting to see, hear or detect through Meyric, no other spell casting or movement is possible. The owl determines night and day from the position of the sun, not the position of the owner.
+“Fly” – once every 24 hours, 8-hour duration. By day, the owner can see through the owl’s eyes, hear with its ears, and give it general directions of flight and return. By night, all the previous, plus (if the owner concentrates very hard) the owner can detect vague intentions of humans or creatures encountered. When the owner is attempting to see, hear, or detect through Meyric, no other spell casting or movement is possible. The owl determines night and day from the position of the sun, not the position of the owner.
 
 “Attack” – five-round duration, once per 24 hours and independent of the above. The owner has no need to concentrate once the attack command has been given. The owl turns into an owl-bear, a huge bear-like creature with the head of a giant owl, 8′ tall, 1500 lbs, alignment Neutral. If the owl is in flight when the owner gives the attack command, it lands on the ground before it turns into an owl-bear.
 
@@ -87,6 +88,7 @@ Played by [[Ben-G|Ben G.]]
 Yakov is the current owner of the little magical toy monkey, “Dancer”.
 
 ![[dd_dancer.jpg]]
+
 **Dancer**
 
 The owner of the monkey can give it the command “Dance” once every 24 hours, upon which the monkey becomes active for the next 12 hours. The owner must concentrate when they are picturing in their mind what they want the monkey to do, otherwise it will behave of its own accord when activated. Results of pictured instructions may be unexpected if the monkey is operating out of the owner’s sight.
