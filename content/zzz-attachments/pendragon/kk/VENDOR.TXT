@@ -1,0 +1,197 @@
+============================================================================
+                      Kith and Kin for Windows 3.1
+                             Version 2.03
+----------------------------------------------------------------------------
+               Bug-fix release - Release date: 22 July 1994
+----------------------------------------------------------------------------
+
+ Author: Nick J Hunter, SpanSoft
+         11 Morlich Park, Dalgety Bay, Dunfermline, Fife KY11 5XW, Scotland
+ Tel:    National: (0383) 824380  International: +44 383 824380  voice/fax
+ E-Mail: UseNet/InterNet: nick.hunter@almac.co.uk  FidoNet: 2:259/17
+         CompuServe: 100101,1155
+----------------------------------------------------------------------------
+       Please refer to the VENDINFO.DIZ file for complete details
+
+============================================================================
+  SpanSoft is a member of the Association of Shareware Professionals (ASP)
+============================================================================
+
+
+The product
+-----------
+Kith and Kin is a software package for documenting and storing family trees
+which will appeal to genealogists, family historians and anyone interested
+in researching and documenting family history. It features an easy to use
+graphical interface and powerful multi-level editing tools which makes it
+ideal for both large and small trees. The program supports date and place
+of births, marriages and deaths as well as multiple marriages and aliases
+for each person. Pictures, diagrams, sounds, etc may be embedded in or
+linked to a person or family. A printed book can be produced with family
+group details (which may incorporate pictures and diagrams) and a complete,
+cross-referenced index to names and families. The user has control over the
+formatting and extent of all printed reports which also include tree layout,
+descendant tree, ancestral tree and person details. Compatibility with
+"Personal Ancestral File" GEDCOM files means the user can export and import
+data to and from other genealogy programs.
+
+What the users say
+------------------
+"... this is definitely the program I’d use. It’s very well programmed and
+presented, user-friendly and generally a treat to use." - PC Mart
+
+"Overall I remain very impressed by this package. It is the first genealogy
+package for Windows which I have tried which I feel provides something extra
+by using the Windows interface and facilities."
+- Family Tree Computer Magazine
+
+"A very much better quality product than others in the area." - DF, Co. Down
+
+"This is certainly the best Windows based program of its type that I have
+yet found." - JS, Kent
+
+"This is the first shareware that I’ve actually stumped up for and I do so
+gladly." - NB, Dyfed
+
+"An excellent product - congratulations." - GMG, Preston
+
+
+Features
+--------
+The program is simple to use and anyone familiar with Windows will quickly
+learn to control the following features.
+
+ > Graphical representation of family units and relationships provides fast
+   access to editing.
+ > Multi-level editing means the user can traverse the tree while editing
+   and adding people and families.
+ > Support for date and place of births, deaths and marriages.
+ > Multiple aliases are allowed for each person.
+ > Notes for each person and family may be entered, edited and are included
+   in printed reports. Full clipboard support allows exchange of text with
+   other applications.
+ > Pictures, diagrams, sounds, videos and any object created by other
+   applications which support OLE may be associated with a person or family.
+ > Search for text in any field, including notes, then edit person or
+   family details direct from the search results.
+ > Each person and family has a code which allows fast access to editing as
+   well as making the printed documents readable.
+ > Printouts include tree layout, descendant tree, ancestral tree, family
+   details, person details and index. The format and extent of printed
+   documents may be fully controlled by the user.
+ > PAF GEDCOM files may be imported and exported. Export all or part of a
+   tree and create a new tree or merge trees when importing.
+ > Supports TrueType fonts and colour printing.
+ > Extensive on-line, context sensitive help.
+
+
+New features, enhancements and bug fixes
+----------------------------------------
+(see the on-line help for a complete list)
+
+Version 2.03 :
+
+Kith and Kin was gradually eating up system resources, leading to
+insufficient memory after long sessions. This has been fixed.
+
+The maximum number of generations for Descendant and Ancestral Tree prints
+has been increased to 80.
+
+An overlap occurred in Descendant and Ancestral Tree prints where a
+person had an empty record. This has been fixed.
+
+Print setup no longer changes the system default. Any changes are local
+to the current K&K session.
+
+It is no longer possible to make the a single person appear more than once
+as a child of a single family. Similarly for marriages in Person Data.
+
+You can now specify a Person or Family code in the Range|From field of a
+Person or Family Details print which does not exist. Kith and Kin will
+skip to the next valid code.
+
+Getting Started and Other Products added to the Help menu.
+
+
+System requirements
+-------------------
+  IBM compatible PC 286 or above
+  VGA screen
+  Windows 3.1 or above
+  1Mb free disk space
+  Mouse
+
+
+Registration
+------------
+This product is SHAREWARE. The version on this release disk is a fully
+functional evaluation copy which the user may install and use free of charge
+for 30 days. After that time, if the user wishes to continue use, a fixed
+registration fee of 24 Pounds Sterling is payable to us.
+Registration reminder screens are used in the program, increasing in
+severity when 30 days have passed.
+Upon registration the user becomes entitled to the registered version of the
+software, telephone support and notification of new releases. Registered
+users may upgrade to future versions at a discount.
+The registered version has been optimised by removing the registration
+reminder coding.
+A data file conversion program which will convert tree (.TRE) and options 
+(.OPT) files created by earlier versions of Kith and Kin so that they can be
+used with the latest release is provided with all registered versions of the
+software.
+
+
+Vendor information
+------------------
+
+Installing for vendor evaluation:
+  To run the application, copy all files from this release disk to a working
+  directory on your hard disk and run KITHKIN.EXE.
+
+Terms:
+  See the VENDINFO.DIZ file for full details of our distribution policy and
+  Distribution Licence. You are only permitted to distribute this product if
+  you comply with the terms of the Distribution Licence.
+  
+  KITHKIN.EXE & KITHKIN.HLP are copyright (c) SpanSoft 1993, 1994.
+  BWCC.DLL is copyright (c) Borland International 1991.
+
+LIMITED DISTRIBUTION LICENCE
+----------------------------------------------------------------------------
+  You may distribute this version of Kith and Kin, completely unaltered and
+  including all the files (as listed below), without further permission on
+  condition that:
+
+    1) You identify it as shareware.
+    2) You leave all intellectual property (copyright) notices in place.
+    3) SpanSoft does not request that you stop distribution.
+
+  To distribute in modified form, you must consult the appropriate
+  VENDINFO.DIZ data record, which is hereby incorporated by reference. Any
+  distribution satisfying all the distribution requirements expressed in 
+  that data record is hereby authorised.
+
+  Permission to distribute the Kith and Kin package is not transferable,
+  assignable, saleable, or franchisable.  Each person or organisation
+  wishing to distribute the package must independently satisfy the terms of
+  this limited distribution licence.
+
+  SpanSoft may revoke any permissions granted here, by notifying you in
+  writing.  All rights not expressly granted here are reserved by SpanSoft.
+
+  Complete file list:
+    KITHKIN.EXE
+    KITHKIN.HLP
+    KITHKIN.OPT
+    CATALOG.HLP
+    BWCC.DLL
+    SAMPLE.TRE
+    FILE_ID.DIZ
+    VENDINFO.DIZ
+    README.TXT
+    VENDOR.TXT
+----------------------------------------------------------------------------
+
+If you have any problems, questions or suggestions please do not hesitate to
+contact us.
+============================================================================

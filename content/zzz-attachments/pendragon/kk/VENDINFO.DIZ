@@ -1,0 +1,338 @@
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³         Kith and Kin for Windows Genealogy Database v2.03          ³
+³                 SEE BELOW FOR PRODUCT INFORMATION                  ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³           This is a VENDINFO Product Information Record            ³
+³                                                                    ³
+³ This record is a means of conveying information about a software   ³
+³ product from the author to distributors and users.  It contains a  ³
+³ normal, "human-readable" section (you're reading it now), followed ³
+³ by a compressed data record.  The data record contains a great     ³
+³ deal of information in a form useable by automated tools.  This    ³
+³ allows BBSes, disk vendors, etc. to test automatically for         ³
+³ permission to distribute, and to automatically extract product     ³
+³ information for use in BBS files databases, vendor catalogs, etc.  ³
+³                                                                    ³
+³ The VENDINFO file standard is published and is freely useable.     ³
+³                                                                    ³
+³ The VENDINFO toolset includes a free end-user viewer, processing   ³
+³ tools for use by distributors (BBSes, shareware disk vendors,      ³
+³ etc.), and the editor used by author/publishers to produce these   ³
+³ records.  These tools are either free or very-low cost shareware.  ³
+³ The toolset can be obtained from many sources, including the       ³
+³ originators of VENDINFO:                                           ³
+³                                                                    ³
+³ Rams' Island Software   Voice: 303-841-2848  CompuServe: 76244,324 ³
+³ 7644 E. Lakecliff Way     BBS: 303-841-6269     FidoNet: 1:104/333 ³
+³ Parker, CO 80134-5904 USA                          RIME: RAMSISLE  ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+VENDINFO standard v1.00, produced by VendEdit v1.00, 26-Jul-1994
+
+===== Product Information ==============================
+   Product:             Kith and Kin for Windows Genealogy Database
+   Version:             2.03
+   Version Date:        22-Jul-1994
+   Product Type:        Software
+   Basic Distribution Policy (see License, below, for details):
+      Shareware, subject to distribution restrictions
+
+   Product Description: A whole new perspective on your family tree. 
+                        Excellent shareware program for documenting 
+                        and storing family trees. Has an easy to use 
+                        graphical interface & powerful editing tools.
+                        Pictures, diagrams, sounds, etc may be 
+                        embedded in or linked to a person or family. 
+                        A printed book can be produced with family 
+                        group details and a cross-referenced index. 
+                        Also prints descendant and ancestral trees. 
+                        286+, Win 3.1, VGA, mouse required.
+
+   Category:            Pedigrees
+   Keywords:            GENEALOGY TREE FAMILY KITH KIN WINDOWS OLE
+   Required Packages:   kitkin
+   This Package:        kitkin
+
+   Required Configuration
+      Processor Family: Intel 80x86 (minimum 80286 (AT))
+      Minimum OS:       MS-DOS 3.0
+      Hard Drive Space: 1000K
+      Required:
+         Hard drive
+         Video Graphics Array (VGA)
+         Keyboard
+         Mouse
+      Won't Work With:
+         Floppy only
+
+   Orders:
+      Address:          SpanSoft
+                        11 Morlich Park
+                        Dalgety Bay
+                        DUNFERMLINE
+                        Fife  KY11 5XW
+                        Scotland
+      Phone:            +44 (0)383 824380
+      FAX:              +44 (0)383 824380
+      CompuServe:       100101,1155
+      FidoNet:          (2:259/17)
+      Internet:         nick.hunter@almac.co.uk
+
+   Support:
+      Address:          SpanSoft
+                        11 Morlich Park
+                        Dalgety Bay
+                        DUNFERMLINE
+                        Fife  KY11 5XW
+                        Scotland
+      Phone:            +44 (0)383 824380
+      FAX:              +44 (0)383 824380
+      CompuServe:       100101,1155
+      FidoNet:          (2:259/17)
+      Internet:         nick.hunter@almac.co.uk
+
+
+===== Information for Users ("READ-ME") ================
+
+========================================================================
+              Kith and Kin for Windows 3.1 Version 2.03
+========================================================================
+
+ Author: Nick J Hunter, SpanSoft
+         11 Morlich Park, Dalgety Bay, Dunfermline
+         Fife KY11 5XW, Scotland
+ Tel:    National: (0383) 824380
+         International: +44 383 824380
+         (voice/fax)
+ E-Mail: UseNet/InterNet: nick.hunter@almac.co.uk
+         FidoNet: 2:259/17    CompuServe: 100101,1155
+
+========================================================================
+SpanSoft is a member of the Association of Shareware Professionals (ASP)
+========================================================================
+
+
+New features, enhancements and bug fixes
+----------------------------------------
+(see the on-line help for a complete list)
+
+Version 2.03 :
+
+Kith and Kin was gradually eating up system resources, leading to
+insufficient memory after long sessions. This has been fixed.
+
+The maximum number of generations for Descendant and Ancestral Tree
+prints has been increased to 80.
+
+An overlap occurred in Descendant and Ancestral Tree prints where a
+person had an empty record. This has been fixed.
+
+Print setup no longer changes the system default. Any changes are local
+to the current K&K session.
+
+It is no longer possible to make the a single person appear more than
+once as a child of a single family. Similarly for marriages in Person
+Data.
+
+You can now specify a Person or Family code in the Range|From field of a
+Person or Family Details print which does not exist. Kith and Kin will
+skip to the next valid code.
+
+Getting Started and Other Products added to the Help menu.
+
+
+Registration
+------------
+
+This product is SHAREWARE. The version on this release disk is a fully
+functional evaluation copy which you may install and use free of charge
+for 30 days. After that time, if you wish to continue using the program
+you must become a registered user. Details of how to register are
+available in the on-line help. If you have been using an earlier version
+of Kith and Kin some of your tree (.TRE) and options (.OPT) files may
+require conversion before they can be used with this version. A data
+file conversion program is included with all registered versions of Kith
+and Kin.
+
+
+System requirements
+-------------------
+IBM compatible PC 286 or above
+VGA screen
+Windows 3.1 or above
+1.2Mb free disk space
+Mouse
+
+
+Help
+----
+
+The help file KITHKIN.HLP is a complete on-line manual for Kith and Kin.
+As well as providing context-sensitive help direct from Kith and Kin, it
+contains all the technical information about the program and details on
+how to register in an easy-to-use format. Please make extensive use of
+it, you will find it very useful.
+========================================================================
+
+
+===== Packing List =====================================
+
+As released by the author or publisher, this package contained the
+following files in addition to this VENDINFO.DIZ:
+
+        Filename      Size     Date       Time     CRC32
+      FILE_ID.DIZ      402  21-Jul-1994  04:55p   7DD91868
+         BWCC.DLL   130224  10-Jun-1992  03:10a   20976CE9
+      KITHKIN.EXE   375552  21-Jul-1994  06:18p   E9AE0029
+      CATALOG.HLP   112522  21-Jul-1994  08:55p   6EA9E9E9
+      KITHKIN.HLP   232965  21-Jul-1994  06:16p   72A3414D
+      KITHKIN.OPT     1618  20-Jul-1994  04:44p   9FC2FE3E
+       SAMPLE.TRE   105294  20-Jul-1994  04:44p   5E7616C0
+       README.TXT     3835  21-Jul-1994  08:44p   C396A9CF
+       VENDOR.TXT     8603  21-Jul-1994  08:44p   3D8F778B
+
+
+===== Installation =====================================
+
+Installation
+------------
+
+Copy all files from the release disk into a new directory (eg. KITHKIN)
+on your hard disk.
+
+Run KITHKIN.EXE from the File Manager or create a new program item in
+the Program Manager and double click on the Kith and Kin icon. You can
+launch Kith and Kin from a Tree File (.TRE) if you have associated .TRE
+files with KITHKIN.EXE in the File Manager. The program (.EXE), help
+(.HLP) and options (.OPT) files must all reside in the same directory.
+
+To get you off to a flying start using Kith and Kin, read the help topic
+"Getting Started". This will lead you through the basics.
+
+The file BWCC.DLL should reside in either the KITHKIN or WINDOWS\SYSTEM
+directories or in another directory in your PATH. Since it is a common
+DLL you may already have it on your system in which case you need only
+one copy available.
+
+
+===== Warranty =========================================
+
+LIMITED WARRANTY
+
+Please read carefully.
+
+THIS SOFTWARE IS PROVIDED FOR EVALUATION ONLY, ON AN "AS IS" BASIS.
+
+SPANSOFT DISCLAIMS ALL WARRANTIES RELATING TO THIS SOFTWARE, WHETHER
+EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+NEITHER SPANSOFT NOR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION,
+PRODUCTION, OR DELIVERY OF THIS SOFTWARE SHALL BE LIABLE FOR ANY
+INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES ARISING OUT OF THE USE OR
+INABILITY TO USE SUCH SOFTWARE, EVEN IF SPANSOFT HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES OR CLAIMS.
+
+THE PERSON USING THIS SOFTWARE BEARS ALL RISKS AS TO THE QUALITY AND
+PERFORMANCE OF THE SOFTWARE. ALTHOUGH THIS SOFTWARE HAS BEEN EXTENSIVELY
+TESTED, IT IS YOUR (THE USER'S) RESPONSIBILITY TO DETERMINE IF IT WILL
+WORK RELIABLY ON YOUR EQUIPMENT AND IN YOUR COMPUTING ENVIRONMENT.
+
+
+===== License for Use and Distribution =================
+
+TRIAL USE LICENCE
+
+Kith and Kin is NOT freeware or public domain software, it is shareware.
+This software, associated on-line help and accompanying documentation
+are copyright (c) SpanSoft 1993, 1994 and are protected by international
+copyright laws. BWCC.DLL is copyright (c) Borland International 1991.
+
+SpanSoft grants you a limited licence to try out this software on your
+own system, in your own working environment for a limited period of 30
+days. If you decide that the software is suitable for your needs and you
+wish to continue using it after this time, you must become a registered
+user and pay the appropriate registration fee to SpanSoft. This simply
+means that you are allowed to defer payment for the software until after
+you have decided that you want it. If, after 30 days, you decide that
+you do not wish to continue using this program you must delete it from
+your system.
+
+You are free (and encouraged) to copy and distribute this version of the
+software to others on condition that you include all the files on your
+distribution disk and that you adhere to the terms of the limited
+distribution licence.
+
+You may not use, copy, rent, lease, sell, modify, decompile,
+disassemble, otherwise reverse engineer, or transfer the licensed
+program except as provided in this agreement. Any such unauthorised use
+shall result in immediate and automatic termination of this licence. All
+rights not expressly granted here are reserved by SpanSoft.
+
+By using this software you are agreeing to the terms of this licence. If
+you do not agree to these conditions, delete this software from your
+computer.
+
+
+
+LIMITED DISTRIBUTION LICENCE
+
+You may distribute this version of Kith and Kin, completely unaltered
+and including all the files (as listed below), without further
+permission on condition that:
+
+  1) You identify it as shareware.
+  2) You leave all intellectual property (copyright) notices in place.
+  3) SpanSoft does not request that you stop distribution.
+
+To distribute in modified form, you must consult the attached data
+record, which is hereby incorporated by reference. Any distribution
+satisfying all the distribution requirements expressed in that data
+record is hereby authorised.
+
+Permission to distribute the Kith and Kin package is not transferable,
+assignable, saleable, or franchisable. Each person or organisation
+wishing to distribute the package must independently satisfy the terms
+of this limited distribution licence.
+
+SpanSoft may revoke any permissions granted here, by notifying you in
+writing. All rights not expressly granted here are reserved by SpanSoft.
+
+Complete file list:
+  KITHKIN.EXE
+  KITHKIN.HLP
+  KITHKIN.OPT
+  CATALOG.HLP
+  BWCC.DLL
+  SAMPLE.TRE
+  FILE_ID.DIZ
+  VENDINFO.DIZ
+  README.TXT
+  VENDOR.TXT
+
+
+===== Compressed Data Record Follows ===================
+
+PK
+   ñ”úÏÑeG	  ô(  	   VENDDATA.„'
+
+Z:
+
+
+
+
+V
+$6
+.
+
+Þ
+~
+
+>	>		~		¾	.þ	¾N				.	N&&'	'==($&7÷×Ç¡öŠr{Y!H?„íiuÂˆòé´:¸Avˆq§Ó@Žô” "}-`3/ Ãô LsÎ¹ùßÞþ9çþÓ¶õgœ{{K^XGÌ¿û}ÇÖJüEo~éo¹þã•ÃòiÃQký´3é.NQ«ÔsN=wˆ¯–˜‡˜7^¦Í-`™“3¿ÂU(ì§ÄunÙÒæä·^óeÞÖsoù˜··N­q÷ÙãÒ^ã<ÿ¼Þ»Tâh<)þÉÍí¸¿É¿~×¥~;ó™rÿ¶ÿÄ­¶rM«4µ‚'òÃý|å_Œï?‚ÚxbPÈy¹ËxÂ¤äÏŠVøçíßFúmÿúÙ™kë]ª@zmo;ü;ÿÜº™š¯ä©À@Ô‚O
+“:÷8ò_šJY*^_·Öúbq¤ÐÇ/0B,lÞ[Pó¿oI4oµ…,~½yvÞÁÜç»¦½Îýaÿú–lñµãßö©ºÍÛv~¦PøöùüÏ*”ÆKOÒ¯g¬MšUÄ@ý8÷TŒGÿÇ]ßTn<á©UþbÍÎíŸ¾m©¿ƒÔÓ…ëíZå“ÅX‹ßZ·Zý·ïüÎcÁÑþ~gÝ–e´Þ´»Þ]ìÇ]ÿ&Áþ±l¶ÛBöKçîí§˜Õv¨_æõ¶'6(‰V•·_^YQõCË/®úM)ÿõ†R;×Û0*¡#¿ sž¿ŽÒÖ“¢VÔ1ßÓAŒ'TÍÓÁ?§Ëh/ñoµ¬ˆã‰b_:¿zsSFzãIíU.·ƒ¶Î¶îÒ¼`n`ÊÇ/C.ƒé@\ñµ7žpùkÊ]ðÝZ½¾­R6.Ì›ÄpKû™Å?¿°(zV6 ëÊ+¨ußk~ÏÔSNê¶í#çÎ++°íø¶|{é[
+lÎîŽ€„°Ð¡
+S‘Ð´ÔÓ2£q¸úë¤¾Ö•Óhk%åÔg§	å³äW¯_Ö´ý[žË¬cºlž‚ûÛõ\î‰Û~}e¸zŸÌLâï[;M.zXÇÏÎÚ}(Ú­~<ÑàÒñÁóøß¨ó9:nÊ¥T”ñ„´Öx©®Ï¡&ö_$¥opùxkËr[ïP4ñ£4Ý%·€šÄf»ûòh¤vú¹ÎM”Üx«En]Œñ«üWàO¾’iñ©Õ)XIÍ¾ãg¾xÔïsêªÊ<9Êà#¡Ç ‰Ž«‘ýmÉÉ…NÐJ©Ê8ú±5ÈûÌ¦†•SÛ_ƒ"Ò}?	¥ë'N¿I—;Û>¯ÛñýÕ+¸ Cjþ&Í|œ0|?¸b½f.ájOO®µö5v‡÷9¸ÏUž<ÍåªDy
+·µ‘•?ºló™ÖçD¶X¼L¤í‹ç”ùã‘óÔß¸bjmµp…'$¤ô™	Câ8¢»KZ·Æ§Òc}Ë…ÉÛh‰•È¨oús],Aò¹ÄzìixjLª‹—¥˜R®Pn<–÷øDöSôË\M"§ã‹tŽwŸë2ÃÐŒPŽ—§«pw,WÎON§ªE²L»W™ËäekÜY†wA}òW[Ü¤[?ç‚[²/ž¬xãÉŒdË×fÜÚ¶vÕ/Ó…Íòjvÿ³_ëìI#ÒïÅØ	œN°k›ÿˆØÒÌsí0õ·}‰GòùÙùU?SRïÑT¬Q³ìéw¦½PØØû{‹¹‰éK¹/8tBóã¼¢‚*’^ù‹¶dÎ§bO(4&ð>|.6*¤!%ˆ?„ê`ÞÙÕÕDW'HàY Yú@B§6SÕ&X<BRa¯°8ZV~¤%jaá/(ÎÎéçäFÉCøÞÏÈíeet½IBdïì¤þÐ^ÍF5¶[{×‚fÑ1?{[&¾Ì·¦òL.zGë:«c¼D½‰E‘{…Q³£åöK(8Óîÿ9‘¿,Ô¤’:Û|àòÓV¿ÿãã”—”ÿ’A¿¼dh2j*°jT‡ÃŠªŠŠ²2°ÁãbÊb…YQÇdn§ô+›îøŽÆëTv¶ÊZª]Õc*°%$]!Ì5”´Ö,}XZ«ÿT`Ë~µR5,à‚h:!è„¸ë[äœaf‚i0>„
+U‰©ÀZæÎU<c®úOV£è¹Ý˜?jVV”®;™ÄŸB00¢vSµ½¸›ÉwèÑ»Ù?zÑ(jVv?¿[ÔÃw7¬EÑ}‡AœéR¸0ßVjœdáKÝ·d oa0êÜ³>W‚nTí‡ÏEÔñð(xõìáOëmó™F‹ymn‚c}¦AD¢"íŠñ¾@\K§a|ª ¬•¥Î‹Æ‹¡©FVO(úaˆxõ^ý×¼êÈÝbŸ±™µt{æ?®¤ˆó£éë[µ™23ëÇØ’~yYéŸ†˜ç1Ò¸ÃG	õ—–ÊËF|34…šþÿÆMK†ÃÑ ?õKKmçK+ÊGeƒþ(vy¬¾É%&‹zL€ÊpØÂ3ØªÚ`\uqÍÖÏ'W&F½g=Œj¬+6#s“g„•Ñàº0ì¼Xð4…V”(%a8ˆóË*búƒòr“ÙØ&§X‘4œ*Ž@718e°…šÐ`\5|ÿ	“á»M:2¾é
+ÜïEüÑæ¶jÈÜ~¿$–Þ¤Ð·æÎ uŠ È*NÌ°‡Ý˜±¦þÇû&Ž@S¬j@ûq~¿_:*/+/3¶[5Ö‹h8)äÀ0ØT9Çz|†…yU Nòµ­äÖÕùÞ/´!|rÐ‰gË~æv´ïþ£ÛRAqÔ^Œ¬¨Y‘óóKÌ{úÒ<ÙüŸ¹¢ÿcåõx¦î-w+Z&£}Ø/‰„‹J<nG‡WˆÕ3SPK
+ 
+   ñ”úÏÑeG	  ô(  	                 VENDDATA.PK     *   .	    

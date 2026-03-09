@@ -1,0 +1,245 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Arcana - Basics|CAMPAIGN:Arcana - Creatures|CAMPAIGN:Arcana - Psionics|CAMPAIGN:Future - Basics|CAMPAIGN:Future - Cybernetics|CAMPAIGN:Future - Equipment|CAMPAIGN:Future - Mecha|CAMPAIGN:Future - Mutations|CAMPAIGN:Future - Robots|CAMPAIGN:Modern - Basics|CAMPAIGN:Modern - Creatures|CAMPAIGN:Modern - FX|CAMPAIGN:MSRD - Arcana|CAMPAIGN:MSRD - Basics|CAMPAIGN:MSRD - Future|CAMPAIGN:MSRD - Menaces
+VERSION:5.14.1
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:Modern
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+OUTPUTSHEETHTML:C&colon;\Program Files\PCGen\PCGen5141\outputsheets\d20\fantasy\htmlxml\csheet_fantasy_std.htm
+OUTPUTSHEETPDF:C&colon;\Program Files\PCGen\PCGen5141\outputsheets\d20\fantasy\pdf\csheet_fantasy_simple_blackandwhite.xslt
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+IGNORECOST:Y
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:Dresdina Belle Cooper
+TABNAME:
+PLAYERNAME:
+HEIGHT:73
+WEIGHT:240
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:14
+STAT:CON|SCORE:12
+STAT:INT|SCORE:12
+STAT:WIS|SCORE:14
+STAT:CHA|SCORE:18
+RACE:Human
+
+# Character Class(es)
+CLASS:Charismatic|SUBCLASS:Charismatic Hero|LEVEL:1|SKILLPOOL:0
+CLASSABILITIESLEVEL:Charismatic=1|HITPOINTS:6|PRESTAT:CHA=18|PRESTAT:WIS=14|PRESTAT:INT=12|PRESTAT:CON=12|PRESTAT:DEX=14|PRESTAT:STR=12|SKILLSGAINED:8
+
+# Character Experience
+EXPERIENCE:0
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Starting Benefits]
+TEMPLATESAPPLIED:[NAME:Occupation|CHOSENTEMPLATE:[NAME:CharismaticSkills]]
+TEMPLATESAPPLIED:[NAME:CharismaticSkills]
+
+# Character Region
+
+# Character Skills
+SKILL:Balance|OUTPUTORDER:1|
+SKILL:Bluff|OUTPUTORDER:2|
+SKILL:Climb|OUTPUTORDER:3|
+SKILL:Computer Use|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Craft (Structural)|OUTPUTORDER:6|
+SKILL:Craft (Visual Art)|OUTPUTORDER:7|
+SKILL:Craft (Writing)|OUTPUTORDER:8|CLASSBOUGHT:[CLASS:Charismatic|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy|OUTPUTORDER:9|CLASSBOUGHT:[CLASS:Charismatic|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise|OUTPUTORDER:10|
+SKILL:Drive|OUTPUTORDER:11|
+SKILL:Escape Artist|OUTPUTORDER:12|
+SKILL:Forgery|OUTPUTORDER:13|
+SKILL:Gamble|OUTPUTORDER:14|
+SKILL:Gather Information|OUTPUTORDER:15|CLASSBOUGHT:[CLASS:Charismatic|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide|OUTPUTORDER:16|
+SKILL:Intimidate|OUTPUTORDER:17|
+SKILL:Jump|OUTPUTORDER:18|
+SKILL:Listen|OUTPUTORDER:19|
+SKILL:Move Silently|OUTPUTORDER:20|
+SKILL:Navigate|OUTPUTORDER:21|
+SKILL:Perform (Act)|OUTPUTORDER:22|
+SKILL:Perform (Dance)|OUTPUTORDER:23|
+SKILL:Perform (Keyboards)|OUTPUTORDER:24|
+SKILL:Perform (Percussion Instruments)|OUTPUTORDER:25|
+SKILL:Perform (Sing)|OUTPUTORDER:26|CLASSBOUGHT:[CLASS:Charismatic|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Perform (Stand-Up)|OUTPUTORDER:27|
+SKILL:Perform (Stringed Instruments)|OUTPUTORDER:28|
+SKILL:Perform (Wind Instruments)|OUTPUTORDER:29|
+SKILL:Profession|OUTPUTORDER:30|CLASSBOUGHT:[CLASS:Charismatic|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Research|OUTPUTORDER:31|
+SKILL:Ride|OUTPUTORDER:32|
+SKILL:Search|OUTPUTORDER:33|
+SKILL:Sense Motive|OUTPUTORDER:34|
+SKILL:Speak Language|OUTPUTORDER:35|CLASSBOUGHT:[CLASS:None|RANKS:1.0|COST:2|CLASSSKILL:N]|ASSOCIATEDDATA:Arapaho
+SKILL:Spot|OUTPUTORDER:36|
+SKILL:Survival|OUTPUTORDER:37|
+SKILL:Swim|OUTPUTORDER:38|
+SKILL:Treat Injury|OUTPUTORDER:39|
+
+# Character Languages
+LANGUAGE:Arapaho|LANGUAGE:English
+
+# Character Feats
+FEATPOOL:-2.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Charismatic Plus|APPLIEDTO:|TYPE:GENERAL|DESC:Advancements in science coupled with your drive to excel enable you to progress faster toward becoming a truly charismatic hero
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Damage Threshold|APPLIEDTO:|TYPE:GENERAL.DAREDEVIL.SWASHBUCKLER|DESC:The character increases his or her massive damage threshold by 3 points
+USERPOOL:FEAT|POOLPOINTS:0.0
+USERPOOL:Internal|POOLPOINTS:0.0
+USERPOOL:Strong Feat|POOLPOINTS:0.0
+USERPOOL:Fast Feat|POOLPOINTS:0.0
+USERPOOL:Tough Feat|POOLPOINTS:0.0
+USERPOOL:Smart Feat|POOLPOINTS:0.0
+USERPOOL:Dedicated Feat|POOLPOINTS:0.0
+USERPOOL:Charismatic Feat|POOLPOINTS:0.0
+ABILITY:Wealth|TYPE:NORMAL|CATEGORY:Wealth|KEY:Wealth Roll of 8|TYPE:WEALTH.WEALTHROLL
+USERPOOL:Wealth|POOLPOINTS:0.0
+ABILITY:Occupation|TYPE:NORMAL|CATEGORY:Occupation|KEY:Dilettante|TYPE:OCCUPATION|DESC:Dilettantes usually get their wealth from family holdings and trust funds. The typical dilettante has no job, few responsibilities, and at least one driving passion that occupies his or her day. That passion might be a charity or philanthropic foundation, an ideal or cause worth fighting for, or a lust for living a fun and carefree existence.
+USERPOOL:Occupation|POOLPOINTS:0.0
+USERPOOL:Academic Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Adventurer Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Athlete Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Blue Collar Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Celebrity Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Creative Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Criminal Occupation Skills|POOLPOINTS:0.0
+ABILITY:Dilettante Occupation Skills|TYPE:NORMAL|CATEGORY:Occupation|KEY:Speak Language(1 additional language)|TYPE:OCCUPATION_SKILL.ACADEMIC_SKILLS.DILETTANTE_SKILLS.SHADOW_SCHOLAR_SKILLS
+USERPOOL:Dilettante Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Doctor Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Emergency Services Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Entrepreneur Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Investigative Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Law Enforcement Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Military Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Religious Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Rural Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Student Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Technician Occupation Skills|POOLPOINTS:0.0
+USERPOOL:White Collar Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Adventurer Feat|POOLPOINTS:0.0
+USERPOOL:Athlete Feat|POOLPOINTS:0.0
+USERPOOL:Criminal Feat|POOLPOINTS:0.0
+USERPOOL:Investigative Feat|POOLPOINTS:0.0
+USERPOOL:Law Enforcement Feat|POOLPOINTS:0.0
+USERPOOL:Military Feat|POOLPOINTS:0.0
+USERPOOL:Rural Feat|POOLPOINTS:0.0
+USERPOOL:Talent|POOLPOINTS:0.0
+USERPOOL:Strong Talent|POOLPOINTS:0.0
+USERPOOL:Fast Talent|POOLPOINTS:0.0
+USERPOOL:Tough Talent|POOLPOINTS:0.0
+USERPOOL:Smart Talent|POOLPOINTS:0.0
+USERPOOL:Dedicated Talent|POOLPOINTS:0.0
+ABILITY:Charismatic Talent|TYPE:NORMAL|CATEGORY:Talent|KEY:Charm|APPLIEDTO:Male|TYPE:TALENT.CHARISMATICTALENT.CHARM
+USERPOOL:Charismatic Talent|POOLPOINTS:0.0
+USERPOOL:Aberration Proficiency|POOLPOINTS:0.0
+USERPOOL:Fey Proficiency|POOLPOINTS:0.0
+USERPOOL:Giant Proficiency|POOLPOINTS:0.0
+USERPOOL:Humanoid Proficiency|POOLPOINTS:0.0
+USERPOOL:Monstrous Humanoid Proficiency|POOLPOINTS:0.0
+USERPOOL:Outsider Proficiency|POOLPOINTS:0.0
+USERPOOL:Undead Proficiency|POOLPOINTS:0.0
+USERPOOL:Astronaut Trainee Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Colonist Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Drifter Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Gladiator Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Heir Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Outcast Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Scavenger Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Transporter Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Astronaut Trainee Feat|POOLPOINTS:0.0
+USERPOOL:Colonist Feat|POOLPOINTS:0.0
+USERPOOL:Gladiator Feat|POOLPOINTS:0.0
+USERPOOL:Outcast Feat|POOLPOINTS:0.0
+USERPOOL:Transporter Feat|POOLPOINTS:0.0
+USERPOOL:Mutation|POOLPOINTS:0.0
+USERPOOL:Apothecary Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Hedge Wizard Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Novitiate Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Psychic Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Shadow Scholar Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Squire Occupation Skills|POOLPOINTS:0.0
+USERPOOL:Apothecary Feat|POOLPOINTS:0.0
+USERPOOL:Hedge Wizard Feat|POOLPOINTS:0.0
+USERPOOL:Novitiate Feat|POOLPOINTS:0.0
+USERPOOL:Psychic Feat|POOLPOINTS:0.0
+USERPOOL:Shadow Scholar Feat|POOLPOINTS:0.0
+USERPOOL:Squire Feat|POOLPOINTS:0.0
+USERPOOL:Psionic Agent Feat|POOLPOINTS:0.0
+USERPOOL:Psionic Focus|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Air Pistol|WEAPON:Air Rifle|WEAPON:Beam Sword|WEAPON:Blowgun|WEAPON:Brass Knuckles|WEAPON:Cleaver|WEAPON:Club|WEAPON:Concussion Rod|WEAPON:Crossbow|WEAPON:Flamethrower]
+WEAPONPROF:[WEAPON:Flare Gun|WEAPON:Gauntlet|WEAPON:Heavy Mace|WEAPON:High Frequency Sword|WEAPON:Javelin|WEAPON:Ketch-all Pole|WEAPON:Knife|WEAPON:Laser Optics|WEAPON:Light Mace|WEAPON:Metal Baton]
+WEAPONPROF:[WEAPON:Paint Ball Gun|WEAPON:Pepper Spray|WEAPON:Pistol Whip|WEAPON:Punching Dagger|WEAPON:Quarterstaff|WEAPON:Rifle Butt|WEAPON:Sap|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Slingshot]
+WEAPONPROF:[WEAPON:Speargun|WEAPON:Spiked Club|WEAPON:Sticky Foam Sprayer|WEAPON:Stun Baton|WEAPON:Stun Gun|WEAPON:Super Watergun|WEAPON:Taser|WEAPON:Tonfa|WEAPON:Unarmed Strike|WEAPON:Water Cannon]
+WEAPONPROF:[WEAPON:Whip]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Taser|OUTPUTORDER:1|COST:7|WT:2.0|QUANTITY:1.0
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.1|VALUE:Taser|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Character Sheet Notes|ID:1|PARENTID:-1|VALUE:
+
+# Chosen Armor Profs
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0

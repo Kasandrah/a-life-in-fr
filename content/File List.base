@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - aliases
+      - tags
+      - file.ctime
+      - file.backlinks
+      - file.ext
+      - title
+      - draft
+    sort: []
+    columnSize:
+      file.folder: 302
