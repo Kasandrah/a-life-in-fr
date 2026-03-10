@@ -8,7 +8,7 @@ draft: false
 ---
 # One Night Plays  
   
-I created the following “One Night Plays” when not all of my regular players could make it to a game. This was so that the absent players wouldn’t miss out on anything related to the core campaign.
+I created the following One Night Plays when not all of my regular players could make it to a game. This was so that the absent players wouldn’t miss out on anything related to the core campaign.
 
 Most of these plays were on-the-spot creative endeavours that I used to add more background and history to my primary campaigns.
 
@@ -106,7 +106,7 @@ Beginning of the [[040-Dark-Ages|Dark Ages]] campaign.
 
 ![[onp_templar1.jpg]]
 
-**Joakim Nätterqvist in “Arn: The Knight Templar”, photo: Svensk Filmindustri**
+**Joakim Nätterqvist in Arn: The Knight Templar, photo: Svensk Filmindustri**
 
 Spain
 
@@ -120,7 +120,7 @@ Lillane and Tyler settle amid the Ottoman Empire.
 
 Hungary
 
-After Countess Elizabeth Bathory murders one of Lillane’s protected kinswomen, Lucifer (as “Ludovic”) encourages two locals, a writer and a German soldier, to investigate Castle Bathory. Lillane retaliates by walling Elizabeth up in her own castle.
+After Countess Elizabeth Bathory murders one of Lillane’s protected kinswomen, Lucifer (as Ludovic) encourages two locals, a writer and a German soldier, to investigate Castle Bathory. Lillane retaliates by walling Elizabeth up in her own castle.
 
 Later, Lillane embraces the soldier.
 
@@ -132,7 +132,7 @@ Later, Lillane embraces the soldier.
 
 Narbonne, France
 
-Lillane and Tyler are importing Spanish horses into Narbonne from Andorra, Spain. Two Musketeers south on the business of the King aid in recovering Lillane’s ceremonial dagger. A local lord is attempting to use it to raise Lucifer (as “Lucien”), who appears in his Fallen form.
+Lillane and Tyler are importing Spanish horses into Narbonne from Andorra, Spain. Two Musketeers south on the business of the King aid in recovering Lillane’s ceremonial dagger. A local lord is attempting to use it to raise Lucifer (as "Lucien"), who appears in his Fallen form.
 
 ## 1671 AD – A Storm at Sea
 
@@ -142,13 +142,13 @@ Lillane and Tyler are importing Spanish horses into Narbonne from Andorra, Spain
 
 Jamaica, West Indies
 
-Lillane and Tyler are aboard a Spanish galleon bound for Jamaica when the ship is crippled by a violent storm. To survive, Lillane and Tyler kill some of the crew. Tyler is locked in the brig and Lillane doesn’t rescue him – punishment for getting her “stuck on this damned ship in the middle of nowhere”.
+Lillane and Tyler are aboard a Spanish galleon bound for Jamaica when the ship is crippled by a violent storm. To survive, Lillane and Tyler kill some of the crew. Tyler is locked in the brig and Lillane doesn’t rescue him – punishment for getting her "stuck on this damned ship in the middle of nowhere".
 
-On arrival in Caribbean waters southwest of Jamaica, the ship appears “deserted”. Tyler is released from the brig by curious pirates under the command of Captain Henry Morgan. Morgan is returning from his successful raid on Panama. The pirates include [[020-The-Antediluvians#Michael Winter|Michael Winter's]] earlier incarnation, one William (Bill) Mains, a 23-year-old Cornishman who jumped ship from the British Navy.
+On arrival in Caribbean waters southwest of Jamaica, the ship appears "deserted". Tyler is released from the brig by curious pirates under the command of Captain Henry Morgan. Morgan is returning from his successful raid on Panama. The pirates include [[020-The-Antediluvians#Michael Winter|Michael Winter's]] earlier incarnation, one William (Bill) Mains, a 23-year-old Cornishman who jumped ship from the British Navy.
 
 While trying to salvage the ship and its treasure, the pirates run foul of Lillane. She embraces one of the pirates, a 35-year-old Frenchman named [[020-The-Antediluvians#Jacques|Jacques]], because he assists her in escaping Morgan’s crewmen.
 
-On returning to Jamaica, Lillane ingratiates herself with Morgan and “persuades” him to part with his treasure, including the contents of the Spanish galleon. On discovering that the treasure is missing, Morgan’s crew capture him and send him back to England in 1672 to answer charges of piracy. In England Morgan is treated as a hero and returns to Jamaica as lieutenant-governor, where he lives quietly thereafter.
+On returning to Jamaica, Lillane ingratiates herself with Morgan and "persuades" him to part with his treasure, including the contents of the Spanish galleon. On discovering that the treasure is missing, Morgan’s crew capture him and send him back to England in 1672 to answer charges of piracy. In England Morgan is treated as a hero and returns to Jamaica as lieutenant-governor, where he lives quietly thereafter.
 
 ## 1725 AD – The Legend of the Firebird
 
@@ -156,7 +156,7 @@ On returning to Jamaica, Lillane ingratiates herself with Morgan and “persuade
 
 **Towers of Smolny Cathedral, St. Petersburg, 1725**
 
-Lucifer (as [[Lucifer-Morningstar|Count Vladimir Ludevich Petrov syn Turgeneva]]), hereditary noble, landowner and builder of bridges, cathedrals, and palaces, has been commissioned by Tsar Peter the Great to build the first floating bridge over the Neva River in the new capital of St Petersburg. Assisting the Count is Rafael, a young Venetian architect and canal builder, newly arrived in the “Venice of the North” after leaving a difficult and dangerous personal situation in somewhat of a hurry.
+Lucifer (as [[Lucifer-Morningstar|Count Vladimir Ludevich Petrov syn Turgeneva]]), hereditary noble, landowner and builder of bridges, cathedrals, and palaces, has been commissioned by Tsar Peter the Great to build the first floating bridge over the Neva River in the new capital of St Petersburg. Assisting the Count is Rafael, a young Venetian architect and canal builder, newly arrived in the "Venice of the North" after leaving a difficult and dangerous personal situation in somewhat of a hurry.
 
 New at Court is the very earnest young Boris Alekseyevich Golitsyn II, 17 years old and a student at the St Petersburg Academy, and his beautiful sister Illaria (16). Boris and Illaria are the grandchildren of the great Russian statesman and friend of Peter the Great, the late Boris Alekseyevich Golitsyn. Illaria is making her formal debut into Russian society at a magnificent Court function attended by all the important people in St Petersburg, including many foreign dignitaries such as [[Tyler|Count Temnoi Ostromirich]] (Tyler) and his wife, [[Lillane-of-Clan-Bahari|Countess Volodimerna Lidena]] (Lillane) from Novgorod, north-western Russia, and by Peter the Great himself.
 
@@ -202,19 +202,19 @@ Start of the [[050-Modern|Modern]] campaign. A time-travelling 1920s writer an
 
 London, England
 
-Lillane and Tyler search for a renegade vampire known as “Jack the Ripper” who is slaughtering women of ill repute. Jack is, surprisingly, not one of Lillane’s progeny but a Ventrue of high position in the English aristocracy. Against Tyler’s better judgment, Lillane embraces an alcoholic [[020-The-Antediluvians#East End Doctor|East End doctor]] after the doctor’s hand is severely damaged in a confrontation with Jack.
+Lillane and Tyler search for a renegade vampire known as Jack the Ripper who is slaughtering women of ill repute. Jack is, surprisingly, not one of Lillane’s progeny but a Ventrue of high position in the English aristocracy. Against Tyler’s better judgment, Lillane embraces an alcoholic [[020-The-Antediluvians#East End Doctor|East End doctor]] after the doctor’s hand is severely damaged in a confrontation with Jack.
 
 ## 1896 AD – The Strange Case of the Sussex Vampire
 
 Sussex, England
 
-November 20th to 22nd – the adventure of the Sussex Vampire in Lamberly, south of Horsham in Sussex, with the famous Sherlock Holmes. Lillane and Tyler are posing as Lily and Thomas, English aristocrats and neighbours of the protagonists. Tyler (as “Thomas”) is importing Andalusian horses from Spain and already has a fine stallion called Cappodocian.
+November 20th to 22nd – the adventure of the Sussex Vampire in Lamberly, south of Horsham in Sussex, with the famous Sherlock Holmes. Lillane and Tyler are posing as Lily and Thomas, English aristocrats and neighbours of the protagonists. Tyler (as "Thomas") is importing Andalusian horses from Spain and already has a fine stallion called Cappodocian.
 
 ## 1897 AD – Dracula
 
 ![[onp_dracula.jpg]]
 
-**Jonathan Rhys Meyers, “Dracula”, NBC**
+**Jonathan Rhys Meyers, "Dracula", NBC**
 
 Whitby, England
 
@@ -226,7 +226,7 @@ Once a Ventrue, always a Ventrue.
 
 **Old Cape Town Harbor, Cape Town Daily Photo, www.capetowndailyphoto.com**
 
-Lillane and Tyler travel to Cape Town and Johannesburg in pursuit of a 3rd Gen Doctor skilled with a scalpel. Once again, Clan Bahari feels the death of one of their own. Tyler knows better than to say, “I told you so”.
+Lillane and Tyler travel to Cape Town and Johannesburg in pursuit of a 3rd Gen Doctor skilled with a scalpel. Once again, Clan Bahari feels the death of one of their own. Tyler knows better than to say, I told you so.
 
 ## 1922 AD to 1933 AD – The Roaring Twenties
 
@@ -244,9 +244,9 @@ Nothing like a little prohibition, bootlegging, racketeering, Charleston dances,
 
 **St Corantyn, 263 East Terrace, Adelaide, Australia**
 
-After nearly three centuries spent tracking down and executing renegade progeny, Lillane and Tyler opt for the quiet life in the Antipodes. Lillane embraces four new Bahari after recognizing each person as a recent incarnation of a prior acquaintance and begins training them in their new “un-life”.
+After nearly three centuries spent tracking down and executing renegade progeny, Lillane and Tyler opt for the quiet life in the Antipodes. Lillane embraces four new Bahari after recognizing each person as a recent incarnation of a prior acquaintance and begins training them in their new un-life.
 
-She blood bonds Sam without his knowledge of the consequences, reveals the purpose of her ceremonial dagger, shows her neophytes some contents of the cellar, and invites them through the portal in the attic – the entrance to Lucifer’s retreat.
+She blood-bonds Sam without his knowledge of the consequences, reveals the purpose of her ceremonial dagger, shows her neophytes some contents of the cellar, and invites them through the portal in the attic – the entrance to Lucifer’s retreat.
 
 Tyler sighs resignedly and continues to improve his swordsmanship.
 

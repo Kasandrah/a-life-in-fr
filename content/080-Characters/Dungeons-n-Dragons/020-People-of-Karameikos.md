@@ -275,7 +275,7 @@ _Alya_ – (25, Traldaran gypsy), the House of Alya (Fortune Telling Shop, Stre
 
 _Emilio the Great_ – (Thespian, 50, Darokin wanderer) – Allied with Duchess Olivia. Leader of a theatrical troupe sponsored by Estella Whitehall.
 
-_“Lord” Dmitrios_ – (4th Fighter) – King of the Beggars. Wife and he are cousins to the Torenescu Clan. Friend of Aleksander Torenescu.
+_"Lord" Dmitrios_ – (4th Fighter) – King of the Beggars. Wife and he are cousins to the Torenescu Clan. Friend of Aleksander Torenescu.
 
 _Antonic, Teranon_ – (5th Fighter, 58, Thyatian) – Father to Retameron, runs a school of swordsmanship.
 
@@ -355,7 +355,7 @@ _Zira_ – (4th Fighter, 25, Traldaran, short black hair and blue eyes) – Bec
 
 ![[dd_coa_black_eagle_barony.jpg]]
 
-_von Hendriks, Baron Ludwig “Black Eagle”_ – (12th Fighter, 49, Thyatian) – First cousin to Duke Stefan and Lord Alexius Korrigan.
+_von Hendriks, Baron Ludwig "Black Eagle"_ – (12th Fighter, 49, Thyatian) – First cousin to Duke Stefan and Lord Alexius Korrigan.
 
 As oily and un-likeable a human being as you could find. Arrogant, easily enraged, easily soothed or distracted; he’s a casual killer but fond of formal torture. He lies so often and so profusely he cannot remember the truth. He is insane.
 
@@ -373,7 +373,7 @@ _Bargle the Infamous_ – (15th Magic-User, 30?, Traldaran) ^725955
 
 _Garran, Anna_ – wife of Porthos, and Jason (16) and Michlos(13) – sons of Porthos
 
-_Garran, Captain Porthos_ – (8th Fighter) – Castellan Guard Battalion (“The Mountain Storm”), 4th Division of Karameikos. Leather armour, shield, dagger, crossbow.
+_Garran, Captain Porthos_ – (8th Fighter) – Castellan Guard Battalion ("The Mountain Storm"), 4th Division of Karameikos. Leather armour, shield, dagger, crossbow.
 
 # Dmitrov
 
@@ -387,7 +387,7 @@ _Marilenev, Lady Magda_ – (55, Traldaran) – Widowed when Lord Marilenev bro
 
 The Lion’s Den (Inn)
 
-“Old Timer”
+"Old Timer"
 
 ## The Hill
 

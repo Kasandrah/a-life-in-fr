@@ -9,21 +9,21 @@ draft: false
 
 **Written by [[Jenny-H|Jenny H.]] (Gwyn)**
 
-It was shortly after our return from destroying the demons from the star that I approached the Lady Lillane. It is not something I normally do, but I was concerned about Gwyn. After so long, I could recognize the signs of her interest in something that was likely to be dangerous to her. As ever, Gwyn did not consider this danger, merely the desire to investigate a curiosity.
+It was shortly after our return from destroying the demons from the star that I approached the Lady Lillane. It is not something I normally do, but I was concerned about Gwyn. After so long, I could recognise the signs of her interest in something that was likely to be dangerous to her. As ever, Gwyn did not consider this danger, merely the desire to investigate a curiosity.
 
 On our journey west, Gwyn had flown out to scout, as is her habit. She had encountered a Knight Templar and his lady. At the time, the lady was being burnt at the stake as a witch. How Gwyn resisted freeing her is beyond my comprehension. For once she was aware of her own shortcomings – caught alone without weapons or armour and in a position that would mark her as a witch herself if she interfered. She must have felt highly frustrated at her inability to effectively intervene.
 
-The Knight did. He attacked the villagers and with a sword stroke, cut the lady free. Gwyn followed them as they rode from the village. She fled when the knight prayed for healing for his lady, and returned to witness that it had indeed happened. This was a holy knight indeed, something we had not expected from the Templars.
+The Knight did. He attacked the villagers and, with a sword stroke, cut the lady free. Gwyn followed them as they rode from the village. She fled when the knight prayed for healing for his lady and returned to witness that it had indeed happened. This was a holy knight indeed, something we had not expected from the Templars.
 
 It might have been merely of passing interest, but Gwyn overheard some of their conversation. It seemed that the Knight believed that the lady was a witch. After our own problems, Gwyn has a weakness for lovers, particularly ones whose love is fraught with difficulties. She revealed herself and announced that he was wrong and that she ought to know it.
 
 I shudder every time I think of how much danger my love put herself in for two total strangers who had no call on her loyalty. Being able to tell that Gwyn was different, the knight was able to see that she was telling the truth. However, he then saw Gwyn as the enemy. Unaware at first of the danger, she escaped only narrowly from his wind-summoning prayers.
 
-Even now, she underestimates her weaknesses. As she has remained devout, she cannot accept that those of her own faith can cause great harm to what she has become. I had to protect her from her own curiosity about the fate of the two lovers. We knew that the knight had gone to Saragossa to investigate the miraculous appearance of the Archangel Michael – unaware that it was Gwyn herself who had been responsible. We suspected that the squire he had acquired was actually his lady. However, Gwyn wanted to know more and that I could not allow. So I went to Lillane.
+Even now, she underestimates her weaknesses. As she has remained devout, she cannot accept that those of her own faith can cause great harm to what she has become. I had to protect her from her own curiosity about the fate of the two lovers. We knew that the knight had gone to Saragossa to investigate the miraculous appearance of the Archangel Michael – unaware that it was Gwyn herself who had been responsible. We suspected that the squire he had acquired was actually his lady. However, Gwyn wanted to know more, and that I could not allow. So I went to Lillane.
 
-“Lady Lillane, I have been talking to the monks who are staying here. There are some very interesting rumours about the pilgrim paths through the Pyrenees. As you know, it was never conquered by the Moors.”
+"Lady Lillane, I have been talking to the monks who are staying here. There are some very interesting rumours about the pilgrim paths through the Pyrenees. As you know, it was never conquered by the Moors."
 
-“They didn’t think it was worthwhile. The mountains are very steep.”
+"They didn’t think it was worthwhile. The mountains are very steep."
 
 “It is rumoured that they had something else, that there is something else about the mountains that turned them back. It can be no coincidence that there are many monasteries in the mountains and many new ones are being built.”
 
@@ -99,15 +99,15 @@ The hill giant moved and we were able to see what it was fighting. I could hardl
 
 Hill giants are slow but strong. An agile person can avoid most of their blows, but if they do connect, they can cause heavy damage. It looked like the giant had hit the Templar at least once with the tree stump and the fight was definitely going against him. Gwyn took stock of the situation and charged.
 
-Her first blow caught the giant off-guard. He roared and swung around to meet her, narrowly missing the Templar at the same time. He of course misunderstood the situation completely. “Witch! I should have known you’d be behind this!”
+Her first blow caught the giant off-guard. He roared and swung around to meet her, narrowly missing the Templar at the same time. He, of course, misunderstood the situation completely. “Witch! I should have known you’d be behind this!”
 
-Gwyn suddenly found herself facing two foes, instead of one, trying to kill one and avoid hurting the other. Being much slower than Gwyn, I arrived on the scene as she parried the Templar and continued the blow to hit the giant again. I knew her skill with a weapon. He probably thought it was an accident.
+Gwyn suddenly found herself facing two foes, instead of one, trying to kill one and avoid hurting the other. Being much slower than Gwyn, I arrived on the scene as she parried the Templar and continued the blow to hit the giant again. I knew her skill with weapons. He probably thought it was an accident.
 
-I wasn’t as devout as Gwyn. I was quite happy to fend off the Templar and if he got hurt in the process then it was his problem. I’m not as skilled as Gwyn, but I can hold my own against a wounded knight who is threatening her. I was able to draw him off while Gwyn and the lady persuaded the giant that we weren’t worth the trouble.
+I wasn’t as devout as Gwyn. I was quite happy to fend off the Templar, and if he got hurt in the process, then it was his problem. I’m not as skilled as Gwyn, but I can hold my own against a wounded knight who is threatening her. I was able to draw him off while Gwyn and the lady persuaded the giant that we weren’t worth the trouble.
 
 As he lumbered off, I knocked down the Templar. Seeing the chance, I gathered Gwyn and we beat a hasty retreat. I remember the lady looking after us with a puzzled expression.
 
-We lost Frolian in the fight. Quite possibly, he saw Gwyn in action and fled. He must already have begun to suspect that there was more to her than we were admitting. I had more on my mind. Dawn was close and I had to get Gwyn undercover.
+We lost Frolian in the fight. Quite possibly, he saw Gwyn in action and fled. He must already have begun to suspect that there was more to her than we were admitting. I had more on my mind. Dawn was close, and I had to get Gwyn undercover.
 
 It was sheer accident – or a miracle – that I found the cave. I had thought I might be able to excavate an area at the base of a cliff. When I pushed aside the bushes, I almost fell into the opening. I helped Gwyn inside and got her comfortable. She was asleep before the first rays of light struck the cliff.
 
@@ -129,11 +129,11 @@ The caves were rough and narrow. There were a couple of paths blocked by falls a
 
 We spent some time exploring the cave, determining that it was the cave itself, rather than the paintings, which gave out the feelings of power. That was our mistake. We were so caught up in our discovery that we forgot there was a Templar out there who might be looking for what we had found. And then he found us.
 
-“Witches, how dare you profane this holy place.” That was none out of three correct, but it wasn’t the time to point that out. Unfortunately, he was in the only entrance and our weapons weren’t at hand. Foolishness.
+“Witches, how dare you profane this holy place.” That was none out of three correct, but it wasn’t the time to point that out. Unfortunately, he was in the only entrance, and our weapons weren’t at hand. Foolishness.
 
 Gwyn tried to talk to him, but he was already praying, unreasonable in his anger. Even then she could have done something, but I’m sure she thought he wouldn’t do anything serious to her, being of the same faith. By the time she realised it wasn’t that simple, it was too late.
 
-As Gwyn was forced backwards by the power of his prayers, I threw myself at him. I wasn’t as susceptible as Gwyn. This time the match was uneven and the force of his blow threw me backwards. Gwyn screamed my name and forced herself towards the Templar and me, sobbing with the effort.
+As Gwyn was forced backwards by the power of his prayers, I threw myself at him. I wasn’t as susceptible as Gwyn. This time the match was uneven, and the force of his blow threw me backwards. Gwyn screamed my name and forced herself towards the Templar and me, sobbing with the effort.
 
 “Stop it!” The Templar’s lady had arrived behind him.
 
@@ -141,11 +141,11 @@ As Gwyn was forced backwards by the power of his prayers, I threw myself at him.
 
 “They saved our lives.” That had his attention. “They fought the giant.”
 
-“They fought with the giant against us.”
+“They fought the giant who was fighting against us.”
 
 “Only when you attacked them.”
 
-Gwyn had reached me and we helped each other stand. We would face our fate together and erect, as always. “I would never act against a true believer of the Faith.” Gwyn spoke with a conviction that must have started to convince him.
+Gwyn had reached me, and we helped each other to stand. We would face our fate together and erect, as always. “I would never act against a true believer of the Faith.” Gwyn spoke with a conviction that must have started to convince him.
 
 “But you are witches.”
 
@@ -153,8 +153,8 @@ Gwyn had reached me and we helped each other stand. We would face our fate toget
 
 “Let them go,” said his lady, her voice betraying a tremor.
 
-The Templar considered and then silently stood aside from the entrance. Arm in arm, we circled around him, collected our things and were gone.
+The Templar considered, and then silently stood aside from the entrance. Arm in arm, we circled around him, collected our things, and were gone.
 
-It was a much more subdued return to Lillane’s castle. Gwyn was very reflective and I think we were aware of our mortality. She commented once that she didn’t think we’d seen the last of the Templar, or his lady. Sometimes in this world, there are connections between people for good or ill. I have yet to discover which it is in this case.
+It was a much more subdued return to Lillane’s castle. Gwyn was very reflective, and I think we were aware of our mortality. She commented once that she didn’t think we’d seen the last of the Templar, or his lady. Sometimes in this world, there are connections between people for good or ill. I have yet to discover which it is in this case.
 
 Strangely enough, we still do not know their names.

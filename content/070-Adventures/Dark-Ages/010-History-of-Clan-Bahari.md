@@ -9,7 +9,7 @@ draft: false
 
 _[[Lilith|Lilith]]_ believed She was Adam’s equal, as they were both made by God out of the dust of the earth. When Adam demanded Lilith be subservient to him, i.e. lie beneath him as they coupled, She refused.
 
-“We were created equal, and thus we shall make love in equal positions.”
+We were created equal, and thus we shall make love in equal positions.
 
 Adam tried to force Lilith to submit to his demands, so She uttered the Divine Name (the secret true name of God) and flew away from the Garden of Eden to the Red Sea. Adam begged God to return Lilith to him, so God sent three Enforcer Angels – Senoy, Sansenoy and _[[Abdiel|Abdiel]]_ – to bring Lilith back from Her cave on the shore of the Red Sea.
 
@@ -23,7 +23,7 @@ Lilith raised all of Her wild, passionate, and individually unique children with
 
 After the temptation in the Garden, Eve also bore Sama’el a son, _[[Cain|Cain]]_. Eve raised Cain as Adam’s son until Cain slew his brother Abel. Eve blamed Sama’el for Cain’s actions, saying Sama’el’s blood had poisoned Cain towards his brother. The truth of Cain’s parentage was out.
 
-God cursed Cain for murdering his brother. The newly vampiric Cain languished in the depths of “God’s curse”, full of self-loathing and rage. This, his guilt over Abel’s murder, and his knowledge of who his real father was caused Cain to become an angry, bitter and lonely recluse. He fled out into the desert wilderness.
+God cursed Cain for murdering his brother. The newly vampiric Cain languished in the depths of "God's curse", full of self-loathing and rage. This, his guilt over Abel’s murder, and his knowledge of who his real father was caused Cain to become an angry, bitter and lonely recluse. He fled out into the desert wilderness.
 
 Cain sought succour with Lilith, who awakened his own formidable powers and taught him some of Her magic. Cain repaid Lilith by murdering Her children and leaving their bodies to rot in the ruins of Bahari, the garden Lilith and Sama’el had made in the likeness of Eden.
 

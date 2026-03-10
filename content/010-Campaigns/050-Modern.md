@@ -63,9 +63,9 @@ Jenny ran [[Dreamers-Delight|Dreamer’s Delight]] and [[Looking-for-Algrens-Hom
 | 1984 May – [[To-Go-Where-No-Man\|To Go Where No Man Has Gone Before]] – ZB | 1991 December – [[Beast-in-the-Abbey\|Beast in the Abbey]] – JH           |
 | 1992 February – [[Dreamers-Delight\|Dreamer’s Delight]] – JH               | 1992 March – [[Looking-for-Algrens-Home\|Looking for Algren’s Home]] – JH |
 
-## USMC vs “What the … ?”
+## USMC vs "What the … ?"
 
-> ‘The Marines have landed, and the situation is well in hand.’  
+> "The Marines have landed, and the situation is well in hand."  
 > American journalist Richard Harding Davis  
 > Cablegram announcing the Marines’ 1935 landing in Panama
 
@@ -89,20 +89,20 @@ Meet [[USMC-Fireteam-SG-21|USMC Fireteam SG-21]].
 | 1998 March 6th – [[Airport\|Airport]]                                                                                                                                                                | 1999 May – [[The-Dark-Side-of-the-Moon\|The Dark Side of the Moon]]                                                                                                                                                                          |
 | 1999 June –  <br>[Team Bravo First Assignment](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRv9ECAAAAAeQZfncNo_F29yImRE9tzWk?e=m8VP1H) with Capt. Dashiel Walker – Group Chaplain, U. S. Army | 1999 July –  <br>[Trouble at Black Rock](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRwNECAAAAAaZegw1VfhHVyTHJZt9NzBw?e=VZ3yUy)                                                                                                      |
 | 1999 August –  <br>[Team Bravo: Flames of Wrath](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRwdECAAAAAXe-f11agJyfWyITdw2fM6g?e=S17e7U)                                                      | 1999 September –  <br>[A Funny Thing Happened a Carousel #5](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRvNECAAAAAWCQV9UZ6tHyVNN5bCkCI1w?e=LOHvXa) with Prof. Henry Bogdanovich, Larabee Hosquith (FBI), and Simon the Limo Driver. |
-| 1999 October – “SG 21: Search and Rescue” with _[[Terry-Sheridan\|Major Terry Sheridan]]_                                                                                                      | 1999 November – “SG 21:The Garden” with Mercy the Walkir                                                                                                                                                                                     |
-| 1999 December – “SG 21: Snowflake Valley – Nocturnum”                                                                                                                                                | 2000 January – “SG 21: The Madness of the Twilight Queen” with _[[Dresdina-Belle-Cooper\|Dresdina Coooper]]_ and Larabee Hosquith, Capt. Dashiel Walker, Dr. Birgit Ernestus MD, Dr. Stephanie Parker EPA, Kimberly Ketcham DEA.             |
+| 1999 October – SG 21: Search and Rescue with _[[Terry-Sheridan\|Major Terry Sheridan]]_                                                                                                      | 1999 November – SG 21:The Garden with Mercy the Walkir                                                                                                                                                                                     |
+| 1999 December – SG 21: Snowflake Valley – Nocturnum                                                                                                                                                | 2000 January – SG 21: The Madness of the Twilight Queen with _[[Dresdina-Belle-Cooper\|Dresdina Coooper]]_ and Larabee Hosquith, Capt. Dashiel Walker, Dr. Birgit Ernestus MD, Dr. Stephanie Parker EPA, Kimberly Ketcham DEA.             |
 
-> ‘Semper Fidelis’ (‘Always Faithful’)  
+> "Semper Fidelis" ("Always Faithful")  
 > Official motto of the US Marine Corps  
-> Adopted in 1883. (Often shortened to ‘Semper fi!’)
+> Adopted in 1883. (Often shortened to "Semper fi!")
 
 ## Nephilim, or Angels in America
 
-Nephilim are “ordinary” people with the potential to become pure earth, air, fire, water, or moon spirits that can directly manipulate the corresponding magical fields.  They show physical and or behavioural signs of metamorphosis from human to non-human beings.
+Nephilim are "ordinary" people with the potential to become pure earth, air, fire, water, or moon spirits that can directly manipulate the corresponding magical fields.  They show physical and or behavioural signs of metamorphosis from human to non-human beings.
 
-Nephilim quest for Agartha, spiritual and physical fulfillment, through a series of initiations. Those who have achieved Agartha are referred to as “Masters” or “Enlightened Ones”.
+Nephilim quest for Agartha, spiritual and physical fulfillment, through a series of initiations. Those who have achieved Agartha are referred to as "Masters" or "Enlightened Ones".
 
-Nephilim characters can “awaken” to their true nature via:
+Nephilim characters can "awaken" to their true nature via:
 
 - past life regression (hypnosis)
 - meditation, visions, and dreams (inner life)
@@ -111,7 +111,7 @@ Nephilim characters can “awaken” to their true nature via:
 
 The tribes of the Nephilim comprise the 22 Major Arcanum (Tarot). Magic used by Nephilim includes the natural world (Alchemy), the celestial world (Sorcery) and the Spiritual World (Summoning). Nephilim are spiritually connected to their stasis objects.
 
-Meet our [[Nephilim-PCs|reincarnated spirits]] learning the ropes as “ordinary” people, and their [[Nephilim-NPCs|mentors]].
+Meet our [[Nephilim-PCs|reincarnated spirits]] learning the ropes as "ordinary" people, and their [[Nephilim-NPCs|mentors]].
 
 **Nephilim Episodes**
 
@@ -125,9 +125,9 @@ Nephilim is an esoteric gaming system. If we ever pick this up again, I’ll con
 
 London and New York – _[[Angela-Taylor|Angela Taylor]]_ (MI6), _[[Dresdina-Belle-Cooper|Dresdina]]_ (FBI) and _[[Sarah-Ann-van-Buren|Sarah]]_ (Silk Scorpion II).
 
-In this contemporary Call of Cthulhu campaign, the PCs are trained “Dreamers”, White Magicians who draw power from the [[080-Dreamlands|Dreamlands]].
+In this contemporary Call of Cthulhu campaign, the PCs are trained "Dreamers", White Magicians who draw power from the [[080-Dreamlands|Dreamlands]].
 
-The PCs influence the real world through dreams, Jungian psychological explorations of the collective unconscious, astral projection, astrology, low-end “mind tricks,” and New Age occultism. They are non-military, with only their wits, their skills, their white magic, and prayer to protect them.
+The PCs influence the real world through dreams, Jungian psychological explorations of the collective unconscious, astral projection, astrology, low-end "mind tricks," and New Age occultism. They are non-military, with only their wits, their skills, their white magic, and prayer to protect them.
 
 Meet our [[The-White-Magicians|White Magicians]].
 

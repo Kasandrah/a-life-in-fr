@@ -151,7 +151,7 @@ The party, with the addition of Niani and Brennos, battled the Saxons and the tw
 
 After consulting with Arcavius and Cynon, Rhodri apologises to Oberon for not being there for Morgaine when she needed him, for failing in his duties as a foster father, and for not attempting to retrieve the Stone of Destiny from the Fomori.  To do so would upset the delicate balance between the Fae and the Fomori and incite the Fae to war on the Fomori, to the great cost of the mortal realms.
 
-Before they leave Avalon, the party "arms up" at Goibniu's forge, making offerings of their own blood to obtain swords that won't be eaten away by Fomori blood.
+Before they leave Avalon, the party arms up at Goibniu's forge, making offerings of their own blood to obtain swords that won't be eaten away by Fomori blood.
 
 Rhodri summons Puck to take them to Oberon's realm.  Here Rhodri makes his apology to Oberon, angering Oberon yet again by referring to Morgaine as his (illegitimate) daughter, in front of Titania.  Rhodri also apologises for not attempting to obtain Falias, stating that he's a mere mortal and could never take on the Fomori King.  In a more private moment Oberon "suggests" that Rhodri make up for his failings by bringing Ailil's daughter to him.  That will even the score between Oberon and Ailil.  Rhodri agrees.
 
@@ -183,9 +183,9 @@ _[[010-Knights-of-Arthurian-Britain#Sir Emils|Sir Emils]]_ arrives from France.�
 
 In 511 AD the Merovingian domain was divided into four separate kingdoms; Theuderic in Austrasia (Metz), Chlodomir in the Loire Valley (Orleans), Childebert in Neustria (Paris) and Lothar in the Scheldt to Somme region (Soissons).  Clovis' death is the beginning of the end for the Merovingians.
 
-Emils is carrying a sacred text for "the Merlin" - a genealogy of descent from Jesus and Mary Magdalene to both Clovis and Arthur, with a warning from Clovis - "beware the Catholic Church of Rome".  Emils' sacred duty is to protect, nurture and support Arthur, as Arthur is a direct descendent of Jesus.
+Emils is carrying a sacred text for "the Merlin" - a genealogy of descent from Jesus and Mary Magdalene to both Clovis and Arthur, with a warning from Clovis - beware the Catholic Church of Rome.  Emils' sacred duty is to protect, nurture and support Arthur, as Arthur is a direct descendent of Jesus.
 
-"We have failed in France.  Let the Bloodline of Jesus succeed in Britain." - Clovis, 511 AD.
+We have failed in France.  Let the Bloodline of Jesus succeed in Britain. - Clovis, 511 AD.
 
 ## [[512-AD|512 AD]]
 
@@ -235,7 +235,7 @@ Titania's handmaiden gives the players news of Brennos.  He is alive and well a
 
 #### The Northern Wars
 
-The players leave Silchester in mid-June.  Arthur has decided to bring the rebellious Northern Kings into line, and invades Malahaut.  He splits his army in two.  The larger group "hides" south of the smaller group while the smaller group draws out the forces of King Malahaut.  After a resounding victory, Arthur installs Rhodri's son Caradoc as his vassal in Malahaut.
+The players leave Silchester in mid-June.  Arthur has decided to bring the rebellious Northern Kings into line, and invades Malahaut.  He splits his army in two.  The larger group hides south of the smaller group while the smaller group draws out the forces of King Malahaut.  After a resounding victory, Arthur installs Rhodri's son Caradoc as his vassal in Malahaut.
 
 After this battle, the player knights and Arthur travel north via Voklaynn's realm to Ben Nevis, to attack the Black Dragon.
 

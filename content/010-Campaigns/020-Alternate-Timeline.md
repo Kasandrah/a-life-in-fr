@@ -53,7 +53,7 @@ Alexander and the Great Philosophers
 
 ## 300 BC to 200 BC Greece
 
-Hellenistic Age - "Lamia"
+Hellenistic Age - Lamia
 
 ## 200 BC The Kingdom of Carthage
 

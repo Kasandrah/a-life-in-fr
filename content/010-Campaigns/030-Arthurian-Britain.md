@@ -12,7 +12,7 @@ draft: false
 
 **Arthur, The Boy King**
 
-Pendragon – Cymric for “High King” – “ben” = “chief”, “dragon” = “warlord”.
+Pendragon – Cymric for "High King" – "ben"= "chief", "dragon" = "warlord".
 
 Each test of the Dragon is a test of a candidate’s valour, justice and honour. Arthur will pass his first test, but not his second.
 
@@ -59,7 +59,7 @@ In 495 AD, High King Uther Pendragon, strapped to his horse because he was too i
 
 The Supreme Collegium has met but could not select a High King. Logres is run by a council of regents comprising Bawdwin of Britain and Dukes Corneus, Ulfius and Cador.
 
-In London, in the yard of St. Paul’s Cathedral, a block of red marble has appeared. Atop it is an iron anvil and thrust through both is a magnificent sword. Around the based of the stone it says in Latin “Whoso pulleth out this sword from the stone and anvil is rightwise born King of all Britain”.
+In London, in the yard of St. Paul’s Cathedral, a block of red marble has appeared. Atop it is an iron anvil and thrust through both is a magnificent sword. Around the based of the stone it says in Latin "Whoso pulleth out this sword from the stone and anvil is rightwise born King of all Britain".
 
 # Feudalism
 
@@ -84,7 +84,7 @@ Church officials and monasteries also rely upon land grants to knightly vassals 
 
 Classes include nobles, clergy, and commoners.
 
-Nobles are divided into the higher nobility and the lower nobility. Higher nobility (leaders and warriors) are called “Lords” and include all knights with vassals who’re themselves lords or knights, and all hereditary landholders. Titles include Duke, Earl, Baron, and Banneret. Lower nobility includes all other knights and is referred to as “Gentry”.
+Nobles are divided into the higher nobility and the lower nobility. Higher nobility (leaders and warriors) are called "Lords" and include all knights with vassals who’re themselves lords or knights, and all hereditary landholders. Titles include Duke, Earl, Baron, and Banneret. Lower nobility includes all other knights and is referred to as "Gentry".
 
 Commoners are the ordinary people who provide the food and goods which allow noblemen and clergy to pursue their specialised functions. Commoners include farmers (from serfs to rich landholders), artisans and merchants.
 
@@ -195,7 +195,7 @@ The different magics which are recognised are druid magic (glamour), Christian m
 
 Finias, the magic spear that controls the elements, is in Glastonbury Church and protected by the Archangel Michael.
 
-> “It is often in our darkest hours that we find the greatest truths.”
+> "It is often in our darkest hours that we find the greatest truths."
 > 
 > Michael
 
@@ -222,10 +222,10 @@ Another feature of the castle is the gargoyles that guard the grand staircase fr
 
 ## In the Hall of the Fomori King
 
-- _King of the Fomori_. The King has _Falias_ (“Lia Fail”), the Stone of Destiny, the stone of wisdom and kingship that roars on crowning the rightful king. The Stone is at the base of the King’s throne.
+- _King of the Fomori_. The King has _Falias_ ("Lia Fail"), the Stone of Destiny, the stone of wisdom and kingship that roars on crowning the rightful king. The Stone is at the base of the King’s throne.
 - _The Northern Witch_ who taught Queen Margawse. The Witch knows spells to remove speech. Her servants have Pictish tattoos and wear sinister and corrupt green armour. The Witch is Merffyn’s opposition in the North.
 
-> “Ruination of others brings power.”
+> "Ruination of others brings power."
 > 
 > The Northern Witch
 
@@ -257,16 +257,16 @@ The Unseelie relinquish power at Beltane and take over again at Samhain.
 - _Aubergin_ – advisor to Ailil
 - _Darkain_ – court sorcerer, 4 feet tall and hideous, hunchback, disguised as a sparrow ^abd763
 
-> “Sometimes we remember our nightmares and learn from them. Sometimes we are foolish and forget.”
+> "Sometimes we remember our nightmares and learn from them. Sometimes we are foolish and forget."
 > 
 > Prince Ailil
 
 Ailil can grant the right to trial by Fior (ordeal).
 
-> “By oak and light and blood.”
+> "By oak and light and blood."
 > 
 > Prince Ailil
 
-> “When winter is coldest and shadows are longest, trust and honour are hard to find. Survival depends on deception and betrayal.”
+> "When winter is coldest and shadows are longest, trust and honour are hard to find. Survival depends on deception and betrayal."
 > 
 > Aubergin

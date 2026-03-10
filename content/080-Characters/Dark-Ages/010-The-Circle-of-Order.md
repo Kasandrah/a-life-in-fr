@@ -14,7 +14,7 @@ The Circle of Order identifies those Powers from various eternal realms who serv
 
 | Circle            | Order                                                                                                      | Chaos                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Angels            | _[Michael](https://www.britannica.com/topic/Michael-archangel)_<br>Archangel and Demiurge                  | Sama’el  <br>The Fallen                        |
+| Angels            | _[Michael](https://www.britannica.com/topic/Michael-archangel)_<br>Archangel and Demiurge                  | Sama'el  <br>The Fallen                        |
 | Cthulhu           | _[The King in Yellow](https://en.wikipedia.org/wiki/The_King_in_Yellow)_<br>Lord of the Outer Realms       | Outer Gods                                     |
 | Were              | Wolves, Cats                                                                                               | Crocodiles                                     |
 | Undying           | _[[Lillane-of-Clan-Bahari\|Lillane of Clan Bahari]]_<br>Queen of Shadows                                   | _[[Cain\|Cain]]_  <br>First of the Kindred     |

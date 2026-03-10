@@ -16,7 +16,7 @@ draft: false
 ---
 # Shoggoths at Sea
 
-Also known as **[Trail of the Loathsome Slime](https://www.rpg.net/reviews/archive/classic/rev_3035.phtml).**
+Also known as **["Trail of the Loathsome Slime"](https://www.rpg.net/reviews/archive/classic/rev_3035.phtml)**
 
 # Travel
 

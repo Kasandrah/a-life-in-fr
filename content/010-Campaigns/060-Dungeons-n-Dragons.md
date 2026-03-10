@@ -44,7 +44,7 @@ Lissa's argument with her father was over the tied vote for the new Guild Master
 
 ## Thunder Rift
 
-[Thunder Rift](http://www.dmsguild.com/product/17150/Thunder-Rift-Basic?it=1) is an ideal starter campaign for new characters. Once the characters “graduated” from Thunder Rift, I placed them in the [Known World](https://mystara.thorfmaps.com/known-world-8/). Here, parties went in different directions based on their interests and the wishes of their immortal sponsors.
+[Thunder Rift](http://www.dmsguild.com/product/17150/Thunder-Rift-Basic?it=1) is an ideal starter campaign for new characters. Once the characters graduated from Thunder Rift, I placed them in the [Known World](https://mystara.thorfmaps.com/known-world-8/). Here, parties went in different directions based on their interests and the wishes of their immortal sponsors.
 
 ## The Eco-Warriors
 

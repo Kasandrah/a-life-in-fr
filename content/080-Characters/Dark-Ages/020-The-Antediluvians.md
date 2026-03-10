@@ -30,7 +30,7 @@ Embraced in **573 BC**, Babylon, Enshunu is a gifted male artist who created th
 
 ## Dikaiosyne
 
-Embraced **304 BC**, Athens, Hellenistic Greece, after her drunken husband murdered her in a fit of rage. Dikaiosyne returned home to “clean out the rubbish”, then used her inheritance to build a new life for herself and her household in Crete.
+Embraced **304 BC**, Athens, Hellenistic Greece, after her drunken husband murdered her in a fit of rage. Dikaiosyne returned home to "clean out the rubbish", then used her inheritance to build a new life for herself and her household in Crete.
 
 ## Sir Brion
 
@@ -44,7 +44,7 @@ A female Celtic knight embraced **[[010-One-Night-Plays#515 AD – On the Road 
 
 Gwyn had an ongoing rivalry with _[[Abdiel|Don Juan Carlos Vega y Galino]]_, a Templar Knight revealed as an angel and a potent wielder of True Faith, fatal for vampires. Their clashes are retold in [[060-The-Search|The Search]] and [[160-To-Drown-a-Witch|To Drown a Witch]].
 
-Gwyn wants to serve Lillane faithfully while continuing to investigate Juan Carlos and his lover _[[Si-Ling|Maria]]_, now posing as his squire “Julio”.
+Gwyn wants to serve Lillane faithfully while continuing to investigate Juan Carlos and his lover _[[Si-Ling|Maria]]_, now posing as his squire "Julio".
 
 In the [[050-Modern|Modern Era]], Gwyn is the Keeper of [Excalibur](https://en.wikipedia.org/wiki/Excalibur).
 
@@ -62,7 +62,7 @@ Played by [[Craig-B|Craig B.]]
 
 ## Roland
 
-[[020-Family|Embraced 778 AD, Roncesvaux, Pyrenees]] at the scene of his defeat by the Basques. Roland was Count of the Marches of Brittany and a nephew of Charlemagne, King of the Franks. Roland changed his name to _Rollon_ to distance himself from his defeat, made famous by the epic poem, the [“Song of Roland”](https://en.wikipedia.org/wiki/The_Song_of_Roland).
+[[020-Family|Embraced 778 AD, Roncesvaux, Pyrenees]] at the scene of his defeat by the Basques. Roland was Count of the Marches of Brittany and a nephew of Charlemagne, King of the Franks. Roland changed his name to _Rollon_ to distance himself from his defeat, made famous by the epic poem, the ["Song of Roland"](https://en.wikipedia.org/wiki/The_Song_of_Roland).
 
 ![[da_roland.jpg]]
 
@@ -136,7 +136,7 @@ Played by Suzie J.
 
 ## Michael Winter
 
-Embraced **[[010-One-Night-Plays#1995 AD – Let’s Try Again|1995 AD]]**, Adelaide, Australia. Michael is a blue-eyed blond ex-police detective embraced by Lillane when she “crashed” an occult gathering to retrieve her illuminated manuscript from the priest.  Lillane embraced Michael because she recognised William (Bill) Mains, the 23-year-old Cornish pirate on board Captain Henry Morgan’s ship, Jamaica, **[[010-One-Night-Plays#1671 AD – A Storm at Sea|1671 AD]]**.
+Embraced **[[010-One-Night-Plays#1995 AD – Let’s Try Again|1995 AD]]**, Adelaide, Australia. Michael is a blue-eyed blond ex-police detective embraced by Lillane when she crashed an occult gathering to retrieve her illuminated manuscript from the priest.  Lillane embraced Michael because she recognised William (Bill) Mains, the 23-year-old Cornish pirate on board Captain Henry Morgan’s ship, Jamaica, **[[010-One-Night-Plays#1671 AD – A Storm at Sea|1671 AD]]**.
 
 Played by [[Simon-M|Simon M.]]
 
@@ -146,7 +146,7 @@ Ghouls are humans who have drunk vampire blood. A vampire has to sustain a ghoul
 
 ## Tribune Aquila Sabinus Tatianus
 
-Made a **ghoul** in **[[010-One-Night-Plays#83 AD – When in Rome|83 AD]]**, Rome. _[[Tyler|Tatianus]]_ was a Knight of the Praetorian Guard, Equestrian Order. The Roman “equites” were horsemen, the cavalry wing of the Roman Army, and the source of the Army’s officers.
+Made a **ghoul** in **[[010-One-Night-Plays#83 AD – When in Rome|83 AD]]**, Rome. _[[Tyler|Tatianus]]_ was a Knight of the Praetorian Guard, Equestrian Order. The Roman equites were horsemen, the cavalry wing of the Roman Army, and the source of the Army’s officers.
 
 He was wrongly accused of conspiracy against Emperor Domitian and sentenced to death in the arena. Lillane recognised Tatianus as the reincarnation of Theshen, her Egyptian lover, and made him her ghoul so he could survive. He changed his name to Tyler after the sack of Rome in 410 AD. More recently known as Tomas or Thomas.
 

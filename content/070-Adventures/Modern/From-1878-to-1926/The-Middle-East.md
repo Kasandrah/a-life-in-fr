@@ -16,7 +16,7 @@ draft: false
 ---
 # The Middle East
 
-Also known as **“Thoth’s Dagger”** followed by **“The City Without a Name”**
+Also known as **"Thoth’s Dagger"** followed by **"The City Without a Name"**
 
 1924 February 25th to November 3rd – Boston, Massachusetts to Egypt to Jerusalem to Sana, South Yemen, and back via Jerusalem, Alexandria and Greece
 

@@ -16,7 +16,7 @@ draft: false
 ---
 # Zeppelin
 
-Also known as **“Ship Under Shadows”**.
+Also known as **"Ship Under Shadows"**.
 
 1924 June 16th to 21st - Lakehurst, New Jersey to the Mid-Atlantic.
 

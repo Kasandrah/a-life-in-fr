@@ -16,7 +16,7 @@ draft: false
 ---
 # Occult and Cult
 
-Also known as **“Wings of Nightmare”**.
+Also known as **"Wings of Nightmare"**.
 
 1924 May - Nelson Crossing
 

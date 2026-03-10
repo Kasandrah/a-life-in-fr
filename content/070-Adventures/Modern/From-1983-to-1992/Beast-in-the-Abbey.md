@@ -16,7 +16,7 @@ draft: false
 ---
 # Beast in the Abbey
 
-Also known as **“The Dark Side of the Force“**
+Also known as **"The Dark Side of the Force"**
 
 Inverness, Scotland (1991 December) to Wisconsin, Alternate America (1925 July 20th to September), to mythical Ireland to Wisconsin USA (1992 January)
 
@@ -29,7 +29,7 @@ Inverness, Scotland (1991 December) to Wisconsin, Alternate America (1925 July 2
 | _[[Sam-Houston-Krescke\|Houston Krescke, Sam]]_                                       | _[[Jenny-H#^efe01a\|Holmes, Monica]]_                  |
 | _[[The-White-Magicians#Kellion O’Shea\|O’Shea, Kellion]]_                             | _[[Neil-F\|Holmes, Munroe]]_ – Monica’s twin brother |
 | _[[Angela-Taylor\|Taylor, Angela]]_                                                   | _Joyce, Simon_                                            |
-| _[[The-White-Magicians#Sydney George Washington\|Washington, Sydney George “Snake”]]_ | _Mairi (“the elder”)_                                     |
+| _[[The-White-Magicians#Sydney George Washington\|Washington, Sydney George]]_ | _Mairi (“the elder”)_                                     |
 |                                                                                       | _Mairi (“the younger”)_                                   |
 |                                                                                       | _[[Jenny-H#^90313e\|Farquarson, Megan]]_               |
 |                                                                                       | _Shadowdancer, Jocelyn_ – Shadow Investigations, USA      |
@@ -41,7 +41,7 @@ Angela is working for Magnus and Megan, developing and maintaining the computer 
 
 ## “Beast in the Abbey” – December 1991, Inverness, Scotland
 
-Killian, “Snake”, and Robert arrive in Inverness in need of a place to hide, claiming there are cultists in Scotland Yard. Jocelyn Shadowdancer, of Shadow Investigations in the USA, requests Magnus investigate such a possibility while making use of her personnel. Angela creates new identities for the three men and begins using the “Cthulhu Computer” to investigate Scotland Yard.
+Killian, Snake, and Robert arrive in Inverness in need of a place to hide, claiming there are cultists in Scotland Yard. Jocelyn Shadowdancer, of Shadow Investigations in the USA, requests Magnus investigate such a possibility while making use of her personnel. Angela creates new identities for the three men and begins using the “Cthulhu Computer” to investigate Scotland Yard.
 
 Michal returns from a recent assignment (shoggoths) without having found David. Angela and Megan are convinced Michal is losing her sanity in her search for David.
 

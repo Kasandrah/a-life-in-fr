@@ -16,7 +16,7 @@ draft: false
 ---
 # Cornwall
 
-Also known as **“The Cornish Chalice”**
+Also known as **"The Cornish Chalice"**
 
 1924 December 1st to 7th - Bateman family home, Falmouth, Cornwall.
 

@@ -16,7 +16,7 @@ draft: false
 ---
 # The Scottish Adventure
 
-Also known as **“Loch Fein”**
+Also known as **"Loch Fein"**
 
 1924 late January to February 7th – London to Gregor, Scotland and return
 

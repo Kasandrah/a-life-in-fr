@@ -101,7 +101,7 @@ _[[020-The-Antediluvians#Owain and Juanita|Owain]]_ - He is in a dilemma.  He 
 >
 >My favourite grognards explain this further:
 > - [Who Has Narrative Control Over the Game Mechanics and Setting in Your Campaign?](https://youtu.be/9FW-qg17QSI?si=-y8sNdD1EdnKQUY_)
-> - [“My Backstory Says…” — The Fastest Way to Break a Campaign](https://youtu.be/TxoEcfjCQTg?si=B7-6i2ZNjSh-u-9R)
+> - ["My Backstory Says…" - The Fastest Way to Break a Campaign](https://youtu.be/TxoEcfjCQTg?si=B7-6i2ZNjSh-u-9R)
 > - [Setting agency in D&D](https://youtu.be/txfPuo6dw3Q?si=YaD7SXF75kmbeLfG)
 > - [The When, Where, How, and What of Player Agency: Or How I Learned to Loathe Sidequests](https://youtu.be/2C9UiQ9aAig?si=nDnfPz7Bvy0aKrHU)
 >

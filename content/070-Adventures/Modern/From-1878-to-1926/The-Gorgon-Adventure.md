@@ -16,7 +16,7 @@ draft: false
 ---
 # The Gorgon Adventure
 
-Also known as **“Draw the Blinds on Yesteryear”**
+Also known as **"Draw the Blinds on Yesteryear"**
 
 1923 August 11th to mid September – Paris to London by plane then to Wiltshire, England
 

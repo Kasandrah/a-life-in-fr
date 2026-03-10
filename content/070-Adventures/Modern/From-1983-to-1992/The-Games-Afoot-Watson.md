@@ -16,7 +16,7 @@ draft: false
 ---
 # The Game's Afoot, Watson
 
-Also known as **Past Future / Future Past.**
+Also known as **"Past Future / Future Past"**
 
 1984 May – Angela’s apartment in Hyde Park, London to 1899 July – Austria and Illyria to 1925 May – Hyde Park, London
 

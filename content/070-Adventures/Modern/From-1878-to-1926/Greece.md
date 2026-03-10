@@ -16,7 +16,7 @@ draft: false
 ---
 # Greece
 
-Also known as **“The Two Temples”**.
+Also known as **"The Two Temples"**.
 
 1925 June to July - London to Palermo, Athens, and Chios
 

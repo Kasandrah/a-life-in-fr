@@ -20,15 +20,15 @@ draft: false
 
 ## Characters
 
-| Player Characters                                                                     | Non-Player Characters                                                          |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_                     | _[[Athos\|Athos]]_                                                             |
-| _[[The-White-Magicians#Robert Anthony\|Anthony, Robert]]_                             | _Holmes, [[Jenny-H#^efe01a\|Monica]]_ and _[[Neil-F#^7efc15\|Munroe]]_ |
-| _[[Dresdina-Belle-Cooper\|Cooper, Dresdina]]_                                         | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_ – Shadow Investigations             |
-| _[[Sam-Houston-Krescke\|Houston Krescke, Sam]]_                                       | _O’Dey, Francis_ – Shadow Investigations                                       |
-| _[[The-White-Magicians#Kellion O’Shea\|O’Shea, Killian]]_                             | _Seelie of the Ash Grove_, and their _Queen_                                   |
-| _[[Angela-Taylor\|Taylor, Angela]]_                                                   | _Wormwood_ – Magician up to no good                                            |
-| _[[The-White-Magicians#Sydney George Washington\|Washington, Sydney George “Snake”]]_ |                                                                                |
+| Player Characters                                                             | Non-Player Characters                                                  |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_             | _[[Athos\|Athos]]_                                                     |
+| _[[The-White-Magicians#Robert Anthony\|Anthony, Robert]]_                     | _Holmes, [[Jenny-H#^efe01a\|Monica]]_ and _[[Neil-F#^7efc15\|Munroe]]_ |
+| _[[Dresdina-Belle-Cooper\|Cooper, Dresdina]]_                                 | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_ – Shadow Investigations        |
+| _[[Sam-Houston-Krescke\|Houston Krescke, Sam]]_                               | _O’Dey, Francis_ – Shadow Investigations                               |
+| _[[The-White-Magicians#Kellion O’Shea\|O’Shea, Killian]]_                     | _Seelie of the Ash Grove_, and their _Queen_                           |
+| _[[Angela-Taylor\|Taylor, Angela]]_                                           | _Wormwood_ – Magician up to no good                                    |
+| _[[The-White-Magicians#Sydney George Washington\|Washington, Sydney George]]_ |                                                                        |
 
 ## Involvement
 

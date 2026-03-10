@@ -16,7 +16,7 @@ draft: false
 ---
 # School’s Out
 
-Also known as **“The Affair at St. Croix“**
+Also known as **"The Affair at St. Croix"**
 
 1925 July 11th to 13th - St. Croix School for Young Gentlewomen, Chateaux St. Croix near the village of Chapel St. Croix, past Fribourg, Switzerland
 

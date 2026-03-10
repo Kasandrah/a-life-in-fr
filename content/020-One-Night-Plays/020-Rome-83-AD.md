@@ -42,7 +42,7 @@ Tatianus calls her a Daughter of Proserpine (Goddess of the Underworld). Livilli
 
 Livillia convinces Tatianus to accept her by telling him he can save his sister. If he protects Julia until dusk, then the Emperor will grant them freedom. Livillia takes a small silver dagger and cuts open the vein in her wrist, then offers her wrist to Tatianus, who drinks her blood. His wounds heal.
 
-Livillia leaves by “stepping into the dark”, then accompanying the guard who has returned to collect the plates.
+Livillia leaves by "stepping into the dark", then accompanying the guard who has returned to collect the plates.
 
 ## Day Two, The Games
 
@@ -50,8 +50,8 @@ Begins with a parade of participants (prisoners in chains and guarded by Gladiat
 
 In the mid-afternoon Tatianus, his cellmates and the Vestals are taken to the arena. Blood, sand, beasts, then gladiators. Three of the Vestals are killed by lions, as are both the Christians, the Jew and the Senator. Finally, at dusk, Tatianus combats some gladiators over Julia and the three other surviving Vestals. The crowd wants Tatianus to die (thumbs up).
 
-Livillia enters minutes after dusk to “persuade” Domitian to spare the survivors, including Tatianus and his sister. She influences 55,000 people to give the thumbs down, a signal of mercy, and Domitian has no choice but to agree.
+Livillia enters minutes after dusk to "persuade” Domitian to spare the survivors, including Tatianus and his sister. She influences 55,000 people to give the thumbs down, a signal of mercy, and Domitian has no choice but to agree.
 
 ## Night Two
 
-Livillia heals Tatianus by giving him more of her blood. Tatianus says farewell to his sister, Julia, as he is now Livillia’s, body and soul, a “creature of [[Lilith|Lilith]]”. Tatianus leaves Julia in the care of the Praetorian Guard foot soldier who also survived the arena. Livillia and Tatianus then escape from Rome to the villa of Flavia, the Emperor’s niece.
+Livillia heals Tatianus by giving him more of her blood. Tatianus says farewell to his sister, Julia, as he is now Livillia’s, body and soul, a "creature of [[Lilith|Lilith]]". Tatianus leaves Julia in the care of the Praetorian Guard foot soldier who also survived the arena. Livillia and Tatianus then escape from Rome to the villa of Flavia, the Emperor’s niece.

@@ -61,7 +61,7 @@ _Gustaf, Hans_ (deceased) - a prominent Brazilian businessman and collector of 
 
 _[[Jenny-H#^27cdd0|Hertzeanu, Michal]]_
 
-_Marine, Joe “Cthulhu”_ - knows a little more than he should.
+_Marine, Joe Cthulhu_ - knows a little more than he should.
 
 _McLane, Michael_ - a young and competent consular officer and Diplomatic Secretary to Ambassador Bennett.  Not real keen on her. ^ae064c
 
@@ -72,11 +72,11 @@ _Wallace, Heather_ (38) - Ambassador Wallace’s wife who has received some com
 Their children are:
  - _Wallace, Rebecca_ (16) who likes [[USMC-Fireteam-SG-21#Captain David Goldfarb|Captain Goldfarb]] ^e558c2
  - _Wallace, George_ (13) who is a bookish computer nerd ^b83d93
- - _Wallace, Thomas_ (“Tommy” - 6) who likes playing soldiers. ^a67569
+ - _Wallace, Thomas_ ("Tommy" - 6) who likes playing soldiers. ^a67569
 
 ### Sao Paulo
 
-_Amado, Inspector Jorge_ - a Brazilian Federal Police officer who assists Antonio and Angela from time to time.  He looks like a Latin “Columbo”. ^6388f4
+_Amado, Inspector Jorge_ - a Brazilian Federal Police officer who assists Antonio and Angela from time to time.  He looks like a Latin "Columbo". ^6388f4
 
 _[[Abdiel|Andrada da Silva, Antonio]]_
 
@@ -84,7 +84,7 @@ _Andrada da Silva, Milton_ - Antonio’s father and a Director of Butantan Cons
 
 _The General_ - a Brazilian Army officer and managing director of Butantan Construction.  He is also associated with the Butantan Institute of Sao Paulo, which produces snakebite serum, the Social Democratic Party, and Brazil’s secret police. ^a00b29
 
-The General arranged a “road accident” that killed a Dunbain Engineering director and his wife, and the subsequent kidnapping of the two young sons of two other directors.  The general was last seen in the tunnels at the dam site.  A bomb blast, actually a Sidewinder missile given to Antonio by Colonel Snow and launched from a ship off the coast, later destroyed his residence in Sao Paulo.
+The General arranged a road accident that killed a Dunbain Engineering director and his wife, and the subsequent kidnapping of the two young sons of two other directors.  The general was last seen in the tunnels at the dam site.  A bomb blast, actually a Sidewinder missile given to Antonio by Colonel Snow and launched from a ship off the coast, later destroyed his residence in Sao Paulo.
 
 _[[Si-Ling|Hamilton, Angela]]_
 
@@ -208,13 +208,13 @@ Major Ilsenberg’s immediate superior, Marine Corps Intelligence.
 
 ### Washington, DC
 
-_Campbell, Major James_ - Director of Special Projects, HQMC.  As Director of the “X-Files” group within the USMC, Major Campbell is one of the CMC's principal assistants and answers directly to the CMC and Jefferson Dean.  Major Campbell is Jefferson Dean’s USMC liaison point and provides the military muscle behind Dean’s operations. ^faa69f
+_Campbell, Major James_ - Director of Special Projects, HQMC.  As Director of the "X-Files" group within the USMC, Major Campbell is one of the CMC's principal assistants and answers directly to the CMC and Jefferson Dean.  Major Campbell is Jefferson Dean’s USMC liaison point and provides the military muscle behind Dean’s operations. ^faa69f
 
 _Davenport, Carol_ - a Magician Arcanum courier.
 
 _Dean, Jefferson_ - Bureau of Intelligence and Research (INR), Department of State, a former USMC colonel and now reports directly to the Secretary of State.  Use the statistics for Ramsey Schwartz, page 7 of A Resection of Time. ^1c77a1
 
-_Jones, General James L._ - Commandant of the Marine Corps, HQMC was appointed by the President, is a member of the Joint Chiefs of Staff, and is responsible directly to the Secretary of the Navy.  Usually referred to as “CMC”. ^d7b9d1
+_Jones, General James L._ - Commandant of the Marine Corps, HQMC was appointed by the President, is a member of the Joint Chiefs of Staff, and is responsible directly to the Secretary of the Navy.  Usually referred to as "CMC". ^d7b9d1
 
 _[[Jenny-H#^14ff80|McPherson, Mairi]]_
 
@@ -222,6 +222,6 @@ _[[The-White-Magicians#Kellion O’Shea|O’Shea, Kellion]]_
 
 _The Secretary of State_ - the senior member of the President’s Cabinet and was appointed by the President with the approval of the Senate.  The Secretary is also the official custodian of the Great Seal of the United States and serves on the National Security Council (NSC). ^8ef3f1
 
-_[[The-White-Magicians#Sydney George Washington|Washington, Sydney George "Snake"]]_
+_[[The-White-Magicians#Sydney George Washington|Washington, Sydney George]]_
 
-_Wilson, Colonel Steve, USAF_ - a highly decorated pilot who served during Korea and Vietnam and Executive Officer of Project Pounce, part of the highly secret Majestic-12 group.  Project Pounce is an elite group of Air Force Black Berets and military scientists who rush to the scene of any UFO crashes, cordon off the area, retrieve the extraterrestrial spacecraft and any occupants, and then “sanitise” the crash site.  Wilson may become a Majestic-12 whistleblower to Dean if sufficiently motivated. ^b801d1
+_Wilson, Colonel Steve, USAF_ - a highly decorated pilot who served during Korea and Vietnam and Executive Officer of Project Pounce, part of the highly secret Majestic-12 group.  Project Pounce is an elite group of Air Force Black Berets and military scientists who rush to the scene of any UFO crashes, cordon off the area, retrieve the extraterrestrial spacecraft and any occupants, and then "sanitise" the crash site.  Wilson may become a Majestic-12 whistleblower to Dean if sufficiently motivated. ^b801d1

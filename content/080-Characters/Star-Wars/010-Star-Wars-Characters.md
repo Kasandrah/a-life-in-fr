@@ -155,7 +155,7 @@ Played by Tim Howe.
 
 ### Hela
 
-Kid.  Boddi's student and "niece", 18 years old, from Fembin.  Hela's mother died while defending their village from stormtroopers - she was overrun by sheer numbers while using a lightsaber to protect the village.  The stormtroopers attacked on Vader's orders to destroy a known Jedi training centre.  Hela travels with Boddi aboard the _Dark Heart_.
+Kid.  Boddi's student and niece, 18 years old, from Fembin.  Hela's mother died while defending their village from stormtroopers - she was overrun by sheer numbers while using a lightsaber to protect the village.  The stormtroopers attacked on Vader's orders to destroy a known Jedi training centre.  Hela travels with Boddi aboard the _Dark Heart_.
 
 Played by Kate Wilson.
 
@@ -187,7 +187,7 @@ ___
 
 ## The Kierra
 
-A ship “possessed” by a droid intelligence named Kierra.
+A ship "possessed" by a droid intelligence named Kierra.
 
 ### Ross, Captain Thaddeus
 
@@ -383,7 +383,7 @@ His people live on an urbanised world.
 
 ### Janson, Wes - X-Wing Pilot
 
-### Klivian, Derek "Hobbie" - X-Wing Pilot
+### Klivian, Derek Hobbie - X-Wing Pilot
 
 ### Lenso, Tank - X-Wing Pilot
 

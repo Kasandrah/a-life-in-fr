@@ -18,7 +18,7 @@ draft: false
 
 1923 September 12th to 1924 January – New York, Boston and Dunwich
 
-Also known as **“Death in Dunwich”**
+Also known as **"Death in Dunwich"**
 
 ## Characters
 

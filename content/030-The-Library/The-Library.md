@@ -46,4 +46,4 @@ My library holds my digital resources for the following roleplaying games, acces
 - Stargate SG-1
 - Vampire: The Masquerade
 
-From [“Kasandrah”](https://startplaying.games/gm/kasandrah), with love!
+From ["Kasandrah"](https://startplaying.games/gm/kasandrah), with love!

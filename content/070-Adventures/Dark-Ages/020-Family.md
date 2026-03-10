@@ -19,13 +19,13 @@ Laid low, I saw no more … for a while. I came to from the pain. I knew where I
 
 I came to again after it had become dark. I was cold, and probably not just from the chill of the night. Time must have passed for the moon seemed to jump from place to place in the sky, when I even noticed it. But during that long wait for the final dawn, I heard someone was nearby … moving some bodies. How dare they … robbing the dead …
 
-Heh heh! I must be more alive than I thought, or – Ahhh! – much closer to Paradise than I thought. Whoever it is must have heard me, for he (the booted stride cannot be a woman’s) comes near. I’m confused, for it looks like a lord has come to this charnel-field. “You still live”, says this man who obviously needs to state the obvious. I would never do that, would I?
+Heh heh! I must be more alive than I thought, or – Ahhh! – much closer to Paradise than I thought. Whoever it is must have heard me, for he (the booted stride cannot be a woman’s) comes near. I’m confused, for it looks like a lord has come to this charnel-field. "You still live," says this man who obviously needs to state the obvious. I would never do that, would I?
 
-As he bends closer, I am startled to see his eyes are a vibrant, rich green. Not quite like when I look in the mirror, but … Why is he wasting his time with me, can’t he see I’m dying? “Help the others, for I am all but dead.”
+As he bends closer, I am startled to see his eyes are a vibrant, rich green. Not quite like when I look in the mirror, but … Why is he wasting his time with me, can’t he see I’m dying? "Help the others, for I am all but dead."
 
 But he does not seem to pay attention to what I have said. He is staring at me strangely, even when I repeat what is almost certainly my final eulogy. Then he asks me who my mother was. What is this man? Is this a man? Or is this just the dream of a dying man? I’d always thought that the final visions of the dying were more … well, uplifting. Oh well, my answer seems to put him back on his heels, and then he nods at me. Getting up, he walks away and moves out of my sight. At least he left me lying more comfortably … heh heh. Now that’s important, now.
 
-Then I am staring up at a most beautiful face, a little familiar but one never seen before. I must have passed over. But then I hear the voice of that strange lord again, saying, “I ask you for this one” (?) Her face looks amused, as she seems to breathe the question, “Why?” I don’t recall what else I heard as I felt myself drifting away.
+Then I am staring up at a most beautiful face, a little familiar but one never seen before. I must have passed over. But then I hear the voice of that strange lord again, saying, "I ask you for this one. " (?) Her face looks amused, as she seems to breathe the question, "Why?" I don’t recall what else I heard as I felt myself drifting away.
 
 Bitter-tasting blood … sweet-tasting (?) blood … pain … hunger … then I was aware again. In comfort, in bed and … still alive? But I had been dying… No! I remembered being dead … I think. Time passed as I still drifted in and out of consciousness. Until I awoke to find the lady I came to know as Lillane.
 

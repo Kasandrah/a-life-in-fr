@@ -18,7 +18,7 @@ draft: false
 
 ![[cc_african_cat_people.jpg]]
 
-**"Tiger Drinking", MS Copilot**
+**Tiger Drinking, MS Copilot**
 
 1922 September 26th to end December – London to Tanganyika, East Africa then home via Alexandria, Athens, and then to Paris via the Orient Express.
 

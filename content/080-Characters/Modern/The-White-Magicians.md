@@ -36,7 +36,7 @@ Played by [[Ben-G|Ben G.]]
 
 ## Sydney George Washington
 
-**“Snake”**
+**Snake**
  
 Private investigator, ex-CIA.
 

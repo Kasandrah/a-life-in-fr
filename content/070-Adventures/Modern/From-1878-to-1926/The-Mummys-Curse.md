@@ -18,7 +18,7 @@ draft: false
 
 ![[cc_curse_of_the_centuries.jpg]]
 
-Also known as **“Curse of the Centuries”**
+Also known as **"Curse of the Centuries"**
 
 1926 February - Cairo, Egypt
 

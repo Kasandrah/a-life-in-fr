@@ -34,7 +34,7 @@ As my focus is running games online via[ FoundryVTT](https://foundryvtt.com/), m
 **[[050-Modern#From 1878 to 1926|Modern]]** - (1920s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - very short campaigns of a few weeks each:
 
 - Casablanca (Morocco) - _[[Aletta-Yasmini|Aletta]]_ and _[[Viktor-Besarab|Viktor]]_ choose a side in the Rif War, August 1926
-- Los Angeles (USA) - _[[Alexandria-Mary-MacDonald|Alex]]_ and _[[Joshua-Eberhardt|Josh]]_ vs Hollywood’s [betrayal of “Bettys”](https://www.imdb.com/title/tt0166924), February 1926
+- Los Angeles (USA) - _[[Alexandria-Mary-MacDonald|Alex]]_ and _[[Joshua-Eberhardt|Josh]]_ vs Hollywood’s [betrayal of "Bettys"](https://www.imdb.com/title/tt0166924), February 1926
 - Boston (USA) - _[[Diana-Elizabeth-Winthrop|Diana]]_ and _[[David-van-Hasalt|David]]_ vs the East Coast anarchist movement, April 1926
 - Melbourne (Australia) - _[[Lisa-Ellen-Manchester|Lisa]]_ and _[[Gavin-Lewis|Gavin]]_ vs the Elite’s eugenics mantra, October 1926.
 

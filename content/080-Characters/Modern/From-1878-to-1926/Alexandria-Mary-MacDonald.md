@@ -25,7 +25,7 @@ Mary: “the bitter”, Hebrew, myrrh, common form of Miriam
 | _Birth sign:_      | Virgo                                                                    |
 | _Birth stones:_    | Sapphire, agate, jacinth, opal                                           |
 | _Birth flowers:_   | Valerian                                                                 |
-| _Partner:_         | _[[Joshua-Eberhardt\|Joshua “Josh” Eberhardt]]_                          |
+| _Partner:_         | _[[Joshua-Eberhardt\|Joshua Eberhardt]]_                          |
 | _Occupation_       | Author, journalist and photographer                                      |
 | _Residence:_       | Los Angeles, California                                                  |
 | _Drives:_          | [[Stutz-BB-Blackhawk\|1928 Stutz Model BB Blackhawk Boattail Speedster]] |

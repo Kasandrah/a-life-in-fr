@@ -16,7 +16,7 @@ draft: false
 ---
 # Sirens II
 
-Also known as **“The Siren Affair II”**
+Also known as **"The Siren Affair II"**
 
 1923 early November – Napier, New Zealand
 

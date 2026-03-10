@@ -14,7 +14,7 @@ fc-display-name: Sirens
 title: Sirens
 draft: false
 ---
-Also known as **“The Siren Affair”**
+Also known as **"The Siren Affair"**
 
 1921 late November to 1922 end March – Napier, New Zealand
 

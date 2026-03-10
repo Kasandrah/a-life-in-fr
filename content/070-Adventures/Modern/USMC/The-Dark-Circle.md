@@ -114,10 +114,10 @@ On the journey back to the village, they are met on the rough road by a black st
 
 Gwyn kneels before her Sire, Lillane, and offers her the sword.  Lillane demands an explanation for Switzerland.  Gwyn simply states that she made a mistake.  Owain explains the children had been slain by fearful cultists after Gwyn had attacked the cultists.  Lillane accepts the explanation with the comment that she won’t slay Gwyn just yet.  Lillane returns Excalibur into Gwyn’s keeping and leaves in the limousine.
 
-Gwyn and Owain make their own way to wherever they were going.  The rest of the team made their way back to Brasilia in the vain hope that this would now be the end.
+Gwyn and Owain made their own way to wherever they were going.  The rest of the team made their way back to Brasilia in the vain hope that this would now be the end.
 
->**GM's Note:** After "The Dark Circle", all my players but the stand-in GM complained they were playing the other player's game, not mine.  This problem had been building since "[[Fire-and-Air|Fire and Air]]", but after being locked into the stand-in GM's story as bit players, they didn't want to continue.
+>**GM's Note:** After "The Dark Circle", all my players but the stand-in GM complained they were playing the other player's game, not mine.  This problem had been building since [[Fire-and-Air|Fire and Air]], but after being locked into the stand-in GM's story as bit players, they didn't want to continue.
 >
->My intention with the United States Marine Corps (USMC) characters was to explore the outcome of matching heavy weaponry against various Cthulhu and non-Cthulhu threats. By catering to the wishes of one player only, the stand-in GM, I'd allowed my game to drift off mission and, finally, out of my hands.  My naivety and inability to say no when necessary almost cost me another campaign. 
+>My intention with the United States Marine Corps (USMC) characters was to explore the outcome of matching heavy weaponry against various Cthulhu and non-Cthulhu threats. By catering to the wishes of only one player , the stand-in GM, I'd allowed my game to drift off mission and, finally, out of my hands.  My naivety and inability to say no when necessary almost cost me another campaign. 
 >
 >To address the glaring imbalance in player agency, I asked the stand-in GM to create a new USMC character comparable with the others.  Hence, _[[USMC-Fireteam-SG-21#Major Kris Morrissey|Major Kris Morrissey]]_ replaced _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_ and _[[Jenny-H#^59824f|David Abrahamson]]_.  I also ensured _[[020-The-Antediluvians#Gwyn|Agnetha]] and [[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ never appeared in this campaign again.

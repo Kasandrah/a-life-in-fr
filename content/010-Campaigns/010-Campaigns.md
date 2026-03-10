@@ -43,9 +43,9 @@ I ran a series of loosely linked Earth-based campaigns using elements from the f
 
 My other sources included books, comics, movies, music, television, video games and real life.
 
-My Earth-based campaigns were structured around an [[020-Alternate-Timeline|Alternate Timeline]] in which some things happened as per history, but many things changed. This was where we played **“what if?”**
+My Earth-based campaigns were structured around an [[020-Alternate-Timeline|Alternate Timeline]] in which some things happened as per history, but many things changed. This was where we played **"what if?"**
 
-I interspersed these ongoing campaigns with a number of short one or two session adventures based on ideas involving some of my long-lived [[020-The-Antediluvians|Non-Player Characters (NPCs)]]. These [[010-One-Night-Plays|One Night Plays]] were set anywhere from 3000 BC to the modern era and provided additional history and background for my players.
+I interspersed these ongoing campaigns with short one or two session adventures based on ideas involving some of my long-lived [[020-The-Antediluvians|Non-Player Characters (NPCs)]]. These [[010-One-Night-Plays|One Night Plays]] were set anywhere from 3000 BC to the modern era and provided additional history and background for my players.
 
 ## Arthurian Britain
 
@@ -57,7 +57,7 @@ _**What if** King Arthur had really existed, and he’d married Maeve instead o
 
 My [[030-Arthurian-Britain|Arthurian Britain]] campaign began in 495 AD and was the earliest of my Earth-based campaigns. When the campaign started, Arthur was a boy yet to pull Excalibur from the stone. We played the first half of the campaign through to 514 AD, at which time Arthur had become King and all the PCs had become vassal rulers of their own large domains.
 
-We had a bit of a gap after 514 AD and picked up again in 520 AD. By this time all the PCs had sons, legitimate or otherwise, the right age to become young knights in King Arthur’s court. I asked the players to roll up and play a son of their PC for the second part of the campaign. This gave us an opportunity to “soft reboot” into the golden age of King Arthur Pendragon.
+We had a bit of a gap after 514 AD and picked up again in 520 AD. By this time all the PCs had sons, legitimate or otherwise, the right age to become young knights in King Arthur’s court. I asked the players to roll up and play a son of their PC for the second part of the campaign. This gave us an opportunity to soft reboot into the golden age of King Arthur Pendragon.
 
 ## Dark Ages
 
@@ -91,13 +91,13 @@ I preferred the latter two eras, although we played the occasional game set in t
 
 ---
 
-_**What if** some great dark evil from beyond the stars threatened our world, and all that stood between us and total destruction was a secret government agency, an alien [Star Gate](https://en.wikipedia.org/wiki/Stargate_SG-1) and a team of intrepid Marines?_
+_**What if** some great dark evil from beyond the stars threatened our world, and all that stood between us and destruction was a secret government agency, an alien [Star Gate](https://en.wikipedia.org/wiki/Stargate_SG-1) and a team of intrepid Marines?_
 
 My intention with the United States Marine Corps (USMC) PCs was to explore the outcome of matching heavy weaponry against various Cthulhu and non-Cthulhu threats. All the players had before this campaign were guns, their wits, and some unreliable and painful magic.
 
-The Marines were armed with weapons-loaded Blackhawk helicopters, automatic assault weapons, heat-seeking missiles and “nuclear solutions”. The results were very entertaining.
+The Marines were armed with weapons-loaded Blackhawk helicopters, automatic assault weapons, heat-seeking missiles and nuclear solutions. The results were very entertaining.
 
-[[050-Modern#USMC vs “What the … ?”|USMC vs “What the … ?”]]
+[[050-Modern#USMC vs "What the … ?"|USMC vs "What the … ?"]]
 
 ---
 
@@ -135,7 +135,7 @@ These campaigns occurred in different spaces and times than the above Earth-base
 
 **Dungeons & Dragons**
 
-After decades playing a variety of role-playing games, I’ve settled on Dungeons & Dragons – a classic game in every sense of the word. We've play both the [3.5 edition](http://www.d20srd.org/index.htm) and the [5.0 edition](https://dnd.wizards.com/products?category=where-to-start). My [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign is set in [Mystara](http://pandius.com/).
+After decades of playing a variety of role-playing games, I’ve settled on Dungeons & Dragons – a classic game in every sense of the word. We've play both the [3.5 edition](http://www.d20srd.org/index.htm) and the [5.0 edition](https://dnd.wizards.com/products?category=where-to-start). My [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign is set in [Mystara](http://pandius.com/).
 
 ## Star Wars
 
