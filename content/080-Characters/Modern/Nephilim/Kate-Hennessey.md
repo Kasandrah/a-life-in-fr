@@ -8,7 +8,9 @@ tags:
 title: Kate Hennessey
 draft: false
 ---
-# Written by [[Jenny-H|Jenny H.]] (Kate)
+# Kate Hennessey
+
+**Written by [[Jenny-H|Jenny H.]] (Kate)**
 
 METAMORPHOSIS – FOX SPIRIT
 
@@ -44,23 +46,23 @@ Generally, she tried to get what she wanted nicely, but wasn’t above blackmail
 
 ---
 
-# Contacts
+## Contacts
 
-## Harold Nitz
+### Harold Nitz
 
 The cop from above. He is now working his way up the chain of command and statutory rape and abuse of power would not go down well with his superiors (especially as Kate has the video he made). He is definitely carefully crooked and this isn’t the only dirt Kate has collected on him. She is very careful not to push him too far, just popping up enough to keep him unsettled but not desperate.
 
-## General Burt and Charles Hudson
+### General Burt and Charles Hudson
 
 With the help of a scholarship Harold Nitz organised, Kate went back to school. She obtained another scholarship through Hill Electronics to attend business college. (Even if it’s consensual, it’s still statutory rape if you’re underage. Especially if your wife wouldn’t approve of a fling with a work experience student.) There she met Charles Hudson, who was fun and generous. His father, a widower, was from a rich family. Kate ended up having an affair with both of them simultaneously (the father knew, the son didn’t). So it didn’t go down well when Charles proposed on their graduation day. There was a flaming row between father and son. (Charles didn’t believe his father’s accusations and Kate could get a job acting any time she wanted.) Kate told Charles it obviously wasn’t going to work, broke it off gently, took a large cash settlement from Burt and left them to sort it out. She hasn’t seen them since.
 
-## Kent Robinson
+### Kent Robinson
 
 Kent works for AT&T. Kate met him at a club while she was on holidays from college. It was probably the first time she’d had sex purely for the fun of it. No strings attached, no hidden agenda, no money changing hands. If the truth be told, she’s just a little grateful to him for proving it was possible. She’s quite fond of him and pops up every so often to see him. They aren’t in love with each other, but he’s still single and it is good sex.
 
 ---
 
-# What the Secret Service Know About Kate
+## What the Secret Service Know About Kate
 
 Born Susan Jesson on 6 July 1971 in Atlanta, Georgia.
 
@@ -86,7 +88,7 @@ Kate has no ties to anyone, no known long term friends, no family contacts, no b
 
 ---
 
-# Random Acts of Kindness
+## Random Acts of Kindness
 
 - Gives a red rose to a sad-looking girl in the street.
 - Posts two tickets to Miami with a weekend’s hotel accommodation to a nice couple she met in hospital – a couple that never had a holiday. Tickets are in a letter stating the couple won a prize in a competition. The dates are open but must be used within six months.
@@ -101,19 +103,17 @@ While away, Kate sends a present to _[[Nephilim-NPCs#Mark|Mark]]_ addressed to �
 
 ---
 
-# Kate and Mark
+## Kate and Mark
 
 Mark fascinates Kate. He’s strong, powerful, charismatic, sensual, handsome, and has great stamina – all the things she looks for in a man. He’s also the first one to ever drop her like a hot cake. It’s a novel experience.
 
 Kate came back to Cleveland because she has to get him out of her system. Her memory was starting to make him the best she was ever likely to get, and that can’t be allowed to get out of hand. He can’t possibly be that good, and she refuses to let false memories sour future relationships. She needs to reassure herself that she’s still irresistible to any man she wants.
 
-Kate will behave as though she has an ongoing relationship with Mark. She’ll kiss him good morning, brush past him, touch him and talk to him that way. She’s intelligent and knows people. She’ll know how far to push it and when to back off, and will err slightly on the side of caution. The people who witness this may not realise what she’s doing. She’s marking her territory, enjoying teasing Mark, and honing her men-skills. There’s a certain piquancy to flirting with danger.
+Kate will behave as though she has an ongoing relationship with Mark. She’ll kiss him good morning, brush past him, touch him and talk to him that way. She’s intelligent and knows people. She’ll know how far to push it and when to back off, and will err slightly on the side of caution. The people who witness this may not realise what she’s doing. She’s marking her territory, enjoying teasing Mark, and honing her man-skills. There’s a certain piquancy to flirting with danger.
 
-However, underneath this Kate is serious. If Mark decides to test how far she’ll take this, he’ll find out she’s willing and able, Angel of Death or not! If he openly turns her down or makes her feel stupid, Kate will leave never to return.
+However, underneath this, Kate is serious. If Mark tests how far she’ll take this, he’ll find out she’s willing and able, Angel of Death or not! If he openly turns her down or makes her feel stupid, Kate will leave, never to return.
 
-> **GM’s Note:**
-> 
-> If Mark ever loves Kate, really loves her, he’ll take her with him into the Eternal Realms, i.e. Kate will die. He’s already in deeper than is good for Kate, hence her recent heart attack. That’s why he backed off and ‘dropped her like a hotcake’.
+> **GM’s Note:** If Mark ever loves Kate, really loves her, he’ll take her with him into the Eternal Realms, i.e. Kate will die. He’s already in deeper than is good for Kate, hence her recent heart attack. That’s why he backed off and "dropped her like a hotcake".
 > 
 > Mark’s view of the passage of time is very different. He’s eternal, so they could date for her entire natural lifespan and he’d still feel like they met yesterday. He’s not in any hurry, especially given the consequences of his love. Does Kate really want him to love her to death so soon? Has she had enough of living already?
 > 
@@ -121,7 +121,7 @@ However, underneath this Kate is serious. If Mark decides to test how far she’
 
 ---
 
-# More Random Acts of Kindness
+## More Random Acts of Kindness
 
 - Buy a good quality sewing machine. It will be delivered to the girl next door that Kate helped dress for the school social, so she can make her own clothes. Kate will design clothes for the girl if she makes Kate’s clothes as well (part time work for the girl). By the time Kate loses interest, the girl should be able to design and make clothes for sale.
 - Plant colourful and exotic flowers in the front garden, away from the kiln.

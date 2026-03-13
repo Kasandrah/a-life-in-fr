@@ -29,7 +29,7 @@ Played by [[Simon-M|Simon M.]]
 
 ### Lord Cynon
 
-Earl of Rydychan, knight and Champion of Epona. Cynon wants to be the best Champion of Epona ever and remove the third brother from the castle – for his mother-in-law.
+Earl of Rydychan, knight and Champion of Epona. Cynon wants to be the best Champion of Epona ever and remove the third brother from the castle, for his mother-in-law.
 
 Played by [[Michael-H|Michael H.]]
 
@@ -49,7 +49,7 @@ Played by [[Jenny-H|Jenny H.]]
 
 ### Lord Rhodri
 
-Earl of Jagent, Cymric Pagan born 474 AD. Son of the mercenary knight Gwrfelling. Rhodri was knighted on the battlefield in 495 AD. He likes Arthur, Jeanne, family, the original Roman Empire, Mithras, playing the harp, and adventuring. He dislikes the fall of the Roman Empire, Saxons, and the Fae (but doesn’t talk about that one).
+Earl of Jagent, Cymric Pagan born 474 AD. Son of the mercenary knight Gwrfelling. _[[Rhodri|Rhodri]]_ was knighted on the battlefield in 495 AD. He likes Arthur, Jeanne, family, the original Roman Empire, Mithras, playing the harp, and adventuring. He dislikes the fall of the Roman Empire, Saxons, and the Fae (but doesn’t talk about that one).
 
 Played by [[Ben-G|Ben G.]]
 

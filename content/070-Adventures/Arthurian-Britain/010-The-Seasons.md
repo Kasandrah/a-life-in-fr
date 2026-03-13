@@ -90,7 +90,7 @@ First appearance of:
 
 ## [[499-AD|499 AD]]
 
-The party sleep on Tor Barrow Hill and wake up in the realm of the Red Dragon of Cymry.  They find the legendary Guardian, who asks Rhodri to ask _[[Oberon|Oberon]]_ to bring Marius to Tor Barrow Hill each year.  The Guardian believes that Oberon will do this in exchange for information on the whereabouts of one of the Great Fae Treasures.  The Guardian gives Rhodri a scroll to pass to Oberon - a scroll that none of the party can read.
+The party sleep on Tor Barrow Hill and wake up in the realm of the Red Dragon of Cymru.  They find the legendary Guardian, who asks Rhodri to ask _[[Oberon|Oberon]]_ to bring Marius to Tor Barrow Hill each year.  The Guardian believes that Oberon will do this in exchange for information on the whereabouts of one of the Great Fae Treasures.  The Guardian gives Rhodri a scroll to pass to Oberon - a scroll that none of the party can read.
 
 On the way to delivering the scroll, the party meet a talking bear, the Knight of the Red Feather, and the Serpent of Many Colours.  Led on by a troublemaking unicorn, the party challenges the Serpent only to find they are fighting Ailil, the Unseelie Prince.  Ailil apparently often appears in this disguise.  Ouch!
 
@@ -111,7 +111,7 @@ First appearance of:
 - Wise One (a giant salmon)
 - King of the Fomori
 - Guinevere (not recognised at the time)
-- Red Dragon of Cymry
+- Red Dragon of Cymru
 - Margot, daughter of the Duke of Clarence
 - Duke Eustace of Clarence.
 

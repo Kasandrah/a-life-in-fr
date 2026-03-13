@@ -10,7 +10,7 @@ draft: false
 ---
 # The Antediluvians
 
-While these vampires were embraced by the 2nd Gen _[[Lillane-of-Clan-Bahari|Lillane of Clan Bahari]]_ well after the Biblical Flood and therefore cannot be termed ‘[Antediluvian](http://whitewolf.wikia.com/wiki/Antediluvian)‘ in the genuine sense, each will grow into power equivalent to the god-like (and many say mythical) Cainite Antediluvians.
+While these vampires were embraced by the 2nd Gen _[[Lillane-of-Clan-Bahari|Lillane of Clan Bahari]]_ well after the Biblical Flood and therefore cannot be termed "[Antediluvian](http://whitewolf.wikia.com/wiki/Antediluvian)" in the genuine sense, each will grow into power equivalent to the god-like (and many say mythical) Cainite Antediluvians.
 
 Lillane’s Childer are the warriors who will bring [Gehenna](http://whitewolf.wikia.com/wiki/Gehenna_\(event\)) to the [Kindred](http://whitewolf.wikia.com/wiki/Kindred_\(VTM\)).
 
@@ -62,7 +62,7 @@ Played by [[Craig-B|Craig B.]]
 
 ## Roland
 
-[[020-Family|Embraced 778 AD, Roncesvaux, Pyrenees]] at the scene of his defeat by the Basques. Roland was Count of the Marches of Brittany and a nephew of Charlemagne, King of the Franks. Roland changed his name to _Rollon_ to distance himself from his defeat, made famous by the epic poem, the ["Song of Roland"](https://en.wikipedia.org/wiki/The_Song_of_Roland).
+Embraced **[[020-Family|778 AD]]**, Roncesvaux, Pyrenees at the scene of his defeat by the Basques. Roland was Count of the Marches of Brittany and a nephew of Charlemagne, King of the Franks. Roland changed his name to _Rollon_ to distance himself from his defeat, made famous by the epic poem, the ["Song of Roland"](https://en.wikipedia.org/wiki/The_Song_of_Roland).
 
 ![[da_roland.jpg]]
 
@@ -74,11 +74,11 @@ Lillane embraced Roland on the battlefield because she recognized the reincarnat
 
 Raushan = "Bright as a Star", ibn Taariq = "Son of Morning Star".
 
-[[020-Family|Embraced 778 AD, Roncesvaux, Pyrenees]] (same place, same day) at the request of Lillane’s blood brother, Lucifer. Unknown to Raushan, Lucifer is Raushan’s biological father.
+Embraced **[[020-Family|778 AD]]**, Roncesvaux, Pyrenees (same place, same day) at the request of Lillane’s blood brother, Lucifer. Unknown to Raushan, Lucifer is Raushan’s biological father.
 
-Raushan is a Moorish scholar and talented physician who appears to be about 40 years old. He has pale green eyes, a trim moustache and beard and wears comfortable, silken Moorish clothing. He speaks and writes Spanish, French, Latin, Arabic and Greek, and is interested in science and learning, doctoring and disease, travelling Moorish lands, food, and pursuing an ongoing rivalry with Rollon.
+Raushan is a Moorish scholar and talented physician who appears to be about 40 years old. He has pale green eyes, a trim moustache and beard, and wears comfortable, silken Moorish clothing. He speaks and writes Spanish, French, Latin, Arabic, and Greek, and is interested in science and learning, doctoring and disease, travelling Moorish lands, food, and pursuing an ongoing rivalry with Rollon.
 
-He dislikes harm to children, harm to those in his care and willful ignorance. Raushan can change shape, so he can alter his appearance and turn into a very large, grey falcon.
+He dislikes harm to children, harm to those in his care, and willful ignorance. Raushan can change shape, so he can alter his appearance and turn into a very large, grey falcon.
 
 Played by [[Ben-G|Ben G.]]
 

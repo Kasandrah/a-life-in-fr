@@ -205,6 +205,6 @@ It was a lot simpler to just stage another rescue, which was exactly what they d
 >
 >While trying to remove Annalise from the Governor's exclusive formal dinner at a first class lakeside hotel, the group had to contend with Deak's near fatal poisoning at the hands of Mara Jade, his former lover and now an Imperial assassin and ISB double agent.  The crew of the _Red Storm Rising_ saved Deak's life and freed Annalise from the Governor's guards.
 >
->With the addition of _[[010-Star-Wars-Characters#_Alvak, Captain T._|Alvak]]_, an Imperial TIE fighter pilot defecting to the Alliance, the group fled to the spaceport just ahead of the Governor's forces.  The _Red Storm Rising_ and the _Dark Heart_ blasted out of the spaceport and headed for the first hyperspace jump coordinates.
+>With the addition of _[[010-Star-Wars-Characters#Alvak, Captain T.|Alvak]]_, an Imperial TIE fighter pilot defecting to the Alliance, the group fled to the spaceport just ahead of the Governor's forces.  The _Red Storm Rising_ and the _Dark Heart_ blasted out of the spaceport and headed for the first hyperspace jump coordinates.
 >
 >Before either ship could achieve hyperspace, Imperial fighters attacked.  Superior piloting and gunnery won out, and the _Red Storm Rising_ and the _Dark Heart_ made the first jump back to Generis Base.  Annalise rejoined Taran Storm onboard _Storm Clouds_.

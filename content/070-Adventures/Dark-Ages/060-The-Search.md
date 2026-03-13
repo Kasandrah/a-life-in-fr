@@ -141,7 +141,7 @@ As Gwyn was forced backwards by the power of his prayers, I threw myself at him.
 
 “They saved our lives.” That had his attention. “They fought the giant.”
 
-“They fought the giant who was fighting against us.”
+“They fought the giant who was fighting us.”
 
 “Only when you attacked them.”
 

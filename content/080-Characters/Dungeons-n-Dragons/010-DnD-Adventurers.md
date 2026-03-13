@@ -101,7 +101,7 @@ Hide – all the above, but the monkey is now invisible.
 
 ## Redgar
 
-Played by Daniel.
+Played by Daniel D.
 
 ---
 

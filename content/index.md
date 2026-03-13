@@ -18,9 +18,9 @@ Since then, I have played in and run many [role-playing](https://en.wikipedia.o
 
 > I don’t have the words to describe the profound benefits role-playing has brought to my life. My husband, lifelong friends, and a wealth of positive, funny, and memorable experiences have all come about through role-playing.
 > 
-> Andra Cass - [Kasandrah](https://startplaying.games/gm/kasandrah)
+> Andra Cass - ["Kasandrah"](https://startplaying.games/gm/kasandrah)
 
-This website and blog are part archive, part memorabilia, part homage to my "hobby" of a lifetime.
+This website and blog are part archive, part memorabilia, part homage to my hobby of a lifetime.
 
 May the road go ever on …
 

@@ -58,7 +58,7 @@ Evelyn is the only one of her family to come to Whitehall so far, although one o
 
 ---
 
->**GM's Note:** Hey Sharon, the write up for Evelyn's background should answer your questions about her as a person and what she likes to do etc. As for what kind of relationship she was looking for/ expecting? Evelyn, as you will see in write up, hasn't been super successful in the dating game and so she is single but wanted to become a mother.
+>**GM's Note:** The write up for Evelyn's background should answer your questions about her as a person and what she likes to do etc. As for what kind of relationship she was looking for/ expecting? Evelyn, as you will see in write up, hasn't been super successful in the dating game and so she is single but wanted to become a mother.
 >
 >When she learned of plumekith there was always a fascination and when she met Hrithik she decided to try and woo him. She expected that Hrithik would leave her to take care of the child herself as she had gathered information about their typical behaviour but had the money and standing to do this easily. She is also aware of the eerie in the mountains where she can take her child once they are of age to learn more about who they are and where they come from.
 >
@@ -68,7 +68,7 @@ Evelyn is the only one of her family to come to Whitehall so far, although one o
 
 ---
 
->**Player's Reply:** Hi Zac, This will be a new experience for both of them – Evelyn has a new partner and Hrithik is going to focus on one woman for the foreseeable future.
+>**Player's Reply:** This will be a new experience for both of them – Evelyn has a new partner and Hrithik is going to focus on one woman for the foreseeable future.
 >
 >Not to say he won’t follow his Father’s dictates at a later date but in the meantime Evelyn is the centre of his attention. If he grows to love her then he may be looking for loopholes in the “go forth and procreate” rule. He has come from a stable two-parent family, after all, and knows the benefits that bestows on the children of such a successful union.
 >
@@ -301,16 +301,18 @@ A particularly troublesome group of goliaths, whom are holed up in the mountains
 
 ### Mog'Durin
 
-Mog'Durin is the dwarf capital, named after Durin Bolas the first king of the dwarves, who was appointed such by Aduun for his skill in invention. Since that time, the powerful have been made by their ability to invent fantastical contraptions and were called makers. An annual exhibition of all the newest inventions is held within the primary temple to Aduun, with Aduun himself judging and distributing titles and rewards for those that are particularly impressive. Mog' Durin is a high tech city full of mostly dwarves, many halflings and a smattering of many other races (particularly those who are used to low light environments).
+Mog'Durin is the dwarf capital, named after Durin Bolas, the first king of the dwarves, who was appointed such by Aduun for his skill in invention. Since that time, the powerful have been made by their ability to invent fantastical contraptions and were called makers. An annual exhibition of all the newest inventions is held within the primary temple to Aduun, with Aduun himself judging and distributing titles and rewards for those that are particularly impressive. Mog' Durin is a high-tech city full of mostly dwarves, many halflings and a smattering of many other races (particularly those who are used to low-light environments).
 
-The city is broken up into terraced districts. The crafts district is where new makers are trained and where craftsmen work. The trade district is where the fantastic inventions of the dwarves are sold for substantial profit and trade with the outside world takes place. The wealthy district is where the successful business dwarves and makers reside, living above all others in Mog'Durin. Finally the slums are where the poor reside, those who weren't skilled craftsmen or were uninterested in making. The slums are where those who do the menial labour reside, such as security, miners, maintenance, etc and are often looked down upon by the wealthy class.
+The city is broken up into terraced districts. The crafts district is where new makers are trained and where craftsmen work. The trade district is where the fantastic inventions of the dwarves are sold for substantial profit and trade with the outside world takes place. The wealthy district is where the successful business dwarves and makers reside, living above all others in Mog'Durin. Finally the slums are where the poor reside, those who weren't skilled craftsmen or were uninterested in making. The slums are where those who do the menial labour reside, such as security guards, miners, maintenance, etc and are often looked down upon by the wealthy class.
 
-The current King of the dwarves is Umafiel Bardator, appointed by Aduun very recently for a yet unknown invention. Since his appointment he has not left his palace nor has he let anyone, except Aduun himself, in. This antisocial behaviour has resulted in some of the wealthy class speaking out against him and questioning Aduun, lead by Dorlan Muffast, the previous King.
+The current King of the dwarves is Umafiel Bardator, appointed by Aduun very recently for a yet unknown invention. Since his appointment, he has not left his palace, nor has he let anyone, except Aduun himself, in. This antisocial behaviour has resulted in some of the wealthy class speaking out against him and questioning Aduun, led by Dorlan Muffast, the previous King.
 
-Mog'Durin is a centre of technological wonder and a mercantile power house on the continent of Aedatan. While Mog'Durin does have many wonderous contraptions and artifacts, many of them are not magical in nature, as dwarves usually aren't magical in nature.
+Mog'Durin is a centre of technological wonder and a mercantile powerhouse on the continent of Aedatan. While Mog'Durin does have many wonderous contraptions and artifacts, many of them are not magical in nature, as dwarves usually aren't magical in nature.
 
 
 ![[gm_mog_durin_map.png]]
+
+**Mog'Durin**
 
 
 

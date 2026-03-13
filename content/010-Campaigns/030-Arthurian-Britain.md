@@ -73,7 +73,7 @@ Church officials and monasteries also rely upon land grants to knightly vassals 
 
 ## In the Hall of Arthur Pendragon, King of the Britons
 
-- _King Arthur_ and _Queen Maeve_, his wife
+- _King Arthur_ and _Queen Maeve_, his wife ^5ae098
 - _Merffyn_ the legendary sorcerer, Arthur’s guardian
 - _[[Sir-Brennos|Sir Brennos]]_ (Cymric pagan)
 - _Sir Lancelot_ (French Christian, born 494 AD), wears Seelie armour, carries magical weapons and shield ^9bb92d
@@ -201,14 +201,14 @@ Finias, the magic spear that controls the elements, is in Glastonbury Church and
 
 ## In the Hall of the Dragon Queen
 
-- _Lady Voklaynn, Red Dragon of Cymry_, her husband _Lord Anwyn_, and their sons _Illisander_ and _[[Karwin|Karwin]]_
+- _Lady Voklaynn, Red Dragon of Cymru_, her husband _Lord Anwyn_, and their sons _Illisander_ and _[[Karwin|Karwin]]_
 - _[[Cendrian]]_
 - _Murias_, Cauldron of the Dagda (of Plenty), resurrects the dead (but they can’t talk) – taken by Rhodri and Arthur from Ben Nevis (from the hall of _Varis the Black_, the un-dead dragon necromancer)
 - _Wise One_ (a giant salmon) ^fc6c1c
 - _Guardian of Tor Barrow Hill_ ^4f99d3
 - _Knight of the Red Feather_ ^cae78d
 
-At the heart of the realm lies a great mountain that reaches halfway to the sky.  This mountain can be seen from anywhere within the realm and serves as a beacon for those journeying to see or seek refuge with the Queen of Air – the Red Dragon of Cymry.
+At the heart of the realm lies a great mountain that reaches halfway to the sky.  This mountain can be seen from anywhere within the realm and serves as a beacon for those journeying to see or seek refuge with the Queen of Air – the Red Dragon of Cymru.
 
 The realm consists of great forests, rivers, lakes and rolling hills of verdant green grasses, alive with animals, birds and magical creatures.  The seasons cycle through brilliant warm summers abuzz with activity, rich golden autumns muted by falling leaves, crisp diamond bright winters and rainbow coloured springs heavy with floral perfumes.  Two bright silver moons wax and wane with each passing night in a black velvet sky studded with stars.
 
@@ -252,10 +252,11 @@ The Seelie relinquish power at Samhain (winter solstice – last night of Octobe
 The Unseelie relinquish power at Beltane and take over again at Samhain.
 
 - _Ailil_ (_[[Oberon|Oberon's]]_ twin brother), Serpent of Many Colours, and _Morgaine_, Arthur’s ½ sister ^11871f
-- _Durandel_, their daughter
+- _Durandel_, their daughter ^9927ac
 - _Mordred_, son of Arthur and Morgaine (born 512)
-- _Aubergin_ – advisor to Ailil
-- _Darkain_ – court sorcerer, 4 feet tall and hideous, hunchback, disguised as a sparrow ^abd763
+- _Aubergin_, advisor to Ailil
+- _Leuthwin_, Ailil's champion ^8ef235
+- _Darkain_, court sorcerer, 4 feet tall and hideous, hunchback, disguised as a sparrow ^abd763
 
 > "Sometimes we remember our nightmares and learn from them. Sometimes we are foolish and forget."
 > 

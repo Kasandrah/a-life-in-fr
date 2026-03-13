@@ -47,11 +47,11 @@ As a healer and herbalist, Voklaynn has no equal in Anfar.  Her skills are know
 
 Years of singing have strengthened her soprano voice, which she usually accompanies by playing her lute.  The lute is remarkable for its Gelfling screws, tiny animals carved from mountain hardwood by a Gelfling craftsman.
 
-Voklaynn's travelling companions include a large, wolf-like dog named Asho, two donkeys and a small Saurian bodyguard named [[Cendrian|Cendrian]], whom she calls "Smudge".  Asho's left hind leg was crippled during an attack by thieves, so he normally rides along in the back of Voklaynn's cart, keeping an eye on her sons, her belongings and her hidden pouch of gold and silver pieces.  The donkeys provide their own brand of entertainment for the rest of the party and are so alike that only close inspection will allow them to be distinguished from one another.  Voklaynn calls them Number One and Number Two.
+Voklaynn's travelling companions include a large, wolf-like dog named Asho, two donkeys and a small Saurian bodyguard named [[Cendrian|Cendrian]], whom she calls "Smudge".  Asho normally rides along in the back of Voklaynn's cart, keeping an eye on her sons, her belongings, and her hidden pouch of gold and silver pieces.  The donkeys provide their own brand of entertainment for the rest of the party and are so alike that only close inspection will allow them to be distinguished from one another.  Voklaynn calls them Number One and Number Two.
 
 All things Saurian, including the Celestial Dragon.
 
-Voklaynn has learnt the value of a short sword, a dagger and a crossbow and is skilled with all three.
+Voklaynn has learnt the value of a short sword, a dagger, and a crossbow and is skilled with all three.
 
 # Background
 

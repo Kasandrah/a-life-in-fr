@@ -8,7 +8,7 @@ draft: false
 ---
 # Out of Place
 
->**GM's Note:**  This describes Niani and Brennos' transition from [[Neil-F|Neil F.'s]] [[100-Anfar-Refinli|Anfar Refinli]] campaign to my [[030-Arthurian-Britain|Arthurian Britain]] campaign, amongst other things.
+>**GM's Note:**  This describes Niani and Brennos' transition from [[Neil-F|Neil F.'s]] [[100-Anfar-Refinli|Anfar Refinli]] campaign to my [[030-Arthurian-Britain|Arthurian Britain]] campaign.
 
 **Written by [[Jenny-H|Jenny H.]] (Niani)**
 
@@ -24,13 +24,13 @@ draft: false
 
 ## Anfar Refinli
 
-After their return from the Summer Country, Niani was keen to make up for lost time and continue on her mission for the King of Ulleran.  However, Voklaynn and Tintagel needed to rest from their various wounds, physical and mental, and Niani's loyalty to her friend prevented her from urging immediate departure from the village.  There were other departures, however.  _[[The-Summer-Country#Dannar|Dannar]]_, much to Niani's astonishment given his avowed hatred of elves and professed undying love for her, decided to leave with Methia.  _[[The-Summer-Country#Kyle|Kyle]]_ decided to go with them.  Not that she was really sorry to see the back of any of them.
+After their return from the Summer Country, Niani was keen to make up for lost time and continue on her mission for the King of Ulleran.  However, Voklaynn and Tintagel needed to rest from their various wounds, physical and mental, and Niani's loyalty to her friend prevented her from urging immediate departure from the village.  There were other departures, however.  _[[The-Summer-Country#Dannar|Dannar]]_, much to Niani's astonishment given his avowed hatred of elves and professed undying love for her, left with Methia.  _[[The-Summer-Country#Kyle|Kyle]]_ went with them.  Not that she was really sorry to see the back of them.
 
-_[[The-Summer-Country#Lan|Lan]]_ had fun fostering the growing regard Niani and Brennos had for each other.  Niani had not the slightest idea of how to conduct a relationship with a member of the opposite sex and had some difficulty understanding Brennos' interest.  She confessed to Voklaynn she rather liked him, and Voklaynn tried to encourage her.
+_[[The-Summer-Country#Lan|Lan]]_ had fun fostering the growing regard Niani and Brennos had for each other.  Niani had not the slightest idea of how to conduct a relationship with a member of the opposite sex and had some difficulty understanding Brennos' interest.  She confessed to Voklaynn that she rather liked him, and Voklaynn tried to encourage her.
 
 One day, Brennos invited Niani to go riding with him.  As it was one of Niani's favourite pastimes, particularly with her new horse, Andromeda, she readily agreed.  They passed a pleasant time racing the horses until Raven, one of the Powers of the Summer Country, appeared on the trail before them.
 
-Raven asked them to assist some of her people in another part of her demesne.  Brennos' Power, Epona, had agreed to allow him to help, and Raven wanted Niani to help as well.  Niani initially refused, citing her commitment to the King of Ulleran, but agreed after Raven convinced her it would take no time.  They were to leave the following day, as Niani also insisted on advising her companions of the task.
+Raven asked them to assist some of her people in another part of her domain.  Brennos' Power, Epona, had agreed to allow him to help, and Raven wanted Niani to help as well.  Niani initially refused, citing her commitment to the King of Ulleran, but agreed after Raven convinced her it would take no time.  They were to leave the following day, as Niani also insisted on advising her companions of the task.
 
 Back at the village, Tintagel warned Niani she needed a direct promise from Raven of any conditions, otherwise she risked being disappointed.  Niani felt honourable people did not need that detailed a vow, but practiced an appropriate promise with him.
 
@@ -38,7 +38,7 @@ The following day they met Raven again.  Niani sought the promise from Raven, b
 
 ## [[501-AD]] - Arthurian Britain
 
-There, they rode towards a primitive hill fort, assuming it was the home of the people Raven had sent them to protect.  Their welcome, when they informed the suspicious defenders that Raven had sent them, convinced them their assumption was correct.  The defenders treated them like gods.
+There, they rode towards a primitive hill fort, assuming it was the home of the people Raven had sent them to protect.  Their welcome, when they informed the suspicious defenders that Raven had sent them, convinced them that their assumption was correct.  The defenders treated them like gods.
 
 They started to inspect the fort.  The village chief showed them the makeshift hospital, where badly injured individuals lay moaning in pain.  The villagers' knowledge of battle wound treatments left much to be desired.  Niani suggested Brennos inspect the fortifications while she did what she could to improve matters there.
 
@@ -46,13 +46,13 @@ Keeping in mind the sensibilities of the healer in charge, Niani put into place 
 
 It was late by the time Niani finished.  They gave her food and showed her to a small round hut, probably their equivalent of the guest room.  Niani wondered briefly where Brennos was staying, but was too tired to ask.  The morning was soon enough to start planning.
 
-Niani started to prepare for bed.  She took off her armour, unbound her long chestnut hair and started to brush it.  It had become a habit to do a lot of her thinking while performing this task.  The rhythm had a way of marshalling her thoughts and she had to piece together everything the villagers had told her.
+Niani started to prepare for bed.  She took off her armour, unbound her long chestnut hair, and started to brush it.  It had become a habit to do a lot of her thinking while performing this task.  The rhythm had a way of marshalling her thoughts, and she had to piece together everything the villagers had told her.
 
 Lost in thought, Niani started as the embodiment of part of her thoughts entered the hut.  The villagers had shown Brennos to the same one.
 
 "I'm sorry," Brennos soothed her.  Niani felt as she imagined a startled deer might, caught in a hunter's sights and unsure whether or not to bolt.  "I think they've assumed we're together, so we'd share the same hut.  I could ask them to find me somewhere else to sleep."
 
-Niani was not sure she wanted that either.  She had made snap decisions in the past and this one seemed as if it had been a long time coming.  Brennos read her uncertainty.  "Or I could stay, if you'd like."
+Niani was not sure she wanted that either.  She had made snap decisions in the past, and this one seemed as if it had been a long time coming.  Brennos read her uncertainty.  "Or I could stay if you'd like."
 
 Niani's voice was almost a whisper.  "Stay."
 
@@ -60,11 +60,11 @@ Brennos crossed the room and took her hands.  "Are you sure?"
 
 The excitement was beginning to outweigh the anxiety.  "I'm sure.  I just don't know what to do.  I've never..."
 
-Brennos took her in his arms.  "Niani, do you understand in my part of the world this is a very great gift?  Once given it can never be undone.  Such a gift bestows upon the giver and the receiver the blessings of Brigid, Daughter of the Dagda.  If given and received with love, then Angus Og will also favour us.  This could make our situation with Raven ... interesting to say the least."
+Brennos took her in his arms.  "Niani, do you understand that in my part of the world this is a very great gift?  Once given, it can never be undone.  Such a gift bestows upon the giver and the receiver the blessings of Brigid, Daughter of the Dagda.  If given and received with love, then Angus Og will also favour us.  This could make our situation with Raven ... interesting, to say the least."
 
 "Brennos, you don't have to make excuses.  If you aren't interested, you only have to say so.  I won't be offended."
 
-Brennos blinked.  He hoped his astonishment wasn't showing.  Niani could have her choice of men.  Why in Starrion's Name would she think he wasn't interested?  Then he remembered what Lan had said to him.  Niani was shy when it came to things like this.
+Brennos blinked.  He hoped his astonishment wasn't showing.  Niani could have her choice of men.  Why in Starrion's name would she think he wasn't interested?  Then he remembered what Lan had said to him.  Niani was shy when it came to things like this.
 
 "Niani, please understand this is in no way a refusal.  I feel you should know the possible consequences of your choice.  I'll ask you again - are you sure?"
 
@@ -72,11 +72,11 @@ Niani was confused.  In Tolekol minds, she was an oddity.  Her people took a l
 
 Brennos was the first person she had ever wanted to become close to physically.  Half of her wanted time to try to understand the implications of what Brennos was telling her, but she was afraid if she hesitated, she'd lose her nerve. If he thought what she was offering was a very great gift, then so much the better.  Part of her mind admitted inconveniencing Raven added a little spice.
 
-She wasn't confident enough to explain any of that to Brennos.  She simply nodded and acknowledged to herself she lied.
+She wasn't confident enough to explain any of that to Brennos.  She simply nodded and acknowledged to herself that she lied.
 
-Brennos took Niani's face gently in his hands, then kissed her tenderly.  "Don't be afraid, Niani.  We have power in this place and, as with all significant changes, what we are about to do will channel that power into its natural form of expression."  Brennos kissed Niani again, slowly, deeply and with much feeling.  Power began to build between them, shimmering around them like water and reflecting sunlight against the walls of the hut.
+Brennos took Niani's face gently in his hands, then kissed her tenderly.  "Don't be afraid, Niani.  We have power in this place and, as with all significant changes, what we are about to do will channel that power into its natural form of expression."  Brennos kissed Niani again, slowly, deeply, and with much feeling.  Power began to build between them, shimmering around them like water and reflecting sunlight against the walls of the hut.
 
-"Niani, we must remove these garments and go outside now, but don't be afraid, we will not be seen.  Angus Og will see to that.  What we are becoming have no use for huts or armour.  There is a river not far from here where we can play."  Brennos began to remove Niani's garments.
+"Niani, we must remove these garments and go outside now, but don't be afraid; we will not be seen.  Angus Og will see to that.  What we are becoming has no use for huts or armour.  There is a river not far from here where we can play."  Brennos began to remove Niani's garments.
 
 Niani was totally out of her depth.  Whatever she had been expecting, it wasn't this.  She didn't understand what Brennos was talking about and didn't recognise the name of Angus Og.  Was he one of the people Brennos had met here?  She felt self-conscious and uncertain.  To cover her nervousness, she helped Brennos first with her clothes and then his.
 
@@ -96,19 +96,21 @@ Brennos laughed.  Would Niani never cease to surprise him?  "Trust me, you are
 
 Brennos laughed again and kissed her.  "I think we'll surprise ourselves."
 
+Continues in **[[501-AD#^9d5d88|501 AD]]**. ^318252
+
 ## [[510-AD#Lysanor and Oberon|510 AD]] - Niani Angers Titania
 
 >**GM's Note:** During the **510 AD** campaigning season, Niani persuades the avaricious Lysanor, already Arthur's lover, to become _[[Oberon|Oberon's]]_ lover instead.  This achieves the party's dual aims of separating the unsuitable Lysanor from Arthur and delivering her to Oberon as per his previous request.
 > 
->While Titania had turned a blind eye to Oberon's past lovers (he'd been discrete, and they'd only given him girls) never had one been delivered so enthusiastically into his arms, and with such disrespect for his wife, the Queen of the Seelie Fae.  This was a high insult indeed, as in **[[496-AD|496 AD]]** Titania had saved Cynon's life by providing the magical armour he wore when he battled Oberon's captain.
+>While Titania had turned a blind eye to Oberon's past lovers, never had one been delivered so enthusiastically into his arms, and with such disrespect for his wife, the Queen of the Seelie Fae.  This was a high insult indeed, as in **[[496-AD|496 AD]]** Titania had saved Cynon's life by providing the magical armour he wore when he battled Oberon's captain.
 >
->Titania was furious at the entire party, but especially at Niani. Titania had assumed Niani, as a noblewoman, would have understood succession through paternity and denounced encouraging another's husband to stray.
+>Titania was furious at the entire party, but especially at Niani. Rhodri, as a man and as Oberon's pawn, had behaved no better than Titania expected, but Niani? Titania assumed Niani understood the threat posed by a new mistress. Niani should have denounced encouraging another's husband to stray, not provided an opportunity. 
 >
->In **March 512 AD** Lysanor gives Oberon his first and only son, breaking Titania's heart and driving her mad with rage.  Titania had hoped to bear her husband a son, putting his lovers and his two illegitimate daughters, Aneurin and Morgaine, into the pale and winning him back.  Titania blames Niani as much as Lysanor and vows revenge.  How would Lysanor feel if she were to lose Oberon's son?  How would Niani feel if someone took the man she loved from her and gave him the son she wouldn't?
+>In **March 512 AD**, Lysanor gives Oberon his first son, breaking Titania's heart and driving her mad with rage.  Titania had hoped to bear her husband a son, putting his lovers and his two illegitimate daughters, Aneurin and Morgaine, into the pale and winning him back.  Titania blames Niani as much as Lysanor and vows revenge.  How would Lysanor feel if she were to lose Oberon's son?  How would Niani feel if someone took the man she loved from her and gave him the son she wouldn't?
 >  
->In **June 512 AD** Titania abducts Brennos, then sends him to his friend Goibniu the Smith to obtain a Fae-slaying sword, one that can kill Oberon's son by Lysanor.  After a frantic visit from Niani, Voklaynn threatens Titania with scorched forests and a roasted Seelie Court if she harms Brennos or Niani.  But Voklaynn is unused to the machinations of the Fae.  Titania doesn't harm so much as one hair on Brennos' head, and leaves Niani completely alone.
+>In **June 512 AD**, Titania abducts Brennos, then sends him to his friend Goibniu the Smith to obtain a Fae-slaying sword, one that can kill Oberon's son by Lysanor.  After a frantic visit from Niani, Voklaynn threatens Titania with scorched forests and a roasted Seelie Court if she harms Brennos or Niani.  But Voklaynn is unused to the machinations of the Fae.  Titania doesn't harm so much as one hair on Brennos' head, and leaves Niani completely alone.
 >  
->In **September 512 AD**, Brennos returns from the Fae realms.  He fears for Niani as, even though he's complied with all of Titania's requests, he doesn't trust her not to make an attempt on Niani's life.  He also fears Oberon will find out about his liaison with Titania and challenge him to one-on-one combat, justifiably.
+>In **September 512 AD**, Brennos returns from the Fae realms.  He fears for Niani, as even though he's complied with all of Titania's requests, he doesn't trust her not to make an attempt on Niani's life.  He also fears Oberon will find out about his liaison with Titania and challenge him to one-on-one combat, justifiably.
 
 ## [[512-AD]] - September - Brennos and Niani
 
@@ -212,11 +214,11 @@ It was an awful shock to discover not only had he not guessed, but he was upset 
 >
 >My rash decision to invite Niani into my Pendragon campaign was causing utter in-game chaos. What I should have done at the start was ask Niani's player to roll up a new Pendragon character of about the same age and of similar background to the existing party of PCs. Then to come up with one or more children of the right age, fostered or otherwise, to go adventuring once **520 AD** rolled around. Even with Niani in the campaign, I should still have insisted her player roll up a new character unrelated to Niani for the **520 AD** party of young squires.
 >
->Why didn't I? As a less experienced GM, I'd let my players talk me into anything just to make them happy. What I've learned is that this destroys a campaign as completely as a Total Party Kill (TPK). I made the mistake of inviting Niani into the campaign in the first place, then compounded that by allowing Niani's child to grow preternaturally quickly, i.e., to age from babe to young adult in six in-game years, to meet the age requirements for a **520 AD** restart. 
+>Why didn't I? As a less experienced GM, I'd let my players talk me into anything just to make them happy. What I've learned is that this destroys a campaign as completely as a Total Party Kill (TPK). I made the mistake of inviting Niani into the campaign in the first place, then compounded that by allowing Niani's child to grow preternaturally quickly, i.e., to age from babe to young adult in six in-game years, to meet my age requirements for a **520 AD** restart. 
 
 ## As Time Passes - Niani, Brennos and Mae (Part One)
 
-By early **515 AD** it becomes apparent Niani is pregnant.  Much to the disgust of quite a few, this doesn't seem to slow her down much until the latter part of her time.  It also becomes apparent that there is a rift between Brennos and Niani.  Nothing that strangers would notice.  They are still polite, loyal and relatively affectionate towards each other.  It is simply that they no longer spend every waking moment together and are not as devoted as previously.
+By early **515 AD**, it becomes apparent Niani is pregnant.  Much to the disgust of quite a few, this doesn't seem to slow her down much until the latter part of her time.  It also becomes apparent that there is a rift between Brennos and Niani.  Nothing that strangers would notice.  They are still polite, loyal, and relatively affectionate towards each other.  It is simply that they no longer spend every waking moment together and are not as devoted as previously.
 
 When Mae is born, it becomes clear Brennos isn't wrapt in the idea of being a father.  He does all the appropriate father things, but without any real enthusiasm.  Arthur and Maeve are asked to be Mae's "godparents".
 

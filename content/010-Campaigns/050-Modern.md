@@ -73,7 +73,7 @@ My USMC campaign was set originally in Brazil, specifically the capital city of 
 
 The PCs have since become operatives in a secretive organisation responsible for neutralizing global paranormal threats. This organisation is run by Jefferson Dean, the man from whom the PCs now take their orders. The PCs have expanded their area of responsibility recently by joining the Stargate program as SG-21.
 
-Meet [[USMC-Fireteam-SG-21|USMC Fireteam SG-21]].
+Meet _[[USMC-Fireteam-SG-21|USMC Fireteam SG-21]]_.
 
 **USMC Episodes**
 
@@ -104,14 +104,16 @@ Nephilim quest for Agartha, spiritual and physical fulfillment, through a series
 
 Nephilim characters can "awaken" to their true nature via:
 
-- past life regression (hypnosis)
+- past-life regression (hypnosis)
 - meditation, visions, and dreams (inner life)
 - near-death experiences or visitations from higher beings (outer life)
 - abduction by extraterrestrials.
 
-The tribes of the Nephilim comprise the 22 Major Arcanum (Tarot). Magic used by Nephilim includes the natural world (Alchemy), the celestial world (Sorcery) and the Spiritual World (Summoning). Nephilim are spiritually connected to their stasis objects.
+The tribes of the Nephilim comprise the 22 Major Arcana (Tarot). Magic used by Nephilim includes the natural world (Alchemy), the celestial world (Sorcery) and the spiritual world (Summoning). Nephilim are spiritually connected to their stasis objects.
 
-Meet our [[Nephilim-PCs|reincarnated spirits]] learning the ropes as "ordinary" people, and their [[Nephilim-NPCs|mentors]].
+Players can choose several past lives for their Nephilim character from the official list of [[np_past_life_eras.pdf|past life eras]].  Enterprising GMs can make much of past-life experiences and connections to add context and spice to in-game events.
+
+Meet our _[[Nephilim-PCs|reincarnated spirits]]_ learning the ropes as "ordinary" people, and their _[[Nephilim-NPCs|mentors]]_.
 
 **Nephilim Episodes**
 
@@ -119,7 +121,9 @@ Meet our [[Nephilim-PCs|reincarnated spirits]] learning the ropes as "ordinary
 | ------------------------------ | ----------------------------------------------------- |
 | [[Serpent-Moon\|Serpent Moon]] | 1997 January 1st – [[The-Apocalypse\|The Apocalypse]] |
 
-Nephilim is an esoteric gaming system. If we ever pick this up again, I’ll convert it over to the more player-friendly d20 system first.
+While [Chaosium](https://www.chaosium.com/) published [Nephilim](https://www.chaosium.com/nephilim/), I use Steve Feldon's [In Nomine Character Encyclopedia](http://incyclopedia.org/) to expand the ranks of my angels and demons. This encyclopedia is an important reference for [In Nomine](https://www.sjgames.com/in-nomine/) published by [Steve Jackson Games](https://warehouse23.com/collections/in-nomine), and also a great reference for Nephilim.
+
+Nephilim is an esoteric gaming system. If we ever pick this up again, I’ll convert it over to the more player-friendly d20 system first. Or perhaps just run In Nomine instead?
 
 ## The White Magicians
 
@@ -129,7 +133,7 @@ In this contemporary Call of Cthulhu campaign, the PCs are trained "Dreamers", W
 
 The PCs influence the real world through dreams, Jungian psychological explorations of the collective unconscious, astral projection, astrology, low-end "mind tricks," and New Age occultism. They are non-military, with only their wits, their skills, their white magic, and prayer to protect them.
 
-Meet our [[The-White-Magicians|White Magicians]].
+Meet our _[[The-White-Magicians|White Magicians]]_.
 
 On the PCs’ side are even more powerful White Magicians; on the opposite side is real evil.  The human kind.
 
@@ -139,4 +143,4 @@ London, January 2000 – a freezing Tuesday at 2:00 am.
 
 Identifying UK-based Cthulhu cultists is just one of the agenda items on MI5’s plate. There are plenty of other clandestine threats on home soil to go around.
 
-_[[Angela-Taylor|Angela Taylor]]_ and her hand-crafted [[The-Spycraft-Crew|team of spies]] take on their first mission.
+_[[Angela-Taylor|Angela Taylor]]_ and her hand-crafted _[[The-Spycraft-Crew|team of spies]]_ take on their first mission.

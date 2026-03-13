@@ -155,7 +155,7 @@ Made the beckon calls, Jedi Holocrons, and the Orins.  Arrived on _The Maker_.
 
 # Nichelle
 
-![[sw_nichelle_nichelle_nicholls.jpg]]
+![[sw_nichelle_nicholls.jpg]]
 
 Recovered by _Red Storm Rising_ crew from Yavin IV, where she was entombed in one of the ancient temples.
 

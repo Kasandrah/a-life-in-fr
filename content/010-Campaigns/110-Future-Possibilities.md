@@ -76,6 +76,7 @@ Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the op
 
 **[[060-Dungeons-n-Dragons|Dungeons & Dragons]]** - (1000 AC using [Old School Essentials](https://www.foundryvtt.store/products/ose-advancedfantasytome) instead of [BECMI](https://www.drivethrurpg.com/en/browse?ruleSystem=44828-basic-becmi-or-od-d))
 
+ - [Council of Wyrms](https://www.drivethrurpg.com/en/product/17026/campaign-option-council-of-wyrms-setting-2e) - be a dragon, half-dragon, or kindred demi-human in the [Dragon Kingdom of Wyrmsteeth](https://www.scribd.com/document/379650395/The-Dragon-Kingdom-of-Wyrmsteeth)
  - [Thunder Rift](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clmokg2nd005a033cwvm71x05/) from 1st to 5th level, then landing in [Pendleton](https://index.rpg.net/display-entry.phtml?mainid=14683) 
  - [Rules Cyclopedia](https://www.drivethrurpg.com/en/product/17171/d-d-rules-cyclopedia-basic) + BECMI Adventures from 1st to ? level
 	 - [B1-9: In Search of Adventure](https://index.rpg.net/display-entry.phtml?mainid=64) from 1st to 3rd level
@@ -84,7 +85,7 @@ Dungeons & Dragons - same setting and era as the Old School Essentials campaign 
 
  - [The Armstead Catacombs](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clath7ypk0002033crdfl3got/) - the first part of [Lady Elenore's Irregulars](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/claducopy0002033c9km344hu/)
  - [The Demon Queen Awakens](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clm4jsot90078033c3gze6y0p/)
- - [Ghoul Island](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/cladh2zlu0008033c1zdcgu9j/) then moving on to the [Isle of Dread](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/ckn73hfrca5il0762pgsk2nk5/), referencing [Cthulhu by Torchlight](https://marketplace.dndbeyond.com/category/DBIRFDZMU)  
+ - [Ghoul Island](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/cladh2zlu0008033c1zdcgu9j/) and then moving on to the [Isle of Dread](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/ckn73hfrca5il0762pgsk2nk5/), referencing [Cthulhu by Torchlight](https://marketplace.dndbeyond.com/category/DBIRFDZMU)  
  - [Rime of the Frostmaiden](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clmk3zshy0003033cvz46mgvs/)
 
 I've not adapted the following D&D 5E adventures to Mystara, so they will require additional work before being ready to play.

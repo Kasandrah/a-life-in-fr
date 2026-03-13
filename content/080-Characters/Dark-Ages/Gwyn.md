@@ -75,9 +75,9 @@ _[[020-The-Antediluvians#Angelica|Angelica]]_ - Being a romantic, Gwyn is happy
 
 _Hierarchy_ - Gwyn was introduced last in the vampires and Owain was introduced last in the ghouls (apart from Maria and Angelica, whose situation hadn't yet been clarified, but below [[020-The-Antediluvians#Romegio|Romegio]].)  Well, that puts them in their place, doesn't it?  The list wasn't in order of embracing, or Rollon wouldn't be at the top.  It had to be in order of usefulness.
 
->**GM's Note:** Out of game, I introduced the characters to Cain in the same order that their respective players were sitting around the table, from left to right. The order of introduction had nothing to do with perceived usefulness, and everything to do with making sure I didn't miss any PCs. I was quite shocked to find out later via an email that Gwyn's player had interpreted this as an in-game insult.
+>**GM's Note:** Out of game, I introduced the characters to Cain in the same order that their respective players were sitting around the table, from left to right. The order of introduction had nothing to do with perceived usefulness, and everything to do with making sure I didn't miss any PCs. I found out later via an email that Gwyn's player had interpreted this as an in-game insult.
 >
->In hindsight, Lillane's introductions would have been in order of embracing/power, i.e. Gwyn, Wolfstead, Raushan, Rollon, and Rafi, then the ghouls - Tomas, Monico, Romeigo, and Owain.  Owain last of all because he is Gwyn's ghoul, not Lillane's.
+>In hindsight, Lillane's introductions would have been in order of embracing/power, i.e. Gwyn, Wolfstead, Raushan, Rollon, and Rafi, then the ghouls - Tomas, Monico, Romeigo, and Owain.  Owain last of all, because he is Gwyn's ghoul, not Lillane's.
 
 _[[Cain|Cain]]_ - Gwyn was worse than useless in this situation.  The other members of the family thought so highly of her that they didn't even include her in the discussions.  She was so observant that even though Gwyn was regularly making rounds of the castle, she didn't notice that Cain and Tomas were never together.  She didn't even notice that there was something wrong with Lillane.  She never drew a weapon; she bungled the one job she had to do and overall might as well not have been there.  No wonder Lillane needs to bring in other people to help her.
 
