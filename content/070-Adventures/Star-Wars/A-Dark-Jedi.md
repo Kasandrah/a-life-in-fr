@@ -39,9 +39,9 @@ On their way to see the chief, Hadra asked one of the young lizard folk what was
 
 In the meantime, Hadra gave an impassioned speech to the lizard folk, convincing them that they were being used.  ("Let us not go crying into the night...")  This broke the Dark Jedi's control so that they became merely confused and amnesiac, rather than bloodthirsty.
 
->**GM's Note:**  Even with the little formal Jedi training Jess has had to date, she could break the mind control the Dark Jedi had over the village's populace.  This forced Jess to rethink her belief that she has no Force abilities and to reconsider training with a more suitable Circle member.  Jess asks Dermod to train her.
+>**GM's Note:**  Even with the little formal Jedi training Jess has had to date, she could break the mind control the Dark Jedi had over the village's populace.  This forced Jess to rethink her belief that she had no Force abilities and to reconsider training with a more suitable Circle member.  Jess asked Dermod to train her.
 
-Back in the cave, Ash was mind-controlled by the Dark Jedi into attacking Elan with his lightsaber.  Elan avoided the attacks and to draw him further into the cave, where he met Aldric, the Dark Jedi.
+Back in the cave, Ash was mind-controlled by the Dark Jedi into attacking Elan with his lightsaber.  Elan avoided the attacks and drew him further into the cave, where he met Aldric, the Dark Jedi.
 
 "You won't succeed, you know," stated Elan calmly.  Aldric sneered back, "Prepare to die."  Elan tried to persuade Aldric to return to the Light Side, but failed.
 
@@ -53,4 +53,4 @@ A little searching around the outskirts of the cave revealed a fully functional 
 
 The group reported back that the planet was unsuitable as an Alliance safe world.
 
-A few days after the team returned to base, the marines that had accompanied them developed severe morale problems.  The team suspected that this was a consequence of being totally unequipped to deal with Dark Jedi mind tricks.  Elan proposes that the marines be trained to resist mind control, and approaches the Circle members to seek approval and support for this training.  They reluctantly agree, but only if Dermod trains the marines.
+A few days after the team returned to base, the marines who had accompanied them developed severe morale problems.  The team suspected that this was a consequence of being totally unequipped to deal with Dark Jedi mind tricks.  Elan proposes that the marines be trained to resist mind control and approaches the Circle members to seek approval and support for this training.  They reluctantly agree, but only if Dermod trains the marines.

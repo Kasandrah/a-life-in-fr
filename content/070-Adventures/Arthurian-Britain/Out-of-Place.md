@@ -100,17 +100,17 @@ Continues in **[[501-AD#^9d5d88|501 AD]]**. ^318252
 
 ## [[510-AD#Lysanor and Oberon|510 AD]] - Niani Angers Titania
 
->**GM's Note:** During the **510 AD** campaigning season, Niani persuades the avaricious Lysanor, already Arthur's lover, to become _[[Oberon|Oberon's]]_ lover instead.  This achieves the party's dual aims of separating the unsuitable Lysanor from Arthur and delivering her to Oberon as per his previous request.
+>**GM's Note:** During the **510 AD** campaigning season, Niani [[510-AD#Lysanor and Oberon|persuades the avaricious Lysanor]], already _[[030-Arthurian-Britain#^5ae098|Arthur's]]_ lover, to become _[[Oberon|Oberon's]]_ lover instead.  This achieves the party's dual aims of separating the unsuitable Lysanor from Arthur and delivering her to Oberon as per his previous request.
 > 
 >While Titania had turned a blind eye to Oberon's past lovers, never had one been delivered so enthusiastically into his arms, and with such disrespect for his wife, the Queen of the Seelie Fae.  This was a high insult indeed, as in **[[496-AD|496 AD]]** Titania had saved Cynon's life by providing the magical armour he wore when he battled Oberon's captain.
 >
->Titania was furious at the entire party, but especially at Niani. Rhodri, as a man and as Oberon's pawn, had behaved no better than Titania expected, but Niani? Titania assumed Niani understood the threat posed by a new mistress. Niani should have denounced encouraging another's husband to stray, not provided an opportunity. 
+>Titania was furious at the entire party, but especially at Niani. Rhodri, as a man and as Oberon's pawn, had behaved no better than Titania expected him to, but Niani? Titania assumed Niani understood the threat posed by a new mistress. Niani should have denounced encouraging another's husband to stray, not provided an opportunity. 
 >
 >In **March 512 AD**, Lysanor gives Oberon his first son, breaking Titania's heart and driving her mad with rage.  Titania had hoped to bear her husband a son, putting his lovers and his two illegitimate daughters, Aneurin and Morgaine, into the pale and winning him back.  Titania blames Niani as much as Lysanor and vows revenge.  How would Lysanor feel if she were to lose Oberon's son?  How would Niani feel if someone took the man she loved from her and gave him the son she wouldn't?
 >  
 >In **June 512 AD**, Titania abducts Brennos, then sends him to his friend Goibniu the Smith to obtain a Fae-slaying sword, one that can kill Oberon's son by Lysanor.  After a frantic visit from Niani, Voklaynn threatens Titania with scorched forests and a roasted Seelie Court if she harms Brennos or Niani.  But Voklaynn is unused to the machinations of the Fae.  Titania doesn't harm so much as one hair on Brennos' head, and leaves Niani completely alone.
 >  
->In **September 512 AD**, Brennos returns from the Fae realms.  He fears for Niani, as even though he's complied with all of Titania's requests, he doesn't trust her not to make an attempt on Niani's life.  He also fears Oberon will find out about his liaison with Titania and challenge him to one-on-one combat, justifiably.
+>In **September 512 AD**, Brennos returns from the Fae realm.  He fears for Niani, as even though he's complied with all of Titania's requests, he doesn't trust her not to make an attempt on Niani's life.  He also fears Oberon will find out about his liaison with Titania and challenge him to one-on-one combat, justifiably.
 
 ## [[512-AD]] - September - Brennos and Niani
 
@@ -124,7 +124,7 @@ Brennos was sure Niani was holding something back, which disturbed him even more
 
 ## [[514-AD]] - February - Asterlan
 
->**GM's Note:**  Niani and Brennos find out he is the father of Titania's newborn son _[[030-Arthurian-Britain#^c00cba|Asterlan]]_, as yet unacknowledged by Oberon.  Time being what it is in the Fae realms, Titania has only just given birth even though she abducted Brennos in **June 512 AD**.
+>**GM's Note:**  Niani and Brennos find out he is the father of Titania's newborn son _[[030-Arthurian-Britain#^c00cba|Asterlan]]_, as yet unacknowledged by Oberon.  Time being what it is in the Fae realm, Titania has only just given birth even though she abducted Brennos in **June 512 AD**.
 >
 >Brennos' immediate concern is that Oberon will slay him out of hand for fathering Titania's son, so he prepares to meet Oberon in mortal combat.  Brennos fully expects to lose, as Oberon possesses the sword Gorias, one of the great magical Fae treasures, and is a renowned warrior and war leader.
 >
@@ -163,11 +163,9 @@ Niani had to make a decision about whether she would fight for Brennos.  Part o
 
 Niani had **always** wanted to return to Anfar Refinli.  She still had a couple of extended family members she gets on well with.  She had friends, a position, responsibilities, and she fitted in there.  In Albion, she is largely friendless, has to fight constantly to maintain her position, has responsibilities on sufferance and will never be accepted by the people around her.
 
->**GM's Note:**  Let this be a lesson to GMs who think offering a player the opportunity to take one of their much loved characters from a defunct campaign over to an active campaign, giving that player the opportunity to play the character again, is going to end in smiles.
->
->In hindsight, I recommend GMs never transfer characters (i.e. square pegs) into completely different campaigns (i.e. round holes).  The character, the character's player, the GM, and, by extension, every other character and their player suffered from the lack of "fit".
+>**GM's Note:** I offered a player the opportunity to bring _[[The-Summer-Country#^a23288|a much-loved character]]_ from a [[100-Anfar-Refinli|defunct campaign]] over to an active campaign, giving that player the opportunity to play the character again. In hindsight, I recommend GMs never transfer characters, i.e., square pegs, into completely different campaigns, i.e., round holes.  The character, the character's player, the GM, and, by extension, every other character and their player suffered from the lack of "fit".
 
-Niani had the choice to go home without Brennos or to stay in Britain with him.  She chose to stay.  However, he never asked her what she wanted to do and now she has Mae, the option to go home has been removed.  She cannot take Mae from her only home.
+Niani had the choice to go home without Brennos or to stay in Britain with him.  She chose to stay.  However, he never asked her what she wanted to do, and now she has Mae, the option to go home has been removed.  She cannot take Mae from her only home.
 
 ## [[514-AD]] - July - Niani Conceives Maelin
 
@@ -180,41 +178,34 @@ The Wise One confirmed Brennos was Asterlan's father.  Brennos assured her ther
 Her thinking was:
 
 1. It would be a smart political move to counter any hold Titania felt she had over Brennos because of Asterlan.
-    
 2. If Brennos is so keen to have a relationship with a child, then let it be one he made with someone he loves.
-    
 3. It cements Niani's relationship with him.  If he feels the need to have a child, then she will supply him one.  It also makes it harder for Brennos to get rid of Niani.
-    
 4. It is a visible reminder to Titania that Brennos is already spoken for and he will not be taken so easily next time.
-    
 5. It ensures Asterlan will not inherit what Niani has worked so hard to gain.
-    
 6. If she does lose Brennos, Niani will not be left alone in the world.
-    
 7. It gives Niani an ally should this degenerate into sides - Niani and Mae against Brennos and Asterlan.  It works for the Fae!
-    
 
->**GM's Note:** Wow! Talk about cold-blooded transactional conception! Seven reasons for becoming pregnant, and not one of them shows love for a child desired for its own sake. This list would have done Titania proud! Yes, it does indeed work for the Fae.
+>**GM's Note:** Seven reasons for becoming pregnant, and not one of them shows love for a child desired for its own sake. This list would have done Titania proud! Yes, it works for the Fae.
 
 As soon as she realised she was pregnant, Niani's first thought was 'Oh Starrion, what have I done?'  She didn't tell anyone and (although she slowed down a little) continued to do all the things she was already doing (including training and fighting) until Brennos noticed she was putting on weight.  Because he brought Niani the rose, she assumed he had guessed she was pregnant.
 
-It was an awful shock to discover not only had he not guessed, but he was upset by her decision.  She had not considered he would react that way.  She realised she'd made an awful mistake.  Abortion did not occur to her, and Brennos never suggested it.  The only thing she could do was to try to make it up to him.
+It was an awful shock to discover not only had he not guessed, but he was upset by her decision.  She had not considered that he would react that way.  She realised she'd made an awful mistake.  Abortion did not occur to her, and Brennos never suggested it.  The only thing she could do was to try to make it up to him.
 
 >**GM's Note:** Brennos was angry with Niani because she'd stopped using the plant magic that prevented her becoming pregnant. He thought if Niani wanted a child, she'd have spoken to him about it before taking that step.
 >
->Her decision to conceive without his knowledge could have given Oberon, even more skilled in illusion and deception than Titania, an opportunity to exact revenge on Brennos. After all, Brennos really didn't know he was dancing with Titania, not Niani.
+>Her decision to conceive without his knowledge **could** have given Oberon, even more skilled in illusion and deception than Titania, an opportunity to exact revenge on Brennos. After all, Brennos, who failed his perception roll, didn't know he was dancing with Titania, not Niani. He hates to think Niani might have made the same mistake.
 >
->He hated to think Niani might have made the same mistake.
+>As GM, I'll make this very clear. Brennos **is** Mae's father. Titania's revenge on Niani is to make him suspect he isn't for all the damage that ensues. 
 
 ## Campaign Issues
 
->**GM's Note:** Pendragon is a generational game that can, with the use of expansions, run between **480** and **566 AD**. Often longer depending on what players want. That's over eighty years! Experienced and battle-hardened characters settle into and rule their hard-won dominions while their children become the next party of young adventurers. GMs move the story along as each new generation ages up to adventuring age.
+>**GM's Note:** Pendragon is a generational game that can, with the use of expansions, run between **480** and **566 AD**. Often longer, depending on what the players want. That's over eighty years! Experienced and battle-hardened characters settle into and rule their hard-won dominions while their children become the next party of young adventurers. GMs move the story along as each new generation ages up to adventuring age.
 >
 >All my "native" PCs had sons the right age to take centre stage in **520 AD**, the beginning of what was to be the next cycle of my Pendragon campaign, the Arthurian golden age. Niani didn't have any children of her own and had shown no interest in fostering other children of the right age. It was **514 AD**, and we had to come up with a child who would be at least 14 years old by **520 AD**, i.e., in just six years.
 >
 >My rash decision to invite Niani into my Pendragon campaign was causing utter in-game chaos. What I should have done at the start was ask Niani's player to roll up a new Pendragon character of about the same age and of similar background to the existing party of PCs. Then to come up with one or more children of the right age, fostered or otherwise, to go adventuring once **520 AD** rolled around. Even with Niani in the campaign, I should still have insisted her player roll up a new character unrelated to Niani for the **520 AD** party of young squires.
 >
->Why didn't I? As a less experienced GM, I'd let my players talk me into anything just to make them happy. What I've learned is that this destroys a campaign as completely as a Total Party Kill (TPK). I made the mistake of inviting Niani into the campaign in the first place, then compounded that by allowing Niani's child to grow preternaturally quickly, i.e., to age from babe to young adult in six in-game years, to meet my age requirements for a **520 AD** restart. 
+>I made the mistake of inviting Niani into the campaign in the first place, then compounded that by having Niani's child grow preternaturally quickly, i.e., to age from babe to young adult in six in-game years, to meet my age requirements for a **520 AD** restart. 
 
 ## As Time Passes - Niani, Brennos and Mae (Part One)
 
@@ -224,22 +215,17 @@ When Mae is born, it becomes clear Brennos isn't wrapt in the idea of being a fa
 
 >**GM's Note:** Brennos' doubt about Mae's parentage is eating away at him. He doesn't want to level a false accusation at Niani, but in a certain light the babe looks more Fae to him than human.
 
-Niani approaches motherhood as she does anything - if it's worth doing, it's worth doing well.  She will never be the fluffy, warm and fuzzy mother type, but Mae will have her total commitment and a rational (rather than an overly emotional) love.  Niani was brought up by a distant, cold mother.  Niani knows she will undoubtedly make some of the same mistakes her mother made, but has no intention of being in the same mould.  She takes a full role in Mae's life.  Niani also attempts to make up for Brennos' more hands-off style of parenting.
+Niani approaches motherhood as she does anything - if it's worth doing, it's worth doing well.  She will never be the fluffy, warm, and fuzzy mother type, but Mae will have her total commitment and a rational (rather than an overly emotional) love.  Niani was brought up by a distant, cold mother.  Niani knows she will undoubtedly make some of the same mistakes her mother made, but has no intention of being in the same mould.  She takes a full role in Mae's life.  Niani also attempts to make up for Brennos' more hands-off style of parenting.
 
 Fostering Mae out is not an option.
 
 1. It isn't in Niani's background.
-    
 2. It will defeat all the political reasons for having her.
-    
-3. She doesn't trust anyone else to protect Mae.  Brennos' suggestion of Arcavius isn't appropriate because she doesn't want to end up with a child who disapproves of her.  Arcavius has clearly demonstrated he doesn't approve of Niani.  Although she decides on Arthur and Maeve as guardians if anything should happen to Brennos and Niani, fostering Mae with them is not an option because fostering her with Asterlan is tacky.
-    
-4. She discovers to her surprise that she actually likes being a mother, especially as Mae grows quickly out of the helpless stage.  It also gives her someone who in part replaces the love she (**GM's Note:** thinks she) has lost from Brennos.
-    
+3. She doesn't trust anyone else to protect Mae.  Brennos' suggestion of Arcavius isn't appropriate because she doesn't want to end up with a child who disapproves of her.  Arcavius has clearly demonstrated that he doesn't approve of Niani.  Although she decides on Arthur and Maeve as guardians if anything should happen to Brennos and Niani, fostering Mae with them is not an option because fostering her with Asterlan is tacky.
+4. She discovers, to her surprise, that she actually likes being a mother, especially as Mae grows quickly out of the helpless stage.  It also gives her someone who in part replaces the love she (**GM's Note:** thinks she) has lost from Brennos.
 5. Even though she was conceived out of jealousy and spite, Mae will never learn this from Niani, who always endeavours to make it up to her.
-    
 
->**GM's Note:** Many passed this sorcery off as proof of Brennos and Niani's "otherworldly" magic abilities. Brennos, thinking of himself as human, concluded this supernatural aging was evidence that 1) Titania wasn't lying and Oberon really was Mae's father, or 2) Mae was a changeling substituted for their actual daughter soon after her birth. Either way, he felt no connection to Mae.
+>**GM's Note:** Many passed this sorcery off as proof of Brennos and Niani's "otherworldly" magic abilities. Brennos, thinking of himself as human, concluded this supernatural aging was evidence that 1) Titania wasn't lying and Oberon really was Mae's father, or 2) Mae was a changeling substituted for their actual daughter soon after her birth.
 >
 >Brennos didn't tell Niani his suspicions. He knew this would damage Niani's relationship with Mae.  He doesn't love Mae, but he will meet his responsibilities as far as raising Mae goes simply because she is Niani's daughter, and Niani is the great love of his life.
 >
@@ -277,9 +263,9 @@ All of my other players expressed vehement frustration at:
 
 Here I was doing it again in the **520 AD** campaign. The rest of my players declined to continue.
 
-Had I not made rookie GM blunders, Brennos and Niani would have "lived happily ever after" in [[100-Anfar-Refinli|Anfar Refinli]], a closed book since the original GM's death in 1999. I wouldn't have turned my campaign inside out to accommodate them, and I wouldn't have attracted the justified ire of my other players.
+Had I not made rookie GM blunders, Brennos and Niani would have "lived happily ever after" in [[100-Anfar-Refinli|Anfar Refinli]], a closed book since the original GM's death in 1999. I wouldn't have turned my campaign inside out to accommodate them, made Niani and Mae's player feel like I'd set them up to fail, twice, and attracted the ire of the rest of my players.
 
-One of my most loved campaigns ended prematurely because I failed to respect all of my players.
+As a favour to a [[Jenny-H|dear friend]], Brennos will get his wish. I just hope I get time to write this up.
 
 ---
 

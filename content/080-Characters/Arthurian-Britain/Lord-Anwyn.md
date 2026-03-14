@@ -21,7 +21,7 @@ draft: false
 | _Birth sign:_      |                                                        |
 | _Birth stones:_    |                                                        |
 | _Birth flowers:_   |                                                        |
-| _Partner:_         | [[Lady-Voklaynn\|Lady Voklaynn]]                       |
+| _Partner:_         | _[[Lady-Voklaynn\|Lady Voklaynn]]_                     |
 | _Occupation_       | Forest Guardian                                        |
 | _Residence:_       | Hall of the Dragon Queen, Avalon                       |
 | _Transport:_       | Walks                                                  |

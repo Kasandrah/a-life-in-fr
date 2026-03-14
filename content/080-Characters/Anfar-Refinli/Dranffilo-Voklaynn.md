@@ -22,18 +22,20 @@ draft: false
 | _Birth sign:_      |                                                                   |
 | _Birth stones:_    |                                                                   |
 | _Birth flowers:_   |                                                                   |
-| _Partner:_         | [[Lord-Anwyn\|Tintagel]]                                          |
+| _Partner:_         | _[[Lord-Anwyn\|Tintagel]]_                                        |
 | _Occupation_       | Healer and entertainer                                            |
 | _Residence:_       | Lorn Borsofa, a large port city in the southeast of Anfar Refinli |
 | _Transport:_       | A small cart pulled by two donkeys                                |
 | _Reads / Writes:_  | Tolekol, speaks Thellessan, Saurian and Gelfling                  |
 | _Weapons:_         | Fist, short sword, crossbow, dagger                               |
 
+See also _[[Lady-Voklaynn|Lady Voklaynn]]_.
+
 # Appearance
 
-But for her colouring Voklaynn would be considered very beautiful.  She is an albino and has pink eyes, hip-length straight white hair and white skin.  She has high cheekbones with a well-shaped brow and jaw, a long, slender neck and a slender body lithe and muscled from the disciplines of dance.  Her hands are delicate with long and nimble fingers, ideal for the sensitive work of healing or music.
+But for her colouring, Voklaynn would be considered very beautiful.  She is an albino and has pink eyes, hip-length straight white hair, and white skin.  She has high cheekbones with a well-shaped brow and jaw, a long, slender neck and a slender body, lithe and muscled from the disciplines of dance.  Her hands are delicate, with long and nimble fingers, ideal for the sensitive work of healing or music.
 
-On the middle finger of her right hand she wears a fine silver ring, a gift from the man who took her in and cared for her when she was young.  She wears Elven armour of gold and silver chain mail padded with silk.  She also wears royal blue, a very unusual choice of colour for any Toleki, male or female.  It makes her appearance even more striking.  As she suffers from sunburn very easily, whenever Voklaynn is outside she wears a long, hooded cloak with a knotted and beaded fringe that covers her face but does not obscure her vision.  She wears leather gloves to protect her hands from sunburn or other injuries.
+On the middle finger of her right hand she wears a fine silver ring, a gift from the man who took her in and cared for her when she was young.  She wears Elven armour of gold and silver chain mail, padded with silk.  She also wears royal blue, a very unusual choice of colour for any Toleki, male or female.  It makes her appearance even more striking.  As she suffers from sunburn very easily, whenever Voklaynn is outside she wears a long, hooded cloak with a knotted and beaded fringe that covers her face but does not obscure her vision.  She wears leather gloves to protect her hands from sunburn or other injuries.
 
 # Manner
 
@@ -41,13 +43,13 @@ Cool and reserved with strangers.  Warm with friends.  Very loving to her husb
 
 # Interests
 
-Loves her unicorn husband, [[Lord-Anwyn|Tintagel]] and her sons [[Karwin|Karwin]] and [[Illisander|Illisander]].
+Loves her unicorn husband, _[[Lord-Anwyn|Tintagel]]_ and her sons _[[Karwin|Karwin]]_ and _[[Illisander|Illisander]]_.
 
-As a healer and herbalist, Voklaynn has no equal in Anfar.  Her skills are known and respected throughout nearly all the Toleki lands, and her expertise in plant lore is much sought after.  She is the only herbalist on the island who knows the secret of the wild orchids that grow in the footprints of the goddess Princess Mindmage.  From their essence she distils a potion that can increase the strength and stamina of anyone who drinks it.  Her medical bag also contains other rare and miraculous herbs that produce amazing results when correctly applied to wounds, injuries, or illnesses.
+As a healer and herbalist, Voklaynn has no equal in Anfar.  Her skills are known and respected throughout nearly all the Toleki lands, and her expertise in plant lore is much sought after.  She is the only herbalist on the island who knows the secret of the wild orchids that grow in the footprints of the goddess Princess Mindmage.  From their essence, she distils a potion that can increase the strength and stamina of anyone who drinks it.  Her medical bag also contains other rare and miraculous herbs that produce amazing results when correctly applied to wounds, injuries, or illnesses.
 
 Years of singing have strengthened her soprano voice, which she usually accompanies by playing her lute.  The lute is remarkable for its Gelfling screws, tiny animals carved from mountain hardwood by a Gelfling craftsman.
 
-Voklaynn's travelling companions include a large, wolf-like dog named Asho, two donkeys and a small Saurian bodyguard named [[Cendrian|Cendrian]], whom she calls "Smudge".  Asho normally rides along in the back of Voklaynn's cart, keeping an eye on her sons, her belongings, and her hidden pouch of gold and silver pieces.  The donkeys provide their own brand of entertainment for the rest of the party and are so alike that only close inspection will allow them to be distinguished from one another.  Voklaynn calls them Number One and Number Two.
+Voklaynn's travelling companions include a large, wolf-like dog named Asho, two donkeys and a small Saurian bodyguard named _[[Cendrian|Cendrian]]_, whom she calls "Smudge".  Asho normally rides along in the back of Voklaynn's cart, keeping an eye on her sons, her belongings, and her hidden pouch of gold and silver pieces.  The donkeys provide their own brand of entertainment for the rest of the party and are so alike that only close inspection will allow them to be distinguished from one another.  Voklaynn calls them Number One and Number Two.
 
 All things Saurian, including the Celestial Dragon.
 

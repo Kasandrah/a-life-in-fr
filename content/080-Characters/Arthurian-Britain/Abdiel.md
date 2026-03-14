@@ -41,7 +41,7 @@ San Paulo, Brazil
 
 ![[cc_ayrton_senna_1.jpeg]]
 
-Brazil’s triple Formula One World Champion, now retired from racing after a near-fatal accident at Imola in May 1994.  He lives in Sao Paulo with his wife, [[Si-Ling|Angela Hamilton]].
+Brazil’s triple Formula One World Champion, now retired from racing after a near-fatal accident at Imola in May 1994.  He lives in Sao Paulo with his wife, _[[Si-Ling|Angela Hamilton]]_.
 
 | Personal Timeline      | Adventure                                                      |
 | ---------------------- | -------------------------------------------------------------- |

@@ -56,7 +56,7 @@ Sao Paulo, Brazil
 
 Angela is a very successful businesswoman who has interests in several global IT and Internet companies.  She is also a member of the National Geographic Board of Trustees and supports National Geographic expeditions around the world.
 
-Angela is married to [[Abdiel|Antonio Andrada da Silva]], whom she met while he was recovering in a hospital in Italy after his crash.
+Angela is married to _[[Abdiel|Antonio Andrada da Silva]]_, whom she met while he was recovering in a hospital in Italy after his crash.
 
 | Personal Timeline   | Adventure                                                      |
 | ------------------- | -------------------------------------------------------------- |

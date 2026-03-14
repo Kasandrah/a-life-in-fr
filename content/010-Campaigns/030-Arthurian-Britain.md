@@ -233,7 +233,7 @@ Another feature of the castle is the gargoyles that guard the grand staircase fr
 
 Between the realms of men lie the mythical domains of the faerie – great dark woods unexplored by human foot or thought. Kingdoms of the immortals lie beyond settled lands. Their cities and castles appear and vanish like mist. Their magical residents often visit the world of men.
 
-Bold human questers enter the faerie realms to seek the greatest of adventures. From the domain of faerie comes the magic that enchants Britain. Ancient rites and songs echo in the challenges and prizes of adventure.
+Bold human questers enter the faerie realm to seek the greatest of adventures. From the domain of faerie comes the magic that enchants Britain. Ancient rites and songs echo in the challenges and prizes of adventure.
 
 [[Light-and-Dark|Light and Dark]]
 

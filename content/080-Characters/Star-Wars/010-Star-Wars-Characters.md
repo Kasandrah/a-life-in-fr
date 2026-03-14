@@ -78,7 +78,7 @@ Played by [[Michael-H|Michael H.]]
 
 Ex Imperial Intelligence.  Defected to the Rebel Alliance when he found out from secret Imperial tapes that his family were killed by Imperial troops.  The Imperials suspected rebels in the city, so destroyed the entire city.
 
-Played by Dragon Bekric.
+Played by Dragon B.
 
 ### Roa, Major Taron
 

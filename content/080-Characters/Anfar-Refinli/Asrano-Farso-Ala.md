@@ -9,21 +9,21 @@ draft: false
 ---
 # Asrano Farso Ala
 
-| Aspect             | Description                                                     |
-| ------------------ | --------------------------------------------------------------- |
-| _Height / weight:_ | 5ft 11ins' tall, 154 lbs                                        |
-| _Voice:_           | Contralto (soft and husky)                                      |
-| _Perfume:_         | Cinnamon                                                        |
-| _Born:_            | 796 on a farm outside of Ulleran, Anfar Refinli - Toleki        |
-| _Birth sign:_      |                                                                 |
-| _Birth stones:_    |                                                                 |
-| _Birth flowers:_   |                                                                 |
-| _Partner_          | [[Asrane-Yalesse-Sen\|Asrane Yalesse Sen]] (pronounced "Sean")  |
-| _Occupation_       | Soldier, Captain of a light infantry unit of 120 soldiers       |
-| _Residence:_       | Lorn Borsofa, large port city in the southeast of Anfar Refinli |
-| _Transport:_       | The best of her two mares                                       |
-| _Reads / Writes:_  | Tolekol                                                         |
-| _Weapons:_         | Two-handed battleaxe, crossbow, fist, dagger                    |
+| Aspect             | Description                                                      |
+| ------------------ | ---------------------------------------------------------------- |
+| _Height / weight:_ | 5ft 11ins' tall, 154 lbs                                         |
+| _Voice:_           | Contralto (soft and husky)                                       |
+| _Perfume:_         | Cinnamon                                                         |
+| _Born:_            | 796 on a farm outside of Ulleran, Anfar Refinli - Toleki         |
+| _Birth sign:_      |                                                                  |
+| _Birth stones:_    |                                                                  |
+| _Birth flowers:_   |                                                                  |
+| _Partner_          | _[[Asrane-Yalesse-Sen\|Asrane Yalesse Sen]]_ (pronounced "Sean") |
+| _Occupation_       | Soldier, Captain of a light infantry unit of 120 soldiers        |
+| _Residence:_       | Lorn Borsofa, large port city in the southeast of Anfar Refinli  |
+| _Transport:_       | The best of her two mares                                        |
+| _Reads / Writes:_  | Tolekol                                                          |
+| _Weapons:_         | Two-handed battleaxe, crossbow, fist, dagger                     |
 
 # Appearance
 

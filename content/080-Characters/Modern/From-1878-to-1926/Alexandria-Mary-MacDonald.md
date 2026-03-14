@@ -115,7 +115,7 @@ Gun maintenance kit
 
 ## Money
 
-Bonds, stocks and shares ($33,000)
-Land in the Hollywood Hills ($15,000)
-Furniture ($2,600)
-First edition books – Poe's “Collected Tales”, Stoker's “Dracula”, Shelly's “Frankenstein” and Le Fanu's “Carmilla” ($5,000)
+Bonds, stocks and shares (&#36;33,000)
+Land in the Hollywood Hills (&#36;15,000)
+Furniture (&#36;2,600)
+First edition books – Poe's “Collected Tales”, Stoker's “Dracula”, Shelly's “Frankenstein” and Le Fanu's “Carmilla” (&#36;5,000)

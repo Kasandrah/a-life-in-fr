@@ -18,7 +18,7 @@ draft: false
 | _Birth sign:_      |                                                          |
 | _Birth stones:_    |                                                          |
 | _Birth flowers:_   |                                                          |
-| _Partner:_         | [[Lord-Anwyn\|Lord Anwyn]]                               |
+| _Partner:_         | _[[Lord-Anwyn\|Lord Anwyn]]_                             |
 | _Occupation_       | Healer and entertainer                                   |
 | _Residence:_       |                                                          |
 | _Transport:_       | A small cart pulled by two donkeys                       |

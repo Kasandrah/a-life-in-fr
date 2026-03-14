@@ -12,12 +12,12 @@ draft: false
 | ------------------ | ------------------------------------------------------------------- |
 | _Height / weight:_ |                                                                     |
 | _Voice:_           |                                                                     |
-| _Perfume:_         |                                                                     |
+| _Cologne:_         |                                                                     |
 | _Born:_            | 780 in Sellenn, Anfar Refinli - Toleki as Psanrhemare Sen           |
 | _Birth sign:_      |                                                                     |
 | _Birth stones:_    |                                                                     |
 | _Birth flowers:_   |                                                                     |
-| _Partner_          | [[Asrano-Farso-Ala\|Asrano Farso Ala]]                              |
+| _Partner_          | _[[Asrano-Farso-Ala\|Asrano Farso Ala]]_                            |
 | _Occupation_       | Soldier, second-in-command of a light infantry unit of 120 soldiers |
 | _Residence:_       | Lorn Borsofa, large port city in the southeast of Anfar Refinli     |
 | _Transport:_       | Horses                                                              |

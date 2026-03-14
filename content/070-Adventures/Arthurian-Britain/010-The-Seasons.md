@@ -195,7 +195,7 @@ Lysanor gives birth to a boy child, fathered by _[[Oberon|Oberon]]_.  This incu
 
 ### April
 
-Amid much pomp and ceremony (managed by Jeanne) and despite Arthur's reluctance, Lysanor marries Sir Cynrain, Jeanne's protector while Rhodri was away in the Fae realms.  Ailil (father of the bride) visits the wedding in the guise of a young musician, but doesn't cause any trouble.  The newly married couple settle in Karadigan Castle with Uther.  Rhodri sends his trusted allies (ex-household knights) to protect them.
+Amid much pomp and ceremony (managed by Jeanne) and despite Arthur's reluctance, Lysanor marries Sir Cynrain, Jeanne's protector while Rhodri was away in the Fae realm.  Ailil (father of the bride) visits the wedding in the guise of a young musician, but doesn't cause any trouble.  The newly married couple settle in Karadigan Castle with Uther.  Rhodri sends his trusted allies (ex-household knights) to protect them.
 
 ### May
 

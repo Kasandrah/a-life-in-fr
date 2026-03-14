@@ -93,7 +93,7 @@ _[[020-The-Antediluvians#Owain and Juanita|Owain]]_ - He is in a dilemma.  He 
 
 >**GM's Note:** What follows, including the Nosferatu and the timeline, is a player write-up of events that didn't happen in-game.
 >
->I've learned through hard experience not to let any single player have a disproportionate influence over my campaign. I decide whether to accept **as canon** any player write-ups that 1) alter, redact, or add to in-game events, 2) use my NPCs out of character, or 3) drive my campaign in a direction that has major consequences for my setting.
+>I've learned not to let any single player have a disproportionate influence over my campaign. I decide whether to accept **as canon** any player write-ups that 1) alter, redact, or add to in-game events, 2) use my NPCs out of character, or 3) drive my campaign in a direction that has major consequences for my setting.
 >
 >My earth-based campaigns share a single timeline. What happened in the past influences what happens in the future. In-game events in [[030-Arthurian-Britain|Arthurian Britain]] and the [[040-Dark-Ages|Dark Ages]] impact my [[050-Modern|Modern]] campaign. Long-lived NPCs and, for better or worse, PCs, appear in more than one of my earth-based campaigns.
 >
@@ -105,8 +105,7 @@ _[[020-The-Antediluvians#Owain and Juanita|Owain]]_ - He is in a dilemma.  He 
 > - [Setting agency in D&D](https://youtu.be/txfPuo6dw3Q?si=YaD7SXF75kmbeLfG)
 > - [The When, Where, How, and What of Player Agency: Or How I Learned to Loathe Sidequests](https://youtu.be/2C9UiQ9aAig?si=nDnfPz7Bvy0aKrHU)
 >
->There is a lesson for GMs here; one I didn't learn until it was too late to save my most loved campaigns. As a GM, agency over my setting and my narrative is mine alone, not my players'.
->Take ownership of your setting and your NPCs. Learn to say **no** to players; otherwise, you'll be running their campaign, not yours, and you risk them [[The-Dark-Circle|scuttling player agency]] for the rest of your table.
+>As a GM, agency over my setting and my narrative is mine alone, not my players'. Take ownership of your setting and your NPCs. Learn to say **no** to players; otherwise, you'll be running their campaign, not yours, and you risk them [[The-Dark-Circle|scuttling player agency]] for the rest of your table.
 
 **Written by [[Jenny-H|Jenny H.]] (Gwyn)**
 

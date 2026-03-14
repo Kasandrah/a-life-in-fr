@@ -65,17 +65,29 @@ Dresdina has a cat named Ochita.
 
 ## Significant Life Events
 
-Inspired by Efrem Zimbalist Jr. in “FBI” and Sherlock Holmes (“Hound of the Baskervilles”), has a personally autographed photo of Efrem Zimbalist Jr. which says “To Dresdina, Good Luck”.  20/6/68 - at age 14 decided to join the FBI, wrote a letter to Mr Hoover, 3/7/68 - reply from Mr Hoover (one of her most treasured possessions), 15/7/68 - went with her father to visit Mr Hoover and the FBI offices, has a photo of herself standing next to Mr Hoover who is holding the Thompson sub-machine gun which he used to gun down gangsters in the “good old days”, she used a service pistol on the gun range and was better than the escorting FBI agent.
+Inspired by Efrem Zimbalist Jr. in “FBI” and Sherlock Holmes (“Hound of the Baskervilles”), has a personally autographed photo of Efrem Zimbalist Jr. which says “To Dresdina, Good Luck”.
+
+20/6/68 - at age 14 decided to join the FBI, wrote a letter to Mr Hoover.
+
+3/7/68 - reply from Mr Hoover (one of her most treasured possessions).
+
+15/7/68 - went with her father to visit Mr Hoover and the FBI offices, has a photo of herself standing next to Mr Hoover who is holding the Thompson sub-machine gun which he used to gun down gangsters in the “good old days”, she used a service pistol on the gun range and was better than the escorting FBI agent.
 
 Her mother frequently complained of strange, dark dreams.  In late 1968 Dresdina had a dream of a man trying to break into her room, calling her name and saying he wanted her.  His screaming turned into animal roaring.  Her mother said she knows about “him” and that she has the same dream, warns Dresdina never to let him into her room.
 
 ## Medical Details
 
-Asthma when young (13), sunburns easily (fair skinned), Dec/Jan 1968/’69 - very sick with a lung infection, 22/11/73 - delirious and hospitalised - found by a friend who said she was screaming at demons, 1/5/79 - stabbed in the chest, punctured left lung, six months leave from active duty while recovering.  Has been known to take mind altering natural fungi and flora.  Does not like birds (phobia) and claims to have walked barefoot across red hot coals (no burns).
+Asthma when young (13), sunburns easily (fair skinned), Dec/Jan 1968/’69 - very sick with a lung infection.
+
+22/11/73 - delirious and hospitalised - found by a friend who said she was screaming at demons.
+
+1/5/79 - stabbed in the chest, punctured left lung, six months leave from active duty while recovering.  Has taken mind-altering natural fungi and flora.  Does not like birds (phobia) and claims to have walked barefoot across red-hot coals (no burns).
 
 ## Criminal Offences
 
-10/3/74 - while staying overnight in New York was caught up in a student protest, arrested and spent the night in a police cell, 12/6/74 - thrown out of a Las Vegas casino for card counting.
+10/3/74 - while staying overnight in New York was caught up in a student protest, arrested and spent the night in a police cell.
+
+12/6/74 - thrown out of a Las Vegas casino for card counting.
 
 ## Timeline
 
@@ -125,6 +137,7 @@ Asthma when young (13), sunburns easily (fair skinned), Dec/Jan 1968/’69 - ver
 | 1979 May 1st           | WE stabs Dresdina in the chest while attempting to murder Caroline, Dresdina was protecting her, six months leave while recovering                                 |
 | 1979 November          | Joins FBI counter-intelligence (six years) some involvement in Russia                                                                                              |
 | 1987                   | Drug interdiction, DEA Mexico.  Dresdina finds that working with these “cowboys” is too much for her nerves and returns to FBI offices in Philadelphia.            |
+| ?                      | [[Nova-Scotia\|Nova Scotia]] - Did we play this?                                                                                                                   |
 | 1992 February          | [[Dreamers-Delight\|Dreamer’s Delight]]                                                                                                                            |
 | 1992 March             | [[Looking-for-Algrens-Home\|Looking for Algren’s Home]]                                                                                                            |
 | 1997 April             | [[The-Dark-Circle\|The Dark Circle]]                                                                                                                               |

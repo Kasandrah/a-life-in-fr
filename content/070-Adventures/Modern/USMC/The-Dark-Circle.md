@@ -38,7 +38,7 @@ draft: false
 >
 >Perhaps they thought **"[it being less difficult to obtain forgiveness for it after it was done, than permission for doing it](https://quoteinvestigator.com/2018/06/19/forgive/)"** meant they didn't have to ask me. I think they knew I'd say no, for obvious reasons, and jumped on the opportunity my absence presented.
 >
->I have two choices regarding this content. Toss it out as "never happened when I was GM", or include it with annotations. As this was a learning experience for me, and not a good one, I've chosen to include it and the impact it had on my campaign.    
+>I have two choices regarding this content. Toss it out as "never happened when I was GM", or include it with annotations. As this was a learning experience for me, I've chosen to include it and the impact it had on my campaign.    
 
 Colonel Snow receives news of changes in personnel at the Industrial Park, an outcome of the toll the marines had taken on the Neo-Nazis.  Johann Rattenhuber had become the new director of the Park.  David recognises Rattenhuber as a survivor of Hitler’s Bunker and one of Bormann’s aides in the camp in which David was held during WWII.
 
@@ -64,7 +64,7 @@ Ilsenburg and Goldfarb press on, requesting some additional support from Dean to
 
 Here they find a priest who has been sent by his church to find out what has been going on.  The priest tells them that the situation is far too dangerous and they should leave it to the professionals.  Ilsenburg and Goldfarb also find out that a couple of hikers matching the description of Gwyn and Owain have been making their own inquiries in the area.
 
->**GM's Note:**  Given the threat posed by Gwyn and Owain, my Jefferson Dean gave Colonel Snow standing orders to avoid any contact with them and to notify Antonio immediately so he could deal with them.  This would have come out in game, **had either myself or Colonel Snow's player been in attendance**.
+>**GM's Note:**  Given the threat posed by Gwyn and Owain, my Jefferson Dean gave Colonel Snow standing orders to avoid any contact with them and to notify Antonio immediately so he could deal with them.  This would have come out in-game, **had either myself or Colonel Snow's player been in attendance**.
 
 On returning to Brasilia, Ilsenburg and Goldfarb meet the additional support sent by Dean: _[[Dresdina-Belle-Cooper|Dresdina Cooper]]_, _[[The-White-Magicians#Kellion O’Shea|Kellion O’Shea]]_ and _[[Jenny-H#^14ff80|Mairi McPherson]]_.  Dean has placed Dresdina in charge of the new team.  Dresdina, Kellion, and Mairi give a guarded summary of their backgrounds and ask for up-to-date details on the situation at the village.
 
@@ -90,7 +90,7 @@ Torches reveal a man-made tunnel that leads to a gate.  Gwyn and Owain walk thr
 
 This suggests to the team that only supernatural beings can pass through the first gate.  How to get the human members of the party through?  With no personal experience of becoming supernatural, the human members of the team are at a loss how to achieve this.  Gwyn suggests, with a perfectly straight face, that she can turn the human team members into ghouls “just for a little while”.
 
->**GM's Note:** The raison d'être for the stand-in GM's entire scenario. The one thing I'd not allowed since Gwyn had been present in my USMC campaign. From all the way back to [[Fire-and-Air|Fire and Air]]. I'd been played.
+>**GM's Note:** The raison d'être for the stand-in GM's entire scenario. The one thing I'd not allowed since Gwyn had been present in my USMC campaign. From all the way back to [[Fire-and-Air|Fire and Air]].
 
 There is complete silence in the tunnel.  After a few minutes, Kellion replies, “you must be joking”.  Antonio, looking coldly at Gwyn, informs Kellion she isn’t joking and that, given what may be at stake, her suggestion should be considered seriously.  While Antonio can’t turn humans into supernatural beings, he can certainly purge any taint of ghoulishness from them afterwards.  “It’ll just hurt a bit."
 
@@ -118,6 +118,6 @@ Gwyn and Owain made their own way to wherever they were going.  The rest of the
 
 >**GM's Note:** After "The Dark Circle", all my players but the stand-in GM complained they were playing the other player's game, not mine.  This problem had been building since [[Fire-and-Air|Fire and Air]], but after being locked into the stand-in GM's story as bit players, they didn't want to continue.
 >
->My intention with the United States Marine Corps (USMC) characters was to explore the outcome of matching heavy weaponry against various Cthulhu and non-Cthulhu threats. By catering to the wishes of only one player, the stand-in GM, I'd allowed my game to drift off mission and, finally, out of my hands.  My naivety and inability to say no when necessary almost cost me another campaign. 
+>My intention with the United States Marine Corps (USMC) characters was to explore the outcome of matching heavy weaponry against various Cthulhu and non-Cthulhu threats. By catering to the wishes of only one player, the stand-in GM, I'd allowed my game to drift off mission and, finally, out of my hands.
 >
 >To address the glaring imbalance in player agency, I asked the stand-in GM to create a new USMC character comparable with the others.  Hence, _[[USMC-Fireteam-SG-21#Major Kris Morrissey|Major Kris Morrissey]]_ replaced _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_ and _[[Jenny-H#^59824f|David Abrahamson]]_.  I also ensured _[[020-The-Antediluvians#Gwyn|Agnetha]] and [[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ never appeared in this campaign again.

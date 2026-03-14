@@ -25,7 +25,7 @@ From Anfar Refinli to the Summer Country and back again.
 >
 >Once my sessions were complete, we switched back to Neil as GM. He refused to play Brennos as an NPC. Brennos had "cut Dannar's lunch", as the old saying goes (i.e., stolen Dannar's girlfriend, in this case, Niani). Neil tasked me with running two PCs, Voklaynn and Brennos, and admitted Brennos would have a large target on his back.
 >
->Not having Brennos around in-game would upset Niani, and Neil didn't want to, by extension, upset Niani's player. I had to play Brennos knowing he would suffer the in-game slings and arrows of, minefield alert, an out-of-game unrequited love.
+>Not having Brennos around in-game would upset Niani, and Neil didn't want to, by extension, upset Niani's player. I had to play Brennos, knowing he would suffer the in-game slings and arrows of, minefield alert, an out-of-game unrequited love.
 >
 >There is nothing quite like going into a roleplaying game knowing the GM has focused their wrath on your character for an unresolvable **out-of-game** reason.
 
@@ -60,6 +60,8 @@ A huntress, Lan’s wife.
 Played by [[Jenny-H|Jenny H.]]
 
 #### Pnessamo Boklaro Niani
+
+^a23288
 
 An exiled noble and knight.
 

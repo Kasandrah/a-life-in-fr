@@ -21,3 +21,5 @@ _Ellis, Runyard_ - a soldier. ^91f12c
 _Jupiter, Andrew "Monk"_ - a doctor. ^960632
 
 _Nacht, Mons. Frederick_ - a Roman Catholic priest. ^9224e1
+
+_Vincent, Harry_ - author and agent of Arthur Clarke Wildman ^e8ea87

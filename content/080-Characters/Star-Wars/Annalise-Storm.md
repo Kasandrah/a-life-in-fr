@@ -6,7 +6,9 @@ tags: star-wars
 title: Annalise Storm
 draft: false
 ---
-# Written by [[Jenny-H|Jenny H.]] (Jess)
+# Annalise Storm
+
+**Written by [[Jenny-H|Jenny H.]] (Jess)**
 
 Annalise is 53 years old.  She looks much younger than her actual years and keeps herself in very good shape.  She dresses exquisitely and if there is even one of her thick, blonde hairs out of place, it is calculated.  She has lovely blue eyes.  Elkior has steel grey eyes - like Jess.
 

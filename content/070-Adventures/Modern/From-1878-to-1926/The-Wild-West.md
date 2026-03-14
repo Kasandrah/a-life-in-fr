@@ -46,10 +46,10 @@ Read [[The-Morning-After|The Morning After]].
 
 ## Possessions Acquired
 
-$33,000 in bonds, stocks and shares
+&#36;33,000 in bonds, stocks and shares
 
-$15,000 worth of land in the Hollywood Hills
+&#36;15,000 worth of land in the Hollywood Hills
 
-$2,600 worth of furniture
+&#36;2,600 worth of furniture
 
-$5,000 worth of first edition books – Poe's “Collected Tales”, Stoker's “Dracula”, Shelly's “Frankenstein” and Le Fanu's “Carmilla”.
+&#36;5,000 worth of first edition books – Poe's “Collected Tales”, Stoker's “Dracula”, Shelly's “Frankenstein” and Le Fanu's “Carmilla”.

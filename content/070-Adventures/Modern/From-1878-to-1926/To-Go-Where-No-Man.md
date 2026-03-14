@@ -20,15 +20,15 @@ draft: false
 
 ## Characters
 
-| Player Characters                                        | Non-Player Characters                                                            |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| _[[Neil-F#^a450bf\|Davids, David]]_                 | _[[Zoran-B#^91f12c\|Ellis, Runyard]]_                                       |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_              | _Trixie_                                                                         |
-| _[[Neil-F#^901589\|Jenks, Stanley]]_                | _MIB_ – alien cultist                                                            |
-| _[[Angela-Taylor\|Taylor, Angela]]_                      | _Mi-go_ – many                                                                   |
-| _[[George-G#^c52611\|Wellington, Captain Brian]]_ | _Vincent, Harry_ – author and agent of ACW                                       |
-| _[[Michael-H#^570963\|Williams, Jack]]_             | _Wilde, Jonathon_ – an associate of Wildman’s                                    |
-|                                                          | _Wildman, Arthur Clarke_ – super spy associated with the crystal people in Tibet |
+| Player Characters                                 | Non-Player Characters                                                            |
+| ------------------------------------------------- | -------------------------------------------------------------------------------- |
+| _[[Neil-F#^a450bf\|Davids, David]]_               | _[[Zoran-B#^91f12c\|Ellis, Runyard]]_                                            |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_          | _Trixie_                                                                         |
+| _[[Neil-F#^901589\|Jenks, Stanley]]_              | _MIB_ – alien cultist                                                            |
+| _[[Angela-Taylor\|Taylor, Angela]]_               | _Mi-go_ – many                                                                   |
+| _[[George-G#^c52611\|Wellington, Captain Brian]]_ | _[[Zoran-B#^e8ea87\|Vincent, Harry]]_                                            |
+| _[[Michael-H#^570963\|Williams, Jack]]_           | _Wilde, Jonathon_ – an associate of Wildman’s                                    |
+|                                                   | _Wildman, Arthur Clarke_ – super spy associated with the crystal people in Tibet |
 
 ## Involvement
 

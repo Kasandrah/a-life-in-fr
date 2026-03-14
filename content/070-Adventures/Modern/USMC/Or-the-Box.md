@@ -22,7 +22,9 @@ draft: false
 | _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     |                                                                            |
 | _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                            |
 
->**GM's Note:** The party, less a vampire and a ghoul, is finally in front of Dean.  Their meeting is held in a room in the Pentagon.  On the table is an unusual wooden box, heavily decorated with medieval-style carvings.  A long discussion ensues during which Dean and Snow get a concession from Antonio, almost at the point of an Orichalka weapon.  While it may not work on an angel, if Angela’s reaction is anything to go by, it will definitely work on this angel’s wife.
+>**GM's Note:** The party, less a vampire and a ghoul, is finally in front of Dean.  Their meeting is held in a room in the Pentagon.  On the table is an unusual wooden box, heavily decorated with medieval-style carvings.
+>
+>A long discussion ensues during which Dean and Snow get a concession from Antonio, almost at the point of an Orichalka weapon.  While it may not work on an angel, if Angela’s reaction is anything to go by, it will definitely work on this angel’s wife.
 >
 >Michal is unhappy at the implied threat and the realisation that Angela is no longer what she was.  Michal declines Dean’s “invitation” to Antarctica and leaves with David.  Dean then discusses plans for getting his team to the possible site of the Fourth Reich.
 >

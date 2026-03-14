@@ -26,7 +26,7 @@ As my focus is running games online via[ FoundryVTT](https://foundryvtt.com/), m
 
 ---
 
-**[Cthulhu by Gaslight](https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-pdf/)** - (late 1800s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - the other system I'm reviewing for [Antipodean Moon](https://antipodeanmoon.com/), supplemented by [Dark Designs](https://www.drivethrurpg.com/en/product/1676/dark-designs) and [Pulp Cthulhu](https://www.drivethrurpg.com/en/product/199600/pulp-cthulhu-7th-edition-call-of-cthulhu)
+**[Cthulhu by Gaslight](https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-pdf/)** - (late 1800s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - the other system I'm reviewing for [Antipodean Moon](https://antipodeanmoon.com/), supplemented by [Dark Designs](https://www.drivethrurpg.com/en/product/1676/dark-designs), [D20 Past](https://www.drivethrurpg.com/en/product/54231/d20-past-d20m), and [Pulp Cthulhu](https://www.drivethrurpg.com/en/product/199600/pulp-cthulhu-7th-edition-call-of-cthulhu)
  - [Hudson & Brand](https://www.drivethrurpg.com/en/product/229175/hudson-brand-inquiry-agents-of-the-obscure-a-call-of-cthulhu-setting-for-cthulhu-by-gaslight) with [Spirits of London](https://www.drivethrurpg.com/en/product/229177/the-spirits-of-london-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), [The Thirteen](https://www.drivethrurpg.com/en/product/229178/the-thirteen-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), and [A Lens of Darkness](https://www.drivethrurpg.com/en/product/231982/a-lens-of-darkness) (Victorian Era London)
 
 ---
@@ -66,7 +66,7 @@ Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the op
 
 ---
 
-**[The Secret World](https://www.drivethrurpg.com/en/product/484494/the-secret-world-core-setting-swade)** - (current time using the [Savage Worlds Core Ruleset](https://foundryvtt.com/packages/swade-core-rules)) - a licensed IP roleplaying game based on the MMO of the [same name](https://www.secretworldlegends.com/#thegame). Inspired by [H.P. Lovecraft's Cthulhu Mythos](https://lovecraft.fandom.com/wiki/Cthulhu_Mythos). Also comes in a [D&D 5E](https://www.drivethrurpg.com/en/product/472546/the-secret-world-5e-core-book) version but if I'm running D&D 5E, I'd prefer a fantasy setting rather than this modern setting.
+**[The Secret World](https://www.drivethrurpg.com/en/product/484494/the-secret-world-core-setting-swade)** - (current time using the [Savage Worlds Core Ruleset](https://foundryvtt.com/packages/swade-core-rules)) - a licensed IP roleplaying game based on the MMO of the [same name](https://www.secretworldlegends.com/#thegame). Inspired by [H.P. Lovecraft's Cthulhu Mythos](https://lovecraft.fandom.com/wiki/Cthulhu_Mythos). Also comes in a [D&D 5E](https://www.drivethrurpg.com/en/product/472546/the-secret-world-5e-core-book) version, but if I'm running D&D 5E, I'd prefer a fantasy setting rather than this modern setting.
 
 ## Alternate Worlds
 
@@ -126,3 +126,22 @@ I've not adapted the following D&D 5E adventures to Mystara, so they will requir
 
  - [Steamscapes](https://www.drivethrurpg.com/en/product/124078/steamscapes-north-america) - starts in North America, 1871
  - [The Widening Gyre](https://www.drivethrurpg.com/en/product/137764/the-widening-gyre-a-savage-steampunk-setting) - 1837 through to 1918 with a more global focus
+
+---
+
+Also available for consideration, depending on how much work is needed for me to adapt the setting and adventures to a suitable FoundryVTT system:
+ - [AD&D First Edition](https://rpggeek.com/rpg/191/advanced-dungeons-and-dragons-1st-edition)
+	 - Conan (1985)
+	 - [Modules](https://1drv.ms/f/c/91410f4890c8961c/IgAclsiQSA9BIICR-s4BAAAAAaBAI3eQZS4ZpZmIWL3VwqQ?e=tu6kPc) set mostly in Greyhawk
+ - [AD&D Second Edition](https://rpggeek.com/rpg/244/advanced-dungeons-and-dragons-2nd-edition)
+	 - [Spelljammer](https://rpggeek.com/rpgsetting/242/spelljammer) (1991)
+	 - [Al-Qadim Secrets of the Lamp](https://www.drivethrurpg.com/en/product/16877/alq4-secrets-of-the-lamp-2e) (1993)
+	 - [Lankhmar](https://rpggeek.com/rpgitem/55549/lankhmar-city-of-adventure-ad-and-d-2e) (1993)
+	 - [Planescape](https://rpggeek.com/rpgsetting/535/planescape) (1994)
+ - D&D [3.0](https://rpggeek.com/rpg/221/dungeons-and-dragons-3rd-edition) and [3.5](https://rpggeek.com/rpg/243/dungeons-and-dragons-35-edition)
+	 - [Kingdoms of Kalamar](https://www.drivethrurpg.com/en/publisher/336/kenzer-company/category/568/kingdoms-of-kalamar) (2001)
+	 - [Oriental Adventures](https://rpggeek.com/rpgitem/47892/oriental-adventures) (2001)
+	 - [Dragonlance](https://www.drivethrurpg.com/en/publisher/44/wizards-of-the-coast/category/322/dragonlance?src=browse44) (2003)
+	 - [Ghostwalk](https://rpggeek.com/rpgitem/47699/ghostwalk) (2003)
+	 - [Eberron](https://www.drivethrurpg.com/en/publisher/44/wizards-of-the-coast/category/9738/eberron) (2004)
+ - [Mass Effect](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRO88CAAAAAa-emF1g6Juvuzauhi3z2jA?e=msvQTh) (d20 system)
