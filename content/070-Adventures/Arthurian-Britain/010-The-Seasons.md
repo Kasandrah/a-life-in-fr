@@ -227,7 +227,7 @@ During the feast that night, Titania, disguised as Niani, misleads and abducts B
 
 Challenges are given and accepted to prove skill and strength, to resolve disputes, for glory and for love of the fight.  Challenges are spiced with feasts, amorous quests and socialising and may continue over several days.
 
-During this time Arthur courts Maeve (17 years old), a guest from Voklaynn's realm who can see through Faerie Glamour to the truth beneath.  Rhodri and Niani encourage Arthur, as this ability of Maeve's is a highly desirable quality in a future Queen and mother to Arthur's heirs.
+During this time Arthur courts _[[Angelica|Maeve]]_ (17 years old), a guest from Voklaynn's realm who can see through Faerie Glamour to the truth beneath.  Rhodri and Niani encourage Arthur, as this ability of Maeve's is a highly desirable quality in a future Queen and mother to Arthur's heirs.
 
 Jeanne has spoken to the Crone (an aspect of Morrigan), and tells Niani there is a small window of opportunity during which Niani and Brennos might return to Anfar Refinli.  All Niani has to do is find Brennos, missing since the previous night's feast.
 

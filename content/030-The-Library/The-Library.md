@@ -10,7 +10,7 @@ draft: false
 
 **[The Mortlock Wing, State Library, South Australia](https://adelaideaz.com/articles/mortlock-wing-of-south-australia-s-state-library-has-interior-regularly-rated-among-the-world-s-most-beautiful-)**
 
-My library holds my digital resources for the following roleplaying games, accessible to members (my players) by invitation only:
+My library holds my digital resources for the following roleplaying games, accessible to members by invitation only:
 
 - Basic Roleplaying - Universal Game Engine
 - Call of Cthulhu
@@ -27,7 +27,7 @@ My library holds my digital resources for the following roleplaying games, acces
 	- AD&D Second Edition
 	- 3.0 and 3.5
 	- 4.0
-	- 5.0 2014 and 5.0 2024
+	- 5.0 (2014) and 5.5 (2024)
 - Dark Ages Vampire
 - Delta Green
 - Dragon Age Origins

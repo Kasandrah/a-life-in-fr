@@ -27,6 +27,7 @@ As my focus is running games online via[ FoundryVTT](https://foundryvtt.com/), m
 ---
 
 **[Cthulhu by Gaslight](https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-pdf/)** - (late 1800s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - the other system I'm reviewing for [Antipodean Moon](https://antipodeanmoon.com/), supplemented by [Dark Designs](https://www.drivethrurpg.com/en/product/1676/dark-designs), [D20 Past](https://www.drivethrurpg.com/en/product/54231/d20-past-d20m), and [Pulp Cthulhu](https://www.drivethrurpg.com/en/product/199600/pulp-cthulhu-7th-edition-call-of-cthulhu)
+ - Call of Cthulhu Starter Kit with The Haunting
  - [Hudson & Brand](https://www.drivethrurpg.com/en/product/229175/hudson-brand-inquiry-agents-of-the-obscure-a-call-of-cthulhu-setting-for-cthulhu-by-gaslight) with [Spirits of London](https://www.drivethrurpg.com/en/product/229177/the-spirits-of-london-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), [The Thirteen](https://www.drivethrurpg.com/en/product/229178/the-thirteen-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), and [A Lens of Darkness](https://www.drivethrurpg.com/en/product/231982/a-lens-of-darkness) (Victorian Era London)
 
 ---
@@ -131,7 +132,7 @@ I've not adapted the following D&D 5E adventures to Mystara, so they will requir
 
 Also available for consideration, depending on how much work is needed for me to adapt the setting and adventures to a suitable FoundryVTT system:
  - [AD&D First Edition](https://rpggeek.com/rpg/191/advanced-dungeons-and-dragons-1st-edition)
-	 - Conan (1985)
+	 - [Conan](http://www.waynesbooks.com/Conan.html) (1984)
 	 - [Modules](https://1drv.ms/f/c/91410f4890c8961c/IgAclsiQSA9BIICR-s4BAAAAAaBAI3eQZS4ZpZmIWL3VwqQ?e=tu6kPc) set mostly in Greyhawk
  - [AD&D Second Edition](https://rpggeek.com/rpg/244/advanced-dungeons-and-dragons-2nd-edition)
 	 - [Spelljammer](https://rpggeek.com/rpgsetting/242/spelljammer) (1991)

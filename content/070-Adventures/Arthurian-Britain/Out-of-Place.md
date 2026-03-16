@@ -144,7 +144,7 @@ Niani went off her tree when she found out about Asterlan.  This was for a vari
     
 4. Titania telling Brennos may have been a way of ensuring Niani found out, which means she is threatening Niani with taking Brennos again.  It also means taking Brennos in the first place may have been revenge against Niani for persuading Lysanor to go to the Seelie Court.  That makes Niani responsible for what happened to Brennos.  She has no proof either way on this one, but that doesn't mean it isn't possible.  Titania may have tolerated Oberon's straying, but Lysanor was the one who produced a son, rather than just more daughters.
     
-5. Brennos wants to have a relationship with Asterlan.  That may be because Brennos doesn't want Asterlan to grow up like Oberon, Titania and co, but any halfway decent foster parents would have been able to ensure that.  Niani would have been a lot happier if Asterlan had been on the other side of the moon.  Instead he is at court where he can't be completely avoided and he is the foster son of her only friend.  This forces Niani to choose between associating with Asterlan herself or losing her only friend.  She resents being forced into a corner like this.  Maeve and Arthur should be able to ensure Asterlan is raised appropriately without any input from Brennos, so Brennos does feel a fatherly connection with Asterlan.
+5. Brennos wants to have a relationship with Asterlan.  That may be because Brennos doesn't want Asterlan to grow up like Oberon, Titania and co, but any halfway decent foster parents would have been able to ensure that.  Niani would have been a lot happier if Asterlan had been on the other side of the moon.  Instead he is at court where he can't be completely avoided and he is the foster son of her only friend.  This forces Niani to choose between associating with Asterlan herself or losing her only friend.  She resents being forced into a corner like this.  _[[Angelica|Maeve]]_ and Arthur should be able to ensure Asterlan is raised appropriately without any input from Brennos, so Brennos does feel a fatherly connection with Asterlan.
     
 6. No matter what the reasons for Asterlan are, the mere fact that Brennos has a child with another woman has changed their relationship.  There was a mystical bond at their union and this has been broken.
     
@@ -265,7 +265,7 @@ Here I was doing it again in the **520 AD** campaign. The rest of my players dec
 
 Had I not made rookie GM blunders, Brennos and Niani would have "lived happily ever after" in [[100-Anfar-Refinli|Anfar Refinli]], a closed book since the original GM's death in 1999. I wouldn't have turned my campaign inside out to accommodate them, made Niani and Mae's player feel like I'd set them up to fail, twice, and attracted the ire of the rest of my players.
 
-As a favour to a [[Jenny-H|dear friend]], Brennos will get his wish. I just hope I get time to write this up.
+For a [[Jenny-H|dear friend]], Brennos will get his wish. I just hope I get the time to write this up.
 
 ---
 

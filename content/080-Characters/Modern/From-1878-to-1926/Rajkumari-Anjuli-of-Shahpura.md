@@ -14,6 +14,8 @@ draft: false
 ---
 # Rajkumari Anjuli of Shahpura
 
+![[cc_anjuli.jpg]]
+
 Anjuli: (Juli by her friends or Larla “darling” by Sam)
 
 | Aspect             | Description                                                        |
@@ -37,8 +39,6 @@ Anjuli is an Anglicised Indian princess who is the oldest daughter of the Rajah 
 >**GM's Note:** Anjuli is one of my original player characters. I rolled a critical on my class roll; hence she is a member of the Brahmin caste, as is her father Bharmal, Rajah of Shahpura.
 
 ## Appearance
-
-![[cc_anjuli.jpg]]
 
 Anjuli’s arresting looks throw back to her Russian grandmother.  Anjuli is tall, willowy and graceful and shows signs of her mixed blood in her bone structure, dusky skin colour, long gracious body lines, breadth of her slim square shoulders and curving hips, her narrow feet and slender ankles.  Her hands are firm, capable and square, not the traditionally delicate and slender hands of an Indian woman.
 

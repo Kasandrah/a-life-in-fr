@@ -12,6 +12,10 @@ draft: false
 ---
 # Lisa Ellen Manchester
 
+![[cc_lisa_manchester.jpg]]
+
+**Lisa Ellen Manchester**
+
 _Lisa:_ “consecrated”
 
 _Ellen:_ “bright light” - same as Eleanor, version of Helen
@@ -34,7 +38,7 @@ _Ellen:_ “bright light” - same as Eleanor, version of Helen
 
 ## Appearance
 
-Lisa is small and pretty with short curly brown hair that is fine, silky and very plentiful.  She is always well dressed, although conservative, and wears little or no jewellery.  Lisa has a very light and slightly sinuous, cat-like gait.  Her skin is fair, smooth, fine-textured and prone to burning easily.  Her blue eyes are prominent with a direct but benevolent gaze.
+Lisa is small and pretty with short, curly brown hair that is fine, silky, and plentiful.  She is always well dressed, although conservative, and wears little or no jewellery.  Lisa has a very light and slightly sinuous, cat-like gait.  Her skin is fair, smooth, fine-textured, and prone to burning easily.  Her blue eyes have a direct but benevolent gaze.
 
 ![[cc_1926_evening_gowns.2.gif]]
 ## Interests
@@ -45,19 +49,19 @@ After the sun goes down, Lisa likes to party wherever the best food, drink and e
 
 ## Personality
 
-Lisa is very self-assured with a magnetic personality and a natural capacity to take control and excel in whatever she organises.  This strong autocratic strain is balanced by a generosity of spirit and a very warm hearted, idealistic nature.  Lisa believes power is to wield for the common good.
+Lisa is very self-assured with a magnetic personality and a natural capacity to take control and excel in whatever she organises.  This strong autocratic strain is balanced by a generosity of spirit and a very warm-hearted, idealistic nature.  Lisa believes power is to be wielded for the common good.
 
-She is capable of titanic effort when necessity demands and remains composed in a crisis, but can be a very indolent sun worshipper otherwise.  Even though Lisa ignores conventional rules for keeping fit, she still manages to look and feel her best.  She avoids strenuous sport and has an unbalanced and irregular diet due to her work commitments, aggravated by a fondness for good wine and liqueurs.  She never suffers chills due to extremes in the weather.
+She is capable of titanic effort when necessity demands and remains composed in a crisis, but can be a very indolent sun worshipper otherwise.  Even though Lisa ignores conventional rules for keeping fit, she still looks and feels her best.  She avoids strenuous sport and has an unbalanced and irregular diet because of her work commitments, aggravated by a fondness for excellent wine and liqueurs.  She never suffers chills because of extremes in the weather.
 
-Lisa likes flattery but is not deceived by it, she likes to be depended on.  She is not a sound judge of people as she believes that if you treat others right they will treat you right.  This leads to disillusionment when others disappoint her.
+Lisa likes flattery but is not deceived by it; she likes to be depended on.  She is not a sound judge of people, as she believes that if you treat others right, they will treat you right.  This leads to disillusionment when others disappoint her.
 
-She is not diffident and always eager to accept challenges, but she cannot stand criticism.  Lisa radiates vitality, inspiration and loyalty.  Treachery by others is unforgivable.
+She is not diffident and is always eager to accept challenges, but she cannot stand criticism.  Lisa radiates vitality, inspiration, and loyalty.  Treachery by others is unforgivable.
 
-Lisa is naturally religious with a sublime faith that good will triumph over evil.  a power on high will ensure that justice will prevail here on Earth.  She has high principles and ideals with a love of humanity.  Lisa believes that love makes the world go round and she needs to give and receive love in full measure in order to be at her best.
+Lisa is naturally religious with a sublime faith that good will triumph over evil.  a power on high will ensure that justice will prevail here on Earth.  She has high principles and ideals, with a love of humanity.  Lisa believes that love makes the world go round, and she needs to give and receive love in full measure in order to be at her best.
 
-She is very affectionate, protective and romantic but can also be very possessive.  Lisa is not eager to marry young and has turned down several opportunities to settle down.  Lisa is not jealous of attentions bestowed on her partner by other women as she is confident that she has her partner’s complete attention.  She takes rivalry as a form of flattery.
+She is very affectionate, protective, and romantic, but can also be very possessive.  Lisa is not eager to marry young and has turned down several opportunities to settle down.  Lisa is not jealous of the attention given to her partner by other women, as she is confident that she has her partner’s complete attention.  She takes rivalry as a form of flattery.
 
-Lisa likes to bestow gifts on others but does not like accepting favours. She has been financially lucky but she is not money conscious.  Lisa is very honest in all monetary dealings.
+Lisa likes to give gifts to others, but she does not like accepting favours. She has been financially lucky, but she is not money-conscious.  Lisa is very honest in all monetary dealings.
 
 ## Education
 
@@ -71,11 +75,17 @@ Harvard University (1915 to 1920) - Bachelor of Medicine, Bachelor of Surgery (M
 
 ## Timeline
 
-| Date          | Adventure                                      |
-| ------------- | ---------------------------------------------- |
-| 1922 December | [[Snake-Temple\|Snake Temple]]                 |
-| 1926 June     | [[Monastery-of-Madness\|Monastery of Madness]] |
+| Date          | Adventure                                                                            |
+| ------------- | ------------------------------------------------------------------------------------ |
+| 1922 December | [[Snake-Temple\|Snake Temple]]                                                       |
+| 1923 July     | [Edge of Darkness](https://www.foundryvtt.store/products/cha-coc-fvtt-en-starterset) |
+| 1926 June     | [[Monastery-of-Madness\|Monastery of Madness]]                                       |
 
+## Character Sheets
+
+![[cc_lisa_manchester.pdf]]
+
+**Lisa Manchester, Call of Cthulhu 1920s, The Dhole's House**
 ## References
 
 ### Medical Jurisprudence - Forensic Medicine
@@ -92,10 +102,10 @@ The questions included in modern medical jurisprudence are divided into five gen
 
 Medical evidence in a legal proceeding is generally given by a qualified expert and is of two kinds:
 
-- ocular evidence which embraces facts which may be observed by the physician attending a patient;
+- ocular evidence which embraces facts that may be observed by the physician attending a patient;
 - testimony based on questions of counsel embodying hypothetical or assumed statements of facts.
 
-In legal proceedings in the United States involving such questions each party to the actions commonly hires its own experts and, owing to the elicitation of only partial truths by the use of hypothetical questions, equally competent medical experts frequently appear flatly to contradict each other.  The doubt such proceeding has cast on the value of expert opinion has led to the suggestion of numerous remedial plans as, for example, the establishment of a class of official experts such as now exists in various countries in Europe.
+In legal proceedings in the United States involving such questions, each party to the actions commonly hires its own experts and, owing to the elicitation of only partial truths by the use of hypothetical questions, equally competent medical experts frequently appear flatly to contradict each other.  The doubt such proceedings have cast on the value of expert opinion has led to the suggestion of many remedial plans as, for example, the establishment of a class of official experts such as now exists in various countries in Europe.
 
 Plans to remedy the situation, however, usually conflict with fundamental principles of the common law, particularly in the conduct of criminal trials: that the court shall be the sole judge of the law, that the jury shall pass upon the facts and that the defendant shall have the right to present any proper evidence on his own behalf.
 
