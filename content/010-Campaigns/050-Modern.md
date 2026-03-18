@@ -94,7 +94,7 @@ Meet _[[USMC-Fireteam-SG-21|USMC Fireteam SG-21]]_.
 
 > "Semper Fidelis" ("Always Faithful")  
 > Official motto of the US Marine Corps  
-> Adopted in 1883. (Often shortened to "Semper fi!")
+> Adopted in 1883. (Often shortened to "Semper fi")
 
 ## Nephilim, or Angels in America
 

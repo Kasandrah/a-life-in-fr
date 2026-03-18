@@ -14,6 +14,10 @@ draft: false
 
 Ssoulanthia is a [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=81) [Witch](https://2e.aonprd.com/Classes.aspx?ID=38) with a [Familiar](https://2e.aonprd.com/Rules.aspx?ID=2121) named Green who looks like a [Velociraptor](https://en.wikipedia.org/wiki/Velociraptor).
 
+## Green
+
+Green is Ssoulanthia's familiar; a magical creature provided to her by her mysterious, otherworldly patron, the [Whisper of Wings](https://2e.aonprd.com/Patrons.aspx?ID=21).
+
 ## Strength of Thousands
 
 ---
