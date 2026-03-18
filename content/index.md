@@ -1,10 +1,10 @@
 ---
 aliases:
   - Introduction
-title: An Introduction
+title: Introduction
 draft: false
 ---
-# An Introduction  
+# Introduction  
 
 ![[anin_dice1.jpg]]
 
@@ -24,7 +24,7 @@ This website and blog are part archive, part memorabilia, part homage to my hobb
 
 May the road go ever on …
 
-Further links:
+Contents:
 
 - [[010-Campaigns|Campaigns]]
 	- [[030-Arthurian-Britain|Arthurian Britain]]

@@ -83,7 +83,7 @@ Harvard University (1915 to 1920) - Bachelor of Medicine, Bachelor of Surgery (M
 
 ## Character Sheets
 
-![[cc_lisa_manchester.pdf]]
+![[cc_lisa_manchester_dh.pdf]]
 
 **Lisa Manchester, Call of Cthulhu 1920s, The Dhole's House**
 ## References

@@ -23,7 +23,19 @@ Her party included:
 
 A female halfling in early adulthood. Waist-length thin braids with beads and feathers. Close-fitting light leather shirt and pants. Studded leather armour.
 
-## Character Sheet
+## Character Sheets
+
+Ciannia has several character sheets; one for each species and primary weapon set.
+
+| Human                                          | Vampire                                          |
+| ---------------------------------------------- | ------------------------------------------------ |
+| [[gm_ciannia_clr9.pdf\|Cleric Level 9]]        |                                                  |
+| [[gm_ciannia_clr9_club.pdf\|Club]]             | [[gm_ciannia_clr9_club_v.pdf\|Club]]             |
+| [[gm_ciannia_clr9_dagger.pdf\|Dagger]]         | [[gm_ciannia_clr9_dagger_v.pdf\|Dagger]]         |
+| [[gm_ciannia_clr9_shortbow.pdf\|Shortbow]]     | [[gm_ciannia_clr9_shortbow_v.pdf\|Shortbow]]     |
+| [[gm_ciannia_clr9_shortspear.pdf\|Shortspear]] | [[gm_ciannia_clr9_shortspear_v.pdf\|Shortspear]] |
+| [[gm_ciannia_clr9_sling.pdf\|Sling]]           | [[gm_ciannia_clr9_sling_v.pdf\|Sling]]           |
+### Primary Character Sheet
 
 ![[gm_ciannia_clr9.pdf]]
 

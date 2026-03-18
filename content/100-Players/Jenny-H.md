@@ -11,6 +11,7 @@ draft: false
 - _[[010-DnD-Adventurers#Dangov, Ludmilla Vladimirovna|Dangov, Ludmilla Vladimirovna]]_
 - _[[020-The-Antediluvians#Gwyn|Gwyn]]_
 - _[[Nephilim-PCs#Kate Hennessey|Hennessey, Kate]]_
+- _[[Hrithik-Olafsson#^fb41af|Kazz]]_
 - _[[The-Summer-Country#Melitha|Melitha]]_
 - _[[090-Dragon-Riders-of-Pern#Mireta|Mireta]]_
 - _[[The-Summer-Country#Pnessamo Boklaro Niani|Niani, Pnessamo Boklaro]]_, also _[[010-Knights-of-Arthurian-Britain#Lady Niani|Niani, Lady]]_

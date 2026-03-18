@@ -27,7 +27,7 @@ As my focus is running games online via[ FoundryVTT](https://foundryvtt.com/), m
 ---
 
 **[Cthulhu by Gaslight](https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-pdf/)** - (late 1800s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - the other system I'm reviewing for [Antipodean Moon](https://antipodeanmoon.com/), supplemented by [Dark Designs](https://www.drivethrurpg.com/en/product/1676/dark-designs), [D20 Past](https://www.drivethrurpg.com/en/product/54231/d20-past-d20m), and [Pulp Cthulhu](https://www.drivethrurpg.com/en/product/199600/pulp-cthulhu-7th-edition-call-of-cthulhu)
- - Call of Cthulhu Starter Kit with The Haunting
+ - [Call of Cthulhu Starter Kit](https://www.foundryvtt.store/products/cha-coc-fvtt-en-starterset) with [The Haunting](https://cultistarmoury.org/the-haunting/)
  - [Hudson & Brand](https://www.drivethrurpg.com/en/product/229175/hudson-brand-inquiry-agents-of-the-obscure-a-call-of-cthulhu-setting-for-cthulhu-by-gaslight) with [Spirits of London](https://www.drivethrurpg.com/en/product/229177/the-spirits-of-london-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), [The Thirteen](https://www.drivethrurpg.com/en/product/229178/the-thirteen-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), and [A Lens of Darkness](https://www.drivethrurpg.com/en/product/231982/a-lens-of-darkness) (Victorian Era London)
 
 ---

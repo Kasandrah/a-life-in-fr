@@ -12,6 +12,7 @@ draft: false
 - _[[090-Dragon-Riders-of-Pern#B'ruk|B'ruk]]_
 - _[[Ciannia#^bbaf47|Flan]]_
 - _[[USMC-Fireteam-SG-21#Captain David Goldfarb|Goldfarb, Captain David]]_
+- _[[Hrithik-Olafsson#^775558|Grognard]]_
 - _[[010-Knights-of-Arthurian-Britain#Gwion|Gwion]]_
 - _[[010-DnD-Adventurers#Kubinski, Yakov|Kubinski, Yakov]]_
 - _[[Nephilim-PCs#James Martel|Martel, James]]_

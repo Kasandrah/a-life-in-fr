@@ -16,19 +16,19 @@ draft: false
 
 Hrithik is a male Aasimar with shiny feathers instead of hair, shimmering glossy black wings, taloned fingers and toes, and amber eyes. His father is the angel Shahrukh, a noble and impetuous bird-like member of Alteria's heavenly host, making Hrithik a half-celestial.
 
-Shahrukh's many offspring are recognisable for their black wings and body feathers hence they are known as "[Plumekith](https://2e.aonprd.com/Feats.aspx?ID=2285)". They are all beautiful medium height lightly built half-celestials with smooth dark skin and an exotic androgynous appearance. Although every male Plumekith has a burst of brightly coloured feathers around his face, clueless humans still mistake Hrithik for a female. He enjoys the shocked look on their faces when he starts speaking. Hrithik has a melodic voice but his tone is firmly in the tenor range.
+Shahrukh's many offspring are recognisable for their black wings and body feathers, hence they are known as "[Plumekith](https://2e.aonprd.com/Feats.aspx?ID=2285)". They are all beautiful medium height lightly built half-celestials with smooth dark skin and an exotic, androgynous appearance. Although every male Plumekith has a burst of brightly coloured feathers around his face, clueless humans still mistake Hrithik for a female. He enjoys the shocked look on their faces when he speaks. Hrithik has a melodic voice, but his tone is firmly in the tenor range.
 
-Hrithik wears black studded leather armour, a deep red quilted gambeson, and a white linen shirt. These are all tailored with enough space around his wings that he can fly unimpaired. He also wears matching black studded leather pants with a covered groin guard big enough to give observant onlookers another hint he is a male Plumekith. He wears a pair of black leather knee-high boots with embossing around the tops.
+Hrithik wears black studded leather armour, a deep red quilted gambeson, and a white linen shirt. These are all tailored with enough space around his wings so that he can fly unimpaired. He also wears matching black studded leather pants with a covered groin guard big enough to give observant onlookers another hint he is a male Plumekith. He wears a pair of black leather knee-high boots with embossing around the top.
 
-He carries a light crossbow, a morningstar, darts (small javelins the size of large arrows, with weighted heads), a sling with a bag of sling stones, and a dagger. He is right-handed. His overall appearance is more of a winged ranger than an armoured cleric, as he can only fly if he is lightly armoured and unencumbered.
+He carries a light crossbow, a morningstar, darts (small javelins the size of large arrows, with weighted heads), a sling with a bag of slingstones, and a dagger. He is right-handed. His overall appearance is more that of a winged ranger than an armoured cleric, as he can only fly if he is lightly armoured and unencumbered.
 
-Hrithik always has a small fresh-picked flower tucked between his armour and gambeson on the left side of his chest. He refuses to say why. Rumours abound that these flowers are gifts from his many lovers, as Plumekith are renowned for obeying Shahrukh's "go forth and multiply" edict with great enthusiasm. Hrithik never confirms or denies these rumours. Close acquaintances know he is not irresponsibly promiscuous, unlike many of his Plumekith half-siblings. There must be another reason for the flowers.
+Hrithik always has a small, fresh-picked flower tucked between his armour and gambeson on the left side of his chest. He refuses to say why. Rumours abound that these flowers are gifts from his many lovers, as Plumekith are renowned for obeying Shahrukh's "go forth and multiply" edict with great enthusiasm. Hrithik never confirms or denies these rumours. Close acquaintances know he is not irresponsibly promiscuous, unlike many of his Plumekith half-siblings. There must be another reason for the flowers.
 
 One final notable aspect of Hrithik's appearance is his rare smile - like a burst of sunshine.
 
 ## Family
 
-Hrithik is 20 years old. He is the eldest child of his mother Blossom and his stepfather Olaf, an innkeeper in the village where Hrithik grew up. Blossom and Olaf, both human, have five other children together, all boys, ranging from 10 to 18 years old. Hrithik's two eldest half-brothers are independent of their parents but live and work in the village.
+Hrithik is 20 years old. He is the eldest child of his mother, Blossom, and his stepfather, Olaf, an innkeeper in the village where Hrithik grew up. Blossom and Olaf, both human, have five other children together, all boys, ranging from 10 to 18 years old. Hrithik's two eldest half-brothers are independent of their parents but live and work in the village.
 
 After a wild and rebellious youth during which Blossom had a short but passionate relationship with Shahrukh and conceived Hrithik, she settled down with her solid and reliable husband Olaf to become a pillar of her village community. Hrithik loves his mother dearly but still chafes under her frequent attempts to "clip his wings" and turn him into a responsible adult. Blossom adores her "beautiful boy" but has accepted Hrithik's need to strike out on his own and his subsequent close relationship with his father Shahrukh.
 
@@ -36,15 +36,15 @@ Hrithik's stepfather Olaf is a tolerant soul who took on the responsibility of r
 
 Despite Hrithik's agreeable home situation, his relations with the rest of the village were marred by the status conferred on him as a half-celestial. Hrithik was held responsible for successful harvests and crop failures, for fair weather and foul, for feast and famine, in short, all manner of events outside of his control. This led Hrithik to leave his village at 15 and seek out his father.
 
-Hrithik came across a small community of Plumekith in an aerie in the mountains not too far from his village. Here he met his father Shahrukh for the first time. Won over by Shahrukh's genuine charm and attention, Hrithik decided to dedicate his life in service to his father and became one of his clerics. Hrithik has a great deal of love towards Shahrukh and serves him with total commitment and sincerity. Shahrukh is the source of Hrithik's divine power as well as his hatred of snakes and snake-like creatures, e.g., nagas.
+Hrithik came across a small community of Plumekith in an aerie in the mountains not too far from his village. Here he met his father, Shahrukh, for the first time. Won over by Shahrukh's genuine charm and attention, Hrithik dedicated his life in service to his father and became one of his clerics. Hrithik has a great deal of love for Shahrukh and serves him with total commitment and sincerity. Shahrukh is the source of Hrithik's divine power and his hatred of snakes and snake-like creatures, e.g., nagas.
 
-Shahrukh has chosen to increase his influence on Alteria by fathering many half-celestial Plumekith among his beloved mortals, hence Hrithik has many half-siblings. He expects his Plumekith sons and daughters to procreate with mortals as well, including Hrithik. If Hrithik chose not to do so, he would be in breach of one of his father's commandments and would lose all divine power as a punishment.
+Shahrukh has increased his influence on Alteria by fathering many half-celestial Plumekith among his beloved mortals, hence Hrithik has many half-siblings. He expects his Plumekith sons and daughters to procreate with mortals as well, including Hrithik. If Hrithik chose not to do so, he would be in breach of one of his father's commandments and would lose all divine power as a punishment.
 
-While Hrithik has strong reservations about this commandment, he has met his responsibilities to Shahrukh. Hrithik has two young children, a boy, and a girl, by two different mothers. Both children are Aasimar with Plumekith characteristics, but neither have wings. The boy is two years old, and the girl is one year old.
+While Hrithik has strong reservations about this commandment, he has met his responsibilities to Shahrukh. Hrithik has two young children, a boy and a girl, by two different mothers. Both children are Aasimar with Plumekith characteristics, but neither has wings. The boy is two-years-old, and the girl is one-year-old.
 
-Hrithik vetted both sets of potential parents extensively before agreeing to make each woman pregnant. He wants all his children to be raised in good and loving homes by equally attentive parents - i.e., to have the love and support he has from his parents, Blossom and Olaf. Even with that level of love and support, the life of an Aasimar in Alteria can be buffeted severely by mortal expectations, good and bad. Hrithik wants his children raised with love so they can be confident, compassionate, and resilient when they venture out into the world.
+Hrithik vetted both sets of potential parents extensively before agreeing to make each woman pregnant. He wants all his children to be raised in good and loving homes by equally attentive parents - i.e., to have the love and support he has from his parents, Blossom and Olaf. Even with that level of love and support, mortal expectations, good and bad, can buffet severely the life of an Aasimar in Alteria. Hrithik wants his children raised with love so they can be confident, compassionate, and resilient when they venture out into the world.
 
-Currently, Hrithik is keeping an eye out for his third mother-to-be. He must do this to maintain his standing as a Cleric of Shahrukh, but Hrithik is meeting this commandment on his own terms. He is looking for a principled, well-off couple who want children, have not been able to conceive a child yet and might like an Aasimar force for good in their family.
+Currently, Hrithik is keeping an eye out for his third mother-to-be. He must do this to maintain his standing as a Cleric of Shahrukh, but Hrithik is meeting this commandment on his own terms. He is looking for a principled, well-off couple who want children, could not conceive a child yet and might like an Aasimar force for good in their family.
 
 ## Evelyn
 
@@ -82,11 +82,15 @@ Evelyn is the only one of her family to come to Whitehall so far, although one o
 
 ## Our Party
 
-_Grognard_ - full orc / fighter / smith ([[Ben-G|Ben G.]])
+_Grognard_ - full orc / fighter / smith ([[Ben-G|Ben G.]]) ^775558
+
 _Bump_ - half minotaur/ druid (Ryan W.)
+
 _Biggs_ - Gnome wizard, long white beard (Daniel D.)
-_Karalja_ - savage elf ranger, looks civilized (unusually so) (Christian H-M.)
-_Kazz_ - human locksmith ([[Jenny-H|Jenny H.]])
+
+_Karalja_ - savage elf ranger, looks civilised (unusually so) (Christian H-M.)
+
+_Kazz_ - human locksmith ([[Jenny-H|Jenny H.]]) ^fb41af
 
 All members of the "A Team" from the Adventurer's Guild, Kherkrub. Sir Edwin Cohen - one of three heads of the Guild. The usual agreement is that the party takes 30% of the fee charged by the Guild for any job, plus has first pick of any items or treasure found. Significant items or artifacts are given to the Guild.
 
@@ -178,7 +182,9 @@ Gaal chose to join Mendel when Mendel defeated his father in combat. Until that 
 
 Gaal is not very smart. He doesn't care much about others so long as they don't get in his way and he respects strength above all else. He followed Mendel because of his great strength and was happy to take some of the treasure they found while adventuring with him. Mendel would not accept bad behaviour while he was leader and so Gaal has learned to not rage unless necessary. He is now the official head of the mercenary guild, mostly he intimidates members into paying their share of treasure found but he also goes adventuring on occasion with Edwin.
 
-### Aduun
+### Angels and Demons
+
+#### Aduun
 
 Angel of Innovation and Invention.
 
@@ -186,7 +192,7 @@ Aduun used to be a master smith in the angelic army, making powerful artifacts t
 
 Aduun believes that creation is not only the most important aspect of any beings existence but also the most beautiful. While he still considers them inferior as a whole Aduun has learned to respect certain individuals with a talent for craft. Aduun monitors and encourages innovation and will even train some individuals personally. It is well known that Aduun see's potential in mortals and feels they can be used against the demons themselves, to him they are another tool to be crafted and harnessed. His superior mindset does not deter mortals from worshipping him however, as he actively assists and and bestows gifts upon those he favours, he is a very popular angel. He is particularly liked by Gnomes and Dwarves.
 
-### Pizzik
+#### Pizzik
 
 Deals and Pacts OR Selflessness and Giving
 
@@ -198,7 +204,7 @@ Pizzik wont do anything unless he thinks he can get something from it and those 
 
 Pizzik is especially hated by the angel Solemn due to their conflicting views of the divinity of immortality and followers of Solemn will never assist followers of Pizzik and vice versa.
 
-### Shahrukh
+#### Shahrukh
 
 God of Agriculture and Propagation
 
@@ -210,7 +216,7 @@ The offspring of Shahrukh are known as Garuda. They resemble large bird-like hum
 
 Shahrukh's farm is often attacked in heaven by a stealthy species of snake-like demons, whose job it is to cripple the production of heaven in an attempt to weaken their soldiers in the never-ending war. These snake demons have many abilities suited to guerrilla warfare such as chameleon like invisibility which makes it very difficult to stop them from burning down his fields. Shahrukh hates these demons and anything that resembles them, including snakes of the material plane and this hatred is shared by all his progeny.
 
-### Solemn
+#### Solemn
 
 Angel of Sanctuary and Protecting the Helpless
 
@@ -218,7 +224,7 @@ Solemn is an old angel, one of tradition. He believes that all angels are superi
 
 Solemn values mortal lives higher than that of angels in the sense that they only get one. Angels are immortal and will always return to heaven eventually, but mortals are fragile, and it is more important that they be protected as a result. Solemn hates resurrection magic, however, seeing it as an encroachment upon the divine right of immortality which should belong to angels, as such he will deny resurrection of any mortal, even his knights.
 
-### Souloth
+#### Souloth
 
 Beast Angel of Doors and Energy
 
@@ -232,7 +238,7 @@ Some of the younger shapeshifters, curious and bold, tried getting close by chan
 
 Eventually Souloth moved over the village again, quietly watching until one day a large creature moved too close to the village and attempted to attack, only to suddenly disappear just before it could reach any of the shapeshifters. Now it is a guardian over the village but Souloth also appears to banish members of the village if they attempt to harm one another as well.
 
-### Sylantra
+#### Sylantra
 
 Angel of Prosperity
 
@@ -240,7 +246,7 @@ Sylantra is an angel with a grand ego and her love of herself means she feels sh
 
 She loves and appreciates her followers and rewards them with power and insight as thanks for their faithful service. While she doesn’t play favourites she does have a disproportionately large following among the elves (especially the nobility) and her influence has helped the elf nation achieve its current greatness.
 
-### Tenebris
+#### Tenebris
 
 The Demon King
 
@@ -251,7 +257,7 @@ Instead the only thing that could spark some interest from Tenebris was the ques
 Tenebris fathered a child (Asmodeus) to rule hell for him and disappeared one day and hasn’t been seen since. Some believe he died trying to get to the elder beings or by their hand. Others think he managed to gain tutelage with them after all and await his glorious return. Whatever the case nobody really knows what happened to him and its been so long since it happened that most have very little to say on the matter.
 
 
-### Asmodeus
+#### Asmodeus
 
 Prince of Hell
 
@@ -261,7 +267,7 @@ He managed to gain dominion over the material plane and establish a temporary ki
 
 Asmodeus may have lost control of the material plane once but he is patient and always scheming and spreading his influence. His main goal is to find a way to kill off angels permanently so he can have free reign of all the known dimensions and has powerful demons researching ways of doing this for him. In the mean time Asmodeus seems content to live in luxury and rule over all demons, at least until his father Tenebris returns.
 
-### Lloth
+#### Lloth
 
 Queen of Spiders
 
