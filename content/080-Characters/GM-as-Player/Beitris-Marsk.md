@@ -94,3 +94,6 @@ Beitris will dedicate her conversion to Ettienne, Ben’s character who was eate
 
 **Nikolai Steele**
 
+# Legends
+
+We came to end of our Moonsea Campaign. Jacob H. wrote [[Beitris-Marsk-Legends|this]] in memory of our party and their deeds. Wow! Just ... wow!
