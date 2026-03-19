@@ -9,9 +9,9 @@ draft: false
 ---
 # Dranffilo Voklaynn
 
-![[ar_voklaynn.jpg]]
+![[ar_voklaynn_01.jpg]]
 
-**Voklaynn, pencil by Willis, 1991**
+**Voklaynn, colour by Willis, 1991**
 
 | Aspect             | Description                                                       |
 | ------------------ | ----------------------------------------------------------------- |
@@ -36,6 +36,10 @@ See also _[[Lady-Voklaynn|Lady Voklaynn]]_.
 But for her colouring, Voklaynn would be considered very beautiful.  She is an albino and has pink eyes, hip-length straight white hair, and white skin.  She has high cheekbones with a well-shaped brow and jaw, a long, slender neck and a slender body, lithe and muscled from the disciplines of dance.  Her hands are delicate, with long and nimble fingers, ideal for the sensitive work of healing or music.
 
 On the middle finger of her right hand she wears a fine silver ring, a gift from the man who took her in and cared for her when she was young.  She wears Elven armour of gold and silver chain mail, padded with silk.  She also wears royal blue, a very unusual choice of colour for any Toleki, male or female.  It makes her appearance even more striking.  As she suffers from sunburn very easily, whenever Voklaynn is outside she wears a long, hooded cloak with a knotted and beaded fringe that covers her face but does not obscure her vision.  She wears leather gloves to protect her hands from sunburn or other injuries.
+
+![[ar_voklaynn_02.jpg]]
+
+**Voklaynn, pencil by Willis, 1991**
 
 # Manner
 

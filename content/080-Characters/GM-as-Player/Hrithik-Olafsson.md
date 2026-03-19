@@ -94,11 +94,25 @@ _Kazz_ - human locksmith ([[Jenny-H|Jenny H.]]) ^fb41af
 
 All members of the "A Team" from the Adventurer's Guild, Kherkrub. Sir Edwin Cohen - one of three heads of the Guild. The usual agreement is that the party takes 30% of the fee charged by the Guild for any job, plus has first pick of any items or treasure found. Significant items or artifacts are given to the Guild.
 
-## Character Sheet
+## Character Sheets
+
+### D&D 3.5 FoundryVTT
 
 ![[gm_hrithik_character_sheet.pdf]]
 
 **Hrithik Olafsson, D&D 3.5 FoundryVTT**
+
+### D&D 3.5 Hero Lab
+
+![[gm_hrithik_hero_lab.pdf]]
+
+**Hrithik Olafsson, D&D 3.5 Hero Lab**
+
+### Hrithik's Skills
+
+![[gm_hrithik_skills.jpg]]
+
+D&D 3.5 was a mechanically complicated edition! If I ever play Hrithik again, I will update him to a simpler system.
 
 ## Campaign Background
 
@@ -108,7 +122,7 @@ All members of the "A Team" from the Adventurer's Guild, Kherkrub. Sir Edwin Coh
 
 ### Religion
 
-Religion is a pretty big thing in the world of Alteria, angels and demons (also called deities) regularly interfere with mortals and are the closest thing to gods that are accepted in the world. There are also mysterious elder beings that exist in the beyond (the void or soup that all other planes exist within) that have a connection to warlocks; however, they tend to be forgotten unless one is a warlock themselves.
+Religion is a pretty big thing in the world of Alteria; angels and demons (also called deities) regularly interfere with mortals and are the closest thing to gods that are accepted in the world. There are also mysterious elder beings that exist in the beyond (the void or soup that all other planes exist within) that have a connection to warlocks; however, they tend to be forgotten unless one is a warlock themselves.
 
 There are far more angels than demons because angels are good and demons are not, and they cannot enter the material plane without help from someone who already exists there. Not to say that demons aren't around, but they tend to be defeated quickly if they cause a ruckus, so the only ones who stick around are the sneaky demons who make deals and manipulate behind the scenes (generally).
 
@@ -208,11 +222,13 @@ Pizzik is especially hated by the angel Solemn due to their conflicting views of
 
 God of Agriculture and Propagation
 
+![[gm_hrithik_shahrukh.jpg]]
+
 Shahrukh is an angel who's bird like features are more prominent than most other angels. He is a farmer in the realm of heaven and as such is worshipped by farming communities who believe he can grant them a greater crop each year. He lives almost permanently in the realm of heaven, only visiting the material plane when he deems it necessary. The times he deems necessary being when he wants to "tend his crop" and "sow the seeds".
 
-Shahrukh is a charismatic angel who enjoys the company of mortals and wishes to protect and help them as any angel would. Shahrukh's best method for protecting those living on the material plane is to spread his angelic influence and gain a foothold in the material plane, which he believes is best done by leaving behind his children. When Shahrukh first visted the material plane, he approached some mountain communities, partially because they were most willing to accept help with growing crops and partially because he favours those kind of environments. His time was spent teaching and "plowing the fields" and when he left he left many women pregnant.
+Shahrukh is a charismatic angel who enjoys the company of mortals and wishes to protect and help them as any angel would. Shahrukh's best method for protecting those living on the material plane is to spread his angelic influence and gain a foothold in the material plane, which he believes is best done by leaving behind his children. When Shahrukh first visited the material plane, he approached some mountain communities, partially because they were most willing to accept help with growing crops and partially because he favours those kinds of environments. His time was spent teaching and "plowing the fields," and when he left, he left many women pregnant.
 
-The offspring of Shahrukh are known as Garuda. They resemble large bird-like humanoids who are incredibly powerful and agile, as they retain some god-like power of Shahrukh by being direct descendants. The Garuda continue to propagate and reproduce as their father did and spread his word and influence as their religion. The offspring of the garuda as such as encouraged to go out into the world.
+The offspring of Shahrukh are known as Garuda. They resemble large bird-like humanoids who are incredibly powerful and agile, as they retain some god-like power of Shahrukh by being direct descendants. The Garuda continue to propagate and reproduce as their father did and spread his word and influence as their religion. The offspring of the garuda are encouraged to go out into the world.
 
 Shahrukh's farm is often attacked in heaven by a stealthy species of snake-like demons, whose job it is to cripple the production of heaven in an attempt to weaken their soldiers in the never-ending war. These snake demons have many abilities suited to guerrilla warfare such as chameleon like invisibility which makes it very difficult to stop them from burning down his fields. Shahrukh hates these demons and anything that resembles them, including snakes of the material plane and this hatred is shared by all his progeny.
 
