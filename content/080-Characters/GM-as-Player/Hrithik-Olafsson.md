@@ -28,6 +28,8 @@ One final notable aspect of Hrithik's appearance is his rare smile - like a burs
 
 ## Family
 
+### Blossom and Olaf
+
 Hrithik is 20 years old. He is the eldest child of his mother, Blossom, and his stepfather, Olaf, an innkeeper in the village where Hrithik grew up. Blossom and Olaf, both human, have five other children together, all boys, ranging from 10 to 18 years old. Hrithik's two eldest half-brothers are independent of their parents but live and work in the village.
 
 After a wild and rebellious youth during which Blossom had a short but passionate relationship with Shahrukh and conceived Hrithik, she settled down with her solid and reliable husband Olaf to become a pillar of her village community. Hrithik loves his mother dearly but still chafes under her frequent attempts to "clip his wings" and turn him into a responsible adult. Blossom adores her "beautiful boy" but has accepted Hrithik's need to strike out on his own and his subsequent close relationship with his father Shahrukh.
@@ -35,6 +37,12 @@ After a wild and rebellious youth during which Blossom had a short but passionat
 Hrithik's stepfather Olaf is a tolerant soul who took on the responsibility of raising his stepson with compassionate discipline and admirable consistency. Olaf instilled in Hrithik self-discipline, tolerance, and a solid work ethic. Hrithik is far less wayward than many of his Plumekith half-siblings. Olaf also taught Hrithik how to brew alcohol, specifically beer and single malt whiskey, so Hrithik would be able to make his way in life without relying on handouts.
 
 Despite Hrithik's agreeable home situation, his relations with the rest of the village were marred by the status conferred on him as a half-celestial. Hrithik was held responsible for successful harvests and crop failures, for fair weather and foul, for feast and famine, in short, all manner of events outside of his control. This led Hrithik to leave his village at 15 and seek out his father.
+
+### Shahrukh
+
+![[gm_hrithik_shahrukh.jpg]]
+
+**Shahrukh**
 
 Hrithik came across a small community of Plumekith in an aerie in the mountains not too far from his village. Here he met his father, Shahrukh, for the first time. Won over by Shahrukh's genuine charm and attention, Hrithik dedicated his life in service to his father and became one of his clerics. Hrithik has a great deal of love for Shahrukh and serves him with total commitment and sincerity. Shahrukh is the source of Hrithik's divine power and his hatred of snakes and snake-like creatures, e.g., nagas.
 
@@ -80,20 +88,6 @@ Evelyn is the only one of her family to come to Whitehall so far, although one o
 >
 >I can’t say that won’t engage Hrithik’s “prove them wrong” streak.
 
-## Our Party
-
-_Grognard_ - full orc / fighter / smith ([[Ben-G|Ben G.]]) ^775558
-
-_Bump_ - half minotaur/ druid (Ryan W.)
-
-_Biggs_ - Gnome wizard, long white beard (Daniel D.)
-
-_Karalja_ - savage elf ranger, looks civilised (unusually so) (Christian H-M.)
-
-_Kazz_ - human locksmith ([[Jenny-H|Jenny H.]]) ^fb41af
-
-All members of the "A Team" from the Adventurer's Guild, Kherkrub. Sir Edwin Cohen - one of three heads of the Guild. The usual agreement is that the party takes 30% of the fee charged by the Guild for any job, plus has first pick of any items or treasure found. Significant items or artifacts are given to the Guild.
-
 ## Character Sheets
 
 ### D&D 3.5 FoundryVTT
@@ -108,11 +102,382 @@ All members of the "A Team" from the Adventurer's Guild, Kherkrub. Sir Edwin Coh
 
 **Hrithik Olafsson, D&D 3.5 Hero Lab**
 
-### Hrithik's Skills
+## Hrithik’s Statistics
+
+D&D 3.5 was a mechanically complicated edition! Hrithik is one of the most complex characters I've ever played. If I play him again, I will update him to a simpler system.
+
+### Abilities
+
+Hrithik is a [32-point build](http://www.propelled.de/extern/chargen) Garuda [Aasimar](https://www.d20srd.org/srd/monsters/planetouched.htm) with a [Half-Celestial template](https://www.d20srd.org/srd/monsters/halfCelestial.htm). [Garuda Blooded (Plumekith)](https://www.d20pfsrd.com/races/other-races/featured-races/arg-aasimar/) is a Pathfinder variant Aasimar.
+
+Hrithik took +1 WIS at Cleric level 4.
+
+The table below lists ability values prior to adding any magical enhancements.
+
+| **Abilities** | **Start** | **Points Spent** | **Point Buy Result** | **Garuda Aasimar Race** | **Half Celestial Template** | **Level Ups** | **Total** | **Stat Bonus** |
+| ------------- | --------- | ---------------- | -------------------- | ----------------------- | --------------------------- | ------------- | --------- | -------------- |
+| STR           | 8         | 2                | 10                   |                         | **+4**                      |               | 14        | +2             |
+| DEX           | 8         | 6                | 14                   | **+2**                  | **+2**                      |               | 18        | +4             |
+| CON           | 8         | 4                | 12                   |                         | **+4**                      |               | 16        | +3             |
+| INT           | 8         | 6                | 14                   |                         | **+2**                      |               | 16        | +3             |
+| WIS           | 8         | 6                | 14                   | **+2**                  | **+4**                      | +1            | 21        | +5             |
+| CHA           | 8         | 8                | 15                   |                         | **+4**                      |               | 19        | +4             |
+|               |           | **32**           |                      |                         |                             |               |           |                |
+
+#### Hit Points
+
+Hrithik’s Constitution gives him +3 bonus hit points for each of his Cleric class levels.
+
+|                  | **Cleric 1** | **Cleric 2** | **Cleric 3** | **Cleric 4** | **Cleric 5** | **Totals** |
+| ---------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ---------- |
+| **Rolled (1d8)** | 8            | 4            | 5            | 8            | 4            | 29         |
+| **CON Bonus**    | 3            | 3            | 3            | 3            | 3            | 15         |
+|                  |              |              |              |              |              | **44**     |
+
+#### Skill Points
+
+Hrithik’s Intelligence gives him +3 bonus skill points for each of his Cleric class levels. As a half-celestial, he also gains 44 skill points for his Aasimar racial Hit Dice.
+
+|                    | **Aasimar** | **Cleric 1** | **Cleric 2** | **Cleric 3** | **Cleric 4** | **Cleric 5** | **Totals** |
+| ------------------ | ----------- | ------------ | ------------ | ------------ | ------------ | ------------ | ---------- |
+| **Half Celestial** | 44          |              |              |              |              |              | 44         |
+| **Cleric**         |             | 8            | 2            | 2            | 2            | 2            | 16         |
+| **INT Bonus**      |             | 12           | 3            | 3            | 3            | 3            | 24         |
+|                    |             |              |              |              |              |              | **84**     |
+
+#### Skill Point Allocation
 
 ![[gm_hrithik_skills.jpg]]
 
-D&D 3.5 was a mechanically complicated edition! If I ever play Hrithik again, I will update him to a simpler system.
+**Notes:**
+
+1. Hrithik will choose flying over climbing, jumping, or swimming, especially over jumping.
+
+2. Because he has 5 or more ranks in brewing, Hrithik appraises brewed items with a +2 bonus.
+
+3. Hrithik wears a Ring of Swimming which gives him a +5 bonus to swim checks.
+
+4. Because he has 5 or more ranks in concentration, Hrithik has a +2 bonus on autohypnosis checks (if he ever gets any training in autohypnosis).
+
+5. Half-celestials fly with good manoeuvrability, so Hrithik has a +4 bonus to his fly skill checks.
+
+6. Garuda Aasimars gain +2 ranks to their acrobatics and fly skills.
+
+7. An Aasimar has **one** racial Hit Dice, hence Hrithik’s additional skill points for being a half-celestial are (8 + 3) x (**1** + 3) = 44 points. All skills for a half-celestial are bought as cross-class skills – i.e., 2 skill points per skill rank. See [[Hrithik-Olafsson#Skills|here]] for details.
+
+8. Jump is modified by speed. Hrithik’s land speed in armour is 20ft, so he has a -6 penalty on jump skill checks.
+
+9. Armour class penalty is doubled for swim checks.
+
+10. Hrithik wears +2 Gloves of Dexterity which take his DEX bonus from +4 to +5.
+
+11. A Cleric’s class skills are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int).
+
+#### Spells
+
+##### Healing Domain
+
+Hrithik casts healing spells at +1 caster level.
+
+##### Bonus Spells
+
+Hrithik’s high Wisdom (+5) gives him bonus spells for his Cleric Levels.
+
+As a 5th level Cleric these are:
+
+ - Two bonus 1st level spells
+ - One bonus 2nd, 3rd, 4th, and 5th level spell.
+
+##### Spells per Day
+
+As a 5th level Cleric these are:
+
+ -  5 cantrips/orisons
+ - 3+1 1st level spells, +2 bonus 1st level spells
+ - 2+1 2nd level spells, +1 bonus 2nd level spell
+ - 1+1 3rd level spells, +1 bonus 3rd level spell
+
+### Aasimar – D&D 3.5e
+
+#### Alignment
+
+Any Good (usually)
+
+#### Type
+
+Outsider (Native)
+
+#### Size
+
+Medium
+
+#### Base Speed
+
+30 ft
+
+#### Hit Dice
+
+1d8 + (CON bonus)
+
+#### Armour and Weapon Proficiencies
+
+Light and medium armour, shields, simple and martial weapons
+
+#### Languages
+
+Aasimars begin play speaking Common and Celestial. Aasimars with high Intelligence scores can choose from the following languages: Draconic, Dwarven, Elven, Gnome, Halfling, and Sylvan.
+
+#### Celestial Resistance
+
+Aasimars have acid, cold, and electricity resistance of 5. _Hrithik has half-celestial acid, cold, and electricity resistance of 10._
+
+#### Darkvision
+
+Aasimars have dark vision to 60 ft.
+
+#### Character Level
+
+**+1** – for example, an Aasimar with 5 levels of Cleric is a 6th level character.
+
+### Garuda Blooded (Plumekith) – Pathfinder 1
+
+Garudas are noble but impetuous birdlike celestials, and most Garuda-blooded Aasimars grow graceful feathers during puberty. The majority of these Aasimars have shimmering wings; the wings can be of virtually any shade, ranging from metallic colours to muted hues to pure white, or rarely, glossy black. Plumekith are sometimes born with taloned fingers or toes, and occasionally amber eyes like those of an eagle. Their avian features make Plumekith instantly recognizable.
+
+Like their celestial ancestors, Plumekith tend to act on the spur of the moment when their abilities seem needed. Plumekith rush into the heat of battle to face off against evildoers, only stopping to ask questions afterward. Though they can act rashly, Plumekith never shirk their duty after making a commitment.
+
+Plumekith often have an extreme hatred for nagas and other snakelike creatures, a racial disdain no doubt stemming back to their Garuda forebears.
+
+#### Alternate Ability Modifiers
+
+**+2 Dex**, **+2 Wis**
+
+#### Base Speed
+
+Fly at 80 ft
+
+#### Alternate Skill Modifiers
+
++2 racial bonus on Acrobatics and Fly checks
+
+#### Alternate Spell-Like Ability
+
+Plumekith gain _see invisibility_ as a spell-like ability. Use once per day at a caster level equal to Hit Dice.
+
+#### Plumekith Race Traits
+
+Snake Hater (+2 trait bonus on Knowledge (dungeoneering) checks and Knowledge (dungeoneering) is a class skill), Toxophilite (+2 trait bonus on attack rolls made to confirm critical hits with bows).
+
+**BENEFITS NOT TAKEN AS NONE OF THE OTHER PCS HAVE RACE TRAITS.**
+
+### Half-Celestial – D&D 3.5e
+
+“Half-celestial” is an inherited or acquired template that can be added to any living, corporeal creature with an Intelligence score of 4 or more and non-evil alignment. A half-celestial creature retains the base creature’s statistics and special abilities except as noted here.
+
+#### Challenge Rating
+
+Hit Dice 5 or less, as base creature +1.
+
+Hit Dice 6 to 10, as base creature +2.
+
+Hit Dice 11 or more, as base creature +3.
+
+#### Alignment
+
+Any Good.
+
+#### Type
+
+The creature’s type changes to outsider (native). Hit Dice, BAB, and saves are not recalculated.
+
+#### Armor Class
+
+Natural armour improves by **+1**.
+
+#### Defences/Qualities
+
+Half-celestials gain:
+
+ - dark vision 60 ft
+ - immunity to disease
+ - +4 racial bonus on fortitude saves vs. poison
+ - acid, cold, and electricity resistance of 10
+ - Damage Reduction (DR) 5/magic (if Hit Dice 11 or less) or 10/magic (if Hit Dice 12 or more)
+ - Spell Resistance (SR) equal to Hit Dice + 10 (maximum 35).
+
+#### Base Speed
+
+Unless the base creature flies better, the half-celestial flies at twice the base creature’s land speed (with good manoeuvrability).
+
+#### Special Abilities
+
+##### Daylight
+
+Half-celestials can use a Daylight (Sp) effect (as the spell) at will.
+
+##### Smite Evil
+
+Once per day a half-celestial can make a normal melee attack to deal extra damage equal to their Hit Dice (maximum of +20) against an evil foe.
+
+#### Spell-Like Abilities
+
+A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on their Hit Dice, as indicated on the table below. The abilities are cumulative.
+
+Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s Hit Dice, and the save DC is Charisma-based.
+
+| **Hit Dice** | **Abilities**                          |
+| ------------ | -------------------------------------- |
+| 1–2          | Protection from evil 3/day, bless      |
+| 3–4          | Aid, detect evil                       |
+| 5–6          | Cure serious wounds, neutralize poison |
+| 7–8          | Holy smite, remove disease             |
+| 9–10         | Dispel evil                            |
+| 11–12        | Holy word                              |
+| 13–14        | Holy aura 3/day, hallow                |
+| 15–16        | Mass charm monster                     |
+| 17–18        | Summon monster IX (celestials only)    |
+| 19–20        | Resurrection                           |
+
+#### Abilities
+
+Increase from the base creature as follows: Str +4, Dex +2, Con +4, Int +2, Wis +4, Cha +4.
+
+#### Skills
+
+A half-celestial gains skill points as an outsider and has skill points equal to (8 + Int modifier) × (Hit Dice +3). Hit Dice from class levels are not included in this calculation. A half-celestial gains outsider skill points only for their racial Hit Dice and gains the normal amount of skill points for their class levels. Treat skills from the base creature’s list as class skills, and other skills as cross-class.
+
+_An Aasimar has **one** racial Hit Dice, hence Hrithik’s additional skill points for being a half-celestial are (8 + 3) x (**1** + 3) = 44 points._
+
+#### Character Level
+
+Same as base creature **+4**. For example, an Aasimar with 5 Cleric levels and a Half-Celestial template is equivalent to a 10th level character.
+
+### Cleric – D&D 3.5e
+
+Hrithik is a Cleric. His deity is Shahrukh, a Chaotic Good angel in the Alterian pantheon and Hrithik’s father.
+
+#### Hit Dice
+
+1d8 + (CON bonus) – same as an Aasimar.
+
+#### Armour and Weapon Proficiencies
+
+Light, medium, and heavy armour; shields (no tower shields); simple weapons
+
+#### Class Skills
+
+The cleric’s class skills are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int).
+
+#### Domains
+
+Hrithik’s two domains are Healing and Sun.
+
+##### Healing Domain
+
+Granted Power - You cast healing spells at +1 caster level.
+
+Healing Domain Spells
+
+1.       Cure Light Wounds: Cures 1d8 damage +1/level (max +5).
+
+2.       Cure Moderate Wounds: Cures 2d8 damage +1/level (max +10).
+
+3.       Cure Serious Wounds: Cures 3d8 damage +1/level (max +15).
+
+4.       Cure Critical Wounds: Cures 4d8 damage +1/level (max +20).
+
+5.       Cure Light Wounds, Mass: Cures 1d8 damage +1/level (max +25) for many creatures.
+
+6.       Heal: Cures 10 points/level of damage, all diseases, and mental conditions.
+
+7.       Regenerate: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
+
+8.       Cure Critical Wounds, Mass: Cures 4d8 damage +1/level (max +40) for many creatures.
+
+9.       Heal, Mass: As heal, but with several subjects.
+
+##### Sun Domain
+
+**Granted Power:** Once per day, you can perform a _greater turning_ against undead in place of a regular turning. The greater turning is like a normal turning except that the undead creatures that would be turned are destroyed instead.
+
+Sun Domain Spells
+
+1.       Endure Elements: Exist comfortably in hot or cold environments.
+
+2.       Heat Metal: Make metal so hot it damages those who touch it.
+
+3.       Searing Light: Ray deals 1d8/two levels, more against undead.
+
+4.       Fire Shield: Creatures attacking you take fire damage; you are protected from heat or cold.
+
+5.       Flame Strike: Smite foes with divine fire (1d6/level damage).
+
+6.       Fire Seeds: Acorns and berries become grenades and bombs.
+
+7.       Sunbeam: Beam blinds and deals 4d6 damage.
+
+8.       Sunburst: Blinds all within 10 ft., deals 6d6 damage.
+
+9.       Prismatic Sphere: As prismatic wall but surrounding all sides.
+
+#### Skill Points
+
+**At First Level:** (2 + Int modifier) ×4.
+
+**At Each Additional Level:** 2 + Int modifier.
+
+#### Favoured Class Option
+
+Paladin is the favoured class for an Aasimar. Add +1/2 to damage when using positive energy against undead or using Alignment Channel to damage evil outsiders.
+
+_Hrithik is a Cleric so this does not apply to him._
+
+#### Save Against Spells
+
+The Difficulty Class (DC) for a saving throw against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom modifier.
+
+#### Turn Undead
+
+A cleric can turn undead 3 + his Charisma modifier times per day. The extra turning feat allows +4 turns per day each time it is taken (stacks).
+
+A cleric with 5 or more ranks in Knowledge (religion) gets a +2 bonus on turning checks against undead.
+
+## Our Party
+
+_Grognard_ - full orc / fighter / smith ([[Ben-G|Ben G.]]) ^775558
+
+_Bump_ - half minotaur/ druid (Ryan W.)
+
+_Biggs_ - Gnome wizard, long white beard (Daniel D.)
+
+_Karalja_ - savage elf ranger, looks civilised (unusually so) (Christian H-M.)
+
+_Kazz_ - human locksmith ([[Jenny-H|Jenny H.]]) ^fb41af
+
+All members of the "A Team" from the Adventurer's Guild, Kherkrub. Sir Edwin Cohen - one of three heads of the Guild. The usual agreement is that the party takes 30% of the fee charged by the Guild for any job, plus has first pick of any items or treasure found. Significant items or artifacts are given to the Guild.
+
+## Journal
+
+### Mud and Mosquitoes
+
+Concluded 06-02-2021 - 1600 gp reward plus 1,425 gp in liquidated treasure.
+
+### The Purple Worm Train
+
+### The Capital
+
+Priests at the temple of Shahrukh are an elderly elf man named Shaedun, master worshipper of all the angels, Elven empire is a unifying utopia. Another guy is the priest of the temple (Fanin).
+
+Brando Califa meeting with regarding Hartford and finding out what is going on.
+
+Stay five days in total until magic items are made.
+
+Meeting with Brando - talk to Capt. Garhold re speaking to intending leavers back to Hartford.
+
+Evelyn is pregnant!
+
+### Hartford
+
+A newly discovered angel and their protected shapeshifters on the Plane of Shifting.
 
 ## Campaign Background
 
@@ -222,8 +587,6 @@ Pizzik is especially hated by the angel Solemn due to their conflicting views of
 
 God of Agriculture and Propagation
 
-![[gm_hrithik_shahrukh.jpg]]
-
 Shahrukh is an angel who's bird like features are more prominent than most other angels. He is a farmer in the realm of heaven and as such is worshipped by farming communities who believe he can grant them a greater crop each year. He lives almost permanently in the realm of heaven, only visiting the material plane when he deems it necessary. The times he deems necessary being when he wants to "tend his crop" and "sow the seeds".
 
 Shahrukh is a charismatic angel who enjoys the company of mortals and wishes to protect and help them as any angel would. Shahrukh's best method for protecting those living on the material plane is to spread his angelic influence and gain a foothold in the material plane, which he believes is best done by leaving behind his children. When Shahrukh first visited the material plane, he approached some mountain communities, partially because they were most willing to accept help with growing crops and partially because he favours those kinds of environments. His time was spent teaching and "plowing the fields," and when he left, he left many women pregnant.
@@ -297,7 +660,7 @@ Lloths influence is not gone; however, by creating links with her greatest follo
 
 NOTE: AC in this case simply means "after colonisation". Civilised people and societies have existed for a long time, including on Eldtyssan; however, the campaign will not take place anywhere except this continent for a long time. I have focused on events after this continents colonisation to keep it simple.
 
-<---BC-0AC - Dwarves, gnomes, and various monster races live on home continent in relative peace.
+BC-0AC - Dwarves, gnomes, and various monster races live on home continent in relative peace.
 
 0AC - The elf/human nation landed on the shores of the home continent for the purposes of exploration and expansion of their empire. Led by Eldwyn Whitehall, the forerunners established encampments along the shore before expanding inland to find a permanent settlement area. They named the continent Eldtyssan.
 
