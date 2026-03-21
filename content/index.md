@@ -38,6 +38,6 @@ Contents:
 - [[010-One-Night-Plays|One Night Plays]]
 - [[110-Future-Possibilities|Future Possibilities]]
 - [[The-Library|The Library]]
-- [[Second-hand-Sales|Secondhand Sales]]
+- [[Secondhand-Sales|Secondhand Sales]]
 - [[010-Blog-Roll|Blog]]
 - [[Contact|Contact]]

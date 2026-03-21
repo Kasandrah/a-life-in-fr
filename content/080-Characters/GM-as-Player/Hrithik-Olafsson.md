@@ -46,7 +46,7 @@ Despite Hrithik's agreeable home situation, his relations with the rest of the v
 
 Hrithik came across a small community of Plumekith in an aerie in the mountains not too far from his village. Here he met his father, Shahrukh, for the first time. Won over by Shahrukh's genuine charm and attention, Hrithik dedicated his life in service to his father and became one of his clerics. Hrithik has a great deal of love for Shahrukh and serves him with total commitment and sincerity. Shahrukh is the source of Hrithik's divine power and his hatred of snakes and snake-like creatures, e.g., nagas.
 
-Shahrukh has increased his influence on Alteria by fathering many half-celestial Plumekith among his beloved mortals, hence Hrithik has many half-siblings. He expects his Plumekith sons and daughters to procreate with mortals as well, including Hrithik. If Hrithik chose not to do so, he would be in breach of one of his father's commandments and would lose all divine power as a punishment.
+Shahrukh has increased his influence on Alteria by fathering many half-celestial Plumekith among his beloved mortals; hence Hrithik has many half-siblings. He expects his Plumekith sons and daughters to procreate with mortals as well, including Hrithik. If Hrithik chose not to do so, he would be in breach of one of his father's commandments and would lose all divine power as a punishment.
 
 While Hrithik has strong reservations about this commandment, he has met his responsibilities to Shahrukh. Hrithik has two young children, a boy and a girl, by two different mothers. Both children are Aasimar with Plumekith characteristics, but neither has wings. The boy is two-years-old, and the girl is one-year-old.
 
@@ -88,6 +88,8 @@ Evelyn is the only one of her family to come to Whitehall so far, although one o
 >
 >I can’t say that won’t engage Hrithik’s “prove them wrong” streak.
 
+---
+
 ## Character Sheets
 
 ### D&D 3.5 FoundryVTT
@@ -104,7 +106,7 @@ Evelyn is the only one of her family to come to Whitehall so far, although one o
 
 ## Hrithik’s Statistics
 
-D&D 3.5 was a mechanically complicated edition! Hrithik is one of the most complex characters I've ever played. If I play him again, I will update him to a simpler system.
+D&D 3.5 was a complicated system! Hrithik is one of the most mechanically complex characters I've ever played. If I play him again, I will update him to a simpler system.
 
 ### Abilities
 

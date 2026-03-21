@@ -18,16 +18,6 @@ Ssoulanthia is a [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=81) [Wi
 
 Green is Ssoulanthia's familiar; a magical creature provided to her by her mysterious and otherworldly patron, the [Whisper of Wings](https://2e.aonprd.com/Patrons.aspx?ID=21).
 
-## Strength of Thousands
-
----
-
-> _"The oldest and most prestigious magic academy in the world is the Magaambya, an ancient institution founded by the greatest wizard the world has ever known. This wizard vanished long ago, but his sinister enemies plot against his school and those who attend it. Over their long academic careers, the heroes rise from humble students to become teachers, and they ultimately hold the fate of the Magaambya magic academy in their hands. Graduates of the Magaambya are among the greatest wardens of the world, but if the heroes can't marshal the strength of thousands who have come before them, the venerable Magaambya might fall!"_
-
----
-
-From [Strength of Thousands](https://pathfinderwiki.com/wiki/Strength_of_Thousands) on the [Pathfinder Wiki](https://pathfinderwiki.com/).
-
 ## GM's Background Questions
 
 (1) Why is your PC coming to The Magaambya?
@@ -67,3 +57,23 @@ A grinder as a student, but kind to others and offers personal support once she�
 (9) What secret does your PC hope none of her classmates will discover?
 
 The reason her bloodline is atypically magically talented is that they have from time to time interbred with powerful human sorcerers. Her bloodline has developed some physical characteristics from its unions with humans. Ssoulanthia has hair growing on her head and four fingers on her left hand. Physical abnormalities among normal lizardfolk.
+
+> **Player's Note:** After a string of near-lethal encounters and a sexist insult from Dean Ot, Ssoulanthia subbed out in favour of her brother. He, in her opinion, was better able to protect her companions as long as they remained at the Magaambya.
+
+# Ssoulan
+
+![[gm_ssoulan.png]]
+
+**Ssoulan**
+
+A [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=81) [Barbarian](https://2e.aonprd.com/Classes.aspx?ID=57) with an intimidating presence. Ssoulanthia's clutch mate (brother).
+
+# Strength of Thousands
+
+---
+
+> _"The oldest and most prestigious magic academy in the world is the Magaambya, an ancient institution founded by the greatest wizard the world has ever known. This wizard vanished long ago, but his sinister enemies plot against his school and those who attend it. Over their long academic careers, the heroes rise from humble students to become teachers, and they ultimately hold the fate of the Magaambya magic academy in their hands. Graduates of the Magaambya are among the greatest wardens of the world, but if the heroes can't marshal the strength of thousands who have come before them, the venerable Magaambya might fall!"_
+
+---
+
+From [Strength of Thousands](https://pathfinderwiki.com/wiki/Strength_of_Thousands) on the [Pathfinder Wiki](https://pathfinderwiki.com/).
