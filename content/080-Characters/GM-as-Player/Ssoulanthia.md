@@ -12,6 +12,8 @@ draft: false
 
 **Soulanthia and Green**
 
+> **MS365 Copilot Prompt**: _A Pathfinder 2e female lizardfolk witch standing in a mystical swamp. She has emerald-green scales, tribal jewellery, and a staff adorned with glowing runes. Her eyes glow with arcane power, and she wears a tattered cloak made of moss and feathers. Beside her is her familiar: a sleek, intelligent-looking velociraptor with feathers, glowing eyes, and a magical collar. The scene is misty and enchanted, with glowing mushrooms and ancient runestones in the background. Fantasy art style, highly detailed, dramatic lighting._
+
 Ssoulanthia is a [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=81) [Witch](https://2e.aonprd.com/Classes.aspx?ID=38) with a [Familiar](https://2e.aonprd.com/Rules.aspx?ID=2121) named Green who looks like a [Velociraptor](https://en.wikipedia.org/wiki/Velociraptor).
 
 ## Green
@@ -58,7 +60,51 @@ A grinder as a student, but kind to others and offers personal support once she�
 
 The reason her bloodline is atypically magically talented is that they have from time to time interbred with powerful human sorcerers. Her bloodline has developed some physical characteristics from its unions with humans. Ssoulanthia has hair growing on her head and four fingers on her left hand. Physical abnormalities among normal lizardfolk.
 
-> **Player's Note:** After a string of near-lethal encounters and a sexist insult from Dean Ot, Ssoulanthia subbed out in favour of her brother. He, in her opinion, was better able to protect her companions as long as they remained at the Magaambya.
+## The Freshmen
+
+![[gm_ssfreshmen.png]]
+
+**Freshmen Class - (L to R) Ssoulanthia (Lizardfolk), Green (Familiar), Kanju Renki (Kitsune), Mallowg (Tripkee), Samsofras (Catfolk), and Kuthano Stormmane (Centaur)**
+
+Here's what ChatGPT thinks:
+
+🐴 Kuthano Stormmane
+ - Ancestry: Centaur
+ - Class: Champion (Liberator)
+ - Background: Sponsored by Village
+ - Deity: Horus (khopesh-wielding sky sentinel)
+ - Vibe: Quiet storm. Defender. Chosen of the steppe and sun.
+ - Visual: Towering, armored, silver-maned with earth-toned gear and chakrams.
+
+🐆 Samsofras
+ - Ancestry: Catfolk (Liminal)
+ - Class: Monk (Stoked Flame Stance)
+ - Background: Sponsored by a Stranger
+ - Vibe: Graceful, sharp-witted, quick-learner with fire in her veins and in her hands.
+ - Visual: Painted fur, ceremonial fire magic, sly smirk over the shoulder.
+
+🐸 Mallowg
+ - Ancestry: Tripkee (Poisonhide)
+ - Class: Monk (Reflective Ripple Stance)
+ - Background: Sponsored by a Stranger
+ - Vibe: Unpredictable, fast, and possibly venomous. Probably speaks in cryptic nature metaphors.
+ - Visual: Sleek and cartoonish, but absolutely deadly—like if Yoda and a poison dart frog had a student loan.
+
+🦊 Kanju Renki
+ - Ancestry: Kitsune
+ - Class: Psychic
+ - Vibe: Enigmatic, likely the party’s moral gray zone. Jedi-esque robes, which makes him everyone’s “weird wizard friend” despite technically not being a wizard.
+ - Visual: Cool, composed, likely to say “the storm is not the enemy—it is the test.”
+
+🦎 Ssoulanthia
+ - Ancestry: Iruxi
+ - Class: Witch (flexible prep)
+ - Vibe: The weirdest and most lore-rich of the bunch, because Iruxi + Witch in the Mwangi Expanse = pure mystical potential.
+ - Possibility: The one who talks to things the rest of you can’t see.
+
+---
+
+> **Player's Note:** After a string of near-lethal encounters and a sexist insult from Dean Ot, Ssoulanthia subbed out in favour of her brother. He, in her opinion, is better able to protect her companions while they remain at the Magaambya.
 
 # Ssoulan
 
@@ -66,13 +112,15 @@ The reason her bloodline is atypically magically talented is that they have from
 
 **Ssoulan**
 
+>**MS365 Copilot Prompt:** _Create a similar scene to the attached image (Ssoulanthia and Green) but swap the female witch for a male barbarian. Delete the small reptile companion. Use the same skin colours as the female witch._
+
 A [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=81) [Barbarian](https://2e.aonprd.com/Classes.aspx?ID=57) with an intimidating presence. Ssoulanthia's clutch mate (brother).
 
 # Strength of Thousands
 
 ---
 
-> _"The oldest and most prestigious magic academy in the world is the Magaambya, an ancient institution founded by the greatest wizard the world has ever known. This wizard vanished long ago, but his sinister enemies plot against his school and those who attend it. Over their long academic careers, the heroes rise from humble students to become teachers, and they ultimately hold the fate of the Magaambya magic academy in their hands. Graduates of the Magaambya are among the greatest wardens of the world, but if the heroes can't marshal the strength of thousands who have come before them, the venerable Magaambya might fall!"_
+> _The oldest and most prestigious magic academy in the world is the Magaambya, an ancient institution founded by the greatest wizard the world has ever known. This wizard vanished long ago, but his sinister enemies plot against his school and those who attend it. Over their long academic careers, the heroes rise from humble students to become teachers, and they ultimately hold the fate of the Magaambya magic academy in their hands. Graduates of the Magaambya are among the greatest wardens of the world, but if the heroes can't marshal the strength of thousands who have come before them, the venerable Magaambya might fall!_
 
 ---
 
