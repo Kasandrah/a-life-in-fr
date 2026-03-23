@@ -16,7 +16,7 @@ Where are these NPCs located?
  - Choima
  - Gaia Institute, The
  - Parker, Emmanuel - (Order of the Seraphim)
- - Silk Scorpion II
+ - [[Silk-Scorpion-II|Silk Scorpion II]]
  - West, Alex
 
 ## Australia

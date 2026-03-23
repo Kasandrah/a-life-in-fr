@@ -11,7 +11,7 @@ draft: false
 
 ![[pd_godspeed.jpg]]
 
-**God Speed – Edmund Blair Leighton**
+**"God Speed" - Edmund Blair Leighton**
 
 ## First Campaign – 495 AD
 

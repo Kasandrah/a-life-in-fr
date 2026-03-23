@@ -60,11 +60,11 @@ A grinder as a student, but kind to others and offers personal support once sheâ
 
 The reason her bloodline is atypically magically talented is that they have from time to time interbred with powerful human sorcerers. Her bloodline has developed some physical characteristics from its unions with humans. Ssoulanthia has hair growing on her head and four fingers on her left hand. Physical abnormalities among normal lizardfolk.
 
-## The Freshmen
+## Our Cohort
 
 ![[gm_ssfreshmen.png]]
 
-**Freshmen Class - (L to R) Ssoulanthia (Lizardfolk), Green (Familiar), Kanju Renki (Kitsune), Mallowg (Tripkee), Samsofras (Catfolk), and Kuthano Stormmane (Centaur)**
+**(L to R) Ssoulanthia (Lizardfolk), Green (Familiar), Kanju Renki (Kitsune), Mallowg (Tripkee), Samsofras (Catfolk), and Kuthano Stormmane (Centaur)**
 
 Here's what ChatGPT thinks:
 

@@ -36,7 +36,7 @@ _Ann:_ “grace” - Hebrew (“Hannah”)
 | _Reads / Writes:_  | English, writes Hieroglyphics, Demotic, Coptic and Hieratic, speaks Japanese |
 | _Weapons:_         | Handgun, bowie knife, very pistol                                            |
 
-Sarah is an English architect with a passion for Egyptology and travel.  She is married to Charles van Buren, an adventurer and bootlegger from New England who owns the “Silk Scorpion”, a 120’ long ocean-going ship with a crew of 25.
+Sarah is an English architect with a passion for Egyptology and travel.  She is married to Charles van Buren, an adventurer and bootlegger from New England who owns the [[The-Silk-Scorpion|Silk Scorpion]], a 120’ long ocean-going ship with a crew of 25.
 
 ## Appearance
 
@@ -68,9 +68,9 @@ Sarah can be a good friend with other women.  As a parent, she will maintain st
 
 Although Sarah is a qualified architect, she has an interest in Egyptology sparked by her father, a retired merchant banker with a lifelong interest in archaeology.  Sarah has developed skills in reading and writing Demotic, Hieroglyphics, Coptic and Hieratic, and is learning to speak, read and write Japanese from Charles.
 
-She and Charles own the “Silk Scorpion”, a 120-foot long luxury sloop with oak and brass fittings registered in London.  Charles made his money as a bootlegger and still uses the yacht for it’s original purpose.  They also own a red Mercedes-Benz SSKL two-seater roadster that they love to drive at breakneck pace along tight, windy roads.
+She and Charles own the [[The-Silk-Scorpion|Silk Scorpion]], a 120-foot long luxury sloop with oak and brass fittings registered in London.  Charles made his money as a bootlegger and still uses the yacht for it’s original purpose.  They also own a red Mercedes-Benz SSKL two-seater roadster that they love to drive at breakneck pace along tight, winding roads.
 
-They divide their time between homes in London, Boston and Long Island, New York.  When not at home they travel aboard the “Silk Scorpion”, taking care of Charles’ many and varied business interests.
+They divide their time between homes in London, Boston, and Long Island, New York.  When not at home, they travel aboard the [[The-Silk-Scorpion|Silk Scorpion]], taking care of Charles’ many and varied business interests.
 
 ## Education
 

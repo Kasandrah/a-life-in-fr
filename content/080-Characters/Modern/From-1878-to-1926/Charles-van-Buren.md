@@ -22,7 +22,7 @@ draft: false
 | _Birth stones:_    | Beryl, obsidian, ruby, sardonyx, topaz                                     |
 | _Birth flowers:_   | Wormwood                                                                   |
 | _Partner:_         | _[[Sarah-Ann-van-Buren\|Sarah Ann van Buren]]_                             |
-| _Occupation_       | Owner of the Silk Scorpion, smuggler and bootlegger                        |
+| _Occupation_       | Owner of the [[The-Silk-Scorpion\|Silk Scorpion]], smuggler and bootlegger |
 | _Residence:_       | Sarah and Charles divide their time between London, Boston and Long Island |
 | _Drives:_          | [[Mercedes-Benz-SSKL\|1929 Mercedes-Benz SSKL Two-Seater Roadster]]        |
 | _Reads / Writes:_  | English, Japanese, Latin, speaks French, reads / writes Arabic             |
@@ -34,7 +34,7 @@ Charles is very attractive – tall with dark curly hair and dark brown eyes and
 
 ## Interests
 
-Charles makes his money as a bootlegger and smuggler, using the “Silk Scorpion” to transport large amounts of alcohol and restricted goods from Britain via Cuba to secret locations along the New York coast.
+Charles makes his money as a bootlegger and smuggler, using the [[The-Silk-Scorpion|Silk Scorpion]] to transport large amounts of alcohol and restricted goods from Britain via Cuba to secret locations along the New York coast.
 
 ## Education
 

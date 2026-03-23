@@ -51,7 +51,7 @@ I interspersed these ongoing campaigns with short one or two session adventures 
 
 ![[pd_the_accolade.png]]
 
-**The Accolade – Edmund Blair Leighton**
+**"The Accolade" - Edmund Blair Leighton**
 
 _**What if** King Arthur had really existed, and he’d married Maeve instead of Guinevere?_
 

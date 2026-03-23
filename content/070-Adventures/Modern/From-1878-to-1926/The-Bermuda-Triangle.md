@@ -16,7 +16,7 @@ draft: false
 ---
 # The Bermuda Triangle
 
-1926 September 26th - Bexhill-on-Sea (East Sussex) to Brighton to Portsmouth.  Board the Silk Scorpion and sail for Falmouth.
+1926 September 26th - Bexhill-on-Sea (East Sussex) to Brighton to Portsmouth.  Board the [[The-Silk-Scorpion|Silk Scorpion]] and sail for Falmouth.
 
 ## Characters
 
@@ -57,7 +57,7 @@ A luxury 1920s yacht owned by a bootlegger making his last run to Cuba, the Berm
 
 **Bexhill-on-Sea, East Sussex, England**
 
-**27th to 29th September** - a three-day conference on the occult in the stunning setting of Herstmonceux Castle, ending with a black-tie dinner.  Underhanded games between various English (Rosicrucian) and German (Thule Bruderschaft) occult factions, including theft of occult items, misdirection and destruction of hotel property.
+**27th to 29th September** - a three-day conference on the occult in the stunning setting of Herstmonceux Castle, ending with a black-tie dinner.  Underhanded games between various English (Rosicrucian) and German (Thule Bruderschaft) occult factions, including theft of occult items, misdirection, and destruction of hotel property.
 
 Sarah and Charles are staying at the Barrington Hotel in Bexhill-on-Sea for the duration of the conference.  During a private formal dinner in Matthew's rooms, Matthew gives Sarah a "special" pendant, a lapis lazuli charm that he tells her will help her conceive with Charles.  Sarah never takes the pendant off.
 

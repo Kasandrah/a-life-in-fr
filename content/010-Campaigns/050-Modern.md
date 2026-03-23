@@ -20,7 +20,7 @@ Zoran ran [[To-Go-Where-No-Man|To Go Where No Man Has Gone Before]], an absolute
 
 Jenny ran [[African-Cat-People|African Cat People]], [[Thai-Dreaming|Thai Dreaming]], [[Beast-in-the-Abbey|Beast in the Abbey]], [[To-Aid-a-Friend|To Aid a Friend]], [[The-Heart|The Heart]], [[The-Mummys-Curse|The Mummy’s Curse]] and [[Sihons-Night|Sihon's Night]]. Jenny was fearless with gates and dreaming and other methods of herding PCs into alternate planes of existence. Just as well, otherwise my PCs _[[Rajkumari-Anjuli-of-Shahpura|Anjuli]]_ and _[[Dresdina-Belle-Cooper|Dresdina]]_ would never be together with their soulmates.
 
-I ran the second half of [[Home-Sweet-Home|Home Sweet Home]] and all of [[Orient-Express|Orient Express]], [[Cornwall|Cornwall]], [[Whispers-from-the-Abyss|Whispers from the Abyss]], [[Regiment-of-the-Dead|Regiment of the Dead]] and [[The-Bermuda-Triangle|The Bermuda Triangle]]. I took a page out of Zoran’s book for [[The-Bermuda-Triangle|The Bermuda Triangle]] and transferred the Silk Scorpion and all on board from 1926 to the mid-1990s.
+I ran the second half of [[Home-Sweet-Home|Home Sweet Home]] and all of [[Orient-Express|Orient Express]], [[Cornwall|Cornwall]], [[Whispers-from-the-Abyss|Whispers from the Abyss]], [[Regiment-of-the-Dead|Regiment of the Dead]] and [[The-Bermuda-Triangle|The Bermuda Triangle]]. I took a page out of Zoran’s book for [[The-Bermuda-Triangle|The Bermuda Triangle]] and transferred the [[The-Silk-Scorpion|Silk Scorpion]] and all on board from 1926 to the mid-1990s.
 
 **Early Call of Cthulhu Episodes (Commencement Dates)**
 
@@ -127,7 +127,7 @@ Nephilim is an esoteric gaming system. If we ever pick this up again, I’ll con
 
 ## The White Magicians
 
-London and New York – _[[Angela-Taylor|Angela Taylor]]_ (MI6), _[[Dresdina-Belle-Cooper|Dresdina]]_ (FBI) and _[[Sarah-Ann-van-Buren|Sarah]]_ (Silk Scorpion II).
+London and New York – _[[Angela-Taylor|Angela Taylor]]_ (MI6), _[[Dresdina-Belle-Cooper|Dresdina]]_ (FBI) and _[[Sarah-Ann-van-Buren|Sarah]]_ ([[Silk-Scorpion-II|Silk Scorpion II]]).
 
 In this contemporary Call of Cthulhu campaign, the PCs are trained "Dreamers", White Magicians who draw power from the [[080-Dreamlands|Dreamlands]].
 

@@ -22,15 +22,15 @@ Also known as **"Thoth’s Dagger"** followed by **"The City Without a Name"*
 
 ## Characters
 
-| Player Characters                                                                                                     | Non-Player Characters                               |
-| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| _[[Sarah-Ann-van-Buren\|Bateman, Sarah Ann]]_                                                                         | _Bateman, Arthur_ – Sarah’s father, an Egyptologist |
-| _[[Charles-van-Buren\|van Buren, Charles]]_ – American, owner of the Silk Scorpion, smuggler and bootlegger (Braddon) | _Cuttingham, Wilfred_ – British Consul (Yemen)      |
-| _Ervine and Levi – twin brothers (Barry)_                                                                             | _[[Neil-F#^bc047f\|Farquarson, Magnus]]_       |
-| _[[Jenny-H#^90313e\|Farquarson (nee McConnell), Megan]]_                                                           | _Omar_ – camel driver, chief and guide              |
-| _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                                                                            | _al-Qusi, Butrus_ – Coptic Monk                     |
-| _[[George-G#^b2f17d\|Rycroft, Scotty]]_                                                                        | _Shenuda, Abba_  – Coptic Monk                      |
-|                                                                                                                       | _Sufyani, Mikhay’el_ – cultist                      |
+| Player Characters                                        | Non-Player Characters                               |
+| -------------------------------------------------------- | --------------------------------------------------- |
+| _[[Sarah-Ann-van-Buren\|Bateman, Sarah Ann]]_            | _Bateman, Arthur_ – Sarah’s father, an Egyptologist |
+| _[[Charles-van-Buren\|van Buren, Charles]]_              | _Cuttingham, Wilfred_ – British Consul (Yemen)      |
+| _Ervine and Levi – twin brothers (Barry)_                | _[[Neil-F#^bc047f\|Farquarson, Magnus]]_            |
+| _[[Jenny-H#^90313e\|Farquarson (nee McConnell), Megan]]_ | _Omar_ – camel driver, chief and guide              |
+| _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                  | _al-Qusi, Butrus_ – Coptic Monk                     |
+| _[[George-G#^b2f17d\|Rycroft, Scotty]]_                  | _Shenuda, Abba_  – Coptic Monk                      |
+|                                                          | _Sufyani, Mikhay’el_ – cultist                      |
 
 ## Involvement
 

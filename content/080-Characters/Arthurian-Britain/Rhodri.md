@@ -3,6 +3,10 @@ aliases:
   - Rhodri
   - Lord Rhodri
 draft: false
+title: Lord Rhodri
+tags:
+  - arthurian-britain
+  - player-character
 ---
 # Lord Rhodri
 
