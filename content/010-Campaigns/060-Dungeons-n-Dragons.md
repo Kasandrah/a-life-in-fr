@@ -14,7 +14,7 @@ draft: false
 
 ## Grand Duchy of Karameikos
 
-![[dd_Karameikos.jpg]]
+![[dd_karameikos.jpg]]
 
 **Cover, D&D Gazetteer, The Grand Duchy of Karameikos**
 

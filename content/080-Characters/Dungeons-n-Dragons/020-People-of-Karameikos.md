@@ -27,7 +27,7 @@ _Zirchev_ – hunting, horses, dog training, animal skills (cat walking, fish s
 
 # Royal Family
 
-![[dd_coa_Karameikos.jpg]]
+![[dd_coa_karameikos.jpg]]
 
 _Karameikos III, Duke Stefan_ – (15th Fighter, 52), Thyatian.
 
@@ -67,7 +67,7 @@ _Yarol, Lord Zogrev_ – (9th Fighter, 50, Traldaran) – Minister of State, wi
 
 ![[dd_court.jpg]]
 
-**From Left to Right: Lord Tisza, Lord Cordelius, Lord Yarol and Admiral Hyraksos**
+**From Left to Right: Lord Tisza, Lord Cordelius, Lord Yarol, and Admiral Hyraksos**
 
 ## Ambassadors
 
@@ -95,7 +95,7 @@ _Whitehall, Estella_ – Ambassador of Darokin. Friend of Flintfoot and Shaland
 
 ![[dd_shalandar.jpg]]
 
-**From Left to Right: Lord Osteric, Dona Marianita and Shalander**
+**From Left to Right: Lord Osteric, Dona Marianita, and Shalander**
 
 # At Church
 
@@ -105,7 +105,7 @@ _Whitehall, Estella_ – Ambassador of Darokin. Friend of Flintfoot and Shaland
 
 ## Church of Karameikos
 
-![[dd_coa_church_of_Karameikos.jpg]]
+![[dd_coa_church_of_karameikos.jpg]]
 
 _Jowett, Lord Oliver_ – (18th Cleric, 75), Patriarch of Specularum – Master, Order of the Griffon. A gentle, good-natured man who preaches the doctrine of his church as the compelling philosophy it is, not as the one true way that many clerics believe it to be.
 
@@ -146,7 +146,7 @@ Ranks are as follows:
 
 Each Division has up to 996 soldiers and is commanded by a General assisted by four administrative Captains.  Each Division has two to four Battalions with up to 244 soldiers commanded by a Captain assisted by three administrative Lieutenants.  Each Battalion has two to four Companies with up to 60 soldiers commanded by a Lieutenant.  Each Company has two to four Squadrons with up to 14 soldiers commanded by a Sergeant.  None of the Divisions are currently at full strength, as Karameikos is not at war.
 
-![[dd_Karameikos_armed_forces1.gif]]
+![[dd_karameikos_armed_forces1.gif]]
 
 _Korrigan, Lord Alexius_ – (6th Fighter) – General of the 2nd Division of Karameikos, Elite Guard Units. Seneschal of the Ducal Estate, a first cousin of Duke Stefan.
 
@@ -154,7 +154,7 @@ _Korrigan, Lord Alexius_ – (6th Fighter) – General of the 2nd Division of K
 
 The Specularum City Guard defended Duke Stefan from the Marilenev Rebellion, so was honoured with the rank of 1st Division when he restructured the military.  The 1st Division consists of four Companies, full strength, spread across Specularum in 12 guard houses.
 
-![[dd_Karameikos_armed_forces2.gif]]
+![[dd_karameikos_armed_forces2.gif]]
 
 ![[dd_coa_city_guard.jpg]]
 
@@ -168,7 +168,7 @@ The Elvenguard is responsible for maintaining order in the Duke's Park and in fo
 
 The Duke's Guard is the standing force which protects the Duke's Stronghold in times of assault.  It assists the Guard Phorsis in times of trouble, and from its ranks are drawn the Duke's personal bodyguards.
 
-![[dd_Karameikos_armed_forces3.gif]]
+![[dd_karameikos_armed_forces3.gif]]
 
 ![[dd_coa_callarii_elves.jpg]]
 
@@ -184,19 +184,19 @@ _Korrigan, Captain Varis_ – (12th Fighter, Thyatian) – Duke’s Guard, 2nd 
 
 The Navy patrols the coast of Karameikos and occasionally wages war with pirates from the Gulf of Halag.  The Navy's shipbuilding facilities and base are in Specularum Bay.  There are currently eight ships of the line in the Navy.
 
-![[dd_Karameikos_armed_forces4.gif]]
+![[dd_karameikos_armed_forces4.gif]]
 
 ## 4th Division (Northern and Eastern Forts)
 
 The 4th Division is responsible for guarding the northern and eastern frontiers, and is divided among Castellan Keep, Duke's Road Keep and Rugalov.  The garrisons have horses, enough for one fifth of the force to fight as cavalry if needed.
 
-![[dd_Karameikos_armed_forces5.gif]]
+![[dd_karameikos_armed_forces5.gif]]
 
 ## 5th Division (Western Forts)
 
 The 5th Division garrisons the forts on the western border of Karameikos, and is divided between Radlebb Keep (near Luln) and River Fork Keep (on the Darokin border).  The garrisons have horses, enough for one fifth of the force to fight as cavalry if needed.
 
-![[dd_Karameikos_armed_forces6.gif]]
+![[dd_karameikos_armed_forces6.gif]]
 
 # The Guilds
 
@@ -483,6 +483,6 @@ _[[Shandell|Shandell]]_, Elven Paladin of Danu
 
 _Siryn_, Aquatic Elf Bard, and _Woosh_, Water Elemental
 
-_[[Viridis|Viridis]]_, Green Dragon and _[[Dresla|Dresla]]_, his companion
+_[[Viridis|Viridis]]_, Green Dragon, and _[[Dresla|Dresla]]_, his companion
 
-_[[Zatarn|Zatarn]]_, Human Wizard and _Ipolya_, Lamia
+_[[Zatarn|Zatarn]]_, Human Wizard, and _Ipolya_, Lamia

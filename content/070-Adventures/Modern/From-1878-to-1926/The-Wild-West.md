@@ -40,7 +40,7 @@ At Kenneton Wells, Dr Gentry was investigating graves on Boot Hill. He mysteriou
 
 At the house, Diaz sent the group back to December 1878, where he attempted to kill them. The group became involved with the people of old Kenneton Wells, who were in fear of gunslinger Diaz. Eventually the group went to the Diaz house and destroyed Diaz with the help of Marshal Josh Eberhardt.
 
-When Diaz was killed, the group returned to 1925. Alex leapt on Josh at the point of transfer so he came forward in time with the rest of the group.
+When Diaz was killed, the group returned to 1925. Alex leapt on Josh at the point of transfer, so he came forward in time with the rest of the group.
 
 Read [[The-Morning-After|The Morning After]].
 

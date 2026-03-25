@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1878-12-15
+fc-end: 1878-12-16
+fc-category: From 1878 to 1926
+fc-display-name: The Morning After
 title: The Morning After
 draft: false
 ---

@@ -7,7 +7,7 @@ tags:
 aat-render-enabled: true
 timelines:
   - Modern Timeline
-fc-date: 1984-05-04
+fc-date: 1926-05-03
 fc-end: 1984-05-05
 fc-category: From 1878 to 1926
 fc-display-name: To Go Where No Man Has Gone Before
