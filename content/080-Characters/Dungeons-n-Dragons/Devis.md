@@ -36,15 +36,13 @@ A point of trivia about elves. They're hairless except for eyebrows, eyelashes, 
 
 ## Character Sheet
 
-![[dd_devis.pdf]]
-
-**Devis, D&D 3.5 PCGen** 
+**_[[dd_devis.pdf|Devis]]_, D&D 3.5, PCGen** 
 
 ## Background
 
-Although he generally behaves and reacts like a human, Devis grew up with elves.  His Elven mother was cold, distant and uninvolved in Devis' life, but exceptionally beautiful and made music to move the soul. The two things that can easily be considered Devis' fatal flaws - great beauty and great music.  There probably isn't anything he wouldn't do to possess either.  Becoming a bard was a natural progression.
+Although he behaves and reacts like a human, Devis grew up with elves.  His Elven mother was cold, distant, and uninvolved in Devis' life, but exceptionally beautiful and made music to move the soul. The two things that can easily be considered Devis' fatal flaws - great beauty and great music.  There probably isn't anything he wouldn't do to possess either.  Becoming a bard was a natural progression.
 
-As a half-elf in an Elven community he was always on the edge of things - didn't quite fit in with the others.  His mother considered him the inconvenient consequence of a moment of passion. However, she believed in taking responsibility for her actions and raised Devis as her own.  In this she considers herself better than his wandering human father.  Adventurers!
+As a half-elf in an Elven community, he was always on the edge of things - didn't quite fit in with the others.  His mother considered him the inconvenient consequence of a moment of passion. However, she believed in taking responsibility for her actions and raised Devis as her own.  In this she considers herself better than his wandering human father.  Adventurers!
 
 Devis didn't fare any better with his first love - not unrequited, but an Elven royal heir was an unwise choice for a bastard half-elf. Like I said - great beauty and great music will get Devis every time.  _[[Shandell|Shandell]]_ possessed both.
 
@@ -149,17 +147,10 @@ Eyes of flame briefly met eyes of pale jade.  Galthais bowed to the dragon, a s
 For a time the dragon regarded the place that the mage had stood, then it turned towards Renark who screamed and charged, his sword once more outstretched.  He barely saw the paw coming and certainly had no chance to dodge.  Darkness claimed him.
 
 1. Devis shares the Dragons senses during the dreams and it is overwhelming.  The dragon sees about twice as well as a half elf in normal and low light conditions.  In darkness he can see at least 200 feet and even in magical darkness he can track creatures within 60 feet by a combination of hearing and scent.
-    
 2. Every sensation is more intense and there are several senses that he is barely aware of that are entirely strange.  One is indeed an awareness of life, its presence, nature (sentient or not) and strength (level / hit die) although it is not as precise as vision in terms of locating the creature's position.
-    
 3. The dragon can cause magical darkness that blocks even its sight, although its other senses more than compensate, up to 3 times per day at will.  His lair has changed since he took residence, it is noticeably more pleasant for him to be in the lair than outside of it.  By willing it so he can create areas that other creatures actively avoid although he finds them comforting.  These fade unless he renews them.
-    
 4. The sounds are clearly identifiable to Devis as music although the instrument is unknown.  The music is vaguely sinister and arouses thoughts of violence.  It is not quite Bardic, but is clearly related.
-    
 5. These are Duergar Dwarves.  The same race that killed Erky in the halls of Durgeddin the Black.  They are emaciated and nasty-looking, with grey hair and skin.  Most are bald (even the females), and they dress in drab clothing that is designed to blend into stone.  They can turn themselves invisible which is useless against the dragons senses, and enlarge themselves.
-    
 6. The Suel used specially trained hunter / killers in their war with the Baklunish.  They were known as rangers and were the origin of that class.  Indeed it is tales of the Suel Rangers, eventually becoming legend and myth, that inspired and kept alive the fear and distrust that many of the common people feel for Rangers.
-    
 7. The Suel Rangers were cold, efficient and remorseless killers.  Trained from childhood to hunt and kill their own race (humans), they were very good at it.  They often combined their ranger skills with monk training, allowing them to move more quickly and survive the rugged border lands between the Suel / Baklunish empires.
-    
 8. A saving throw involves trying to get out of the way, which the dragon did not do.  Instead the lightning coursed over its body without doing anything substantial in the way of damage.

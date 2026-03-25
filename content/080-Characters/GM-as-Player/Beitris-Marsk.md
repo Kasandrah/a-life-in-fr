@@ -47,9 +47,7 @@ Average damage per dice roll:
 
 ## Character Sheet
 
-![[mr_beitris_marsk_dnd_beyond.pdf]]
-
-**Lady Beitris Marsk, D&D Beyond**
+**_[[mr_beitris_marsk_dnd_beyond.pdf|Lady Beitris Marsk]]_, D&D 5E, [D&D Beyond](https://www.dndbeyond.com/characters/75746890/m0x9XW)**
 
 ---
 
@@ -75,24 +73,25 @@ Beitris will dedicate her conversion to Ettienne, Ben’s character who was eate
 
 ---
 
-## Rose Red
+# Rose Red
 
 ![[mr_rose_red.png]]
 
 **Rose Red, Knight of Ragathiel**
 
-### Character Sheet
+## Character Sheet
 
-![[mr_rose_red_demiplane.pdf]]
-
-**[Rose Red](https://app.demiplane.com/nexus/pathfinder2e/character-sheet/e0e7c760-e2bd-41af-95dd-37568896cef9), Demiplane Pathfinder Nexus**
+**_[[mr_rose_red_demiplane.pdf|Rose Red]]_, Pathfinder 2, [Demiplane Pathfinder Nexus](https://app.demiplane.com/nexus/pathfinder2e/character-sheet/e0e7c760-e2bd-41af-95dd-37568896cef9)**
 
 ---
-## Nikolai Steele
+
+# Nikolai Steele
 
 ![[mr_nikolai_steele.png]]
 
 **Nikolai Steele**
+
+---
 
 # Legends
 

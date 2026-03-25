@@ -1,6 +1,10 @@
 ---
 aliases:
   - Alejandro Guerrero
+draft: false
+tags:
+  - player-character
+title: Alejandro Guerrero
 ---
 # Alejandro Guerrero
 
@@ -8,13 +12,11 @@ aliases:
 
 **Alejandro Guerrero**
 
-A Spanish conquistador in an Age of Lightning. He could easily go native if the colonisers get too heavy-handed with the original inhabitants.
+A [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi) (feline humanoid); a Spanish conquistador in an Age of Lightning. He could easily go native if the colonisers get too heavy-handed with the original inhabitants.
 
 ## Character Sheet
 
-_[[gm_alejandro_guerrero.pdf|Alejandro Guerrero]]_, [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi) fighter (soldier)
-
-![[gm_alejandro_guerrero_token.png]]
+**_[[gm_alejandro_guerrero.pdf|Alejandro Guerrero]]_, D&D 5E, [D&D Beyond](https://www.dndbeyond.com/characters/110803387/pMjCcO)**
 
 ### Special Equipment
 

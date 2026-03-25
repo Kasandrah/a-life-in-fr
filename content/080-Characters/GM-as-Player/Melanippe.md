@@ -14,6 +14,4 @@ draft: false
 
 ## Character Sheet
 
-![[gm_melanippe.pdf]]
-
-**Melanippe, D&D 3.5 PCGen**
+**_[[gm_melanippe.pdf|Melanippe]]_, D&D 3.5, PCGen**

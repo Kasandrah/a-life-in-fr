@@ -7,6 +7,7 @@ aliases:
 tags:
   - anfar-refinli
   - arthurian-britain
+  - player-character
 title: Sir Brennos
 draft: false
 ---

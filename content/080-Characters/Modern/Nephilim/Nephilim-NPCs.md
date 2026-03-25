@@ -65,6 +65,10 @@ Manager of Thor's Bar and Grill.  Member of the Strength Arcanum.
 
 3rd Rank Hell-bound assassin.
 
+![[np_hellina.jpg]]
+
+**Hellina, True Form**
+
 ![[np_hellina.gif]]
 
-**Hellina**
+**Hellina, Half-Human**

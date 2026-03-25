@@ -12,8 +12,6 @@ draft: false
 
 **Soulanthia and Green**
 
-> **MS365 Copilot Prompt**: _A Pathfinder 2e female lizardfolk witch standing in a mystical swamp. She has emerald-green scales, tribal jewellery, and a staff adorned with glowing runes. Her eyes glow with arcane power, and she wears a tattered cloak made of moss and feathers. Beside her is her familiar: a sleek, intelligent-looking velociraptor with feathers, glowing eyes, and a magical collar. The scene is misty and enchanted, with glowing mushrooms and ancient runestones in the background. Fantasy art style, highly detailed, dramatic lighting._
-
 Ssoulanthia is a [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=81) [Witch](https://2e.aonprd.com/Classes.aspx?ID=38) with a [Familiar](https://2e.aonprd.com/Rules.aspx?ID=2121) named Green who looks like a [Velociraptor](https://en.wikipedia.org/wiki/Velociraptor).
 
 ## Green
@@ -59,6 +57,10 @@ A grinder as a student, but kind to others and offers personal support once she�
 (9) What secret does your PC hope none of her classmates will discover?
 
 The reason her bloodline is atypically magically talented is that they have from time to time interbred with powerful human sorcerers. Her bloodline has developed some physical characteristics from its unions with humans. Ssoulanthia has hair growing on her head and four fingers on her left hand. Physical abnormalities among normal lizardfolk.
+
+## Character Sheet
+
+**_[[gm_ssoulanthia.pdf|Ssoulanthia]]_, Pathfinder 2, [Demiplane Pathfinder Nexus](https://app.demiplane.com/nexus/pathfinder2e/character-sheet/e8e649b3-3c43-459b-a72b-71dde22d175e)**
 
 ## Our Cohort
 
@@ -112,15 +114,17 @@ Here's what ChatGPT thinks:
 
 **Ssoulan**
 
->**MS365 Copilot Prompt:** _Create a similar scene to the attached image (Ssoulanthia and Green) but swap the female witch for a male barbarian. Delete the small reptile companion. Use the same skin colours as the female witch._
-
 A [Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=81) [Barbarian](https://2e.aonprd.com/Classes.aspx?ID=57) with an intimidating presence. Ssoulanthia's clutch mate (brother).
+
+## Character Sheet
+
+**_[[gm_ssoulan.pdf|Ssoulan]]_, Pathfinder 2, [Demiplane Pathfinder Nexus](https://app.demiplane.com/nexus/pathfinder2e/character-sheet/275cb7e4-ac2f-4e25-bcf0-51a7015316ab)**
 
 # Strength of Thousands
 
 ---
 
-> _The oldest and most prestigious magic academy in the world is the Magaambya, an ancient institution founded by the greatest wizard the world has ever known. This wizard vanished long ago, but his sinister enemies plot against his school and those who attend it. Over their long academic careers, the heroes rise from humble students to become teachers, and they ultimately hold the fate of the Magaambya magic academy in their hands. Graduates of the Magaambya are among the greatest wardens of the world, but if the heroes can't marshal the strength of thousands who have come before them, the venerable Magaambya might fall!_
+> _"The oldest and most prestigious magic academy in the world is the Magaambya, an ancient institution founded by the greatest wizard the world has ever known. This wizard vanished long ago, but his sinister enemies plot against his school and those who attend it. Over their long academic careers, the heroes rise from humble students to become teachers, and they ultimately hold the fate of the Magaambya magic academy in their hands. Graduates of the Magaambya are among the greatest wardens of the world, but if the heroes can't marshal the strength of thousands who have come before them, the venerable Magaambya might fall!"_
 
 ---
 

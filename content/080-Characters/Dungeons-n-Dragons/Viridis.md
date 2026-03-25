@@ -11,4 +11,4 @@ draft: false
 
 **Viridis**
 
-Viridis' partner is _[[Dressla|Dressla]]_. 
+Viridis' partner is _[[Dresla|Dresla]]_. 

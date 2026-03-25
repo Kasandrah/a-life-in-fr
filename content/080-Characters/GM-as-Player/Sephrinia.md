@@ -1,6 +1,7 @@
 ---
 tags:
   - player-character
+  - dungeons-n-dragons
 aliases:
   - Sephrinia
 title: Sephrinia
@@ -12,6 +13,4 @@ An Elven transmuter wizard and her cat familiar, Boo.
 
 ## Character Sheet
 
-![[dd_sephrinia.pdf]]
-
-**Sephrinia, D&D 3.5 PCGen**
+**_[[dd_sephrinia.pdf|Sephrinia]]_, D&D 3.5, PCGen**

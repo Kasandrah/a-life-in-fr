@@ -483,6 +483,6 @@ _[[Shandell|Shandell]]_, Elven Paladin of Danu
 
 _Siryn_, Aquatic Elf Bard, and _Woosh_, Water Elemental
 
-_[[Viridis|Viridis]]_, Green Dragon and _[[Dressla|Dressla]]_, his companion
+_[[Viridis|Viridis]]_, Green Dragon and _[[Dresla|Dresla]]_, his companion
 
 _[[Zatarn|Zatarn]]_, Human Wizard and _Ipolya_, Lamia

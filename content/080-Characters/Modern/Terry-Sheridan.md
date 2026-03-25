@@ -19,7 +19,5 @@ Sheridan is an "alien tech" specialist assigned to SG-21 to support operational 
 
 ## Character Sheet
 
-![[d20m_major_terry_sheridan.pdf]]
-
-**Major Terry Sheridan, D20 Modern PCGen**
+**_[[d20m_major_terry_sheridan.pdf|Major Terry Sheridan]]_, D20 Modern, PCGen**
 

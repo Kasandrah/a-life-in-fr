@@ -1,19 +1,17 @@
 ---
 aliases:
-  - Dressla
+  - Dresla
 tags: dungeons-n-dragons
-title: Dressla
+title: Dresla
 draft: false
 ---
-# Dressla
+# Dresla
 
 ![[dd_dressla.jpg]]
 
-**Dressla**
+**Dresla**
 
 ## Character Sheet
 
-![[dd_dressla.pdf]]
-
-**Dressla, D&D 3.5 PCGen**
+**_[[dd_dressla.pdf|Dresla]]_, D&D 3.5. PCGen**
 

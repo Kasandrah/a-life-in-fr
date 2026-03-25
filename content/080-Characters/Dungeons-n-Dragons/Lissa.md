@@ -27,9 +27,7 @@ Lissa’s familiar is a female peregrine falcon named Talisman.
 
 # Character Sheet
 
-![[dd_lissa_vorloi.pdf]]
-
-**Lissa Vorloi, D&D 3.5 PCGen**
+**_[[dd_lissa_vorloi.pdf|Lissa Vorloi]]_, Lissa Vorloi, D&D 3.5 PCGen**
 
 # Background (Tharamaylor)
 

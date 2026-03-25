@@ -11,13 +11,11 @@ draft: false
 ---
 # Captain Lucy Norris
 
-_[Lucy](https://www.dndbeyond.com/characters/65716389/5sdXuW)_ started the campaign in the Australian Army Medical Corps.
+Lucy started the campaign in the Australian Army Medical Corps.
 
 ## Character Sheet
 
-![[gm_lucy_norris.pdf]]
-
-**Captain Lucy Norris, D&D 5E, D&D Beyond**
+**_[[gm_lucy_norris.pdf|Captain Lucy Norris]]_, D&D 5E, [D&D Beyond](https://www.dndbeyond.com/characters/65716389/LzY7aT)**
 
 ## Campaign Background
 

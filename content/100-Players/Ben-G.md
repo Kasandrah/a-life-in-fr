@@ -17,6 +17,7 @@ draft: false
 - _[[010-Knights-of-Arthurian-Britain#Gwion|Gwion]]_
 - _[[010-DnD-Adventurers#Kubinski, Yakov|Kubinski, Yakov]]_
 - _[[Nephilim-PCs#James Martel|Martel, James]]_
+- _[[Tanja-Westergaard#^25d384|McGriffen, Pleasant]]_
 - _[[The-White-Magicians#Dr Alexander Notting|Notting, Dr Alexander]]_
 - _[[The-White-Magicians#Kellion O’Shea|O'Shea, Kellion]]_
 - _[[010-Knights-of-Arthurian-Britain#Lord Rhodri|Rhodri, Lord]]_
