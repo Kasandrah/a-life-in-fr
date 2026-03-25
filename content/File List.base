@@ -6,9 +6,9 @@ views:
       direction: ASC
     order:
       - file.name
+      - file.ctime
       - aliases
       - tags
-      - file.ctime
       - file.backlinks
       - file.ext
       - title

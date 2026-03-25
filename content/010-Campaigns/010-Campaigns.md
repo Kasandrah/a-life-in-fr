@@ -135,7 +135,7 @@ These campaigns occurred in different spaces and times than the above Earth-base
 
 **Dungeons & Dragons**
 
-After decades of playing a variety of role-playing games, I’ve settled on Dungeons & Dragons – a classic game in every sense of the word. We've play both the [3.5 edition](http://www.d20srd.org/index.htm) and the [5.0 edition](https://dnd.wizards.com/products?category=where-to-start). My [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign is set in [Mystara](http://pandius.com/).
+After decades of playing a variety of role-playing games, I’ve settled on Dungeons & Dragons – a classic game in every sense of the word. We play the [5.5 edition](https://www.dndbeyond.com/sources/dnd/br-2024?&icid_medium=organic&icid_source=editorial&icid_campaign=dnd_free_rules_2024&icid_content=article_754). My [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign is set in [Mystara](http://pandius.com/).
 
 ## Star Wars
 
