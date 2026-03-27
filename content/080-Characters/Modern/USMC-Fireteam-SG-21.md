@@ -35,6 +35,8 @@ Played by [[Simon-M|Simon M.]]
 
 **USMC, SG-21**
 
+Joined the team just prior to [[The-Killer-Out-of-Space|The Killer Out of Space]].
+
 Played by [[Jenny-H|Jenny H.]]
 
 ## Captain David Goldfarb

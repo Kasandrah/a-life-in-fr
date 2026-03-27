@@ -7,10 +7,10 @@ tags:
 aat-render-enabled: true
 timelines:
   - Modern Timeline
-fc-date: 1997-03-27
-fc-end: 1997-04-05
+fc-date: 1997-06-17
+fc-end: 1997-06-25
 fc-category: USMC vs "What the … ?"
-fc-display-name: Marines in the Jungle
+fc-display-name: One of Our Planes is Missing
 title: One of Our Planes is Missing
 draft: false
 ---

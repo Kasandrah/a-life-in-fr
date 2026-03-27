@@ -77,20 +77,20 @@ Meet _[[USMC-Fireteam-SG-21|USMC Fireteam SG-21]]_.
 
 **USMC Episodes**
 
-| Adventures                                                                                                     |                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1996 September 7th - [[Independence-Day\|Independence Day]]                                                    | 1996 October 15th - [[Loves-Lonely-Children\|Love's Lonely Children]]                                                                                                                                                                                                 |
-| 1996 October 20th - [[Crystal-Eyes\|Crystal Eyes]]                                                             | 1996 November - [[Illegal-Aliens\|Illegal Aliens]]                                                                                                                                                                                                                    |
-| 1996 December - [[Sins-of-the-Father\|Sins of the Father]]                                                     | 1997 January - [[Reunion\|Reunion]]                                                                                                                                                                                                                                   |
-| 1997 late January - [[Setting-the-Trap\|Setting the Trap]]                                                     | 1997 early February - [[Fire-and-Air\|Fire and Air]]                                                                                                                                                                                                                  |
-| 1997 late February - [[Or-the-Box\|Or the Box]]                                                                | 1997 early March - [[Marines-on-Ice\|Marines on Ice]]                                                                                                                                                                                                                 |
-| 1997 late March - [[Marines-in-the-Jungle\|Marines in the Jungle]]                                             | 1997 April - [[The-Dark-Circle\|The Dark Circle]]                                                                                                                                                                                                                     |
-| 1997 June - [[One-of-Our-Planes-is-Missing\|One of Our Planes is Missing]]                                     | 1997 September - [[The-Killer-Out-of-Space\|The Killer Out of Space]]                                                                                                                                                                                                 |
-| 1998 March 6th - [[Airport\|Airport]]                                                                          | 1999 May - [[The-Dark-Side-of-the-Moon\|The Dark Side of the Moon]]                                                                                                                                                                                                   |
-| 1999 June -  <br>[[First-Assignment\|First Assignment]] with Capt. Dashiel Walker - Group Chaplain, U.S. Army  | 1999 July - [[Trouble-at-Black-Rock\|Trouble at Black Rock]]                                                                                                                                                                                                          |
-| 1999 August - <br>[[Flames-of-Wrath\|Flames of Wrath]]                                                         | 1999 September -  <br>[[A-Funny-Thing-Happened\|A Funny Thing Happened at Carousel 5]] with Prof. Henry Bogdanovich, Larabee Hosquith (FBI), and Simon the Limo Driver.                                                                                               |
-| 1999 October - SG 21: [[Search-and-Rescue\|Search and Rescue]] with _[[Terry-Sheridan\|Major Terry Sheridan]]_ | 1999 November - SG 21: [[The-Garden\|The Garden]] with Mercy the Walkir                                                                                                                                                                                               |
-| 1999 December - SG 21: [[Snowflake-Valley\|Snowflake Valley]] - Nocturnum                                      | 2000 January - SG 21: [[The-Madness-of-the-Twilight-Queen\|The Madness of the Twilight Queen]] with _[[Dresdina-Cooper\|Dresdina Coooper]]_ and Larabee Hosquith, Capt. Dashiel Walker, Dr. Birgit Ernestus MD, Dr. Stephanie Parker EPA, Kimberly Ketcham DEA. |
+| Adventures                                                                 |                                                                                                |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 1996 September 7th - [[Independence-Day\|Independence Day]]                | 1996 October 15th - [[Loves-Lonely-Children\|Love's Lonely Children]]                          |
+| 1996 October 20th - [[Crystal-Eyes\|Crystal Eyes]]                         | 1996 November - [[Illegal-Aliens\|Illegal Aliens]]                                             |
+| 1996 December - [[Sins-of-the-Father\|Sins of the Father]]                 | 1997 January - [[Reunion\|Reunion]]                                                            |
+| 1997 late January - [[Setting-the-Trap\|Setting the Trap]]                 | 1997 early February - [[Fire-and-Air\|Fire and Air]]                                           |
+| 1997 late February - [[Or-the-Box\|Or the Box]]                            | 1997 early March - [[Marines-on-Ice\|Marines on Ice]]                                          |
+| 1997 late March - [[Marines-in-the-Jungle\|Marines in the Jungle]]         | 1997 April - [[The-Dark-Circle\|The Dark Circle]]                                              |
+| 1997 June - [[One-of-Our-Planes-is-Missing\|One of Our Planes is Missing]] | 1997 September - [[The-Killer-Out-of-Space\|The Killer Out of Space]]                          |
+| 1998 March 6th - [[Airport\|Airport]]                                      | 1999 May - [[The-Dark-Side-of-the-Moon\|The Dark Side of the Moon]]                            |
+| 1999 June - [[First-Assignment\|First Assignment]]                         | 1999 July - [[Trouble-at-Black-Rock\|Trouble at Black Rock]]                                   |
+| 1999 August - [[Flames-of-Wrath\|Flames of Wrath]]                         | 1999 September -  <br>[[A-Funny-Thing-Happened\|A Funny Thing Happened at Carousel 5]]         |
+| 1999 October - SG 21: [[Search-and-Rescue\|Search and Rescue]]             | 1999 November - SG 21: [[The-Garden\|The Garden]]                                              |
+| 1999 December - SG 21: [[Snowflake-Valley\|Snowflake Valley]] - Nocturnum  | 2000 January - SG 21: [[The-Madness-of-the-Twilight-Queen\|The Madness of the Twilight Queen]] |
 
 > "Semper Fidelis" ("Always Faithful")  
 > Official motto of the US Marine Corps  
@@ -113,13 +113,13 @@ The tribes of the Nephilim comprise the 22 Major Arcana (Tarot). Magic used by N
 
 Players can choose several past lives for their Nephilim character from the official list of [[np_past_life_eras.pdf|past life eras]].  Enterprising GMs can make much of past-life experiences and connections to add context and spice to in-game events.
 
-Meet our _[[Nephilim-PCs|reincarnated spirits]]_ learning the ropes as "ordinary" people, and their _[[Nephilim-NPCs|mentors]]_.
+Meet our _[[Nephilim-PCs|reincarnated spirits]]_ learning the ropes as "ordinary" people and their _[[Nephilim-NPCs|mentors]]_.
 
 **Nephilim Episodes**
 
-| Adventures                     |                                                       |
-| ------------------------------ | ----------------------------------------------------- |
-| [[Serpent-Moon\|Serpent Moon]] | 1997 January 1st - [[The-Apocalypse\|The Apocalypse]] |
+| Adventures                                         |                                                       |
+| -------------------------------------------------- | ----------------------------------------------------- |
+| 1996 December 3rd - [[Serpent-Moon\|Serpent Moon]] | 1997 January 1st - [[The-Apocalypse\|The Apocalypse]] |
 
 While [Chaosium](https://www.chaosium.com/) published [Nephilim](https://www.chaosium.com/nephilim/), I use Steve Feldon's [In Nomine Character Encyclopedia](http://incyclopedia.org/) to expand the ranks of my angels and demons. This encyclopedia is an important reference for [In Nomine](https://www.sjgames.com/in-nomine/) published by [Steve Jackson Games](https://warehouse23.com/collections/in-nomine), and also a great reference for Nephilim.
 
@@ -139,7 +139,7 @@ On the PCs’ side are even more powerful White Magicians; on the opposite side 
 
 ## Web of Spies
 
-London, January 2000 - a freezing Tuesday at 2:00 am.
+London, January 11th 2000 - a freezing Tuesday at 2:00 am.
 
 Identifying UK-based Cthulhu cultists is just one of the agenda items on MI5’s plate. There are plenty of other clandestine threats on home soil to go around.
 

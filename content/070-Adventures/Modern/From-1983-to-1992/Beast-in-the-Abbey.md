@@ -47,7 +47,9 @@ Michal returns from a recent assignment (shoggoths) without having found David. 
 
 In early January, Megan instructs Snake, Killian, Robert, and Angela to go to Lynwold, 15 miles north of Newcastle Upon Tyne (England) to investigate attacks on the locals by a beast identified only as “the follower of Mad Cthulhu”.
 
-The party follows leads to an abbey 3 miles northeast of Lynwold, perched on the edge of a sea cliff. The trail leads down to caves in the cliff where the party discovers a tomb sealed with an elder sign and a horrible statue. The party attempts to destroy the statue while battling deep ones. On returning to the surface, the party meet Sam and Munroe and find they have been transported to the 1920s in an Alternate America. In this America, the South won the Civil War with help from Germany and continues as an independent country.
+The party follows leads to an abbey 3 miles northeast of Lynwold, perched on the edge of a sea cliff. The trail leads down to caves in the cliff where the party discovers a tomb sealed with an elder sign and a horrible statue. The party attempts to destroy the statue while battling deep ones.
+
+On returning to the surface, the party meet Sam and Munroe and find they have been transported to the 1920s in an Alternate America. In this America, the South won the Civil War with help from Germany and continues as an independent country.
 
 ## “The Travesty” - July 1925, Wisconsin, Alternate America
 
@@ -59,7 +61,7 @@ On defeating the Travesty, the Party are interrupted by a “Box” (also a litt
 
 ## “The Swan Maiden” - Mythical Ireland
 
-On waking from suspended animation, Angela finds the party have been transported to mythical Ireland and are now all 12 or 13 years old. They discover a swan man half-drowned on the beach and take him to a wise woman. The swan man asks them to rescue his princess who has been kidnapped by dog-headed monsters.
+On waking from suspended animation, Angela finds the party have been transported to mythical Ireland and are now all 12 or 13 years old. They discover a swan-man half-drowned on the beach and take him to a wise woman. The swan man asks them to rescue his princess, who has been kidnapped by dog-headed monsters.
 
 On rescuing the swan maiden, the party are granted wishes. Angela’s wish is to always be her own mind and spirit in her own body, in her own place and time.
 

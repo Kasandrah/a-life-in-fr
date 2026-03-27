@@ -23,12 +23,11 @@ draft: false
 | Player Characters                                                          | Non-Player Characters                                                                                  |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ | _[[Jenny-H#^59824f\|Abrahamson, David]]_                                                               |
-| _[[Dresdina-Cooper\|Cooper, Dresdina]]_                              | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                                                               |
+| _[[Dresdina-Cooper\|Cooper, Dresdina]]_                                    | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                                                               |
 | _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_  | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                                                                |
 | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  | _Wenders, [[020-The-Antediluvians#Gwyn\|Agneta]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_ |
 | _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_      |                                                                                                        |
 | _[[The-White-Magicians#Kellion O’Shea\|O'Shea, Kellion]]_                  |                                                                                                        |
-| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_          |                                                                                                        |
 
 ## Highlights
 

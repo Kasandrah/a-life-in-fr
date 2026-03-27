@@ -247,23 +247,25 @@ After some minutes Levi returned through a pillar in the ruins carrying Magnus�
 
 At this point in Levi’s explanation Charles walked through the gateway in the pillar. He appeared very surprised and troubled but was distracted from his thoughts by Sarah, who had been suffering from the effects of the heat and at that moment collapsed onto the sand. Charles rushed to help her and as Sarah regained her senses a massive explosion occurred underground, driving a huge cloud of sand through the entrance and collapsing the ground several feet inwards about 500 yards from where they stood. Every one stood and stared at the sand-filled entrance to the underground chambers. Magnus could not possibly have survived the explosion and the resulting collapse of the underground caverns.
 
-Grief hit Sarah suddenly and tears welled in her eyes when she thought of Magnus dead. Megan was distraught and had to be sedated. Sarah remembered how she had felt when she had learned of Michael’s death and knew exactly what Megan was going through. She tried to comfort Megan, still not understanding how Charles had escaped just before the explosion.
+>**Player's Note:** The party decided not to bring unstable and dangerous explosives with them on the arduous journey into the desert. The GM ([[Neil-F|Neil F.]]) decided to "blow up" his primary NPC to destroy the scenario's major monster. Far too [deus ex machina](https://en.wikipedia.org/wiki/Deus_ex_machina) for me! 
 
-Levi gave Charles and Megan letters from Magnus, letters that Magnus had entrusted to Levis’ safekeeping some weeks ago. Sarah could see that Magnus’ words came as a great shock to Charles. Although she did not want to press Charles for answers at this stage, Sarah wanted to know what had happened underground. She knew the party had no explosives as they considered it too risky to carry explosives in the desert. Magnus and Charles must have found some underground and Magnus had been killed when trying to destroy the monster and her brood.
+Grief hit Sarah suddenly, and tears welled in her eyes when she thought of Magnus dead. Megan was distraught and had to be sedated. Sarah remembered how she had felt when she had learned of Michael’s death and knew exactly what Megan was going through. She tried to comfort Megan, still not understanding how Charles had escaped just before the explosion.
 
-Omar urged the party to leave the cursed place immediately as they were dangerously low on water and might not make the next well if they delayed any further. The party prepared for travel, taking with them the Sceptre of Iram and memories of a courageous man who gave his life to defeat their enemy, an enemy of mankind.
+Levi gave Charles and Megan letters from Magnus, letters that Magnus had entrusted to Levis’ safekeeping some weeks ago. Sarah could see that Magnus’ words came as a great shock to Charles. Although she did not want to press Charles for answers at this stage, Sarah wanted to know what had happened underground. She knew the party had no explosives, as they considered it too risky to carry explosives in the desert. Magnus and Charles must have found some underground, and Magnus had been killed when trying to destroy the monster and her brood.
+
+Omar urged the party to leave the cursed place immediately, as they were dangerously low on water and might not make the next well if they delayed any further. The party prepared for travel, taking with them the Sceptre of Iram and memories of a courageous man who gave his life to defeat their enemy, an enemy of mankind.
 
 ## From Iram of the Pillars to Riyadh
 
-The journey northward was harsh, an ordeal which almost destroyed the rest of the party. All the camels eventually died, as did two of Omar’s camel drivers. Heat and thirst nearly succeeded where the monsters had failed. Sarah thought it ironic that they would die in the desert after having survived Iram, Heliopolis and the demon Narlethotep himself. In her more lucid moments Sarah was fearful for Charles, he looked so gaunt and the shadow of death was in his eyes.
+The journey northward was harsh, an ordeal which almost destroyed the rest of the party. All the camels eventually died, as did two of Omar’s camel drivers. Heat and thirst nearly succeeded where the monsters had failed. Sarah thought it ironic that they would die in the desert after having survived Iram, Heliopolis, and the demon Narlethotep himself. In her more lucid moments, Sarah was fearful for Charles; he looked so gaunt and the shadow of death was in his eyes.
 
-The prospect of dying did not frighten Sarah. She was worried that she would be separated from Charles and lose him in the desert’s blinding sandstorms and blistering heat waves. He looked more insubstantial than the mirage that constantly taunted her. Sarah believed that living or dying was unimportant, what mattered to her was that they stayed together. Either they perished in the sands, or they survived to return home. The thought of being without Charles was more than she could bear.
+The prospect of dying did not frighten Sarah. She was worried that she would be separated from Charles and lose him in the desert’s blinding sandstorms and blistering heat waves. He looked more insubstantial than the mirage that constantly taunted her. Sarah believed that living or dying was unimportant; what mattered to her was that they stayed together. Either they perished in the sands, or they survived to return home. The thought of being without Charles was more than she could bear.
 
 When the delirium of heat and thirst overtook her, Sarah imagined the mirage on the horizon was a distant ocean. She could hear the cries of the seabirds and the thundering of surf on an endless shore. She could smell the salty water and feel the cool ocean breeze through her clothes. Barely knowing who she was Sarah stumbled after Charles and Omar, her one desire to reach the sea.
 
 The cries of desert scavengers circling lazily overhead attracted the attention of an Arab caravan leader whose men soon found the party. Sarah had stumbled and lay almost lifeless on the sand, unaware of Charles desperate efforts to get her moving again. Levi was almost carrying Megan and the rest of the survivors were dragging themselves along the leeward side of a large sand dune.
 
-Sarah became aware of gentle hands prying for signs of life, the cooling caress of real water being rubbed onto her face and lips and the muffled sounds of Arab voices. She followed the voices like a lifeline back to awareness of the world about her. She lived, and the feel of Charles’ arms about her told her he lived also. They had survived the nightmare of heat, thirst and sand. They would return home.
+Sarah became aware of gentle hands prying for signs of life, the cooling caress of real water being rubbed onto her face and lips and the muffled sounds of Arab voices. She followed the voices like a lifeline back to awareness of the world about her. She lived, and the feel of Charles’ arms about her told her he lived also. They had survived the nightmare of heat, thirst, and sand. They would return home.
 
 The caravan took the survivors to Riyadh, where they stayed for several days recovering from their ordeal.
 
@@ -275,7 +277,7 @@ Charles and Sarah and the others wished to return to Jerusalem and Alexandria, t
 
 As no one wanted to cross the Syrian Desert on a direct route west to Jerusalem, the party decided to travel north by train to Baghdad, through Iraq to Al-Mawsil, through the very north-eastern tip of Syria into Turkey, along the Turkish border and south into Syria and the city of Aleppo. From here the train continued on to Homs, crossed the border into Lebanon and followed the coast south through Tripoli, Beirut, Sidon and into Jerusalem.
 
-After making contact with the Coptic monks, the party travelled to the coast where they boarded a ship at Tel-Aviv and sailed to Alexandria.
+After making contact with the Coptic monks, the party travelled to the coast, where they boarded a ship at Tel-Aviv and sailed to Alexandria.
 
 ## Injuries Suffered
 

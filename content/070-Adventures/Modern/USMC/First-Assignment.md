@@ -15,3 +15,5 @@ title: First Assignment
 draft: false
 ---
 # First Assignment
+
+With Capt. Dashiel Walker - Group Chaplain, U.S. Army.

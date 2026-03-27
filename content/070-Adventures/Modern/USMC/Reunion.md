@@ -22,10 +22,10 @@ draft: false
 
 | Player Characters                                                                         | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                     | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
+| _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                        | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
 | _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[010-Modern-Characters#^b52f62\|Andrada da Silva, Milton]]_              |
 | _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[010-Modern-Characters#^6388f4\|Amado, Inspector Jorge]]_                |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                     | _[[010-Modern-Characters#^57ea6a\|Cabral, Detective Inspector Pedro]]_     |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                        | _[[010-Modern-Characters#^57ea6a\|Cabral, Detective Inspector Pedro]]_     |
 | _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
 | _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         | _[[010-Modern-Characters#^dced9c\|Lobos, Mr Heitor]]_                      |
 

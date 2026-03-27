@@ -94,7 +94,7 @@ Read [[The-Morning-After|The Morning After]] for the story of how Alex first m
 
 | Date                                 | Adventure                                          |
 | ------------------------------------ | -------------------------------------------------- |
-| 1878 December                        | [[The-Wild-West\|The Wild West]]                   |
+| ==1878 December==                        | ==[[The-Wild-West\|The Wild West]]==                   |
 | 1921 late November to 1922 end March | [[Sirens\|Sirens]]                                 |
 | 1923 August                          | [[Horse-of-the-Invisible\|Horse of the Invisible]] |
 | 1923 end August                      | [[The-Red-Witch\|The Red Witch]]                   |

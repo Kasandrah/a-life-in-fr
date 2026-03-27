@@ -15,3 +15,5 @@ title: The Madness of the Twilight Queen
 draft: false
 ---
 # The Madness of the Twilight Queen
+
+With _[[Dresdina-Cooper|Dresdina Coooper]]_ and Larabee Hosquith, Capt. Dashiel Walker, Dr. Birgit Ernestus, MD, Dr. Stephanie Parker, EPA, Kimberly Ketcham, DEA.

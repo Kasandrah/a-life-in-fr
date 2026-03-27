@@ -8,7 +8,7 @@ aat-render-enabled: true
 timelines:
   - Modern Timeline
 fc-date: 1984-05-03
-fc-end: 1984-05-04
+fc-end: 1984-05-06
 fc-category: From 1983 to 1992
 fc-display-name: The Game's Afoot, Watson
 title: The Games Afoot Watson
@@ -42,11 +42,11 @@ Begins with a reunion party for the past adventure.
 
 ## Highlights
 
-At the party, a glowing sphere materialises and announces that in 8457 humanity is threatened by an enemy who travelled back in time to 1898 and is attempting genetic alterations to the detriment of humanity’s future. The sphere changes to a 5-year-old girl who asks the group to prepare for a journey to 1898 to destroy the enemy.
+At the party, a glowing sphere materialises and announces that in 8457 humanity is threatened by an enemy who travelled back in time to 1898 and is attempting genetic alterations to the detriment of humanity’s future. The sphere changes into a 5-year-old girl who asks the group to prepare for a journey to 1898 to destroy the enemy.
 
 After extensive preparations, including Angela travelling as Andrew, the group meets in Angela’s apartment in Hyde Park. Just as Trixie begins to time warp the group, a _[[Zoran-B#^91f12c|large soldier]]_ bursts in crying, "Where’s the party?" Even though he has the wrong address, he goes with the group to 1898.
 
-Arrive in Austria on Wednesday, July 3rd 1899. Assist Sherlock Holmes, who is being attacked by the Illyrians. He is investigating the disappearances of scientist colleagues of Dr Freud. They are being kidnapped by Moreau, President of Illyria (a country that shouldn’t exist), and brother of Moriarty. Illyria manufactures advanced weapons (1915 equivalent) and has an import company in Vienna (HQ of the Masters of Midlight according to the surviving attacker).
+Arrive in Austria on **Wednesday, July 3rd 1899**. Assist Sherlock Holmes, who is being attacked by the Illyrians. He is investigating the disappearances of scientist colleagues of Dr Freud. They are being kidnapped by Moreau, President of Illyria (a country that shouldn’t exist), and brother of Moriarty. Illyria manufactures advanced weapons (1915 equivalent) and has an import company in Vienna (HQ of the Masters of Midlight according to the surviving attacker).
 
 Illyria is acting as a destabilising influence in Europe, America, and other countries. Illyria has no religion, its own money, and 1930s weapons and technology. It is working to bring the 1915 flash point closer to 1899.
 
@@ -58,7 +58,7 @@ A much-shocked group returns to the van der Linden household with evidence conne
 
 The next day the group boarded the train for the Illyrian frontier. The train is attacked by the Bosnian Liberation Army who are chased off by a trainload of Hungarian soldiers following up the line.
 
-The group arrives at a village near Castle Frankenstein. While scouting the castle the group meets a lost “princess” and her offsiders, a German and an Italian. She is not what she seems and has control over wolves and rats. She wants to retrieve her nanny, a prisoner in the castle. She can summon shamblers (lovely girl).
+The group arrives at a village near Castle Frankenstein. While scouting the castle, the group meets a lost “princess” and her offsiders, a German and an Italian. She is not what she seems and has control over wolves and rats. She wants to retrieve her nanny, a prisoner in the castle. She can summon shamblers (just a lovely girl).
 
 The group attacks the castle at night. Dave is badly hurt and Michael is injured again. Frankenstein, his monster, and the guards are dead; the slaves and prisoners are freed. The princess mind transfers into her nanny, Magda. An interesting experience.
 

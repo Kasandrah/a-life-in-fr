@@ -15,3 +15,5 @@ title: A Funny Thing Happened at Carousel 5
 draft: false
 ---
 # A Funny Thing Happened at Carousel 5
+
+With Prof. Henry Bogdanovich, Larabee Hosquith (FBI), and Simon the Limo Driver.

@@ -15,3 +15,5 @@ title: Search and Rescue
 draft: false
 ---
 # Search and Rescue
+
+With _[[Terry-Sheridan|Major Terry Sheridan]]_.
