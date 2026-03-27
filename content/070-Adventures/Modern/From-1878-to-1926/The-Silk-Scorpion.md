@@ -47,9 +47,9 @@ None.
 
 ## Possessions
 
-The Silk Scorpion – 120’ long and 30’ wide, mostly oak and brass fittings.
+The Silk Scorpion - 120’ long and 30’ wide, mostly oak and brass fittings.
 
-Total of 25 crew – the Captain, 3 officers, the Doctor, the Chief Engineer, 3 engineers, 16 crew members including chef, kitchen hands, bartender, stewards, nurse, sailors.
+Total of 25 crew - the Captain, 3 officers, the Doctor, the Chief Engineer, 3 engineers, 16 crew members including chef, kitchen hands, bartender, stewards, nurse, sailors.
 
 Forward atop A-Deck is the bridge, the Captain’s cabin, chart room, radio room and general stores. The stack rises up through the decks and comes out behind the bridge area.
 

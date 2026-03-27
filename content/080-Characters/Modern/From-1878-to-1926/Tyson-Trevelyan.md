@@ -15,9 +15,11 @@ draft: false
 
 Born: Delhi, India, 1890
 
-Parents: Baron Robert Trevelyan (known as "The Colonel" to his children) and Lady Amelia.  Lady Amelia died of Malaria in 1895.  The Baron remarried in 1899, to Lady Mary Northcote.
+Parents: Baron Robert Trevelyan (known as "The Colonel" to his children) and Lady Amelia.  Lady Amelia died of malaria in 1895.  The Baron remarried in 1899 to Lady Mary Northcote.
 
-Siblings: Robert, Jr (1888-1915), and Katherine (1902-)
+Siblings: Robert Jr. (1888-1915) and Katherine (1902-)
+
+## Background
 
 The Trevelyan family of Sussex has had a family Regiment since the Napoleonic Wars.  The regiment has been stationed in India since the Indian Mutiny of the Native Regiments of 1857.  Since 1870, the regiment has been stationed in the Punjabi State.  Due to the length of time spent in India, there are a number of family holdings spread through the State and in Delhi and Calcutta.
 
@@ -38,3 +40,7 @@ While we had been gone, there had been a rising number of protests against the E
 I have become a Hindu.  Whether it was an act of atonement or that I felt that this was a better way does not matter.  I had spent most of my happiest times immersed in the Punjabi culture, so I found … contentment with my choice.  My stepmother has refused to accept my choice, but it is not her decision to make.  Kitty, as always, is comfortable with this.  But she has always shown an ability to easily switch from dealing with different people, whether the difference was race, religion or caste.
 
 Although I had always been with, and had been treated as a Brahmin, I found that I spent large amounts of time with the priests.  I have learnt much of Hinduism, and much of the Veda and the mythology.  I have learnt more of how to deal with people and to make assessments of people.  I have travelled much through the north of India, and can mingle quite happily anywhere there.  I have even learnt a form of self-defence that doesn't involve using guns or knives.  And I still climb to … what, get away or to help find more of myself.
+
+## Character Sheet
+
+**[[cc_tyson_trevelyan.pdf|Baron Tyson Trevelyan]], Call of Cthulhu**

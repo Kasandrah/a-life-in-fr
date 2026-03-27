@@ -9,7 +9,7 @@ timelines:
   - Modern Timeline
 fc-date: 1984-05-03
 fc-end: 1984-05-04
-fc-category: From 1878 to 1926
+fc-category: From 1983 to 1992
 fc-display-name: The Game's Afoot, Watson
 title: The Games Afoot Watson
 draft: false
@@ -18,23 +18,23 @@ draft: false
 
 Also known as **"Past Future / Future Past"**
 
-1984 May – Angela’s apartment in Hyde Park, London to 1899 July – Austria and Illyria to 1925 May – Hyde Park, London
+1984 May - Angela’s apartment in Hyde Park, London to 1899 July - Austria and Illyria to 1925 May - Hyde Park, London
 
 ## Characters
 
 | Player Characters                                        | Non-Player Characters                                  |
 | -------------------------------------------------------- | ------------------------------------------------------ |
-| _[[Zoran-B#^91f12c\|Ellis, Runyard]]_               | _Altmont, John_ – aka Sherlock Holmes                  |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_              | _Bosnaich, Lady Elizabeth_ – Illyrian Government agent |
+| _[[Zoran-B#^91f12c\|Ellis, Runyard]]_               | _Altmont, John_ - aka Sherlock Holmes                  |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_              | _Bosnaich, Lady Elizabeth_ - Illyrian Government agent |
 | _[[Angela-Taylor\|Taylor, Angela]]_                      | _[[Neil-F#^a450bf\|Davids, David]]_               |
-| _[[George-G#^c52611\|Wellington, Captain Brian]]_ | _Enwright, Joyce_ – David’s cousin, also Australian    |
+| _[[George-G#^c52611\|Wellington, Captain Brian]]_ | _Enwright, Joyce_ - David’s cousin, also Australian    |
 |                                                          | _Frankenstein, Count_                                  |
 |                                                          | _Freud, Dr Sigmund_                                    |
 |                                                          | _Hari, Mata_                                           |
 |                                                          | _van der Linden, Sally_                                |
-|                                                          | _Moreau, Dr_ – brother of Moriarity                    |
+|                                                          | _Moreau, Dr_ - brother of Moriarity                    |
 |                                                          | _Nemo, Captain_                                        |
-|                                                          | _Trixie_ – a glowing sphere                            |
+|                                                          | _Trixie_ - a glowing sphere                            |
 
 ## Involvement
 

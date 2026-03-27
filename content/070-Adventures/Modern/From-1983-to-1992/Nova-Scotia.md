@@ -5,6 +5,11 @@ tags:
   - modern
 title: Nova Scotia
 draft: false
+aat-render-enabled: false
+fc-category: From 1983 to 1992
+fc-display-name: Nova Scotia
+timelines:
+  - Modern Timeline
 ---
 # Nova Scotia
 
@@ -12,7 +17,7 @@ draft: false
 
 **Written by [[Jenny-H|Jenny H.]]**
 
-_[[Dresdina-Belle-Cooper|Dresdina]]_ was dreaming, but it was a dream quite unlike any she had ever had before. An army of people, dressed in elaborate, archaic armour, marched across a desert area. Their faces were oddly distorted, almost inhuman. They fought opponents who were even less human - tall, thin, evil-looking. Clouds of swirling colours leapt from their finger-tips.
+_[[Dresdina-Cooper|Dresdina]]_ was dreaming, but it was a dream quite unlike any she had ever had before. An army of people, dressed in elaborate, archaic armour, marched across a desert area. Their faces were oddly distorted, almost inhuman. They fought opponents who were even less human - tall, thin, evil-looking. Clouds of swirling colours leapt from their finger-tips.
 
 A voice semi-sang, semi-chanted a song:
 "Three brothers in a windy land,

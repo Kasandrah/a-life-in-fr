@@ -53,7 +53,7 @@ Travelled to Verge, investigated Retameron’s Tower but no luck, camped in the 
 
 **Skarda’s Mirror**
 
-Return to Threshold in pursuit of the evil magician Skarda, kidnapped and taken into his mirror and held in the dungeon. Escape with Retameron and Halia, organize a slave revolt and escape the mirror world.
+Return to Threshold in pursuit of the evil magician Skarda, kidnapped and taken into his mirror and held in the dungeon. Escape with Retameron and Halia, organise a slave revolt and escape the mirror world.
 
 ### Loshdain 27
 
@@ -63,7 +63,7 @@ Hunting lodge of Duke Stefan Karameikos III, 25 miles west of Specularum. Rescue
 
 **The Veiled Society**
 
-Arrive in Specularum – the Mirror City.
+Arrive in Specularum - the Mirror City.
 
 ### Gromdain 9
 
@@ -85,7 +85,7 @@ Arrive at Elwyn’s Sanctuary, 20 miles northwest of Penhaligon.
 
 ### Moldain 11
 
-Arrive Tarnskeep outside of Threshold. Baron Sherlane raises Vlad, Yakov, and Marcus from the dead.
+Arrive at Tarnskeep outside of Threshold. Baron Sherlane raises _[[Vlad|Vlad]]_, _[[Yakov|Yakov]]_, and _Marcus_ from the dead.
 
 ### Loshdain 13
 
@@ -109,7 +109,7 @@ Meet Cassius Longinus, a fighter and ex-lieutenant of the Duke’s Guard, in the
 
 ### Moldain 18
 
-Journey south along the Duke’s Road to Specularum. Reach Krakatos ruins by nightfall and stay overnight. During the night, Petra (an Immortal) visited in a dream (incorporeal form, Lawful, Time – clerics must be Lawful or Neutral). Petra was a high-level warrior-cleric, queen of Krakatos and Halav’s co-ruler.
+Journey south along the Duke’s Road to Specularum. Reach Krakatos ruins by nightfall and stay overnight. During the night, Petra (an Immortal) visited in a dream (incorporeal form, Lawful, Time - clerics must be Lawful or Neutral). Petra was a high-level warrior-cleric, queen of Krakatos and Halav’s co-ruler.
 
 Dream is of Krakatos alive with people as it was 2,000 years ago (not in ruins). The warrior queen gallops in with her forces after defeating gnollish attackers. Gathers the party to her great hall and amidst the celebrations tells them of the threat in their own time.
 

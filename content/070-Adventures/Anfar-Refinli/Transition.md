@@ -53,7 +53,7 @@ Tintagel bowed stiffly. But Voklaynn knew that adverse comments about his Soul-B
 
 Anwyn bowed. “Might I be so favoured as to enquire how a Power has a friend who lives in the Other Lands?”
 
-“You may,” Mabhan said. “And I will be proud indeed to tell you and to so help spread his fame. He is a Hero … or there are some who say he is still only a Hero incipient. His name is Kaulosse Ben and he not only succoured me and secured my release from torture, but also healed – saving the life of the Hero-Power Karsus, who is a brother of Ben’s – and Lan’s and Melitha’s – Race-Father Tolek.”
+“You may,” Mabhan said. “And I will be proud indeed to tell you and to so help spread his fame. He is a Hero … or there are some who say he is still only a Hero incipient. His name is Kaulosse Ben and he not only succoured me and secured my release from torture, but also healed - saving the life of the Hero-Power Karsus, who is a brother of Ben’s - and Lan’s and Melitha’s - Race-Father Tolek.”
 
 “Ben lives at one of your…” he gestured in Lan’s and Melitha’s direction “cities that lie south of here on the coast. On the Other Side, of course. I don’t know what its name is. But it was once a settlement of the Thelessan. He owns an inn named the Harp and Hearth. No doubt many in the town will know it.” Siobhan shook her head slightly but looked at Mabhan with a tolerant smile. Then she mouthed “Lorn Borsofa” so that Lan at least could see it.
 
@@ -119,13 +119,13 @@ Mabhan relaxed. “Sorry,” he said, insincerely. “But it was a victory that 
 
 “As to the Doorway I was speaking of,” Mabhan went on. “It is within the Guard of one akin to you, Anwyn. He is,” he thought briefly.
 
-“He is known as Nismayne, and his – what is it you lot say? His Soul is Marim, who is of the Queens of the Beneath Mountains.”
+“He is known as Nismayne, and his - what is it you lot say? His Soul is Marim, who is of the Queens of the Beneath Mountains.”
 
 “Nismayne!” Anwyn exclaimed in sudden delight. “So his Guard is near here!” He turned to Voklaynn. “He was the great friend of my younger days but found his Soul long before you claimed me. They together took the Fourth Choice,” he revealed sadly.
 
 “It was truly hard, for she has a brother to whom she is devoted, even still, after the Choice.” Then he brightened once more. Here was never a man who could hide his emotions!
 
-“I think I will explain to him – them – the Sixth Choice!”
+“I think I will explain to him - them - the Sixth Choice!”
 
 “And of the Seventh then, and then the Eighth?” Voklaynn enquired slyly.
 

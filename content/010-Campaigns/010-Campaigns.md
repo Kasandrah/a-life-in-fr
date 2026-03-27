@@ -6,7 +6,7 @@ draft: false
 ---
 # Campaigns  
   
-A campaign is a series of linked adventures undertaken by a group of characters, a party, to achieve specific objectives – i.e. to obtain riches, to defeat hordes of monsters, to grow in experience and skills, and to change the world they live in for the better.
+A campaign is a series of linked adventures undertaken by a group of characters, a party, to achieve specific objectives - i.e. to obtain riches, to defeat hordes of monsters, to grow in experience and skills, and to change the world they live in for the better.
 
 # Contents
 
@@ -87,7 +87,7 @@ Call of Cthulhu is a role-playing game based on the horror and consequential ins
 
 I preferred the latter two eras, although we played the occasional game set in the late 1800s. These games involved the use of gates or spells so that 1920s or 1990s PCs could time travel, sometimes to alternate Earths where different histories had led to interesting results.
 
-[[050-Modern#From 1878 to 1926|From 1878 to 1926]] – and – [[050-Modern#From 1983 to 1992|From 1983 to 1992]].
+[[050-Modern#From 1878 to 1926|From 1878 to 1926]] - and - [[050-Modern#From 1983 to 1992|From 1983 to 1992]].
 
 ---
 
@@ -135,7 +135,7 @@ These campaigns occurred in different spaces and times than the above Earth-base
 
 **Dungeons & Dragons**
 
-After decades of playing a variety of role-playing games, I’ve settled on Dungeons & Dragons – a classic game in every sense of the word. We play the [5.5 edition](https://www.dndbeyond.com/sources/dnd/br-2024?&icid_medium=organic&icid_source=editorial&icid_campaign=dnd_free_rules_2024&icid_content=article_754). My [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign is set in [Mystara](http://pandius.com/).
+After decades of playing a variety of role-playing games, I’ve settled on Dungeons & Dragons - a classic game in every sense of the word. We play the [5.5 edition](https://www.dndbeyond.com/sources/dnd/br-2024?&icid_medium=organic&icid_source=editorial&icid_campaign=dnd_free_rules_2024&icid_content=article_754). My [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign is set in [Mystara](http://pandius.com/).
 
 ## Star Wars
 

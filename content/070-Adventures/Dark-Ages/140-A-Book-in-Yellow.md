@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: A Book in Yellow
 draft: false
+aat-render-enabled: false
 ---
 # A Book in Yellow
 
@@ -21,6 +22,6 @@ Rafi returns from his investigations and tells us that the strange building just
 
 As the twelfth hour approaches, we’re told to go back inside quickly. Everyone does so, and we see that all the dancers from outside are also inside, being absolutely still and absolutely silent. Waiting a few moments doing nothing can’t hurt us, and I’m getting a feeling that something is going to happen. I can sense the anticipation in everyone around us like I could taste it. At the twelfth stroke of the bell, we are all standing silently when a scream comes from down the hall. Moving quietly towards where it came from, we enter a library in which is a circle of partiers. In the middle of the circle is someone in black, sinister clothing. Someone with a mask on, but a mask that is much less gaudy than anyone else’s. Everyone around this figure is frozen in terror, you can smell them as they try not to do anything to attract it’s attention. Rafi couldn’t pass through the doorway, while I couldn’t make more than a few steps into the room, but Monico kept walking on. I opened my sixth sense to the being and felt a mental slap which threw me through the doorway, the doors of the room across the hall and straight out the window on the far-side of that room onto the balcony outside. Trust me when I tell you that really hurts.
 
-Monico told me afterwards that It asked him whether he liked the library. It showed him a few of the books … not by reaching out an arm to show them, but the books slid out by themselves and then back in. By the time I have come back to the doorway, It is pointing out the qualities of the covers. Hmm, I guess this was a realm where the guise – the … the seeming is what was important, not the content. It looked straight at me and I felt a dread that I had never felt before. I couldn’t even think to praise Allah. Then It focused on Monico and picked out a book and gave it to Monico, who thanked Him as quickly as possible, and we then fled left. Rafi bolted, I walked quickly behind him and Monico followed me.
+Monico told me afterwards that It asked him whether he liked the library. It showed him a few of the books … not by reaching out an arm to show them, but the books slid out by themselves and then back in. By the time I have come back to the doorway, It is pointing out the qualities of the covers. Hmm, I guess this was a realm where the guise - the … the seeming is what was important, not the content. It looked straight at me and I felt a dread that I had never felt before. I couldn’t even think to praise Allah. Then It focused on Monico and picked out a book and gave it to Monico, who thanked Him as quickly as possible, and we then fled left. Rafi bolted, I walked quickly behind him and Monico followed me.
 
 When we came through, Rollon and the guards were still ready for anything to come through the mirror as they had when we left. They were relaxing as we came through, that is, until Monico stepped through with the book.

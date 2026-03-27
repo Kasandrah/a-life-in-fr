@@ -8,6 +8,10 @@ draft: false
 ---
 # Dreamlands
 
+![[dl_lesser_known_dreamlands.webp]]
+
+**Lesser-Known Dreamlands**
+
 ![[dl_well_known_dreamlands.webp]]
 
-**The Well-Known Dreamlands**
+**Well-Known Dreamlands**

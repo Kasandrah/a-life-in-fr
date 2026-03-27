@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1996-11-13
+fc-end: 1996-11-27
+fc-category: USMC vs "What the … ?"
+fc-display-name: Illegal Aliens
 title: Illegal Aliens
 draft: false
 ---

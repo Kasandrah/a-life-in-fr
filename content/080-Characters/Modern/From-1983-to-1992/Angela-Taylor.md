@@ -20,7 +20,7 @@ draft: false
 | _Height / weight:_ | 5 feet 7 inches tall / 147 pounds                                        |
 | _Voice:_           | Soprano (soft and high speaking voice)                                   |
 | _Perfume:_         | Yves Saint Laurent’s "Opium"                                             |
-| _Born:_            | 6th April 1959 in London, Great Britain – British                        |
+| _Born:_            | 6th April 1959 in London, Great Britain - British                        |
 | _Birth sign:_      | Aries                                                                    |
 | _Birth stones:_    | Diamonds                                                                 |
 | _Birth flowers:_   | Sweet Pea and Daisy                                                      |
@@ -137,7 +137,7 @@ Angela started off as a Call of Cthulhu character for whom I used [[Neil-F|Neil 
 
 ![[cc_angela_taylor.pdf]]
 
-**Angela Taylor, D20 Modern PCGen**
+**Angela Taylor, D20 Modern, PCGen**
 
 ### The Dhole's House
 

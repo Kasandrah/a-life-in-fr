@@ -30,7 +30,7 @@ draft: false
 
 ## Appearance
 
-Charles is very attractive – tall with dark curly hair and dark brown eyes and a mouth that curls upward on one side when he’s amused.  He likes to spend a good deal of money on his clothes and is always particularly well dressed.
+Charles is very attractive - tall with dark curly hair and dark brown eyes and a mouth that curls upward on one side when he’s amused.  He likes to spend a good deal of money on his clothes and is always particularly well dressed.
 
 ## Interests
 

@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: A Circle Re-Consecrated
 draft: false
+aat-render-enabled: false
 ---
 # A Circle Re-Consecrated
 

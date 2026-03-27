@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1996-10-20
+fc-end: 1996-10-30
+fc-category: USMC vs "What the … ?"
+fc-display-name: Crystal Eyes
 title: Crystal Eyes
 draft: false
 ---

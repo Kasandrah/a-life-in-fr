@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: Cain Comes Calling
 draft: false
+aat-render-enabled: false
 ---
 # Cain Comes Calling
 
@@ -149,7 +150,7 @@ I know that he is like the rabbit looking up at the owl swooping down on him, re
 
 Calling out in that tone that all mothers use, she summons Cain. And, as most children do, Cain shuffles into the hall in obvious reluctance but with no choice. Quiet words are spoken and she brings him firmly into her embrace, and slowly disappears as she looks over her shoulder at Lillane. Leaving us all to pick up the pieces, and put things back to rights.
 
-Juan Carlos and his companion, “Julio” return to Saragossa, without the Dominicans and the rest of their retinue who perished in the conflict with the forces of evil – well, an evil. Gwyn and I escorted Illisander back to his realm after a little discussion on the realities of adventures and how parents consider them. I do think he was tremendously brave, and I appreciate all that he did, but it is a story that would not be good for anyone if it reached the ears of Queen Voklaynn. On our return, I joined in with Lucio’s task of rebuilding the castle and felt proud when Lucio accepted some of my architectural ideas and implemented them.
+Juan Carlos and his companion, “Julio” return to Saragossa, without the Dominicans and the rest of their retinue who perished in the conflict with the forces of evil - well, an evil. Gwyn and I escorted Illisander back to his realm after a little discussion on the realities of adventures and how parents consider them. I do think he was tremendously brave, and I appreciate all that he did, but it is a story that would not be good for anyone if it reached the ears of Queen Voklaynn. On our return, I joined in with Lucio’s task of rebuilding the castle and felt proud when Lucio accepted some of my architectural ideas and implemented them.
 
 Another situation was concerning all our servants and staff. All the staff had been put through strange and dangerous circumstances where they could do nothing but suffer. When a choice was offered to them to either stay or go to other castles where equal or better positions would be found for them, I am a little surprised, but gratified, that most wanted to stay. For those of the castle retinue that had been made part of the Family, it was deemed that the responsibility for their “upkeep” should be shared amongst us.
 

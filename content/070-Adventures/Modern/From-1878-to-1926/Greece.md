@@ -43,7 +43,7 @@ Two days in Palermo, Sicily to visit Diana’s relatives (on the Vincenzo side).
 
 David proposed to Diana on the Parthenon by moonlight and gave her an engagement ring the next day.
 
-Discovered alien temple complex under the monastery on Chios.  A serpent man was looting the temple via a magic compass. Harassed by Germans (plus a man called “Ohio” who David knew).
+Discovered an alien temple complex under the monastery on Chios.  A serpent-man with a magic compass was looting the temple. Harassed by Germans (plus a man called “Ohio” who David knew).
 
 ## Injuries
 
@@ -55,7 +55,7 @@ Crossbow with bolts and a maintenance kit
 
 12-gauge shotgun, hammerless, self-ejecting
 
-Sighted rifle, bolt action, high-velocity Lee Enfield
+Sighted rifle, bolt-action, high-velocity Lee Enfield
 
 Gun maintenance kit
 
@@ -69,4 +69,4 @@ Railway guide
 
 Hiking boots and a backpack
 
-1300s Italian history of Aegean islands with a map of Chios and Palio Castro
+1300s Italian history of the Aegean islands with a map of Chios and Palio Castro

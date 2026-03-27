@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: Templars in Saragossa
 draft: false
+aat-render-enabled: false
 ---
 # Templars in Saragossa
 
@@ -31,7 +32,7 @@ Gwyn leaps at this news, and she goes to investigate this. Converting to her owl
 
 Entering the mosque, I render the three guards at the bottom of the stairs unconscious. They were guarding a set of double doors leading to the palace. I swept down and Sensed there was no living creatures on the other side of the doors. Filled with confidence, I opened the doors and entered a hallway, which led to a series of private rooms. Unfortunately, there before me was a guardian demon. As much as Father had been teaching me, I knew nothing of such a dog-like demon, but this confirmed that there was a mage here. I thought to try my Sense power against it but I could not. I’m ashamed to say that the last thought I had was an overwhelming urge to flee home.
 
-I was next aware as dawn was approaching and I found myself on a hillside that I recognized was halfway back to Sadaba. I Sensed no human hovel nearby, so I make-do with a cave which is, thankfully, deep enough for me to be out of the sun. Later, I managed to work out what had happened. I had … allowed myself to … panic. I changed to my Falcon form, and flew away. However, the demon could still sense me and chased me. The demon had charged through the door on the balcony and (literally) ploughed through the grounds and the fountain, until it smashed resoundingly into the wall. The demon itself was not seen, but the debris was – leading to more rumours of Templar devilry.
+I was next aware as dawn was approaching and I found myself on a hillside that I recognized was halfway back to Sadaba. I Sensed no human hovel nearby, so I make-do with a cave which is, thankfully, deep enough for me to be out of the sun. Later, I managed to work out what had happened. I had … allowed myself to … panic. I changed to my Falcon form, and flew away. However, the demon could still sense me and chased me. The demon had charged through the door on the balcony and (literally) ploughed through the grounds and the fountain, until it smashed resoundingly into the wall. The demon itself was not seen, but the debris was - leading to more rumours of Templar devilry.
 
 Meanwhile, Gwyn had flown out to find that the boxes were full of dead bodies, which were then buried in shallow graves. On her return, she learns of the disturbance at the palace. While Monico goes to the Inquisitor as a local peasant and tells of "… strange things happening at the Templar’s palace" and receives payment for it, Gwyn has gone to investigate the palace, again in her Owl-form. She sees the mage, who is a smallish, bearded man, assessing the damage. The Templar leader wants something else to guard them as "It" caused all this attention. But the "scholar" wants to know what "It" was chasing.
 

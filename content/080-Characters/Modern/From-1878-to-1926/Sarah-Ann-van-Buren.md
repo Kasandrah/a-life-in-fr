@@ -74,7 +74,7 @@ They divide their time between homes in London, Boston, and Long Island, New Yor
 
 ## Education
 
-Primary – 1904 to 1909, Secondary – 1910 to 1915.
+Primary - 1904 to 1909, Secondary - 1910 to 1915.
 
 Bachelor of Architectural Studies (B. Arch. St.)
 
@@ -86,15 +86,15 @@ Bachelor of Architectural Studies (B. Arch. St.)
 
 Sarah is English.  Her mother’s family are descendants of Cornish shipbuilders from Falmouth (surname of “Penrose”), and of landowners from eastern Cornwall (surname of “Heale”) who made their money in tin mining.  Sarah’s Cornish grandmother, Grania Heale, is a witch, a healer with prophetic powers.
 
-“Penrose” – Cornish name meaning “top/end of the heath” local to places in Cornwall and Devon (mid and west Cornwall).
+“Penrose” - Cornish name meaning “top/end of the heath” local to places in Cornwall and Devon (mid and west Cornwall).
 
 Sarah’s father’s family has a long history of association with the Royal Navy.  They come from Plymouth (surname of “Bateman”), and from Southampton and Portsmouth (surname of “Templar”).  The men of the family joined the Royal Navy, while the women married officers and sailors.
 
-“Bateman” – occupational name meaning servant of Bate (“boatman” in Old English), in northern dialect form.  Also could be a nickname meaning “profit, gain and good husbandry”.  From Old English and Old Norse.
+“Bateman” - occupational name meaning servant of Bate (“boatman” in Old English), in northern dialect form.  Also could be a nickname meaning “profit, gain and good husbandry”.  From Old English and Old Norse.
 
 Arthur Bateman was one of the very few men of the family who did not join the Royal Navy, deciding instead that the world of banking was more attractive than a life at sea.  His father never forgave him.
 
-In early February 1858 Thomas Bateman, an older brother of Sarah’s paternal grandfather Franklin Lloyd Bateman, dredged a Celtic shield up from the Thames at Battersea.  This shield – known as the Battersea Shield – now resides in the British Museum.  It was this incident that sparked Arthur’s interest in archaeology, which is now an interest of Sarah’s as well.
+In early February 1858 Thomas Bateman, an older brother of Sarah’s paternal grandfather Franklin Lloyd Bateman, dredged a Celtic shield up from the Thames at Battersea.  This shield - known as the Battersea Shield - now resides in the British Museum.  It was this incident that sparked Arthur’s interest in archaeology, which is now an interest of Sarah’s as well.
 
 ## Timeline
 

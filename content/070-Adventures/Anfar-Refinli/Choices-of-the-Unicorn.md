@@ -40,7 +40,7 @@ The choice of Taliesin and Bouvaughn (a Fae).
 
 ### Fourth Choice
 
-As noted. But no love is not at all hard for a unicorn, as they are only able to commit to love one person in their life. But the lover will be unable to love anyone else. Even friendships will perforce be shallow and grey – dull imitations of the blazing love between the Beloved and “her” unicorn.
+As noted. But no love is not at all hard for a unicorn, as they are only able to commit to love one person in their life. But the lover will be unable to love anyone else. Even friendships will perforce be shallow and grey - dull imitations of the blazing love between the Beloved and “her” unicorn.
 
 The choice of Nismayne and Marim.
 
@@ -58,7 +58,7 @@ For his part, the unicorn seeks a “completion” of himself. Unicorns are neve
 
 As unicorns are virgins until they Choose, and sometimes still well after or forever, so must their choice be virginal. How many potential Beloveds have never been found because they have lost their virginity before the unicorn found them?
 
-Who / what the Guard chooses is like a jigsaw puzzle piece to the “partial edges” of his Spirit. The soul of the Chosen / Beloved will fit the unicorn’s incomplete soul – but how well it fits will depend on the perceived haste/urgency the unicorn feels “to be complete”. The more searching he does, the generally better chance he has to find a more exact match in his Beloved. Some are very lucky, and find their Beloved very soon; others search for centuries.
+Who / what the Guard chooses is like a jigsaw puzzle piece to the “partial edges” of his Spirit. The soul of the Chosen / Beloved will fit the unicorn’s incomplete soul - but how well it fits will depend on the perceived haste/urgency the unicorn feels “to be complete”. The more searching he does, the generally better chance he has to find a more exact match in his Beloved. Some are very lucky, and find their Beloved very soon; others search for centuries.
 
 Tintagel and Voklaynn added the Sixth Choice:
 

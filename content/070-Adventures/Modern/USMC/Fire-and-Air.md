@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1997-02-05
+fc-end: 1997-02-15
+fc-category: USMC vs "What the … ?"
+fc-display-name: Fire and Air
 title: Fire and Air
 draft: false
 ---
@@ -13,29 +20,29 @@ draft: false
 
 ## Characters
 
-| Player Characters                                                                                                  | Non-Player Characters                                                      |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                                              | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_                          | _[[010-Modern-Characters#^8067a0\|Bennett, Ambassador Lisa]]_              |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                                          | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                                              |                                                                            |
-| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                                              |                                                                            |
-| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                                                  |                                                                            |
-| _Wenders, [[020-The-Antediluvians#Gwyn\|Agnetha]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_, guest PCs |                                                                            |
+| Player Characters                                                                                                 | Non-Player Characters                                                      |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                                                | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
+| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_                         | _[[010-Modern-Characters#^8067a0\|Bennett, Ambassador Lisa]]_              |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                                         | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                                                |                                                                            |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                                             |                                                                            |
+| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                                                 |                                                                            |
+| _Wenders, [[020-The-Antediluvians#Gwyn\|Agneta]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_, guest PCs |                                                                            |
 
 >**GM's Note:** Wallace is replaced by Ambassador Lisa Bennett, a highly competent career diplomat in her mid-forties with considerable clout in Washington circles.  Ambassador Bennett proves her mettle by delaying for over a week Dean’s order for the party and the da Silvas to join him in Washington immediately.
 >
 >During the delay Sgt. Anderson reports strange goings-on at the industrial park.  David and Michal have a late response to their bait (Bormann’s “Mein Kamph”) and arrange to meet the interested party for dinner at an exclusive Brasilia restaurant.  Antonio and Angela, now in Brasilia in preparation for the flight to Washington, are sent in first to establish a forward observation post.  Michal and David follow and wait at a separate table across the room from the da Silvas.
 >
->_[[020-The-Antediluvians#Gwyn|Agnetha]]_ and _[[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ arrive, Agnetha appearing somewhat distressed for no apparent reason.  Conversation over dinner is stilted; their desire for the book borders on aggressive.  Agnetha seems to recognise Antonio and vice versa.  The evening deteriorates into a farce of tragic and epic proportions.
+>_[[020-The-Antediluvians#Gwyn|Agneta]]_ and _[[020-The-Antediluvians#Owain and Juanita|Wim Wenders]]_ arrive, Agneta appearing somewhat distressed for no apparent reason.  Conversation over dinner is stilted; their desire for the book borders on aggressive.  Agneta seems to recognise Antonio and vice versa.  The evening deteriorates into a farce of tragic and epic proportions.
 >
->Angela, angry at being left out in the cold by Antonio and goaded by Agnetha, leaves the hotel in the small hours of the morning.  The next thing Antonio knows is that she had an accident driving back to Sao Paulo and has been seriously injured.  On arrival at the hospital, he is informed that she has died under somewhat unusual circumstances.  The party is shocked and tries to comfort Antonio.
+>Angela, angry at being left out in the cold by Antonio and goaded by Agneta, leaves the hotel in the small hours of the morning.  The next thing Antonio knows is that she had an accident driving back to Sao Paulo and has been seriously injured.  On arrival at the hospital, he is informed that she has died under somewhat unusual circumstances.  The party is shocked and tries to comfort Antonio.
 >
 >A fire starts in the morgue and rapidly grows into an out-of-control inferno.  The hospital staff marshals all reserves to evacuate the patients, while Antonio heads for the morgue.  A miraculous wind turns the fire on itself and puts it out.  Antonio and Goldfarb search the ruins of the morgue for Angela.  Goldfarb doesn’t know why he expects to find Angela, but find her he does, alive and untouched in one of the few morgue drawers remaining intact.  At Angela’s request, he closes the drawer and calls Antonio over.
 >
 >Antonio gathers Angela, still in a body bag, up in his arms and carries her out of the morgue, through seemingly oblivious firemen and rescue workers to a secluded lane at the back of the hospital.  Here Goldfarb returns with a car to take them back to their hotel.
 >
->The following morning explanations are sought.  Abdiel makes his first appearance, rattling the party and seriously impairing the da Silvas relationship with the USMC and David and Michal.  An uneasy truce is established with the Wenders, who are really, according to Antonio, a powerful vampire named Gwyn and her ghoul Owain with urgent business in Antarctica.  Something about a missing sword.  This and the suspected future summoning of an Outer God serve as common ground for Antonio and Agnetha (or Gwyn), despite a long history as antagonists.
+>The following morning explanations are sought.  Abdiel makes his first appearance, rattling the party and seriously impairing the da Silvas relationship with the USMC and David and Michal.  An uneasy truce is established with the Wenders, who are really, according to Antonio, a powerful vampire named Gwyn and her ghoul Owain with urgent business in Antarctica.  Something about a missing sword.  This and the suspected future summoning of an Outer God serve as common ground for Antonio and Agneta (or Gwyn), despite a long history as antagonists.
 >
 >The still human members of the party can only watch and wonder.  Ilsenburg builds a detailed profile of Antonio/Abdiel and, via the Embassy’s intelligence staff, sets the resources of the National Security Council on a search for others of Antonio’s kind.
 >
@@ -55,11 +62,11 @@ The new Ambassador impressed the marines by successfully mounting delaying tacti
 
 While this was going on, they found an ad in the national newspaper obliquely referring to the copy of Mien Kamph that they had offered for sale earlier.  With delays, it was decided this was worth following up.  They did the usual trick of renting a room in a swish hotel and then made a call, arranging for David, Michal and Goldfarb to meet them for dinner.
 
-Angela and Antonio were sent early to act as lookout and backup.  A couple arrived, introducing themselves as Wim and Agneta Wenders.  They looked at the book and were keen to buy it.  David and Michal noticed Agneta seemed quite nervous, not eating and fidgeting with the cutlery.  Wim did most of the talking.  They then realised that she and Antonio had recognised each other.  Angela and Wim were unaware of this and confused by their respective behaviour.
+Angela and Antonio were sent early to act as lookouts and backup.  A couple arrived, introducing themselves as Wim and Agneta Wenders.  They looked at the book and were keen to buy it.  David and Michal noticed Agneta seemed quite nervous, not eating and fidgeting with the cutlery.  Wim did most of the talking.  They then realised that she and Antonio had recognised each other.  Angela and Wim were unaware of this and confused by their respective behaviour.
 
->**GM's Note:** I'd allowed one player to run two of their powerful characters from another campaign, Agneta and Wim, with everyone else's "mere mortal" characters in this much lower-powered campaign.
+>**GM's Note:** I allowed one player to use their powerful supernatural characters, _[[020-The-Antediluvians#Gwyn|Agneta]]_ and _[[020-The-Antediluvians#Owain and Juanita|Wim Wenders]]_ from [[040-Dark-Ages|Dark Ages]], while everyone else played mortal humans. My blunder created an unsatisfactory in-game experience for my other players, who all voiced serious concerns about the power imbalance and its detrimental impact on my game.
 >
->A poor decision on my part led to very unsatisfactory in-game experiences for the other players, who all voiced serious concerns about the imbalance and its detrimental impact on the game.  They weren't there to be bit players for a couple of characters who could have dealt with the bad guys easily all on their own.
+>They felt their characters were bit players for a couple who could have dealt with the bad guys all on their own. My other players also objected to one player running four characters: Agneta, Wim, _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_, and _[[Jenny-H#^59824f|David Abrahamson]]_. My blatant favouritism had soured the game for my other players and turned out to be the beginning of [[The-Dark-Circle#^714712|the end]] for my USMC campaign.
 
 David asked the couple to come back the next day.  He had been disturbed by Wim's detailed knowledge of the war period.  The couple was not happy with this, insistent that they were interested in buying the book straight away, but eventually left.
 

@@ -21,15 +21,15 @@ Abdiel was also mentioned during the Middle Ages in the mystical Jewish work “
 
 # Incarnations
 
-## [[010-One-Night-Plays#3000 BC – A Fire in Memphis|3000 BC – A Fire in Memphis]]
+## [[010-One-Night-Plays#3000 BC - A Fire in Memphis|3000 BC - A Fire in Memphis]]
 
 Priestess of Isis, Memphis, Egypt
 
-## [[010-One-Night-Plays#387 AD – Macaw Feathers and Yax Spots|387 AD – Macaw Feathers and Yax Spots]]
+## [[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots|387 AD - Macaw Feathers and Yax Spots]]
 
 Shaman-Priestess, City-State of Copan (Honduras, Central America)
 
-## [[010-One-Night-Plays#1189 AD – A Castle in Spain|1189 AD – A Castle in Spain]]
+## [[010-One-Night-Plays#1189 AD - A Castle in Spain|1189 AD - A Castle in Spain]]
 
 Don Juan Carlos Vega y Galino, Knight Templar, Sadaba, Spain. ^f5cf41
 

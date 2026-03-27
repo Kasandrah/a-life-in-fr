@@ -16,15 +16,15 @@ draft: false
 ---
 # Snake Temple
 
-1922 December – New York
+1922 December - New York
 
 ## Characters
 
 | Player Characters                                       | Non-Player Characters                                                                                     |
 | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| _[[Charles-van-Buren\|van Buren, Charles]]_             | _McWaters, Maisy_ – Allan’s secretary                                                                     |
+| _[[Charles-van-Buren\|van Buren, Charles]]_             | _McWaters, Maisy_ - Allan’s secretary                                                                     |
 | _[[Barry-L#^fba145\|Dare, Allan T.]]_                   | _Odj-strynj, Vladimir Radu_                                                                               |
-| _[[Lisa-Ellen-Manchester\|Manchester, Dr. Lisa Ellen]]_ | _[Spilsbury, Sir Bernard](https://en.wikipedia.org/wiki/Bernard_Spilsbury)_ – English expert in forensics |
+| _[[Lisa-Ellen-Manchester\|Manchester, Dr. Lisa Ellen]]_ | _[Spilsbury, Sir Bernard](https://en.wikipedia.org/wiki/Bernard_Spilsbury)_ - English expert in forensics |
 | _[[George-G#^b2f17d\|Rycroft, Scotty]]_                 |                                                                                                           |
 | _[[Jenny-H#^7964ca\|Sargon, Chantella]]_                |                                                                                                           |
 

@@ -12,11 +12,11 @@ draft: false
 
 **Written by [[Jenny-H|Jenny H.]] (Kate)**
 
-METAMORPHOSIS – FOX SPIRIT
+METAMORPHOSIS - FOX SPIRIT
 
-TYPE – Material Moon
+TYPE - Material Moon
 
-AIMS – Fox spirits are completely self-indulgent. Nephilim society and aims are almost irrelevant to them. Their aim is to live life to the fullest, squeezing the last drop of enjoyment out of each and every situation. Their joy is in the moment, so they are unlikely to indulge in artificial enhancements, such as alcohol or other drugs. They are not cruel and it is far preferable that others are also caught up in the enjoyment of the moment. Foxes hate causing pain or seeing it in others, but are not altruistic enough to go out of their way to solve others’ problems on a long-term basis. They do, however, indulge in spontaneous acts of generosity.
+AIMS - Fox spirits are completely self-indulgent. Nephilim society and aims are almost irrelevant to them. Their aim is to live life to the fullest, squeezing the last drop of enjoyment out of each and every situation. Their joy is in the moment, so they are unlikely to indulge in artificial enhancements, such as alcohol or other drugs. They are not cruel and it is far preferable that others are also caught up in the enjoyment of the moment. Foxes hate causing pain or seeing it in others, but are not altruistic enough to go out of their way to solve others’ problems on a long-term basis. They do, however, indulge in spontaneous acts of generosity.
 
 MOTTOS:
 
@@ -24,15 +24,15 @@ MOTTOS:
 “Practice random acts of kindness and senseless beauty.”
 
 TRAITS/TRANSFORMATIONS  
-_Indulgent_ – Foxes revel in male attention and as a Fox’s indulgence increases, it develops a pleasant musk-like scent, which acts as a pheromone, attracting more males. As the scent becomes stronger, it also attracts the attention of dogs, which dislike them intensely. Both traits make it difficult for a Fox to blend into the background, even if they were inclined to.
+_Indulgent_ - Foxes revel in male attention and as a Fox’s indulgence increases, it develops a pleasant musk-like scent, which acts as a pheromone, attracting more males. As the scent becomes stronger, it also attracts the attention of dogs, which dislike them intensely. Both traits make it difficult for a Fox to blend into the background, even if they were inclined to.
 
-_Joyous_ – Sensations are increased when a Fox learns to better understand its joy. While pain becomes more distinct to the Fox, at the same time the merest touch can bring ecstasy. Taste, smell and hearing all become clearer as well, so that a newly picked rose can bring hours of delight, while the smell of the city dump can be a tremendous ordeal.
+_Joyous_ - Sensations are increased when a Fox learns to better understand its joy. While pain becomes more distinct to the Fox, at the same time the merest touch can bring ecstasy. Taste, smell and hearing all become clearer as well, so that a newly picked rose can bring hours of delight, while the smell of the city dump can be a tremendous ordeal.
 
-_Generous_ – The generosity of a Fox creates physical warmth about it. To nearby people, it is as if they have just walked into a warm spring day. An extremely generous Fox can even warm the bitter cold of a New York winter.
+_Generous_ - The generosity of a Fox creates physical warmth about it. To nearby people, it is as if they have just walked into a warm spring day. An extremely generous Fox can even warm the bitter cold of a New York winter.
 
-_Unpredictable_ – Foxes cannot be categorised and rarely act as expected. As they become more unpredictable, their hair becomes more fur-like and redder, like a fox’s tail. The ends are distinctly white, even when freshly cut. When a Fox’s unpredictability reaches 16, she can transform herself into a fox.
+_Unpredictable_ - Foxes cannot be categorised and rarely act as expected. As they become more unpredictable, their hair becomes more fur-like and redder, like a fox’s tail. The ends are distinctly white, even when freshly cut. When a Fox’s unpredictability reaches 16, she can transform herself into a fox.
 
-_Spontaneous_ – As Foxes become less involved on a long-term basis with people, they are increasingly protected from the consequences of their activities. People they come into contact with are also caught up in the joy of the moment and don’t expect any more than what the Fox gives at that time. In addition, sexually transmitted diseases, even catching a cold from a partner, become increasingly unlikely.
+_Spontaneous_ - As Foxes become less involved on a long-term basis with people, they are increasingly protected from the consequences of their activities. People they come into contact with are also caught up in the joy of the moment and don’t expect any more than what the Fox gives at that time. In addition, sexually transmitted diseases, even catching a cold from a partner, become increasingly unlikely.
 
 ---
 
@@ -91,7 +91,7 @@ Kate has no ties to anyone, no known long term friends, no family contacts, no b
 ## Random Acts of Kindness
 
 - Gives a red rose to a sad-looking girl in the street.
-- Posts two tickets to Miami with a weekend’s hotel accommodation to a nice couple she met in hospital – a couple that never had a holiday. Tickets are in a letter stating the couple won a prize in a competition. The dates are open but must be used within six months.
+- Posts two tickets to Miami with a weekend’s hotel accommodation to a nice couple she met in hospital - a couple that never had a holiday. Tickets are in a letter stating the couple won a prize in a competition. The dates are open but must be used within six months.
 - Wants to find someone for Richard. Organizes him in a casual, almost off-hand manner to give a lift to a nice girl at the local deli.
 - Before leaving Cleveland, spends a day with the neighbour’s girl who has a school social to attend. The girl is very depressed as she isn’t terribly popular at school. Does the girl’s makeup, redoes her dress, gives her a diamond necklace and some hints on dancing. Didn’t bother to get the necklace back, so the girl’s mother may visit the house to return it.
 
@@ -99,13 +99,13 @@ Kate has no ties to anyone, no known long term friends, no family contacts, no b
 
 Kate leaves Cleveland without notice soon after she recovers from her heart attack. She travels to Zurich to recover a ring and other items from a Swiss bank.
 
-While away, Kate sends a present to _[[Nephilim-NPCs#Mark|Mark]]_ addressed to “The Angel of Death”, C/O Remy Hathaway, etc. The present was opened by US Customs and repacked with official tape all over it. Inside is a brown wooden statue of a modern “Michael” type angel dressed in normal clothes with his wings peeking out under his coat. He has a quizzical expression on his face and is examining the back of his hand. Contains an artist’s certificate and a note – “Thought of you, K.” The parcel was posted from Geneva via registered mail. Return address is Catherine de Valle, C/O Bernisch Bank, Zurich.
+While away, Kate sends a present to _[[Nephilim-NPCs#Mark|Mark]]_ addressed to “The Angel of Death”, C/O Remy Hathaway, etc. The present was opened by US Customs and repacked with official tape all over it. Inside is a brown wooden statue of a modern “Michael” type angel dressed in normal clothes with his wings peeking out under his coat. He has a quizzical expression on his face and is examining the back of his hand. Contains an artist’s certificate and a note - “Thought of you, K.” The parcel was posted from Geneva via registered mail. Return address is Catherine de Valle, C/O Bernisch Bank, Zurich.
 
 ---
 
 ## Kate and Mark
 
-Mark fascinates Kate. He’s strong, powerful, charismatic, sensual, handsome, and has great stamina – all the things she looks for in a man. He’s also the first one to ever drop her like a hot cake. It’s a novel experience.
+Mark fascinates Kate. He’s strong, powerful, charismatic, sensual, handsome, and has great stamina - all the things she looks for in a man. He’s also the first one to ever drop her like a hot cake. It’s a novel experience.
 
 Kate came back to Cleveland because she has to get him out of her system. Her memory was starting to make him the best she was ever likely to get, and that can’t be allowed to get out of hand. He can’t possibly be that good, and she refuses to let false memories sour future relationships. She needs to reassure herself that she’s still irresistible to any man she wants.
 
@@ -128,5 +128,5 @@ However, underneath this, Kate is serious. If Mark tests how far she’ll take t
 - Play hide and seek with a local child.
 - Send a nice card to Richard from a secret admirer (not in Kate’s handwriting, of course).
 - Place a single rose on Mark’s bed.
-- Investigate fire-proof clothes for James. If Kate can get the material, she’ll make them herself – something terribly trendy.
-- After a chance bit of singing advice to a stranger, Kate has joined a band – “Impressions” – as one of the two front singers. It’s a mostly girl band and they are looking for nightclub gigs. They’ll never make the top ten, but should do well. The other girl is good looking, so they should do well on that alone! Kate is making some of their stage clothes. All the band members are a bit casual and won’t turn up to practice all the time. The band is large enough that this probably won’t matter.
+- Investigate fire-proof clothes for James. If Kate can get the material, she’ll make them herself - something terribly trendy.
+- After a chance bit of singing advice to a stranger, Kate has joined a band - “Impressions” - as one of the two front singers. It’s a mostly girl band and they are looking for nightclub gigs. They’ll never make the top ten, but should do well. The other girl is good looking, so they should do well on that alone! Kate is making some of their stage clothes. All the band members are a bit casual and won’t turn up to practice all the time. The band is large enough that this probably won’t matter.

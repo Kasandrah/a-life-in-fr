@@ -22,7 +22,7 @@ _Elizabeth:_ “oath of God”, Hebrew
 | Height / weight   | 5 feet 5 inches tall / 125 pounds                                         |
 | _Voice:_          | Alto, low, soft, educated, upper-class northeastern US accent (“Harvard”) |
 | _Perfume:_        | Coco Chanel’s “Chanel No. 5” and Charles Frederick Worth’s “Dans la Nuit” |
-| _Born:_           | 17th November 1896 in Boston, Massachusetts – American                    |
+| _Born:_           | 17th November 1896 in Boston, Massachusetts - American                    |
 | _Birth sign:_     | Scorpio                                                                   |
 | _Birthstones:_    | Topaz, beryl, obsidian, ruby and sardonyx                                 |
 | _Birth flowers:_  | Wormwood                                                                  |
@@ -57,7 +57,7 @@ Diana is a frequent guest of the Boston Polo Club, the New York Yacht Club and t
 
 Diana’s chosen profession is that of a lawyer specialising in contract and company law, at which she also excels. She carries two passports; one as Maria Elizabeth Vincenzo and one as Diana Elizabeth Winthrop, a measure of the protection provided by her father after her brother Stephen died. Both passports list her as an American citizen.
 
-Memberships and interests include the Boston Public Library, Boston Library Society, American Academy of Arts and Sciences, Congregational Library, Boston Athenaeum, Massachusetts Historical Society, New England Historical Genealogical Society, Massachusetts State Library, Social Law Library, General Theological Library, Natural History Society, Boston Museum of Fine Arts (rare Oriental and Egyptian art objects), Boston Museum of Science (formerly Museum of Natural History), Peabody Museum of Archaeology and Ethnology (Harvard), New England Conservatory of Music, Boston Symphony Orchestra (regular season of concerts, spring series of popular concerts in May and June – “Boston Pops”, series of free open-air concerts in July on the Charles River Embankment).
+Memberships and interests include the Boston Public Library, Boston Library Society, American Academy of Arts and Sciences, Congregational Library, Boston Athenaeum, Massachusetts Historical Society, New England Historical Genealogical Society, Massachusetts State Library, Social Law Library, General Theological Library, Natural History Society, Boston Museum of Fine Arts (rare Oriental and Egyptian art objects), Boston Museum of Science (formerly Museum of Natural History), Peabody Museum of Archaeology and Ethnology (Harvard), New England Conservatory of Music, Boston Symphony Orchestra (regular season of concerts, spring series of popular concerts in May and June - “Boston Pops”, series of free open-air concerts in July on the Charles River Embankment).
 
 ## Personality
 
@@ -81,9 +81,9 @@ Life with Diana can be stormy but she can inject vitality into everything around
 
 Primary education at home (1903 to 1908)
 
-Roxbury Latin School (1909 to 1914) – founded 1645, oldest privately endowed secondary school
+Roxbury Latin School (1909 to 1914) - founded 1645, oldest privately endowed secondary school
 
-Harvard University (1915 to 1920) – Bachelor of Laws, Honours (LLB Hons)
+Harvard University (1915 to 1920) - Bachelor of Laws, Honours (LLB Hons)
 
 ![[cc_diana_education_table.gif]]
 
@@ -127,26 +127,26 @@ Diana stayed with her Aunt Edith and her family in England. They have a house in
 
 ### The Season
 
-January – Sandringham  
-February to July – Windsor, London  
+January - Sandringham  
+February to July - Windsor, London  
 Easter  
-May – Debutantes, photographed by Cecil Beaton for Vogue/Vanity Fair, presentation at Court to King George V and Queen Mary, had to have a sponsor known to the King and Queen, wore a white dress with an 18-inch train, tulle and three ostrich feathers on her head-dress, granted privilege of Entree (the right to enter the palace by the side door, rather than queue up outside for ages)  
-June – Ascot, Lawn Tennis Tournament, Hanover Lodge, Regent's Park  
-July – Henley Regatta  
+May - Debutantes, photographed by Cecil Beaton for Vogue/Vanity Fair, presentation at Court to King George V and Queen Mary, had to have a sponsor known to the King and Queen, wore a white dress with an 18-inch train, tulle and three ostrich feathers on her head-dress, granted privilege of Entree (the right to enter the palace by the side door, rather than queue up outside for ages)  
+June - Ascot, Lawn Tennis Tournament, Hanover Lodge, Regent's Park  
+July - Henley Regatta  
 Newmarket (Jockey Club race meetings)  
 Goodwood (golf)  
 Cowes (regatta)  
 Marlow Regatta  
 Balmoral, Scotland (grouse shooting, deer stalking)  
-August – Deauville, Riviera  
-October – London  
-November – formal dance in her honour for her 18th birthday  
+August - Deauville, Riviera  
+October - London  
+November - formal dance in her honour for her 18th birthday  
 Switzerland  
 Cannes (sun in winter)  
-Christmas – Sandringham (partridge, pheasant)  
+Christmas - Sandringham (partridge, pheasant)  
 Embassy Club, Bond Street, Cavendish Hotel (Rosa Lewis), Savoy Hotel, dance the Twinkle, Jog Trot, Vampire, sip China tea and eat cucumber sandwiches. Nightclubs were the Night Light, Kit Kat, Embassy, 43 Club (less reputable, Kate Meyrick, dope smuggling), Manhattan, Silver Slipper (Regent Street).
 
-Fancy dress parties and balls (Strauss Ball), Lady Londonderry and the political salon, Ivor Novello on stage, movies (Hammersmith Odeon, Roxy – don’t dress as formally as for the theatre), country weekends at large country houses (from Saturday to Monday), Eaton and Harrow Match, Royal Garden Party, fox hunting.
+Fancy dress parties and balls (Strauss Ball), Lady Londonderry and the political salon, Ivor Novello on stage, movies (Hammersmith Odeon, Roxy - don’t dress as formally as for the theatre), country weekends at large country houses (from Saturday to Monday), Eaton and Harrow Match, Royal Garden Party, fox hunting.
 
 ### 20th March to 30th April 1922
 
@@ -156,7 +156,7 @@ A first-class ticket on the train to Tilbury Docks, Southampton then Peninsular 
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1922 May 22nd to June 23rd                                             | [[Boker-Hall\|Boker Hall]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 1923 December 11th to 19th                                             | [[Moon-Dream\|Moon Dream]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 1923 December to 1924 June – Adelaide, Melbourne and Sydney, Australia | Investigations into the Bokers with MacGregor Monteith. Visits to Melbourne and Sydney.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 1923 December to 1924 June - Adelaide, Melbourne and Sydney, Australia | Investigations into the Bokers with MacGregor Monteith. Visits to Melbourne and Sydney.                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 1924 June to 1925 June                                                 | Touring with Lt. Colonel John Carey. From Sydney to New Guinea (Port Moresby), Celebes, Borneo, Java, Sumatra, Singapore, Bangkok, Mandalay (Siam), Assam, Bengal, Bihar, United Provinces, Rajputana, Punjab, Kashmir, Afghanistan, Persia, Turkey, Syria, Palestine, Egypt, Greece, Italy, France, Spain and return to England. Invited to the wedding of Sir Jonathon Ravenwood to Jillian Frances, 24th January 1925 in County Merionethshire (Wales) at the Chapel of Ravenwood House, but couldn’t make it. |
 | 1925 June to July                                                      | [[Greece\|Greece]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 1926 January                                                           | [[Mormon-Dreams\|Mormon Dreams]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -174,12 +174,12 @@ Colt 45 automatic
 8 gauge shotgun  
 12-gauge shotgun, hammerless, self-ejecting  
 20 gauge pump shotgun  
-Sighted rifle, bolt action, high-velocity Lee Enfield  
+Sighted rifle, bolt-action, high-velocity Lee Enfield  
 Gun maintenance kit  
 Crossbow with bolts and a maintenance kit (modern)  
-Heavy crossbow and bolts (medieval) – from the [[080-Dreamlands|Dreamlands]]  
-Javelin and spear-thrower – from the Dreamlands  
-Longbow and arrows – from the Dreamlands  
+Heavy crossbow and bolts (medieval) - from the [[080-Dreamlands|Dreamlands]]  
+Javelin and spear-thrower - from the Dreamlands  
+Longbow and arrows - from the Dreamlands  
 Knife
 
 ### Money
@@ -188,26 +188,26 @@ Gold coins, jewels
 
 ### Other
 
-Tinderbox, oil and lantern  
-Oilskin, leather jerkin, fitted leather armour – from the Dreamlands  
-Medieval hunting clothes and woollen cloak – from the Dreamlands  
+Tinderbox, oil, and lantern  
+Oilskin, leather jerkin, fitted leather armour - from the Dreamlands  
+Medieval hunting clothes and woollen cloak - from the Dreamlands  
 Compass  
 Field glasses  
-Greek phrasebook  
+Greek phrase book  
 Railway guide  
-Hiking boots and backpack  
-1300’s Italian history of Aegean islands with a map of Chios and Palio Castro
+Hiking boots and a backpack  
+1300s Italian history of Aegean islands with a map of Chios and Palio Castro
 
 ## References
 
-“Winthrop’s Boston” – Rutman, D. B., 1965, University of North Carolina Press
+“Winthrop’s Boston” - Rutman, D. B., 1965, University of North Carolina Press
 
-“The Forging of an Aristocracy – Harvard and the Boston Upper Class 1800 – 1870” – Ronald Story, Wesleyan University Press, Middletown, Connecticut, 1980
+“The Forging of an Aristocracy - Harvard and the Boston Upper Class 1800 - 1870” - Ronald Story, Wesleyan University Press, Middletown, Connecticut, 1980
 
-“The Winthrop Fleet of 1630” – Charles Edward Banks, Genealogical Publishing Co. Inc., 1976, Baltimore
+“The Winthrop Fleet of 1630” - Charles Edward Banks, Genealogical Publishing Co. Inc., 1976, Baltimore
 
-“Harvard, An Architectural History” – Bainbridge Bunting, Belknap Press of Harvard University Press, Cambridge, Mass. and London, England, 1985
+“Harvard, An Architectural History” - Bainbridge Bunting, Belknap Press of Harvard University Press, Cambridge, Mass. and London, England, 1985
 
-“The Night They Raided Minsky’s” – Rowland Barber, Simon and Schuster, 1960
+“The Night They Raided Minsky’s” - Rowland Barber, Simon and Schuster, 1960
 
-“London, The Glamour Years 1919 – 39” – Susanne Everett, Bison Books, London, England, 1985.
+“London, The Glamour Years 1919 - 39” - Susanne Everett, Bison Books, London, England, 1985.

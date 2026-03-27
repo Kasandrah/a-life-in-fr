@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1996-12-03
+fc-end: 1996-12-21
+fc-category: Nephilim, or Angels in America
+fc-display-name: Serpent Moon
 title: Serpent Moon
 draft: false
 ---

@@ -18,14 +18,14 @@ draft: false
 
 Also known as **"The Siren Affair II"**
 
-1923 early November – Napier, New Zealand
+1923 early November - Napier, New Zealand
 
 ## Characters
 
 | Player Characters                                           | Non-Player Characters                        |
 | ----------------------------------------------------------- | -------------------------------------------- |
 | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ | _Korikea_ and his Maori tribe (with Tarangi) |
-| _[[Barry-L#^278a96\|MacDonald, Sir James]]_                 | _Halliday, Max_  – an activist               |
+| _[[Barry-L#^278a96\|MacDonald, Sir James]]_                 | _Halliday, Max_  - an activist               |
 | _[[Jenny-H#^52b214\|Mandiville, Maggie]]_                   | _[[Neil-F#^c2a5f3\|Allison, Jason]]_         |
 | _[[Steve-B#^cf2513\|McHarg, Jock]]_                         |                                              |
 

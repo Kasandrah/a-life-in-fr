@@ -21,7 +21,7 @@ Most interesting! It seemed that all became… had become … would become an in
 
 It translated itself out of The Dragon. Unlike when in any other place, not that this was, strictly speaking, a “place”, here the saurian could not discern the … infinite ribbon of the existence of itself. Luckily Voklaynn was (largely) dormant here, for she would likely not cope. It was exceeding fond of her. This thought … this emotion was also unexpected.
 
-The Secondary Follower was still with The Dragon, of course. It appeared to be no further towards completion than the last time it had needed to come here. Still, as it could tell, things were progressing in a satisfactory manner. It seemed … peculiar (so many human terms, even if not properly expressible in the First Speech, had crept into its patterning since Voklaynn) that it was responsible – though not wholly, certainly – for the ultimate completion. What would its choice be then?
+The Secondary Follower was still with The Dragon, of course. It appeared to be no further towards completion than the last time it had needed to come here. Still, as it could tell, things were progressing in a satisfactory manner. It seemed … peculiar (so many human terms, even if not properly expressible in the First Speech, had crept into its patterning since Voklaynn) that it was responsible - though not wholly, certainly - for the ultimate completion. What would its choice be then?
 
 It felt a difficult feeling and then allowed Voklaynn to identify it as uncertainty. Most unusual. There was a definite conflict of interest. And what would the Advocate say about that?
 
@@ -95,7 +95,7 @@ It gestured. Those things, those labels were Voklaynn’s concern, not its. Vokl
 
 Hmmm. It had the Anwyn-Tintagel frozen in time and took the opportunity to satisfy its Voklaynn that Karwin was still well and happy.
 
-That Voklaynn part of it – much more prominent here in the world that was largely her own – let it know that it would be a very good idea not to let him know that it had suspended his “Time” and taken him from his hatching reality. He would likely be upset to learn that the white saurian’s power encompassed such things, even into the … Summer Country.
+That Voklaynn part of it - much more prominent here in the world that was largely her own - let it know that it would be a very good idea not to let him know that it had suspended his “Time” and taken him from his hatching reality. He would likely be upset to learn that the white saurian’s power encompassed such things, even into the … Summer Country.
 
 It was still almost as if he did not believe that it and its Voklaynn were One. Though confusingly, even the Voklaynn herself wondered sometimes about such things. Extraordinary!
 

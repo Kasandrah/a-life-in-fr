@@ -18,7 +18,7 @@ Gavin: “white hawk”
 | _Height / weight:_ | 6 ft 3 ins tall and weighs 190 lbs                      |
 | _Voice:_           | Baritone                                                |
 | _Cologne:_         |                                                         |
-| _Born:_            | 31st May 1898 – Guildford, Surrey, England - British    |
+| _Born:_            | 31st May 1898 - Guildford, Surrey, England - British    |
 | _Birth sign:_      | Aries                                                   |
 | _Birth stones:_    | Diamond, ruby, bloodstone, carnelian, garnet            |
 | _Birth flowers:_   | Wild cherry, sweet pea, daisy                           |
@@ -49,7 +49,7 @@ Gavin reads biographies, adventure stories, travel books and sporting literature
 
 ## Personality
 
-Gavin is a go-getter who will let nothing stand in his way – he tackles obstructions head-on.  He is a “man’s man” who spends a lot of time with his male friends, is at his best in male company and popular with his own sex.  He can be quarrelsome, overbearing and very self-centred.
+Gavin is a go-getter who will let nothing stand in his way - he tackles obstructions head-on.  He is a “man’s man” who spends a lot of time with his male friends, is at his best in male company and popular with his own sex.  He can be quarrelsome, overbearing and very self-centred.
 
 A careerist by temperament, Gavin is especially suited to hazardous and physically exacting occupations.  He did particularly well in the Royal Air Force.  He excels in engineering, and pyrotechnics has a special appeal for him.  He would be completely happy if he took up farming or horse breeding and training.  He would also be very good at the head of a company or as a business promoter.
 
@@ -95,11 +95,11 @@ The last week in September and the first week in October saw Gavin at home on si
 
 Also in late October, Gavin was awarded the Military Cross and after eight months overseas, including four months of the Somme battle and 350 hours flying time, Gavin was posted back to England for Home Establishment duty.
 
-### 1916 – 1917
+### 1916 - 1917
 
 From winter 1916 to the end of March 1917, Gavin was posted to the Testing Squadron at Upavon where he tested all of the new aircraft before orders were placed with manufacturers.  This he did before parachutes existed.  While testing at Martlesham Heath Gavin flew the Sopwith Triplane scout, which he remembers as providing the most flying pleasure of all the planes he flew during the war.
 
-In March 1917, just before his 18th birthday, Gavin was posted to London Colney to join No. 56 Squadron, Major Bloomfield, C.O., forming to go overseas.  His plane was a SE5 fighting scout from the Royal Aircraft Factory, a plane with a 140 hp Hispano Suiza engine, one synchronised Vickers gun firing through the propeller via Constantinesco gears, one Lewis gun on top – a first class fighting scout.
+In March 1917, just before his 18th birthday, Gavin was posted to London Colney to join No. 56 Squadron, Major Bloomfield, C.O., forming to go overseas.  His plane was a SE5 fighting scout from the Royal Aircraft Factory, a plane with a 140 hp Hispano Suiza engine, one synchronised Vickers gun firing through the propeller via Constantinesco gears, one Lewis gun on top - a first class fighting scout.
 
 On 7th April 1917, starting at 11.00 am, No. 56 Squadron flew to France.  Captain Ball DSO was the Senior Flight Commander.  As the squadron leader had been injured in a car accident on the previous evening, Gavin led the squadron overseas.  No. 56 set the record for the first squadron to arrive in France with all planes fully functional.  The squadron was located in Vertgaland and two weeks later went on its first offensive patrol.
 
@@ -115,13 +115,13 @@ On return from leave Gavin was promoted to Flight Commander (Captain) and posted
 
 In August 1917 Gavin undertook his first night patrols against the German bombers.
 
-In September 1917 Gavin was posted to No. 61 Squadron, Rochford and continued his Home Defence role.  He used a Sopwith Pup for joyrides and an SE5 for fighting.  While flying in fog Gavin became completely lost – landing in Kent when he thought he was in Essex.
+In September 1917 Gavin was posted to No. 61 Squadron, Rochford and continued his Home Defence role.  He used a Sopwith Pup for joyrides and an SE5 for fighting.  While flying in fog Gavin became completely lost - landing in Kent when he thought he was in Essex.
 
 In November 1917, after going up at night with magnesium wing flares ignited and spinning his plane “because it would look awfully pretty”, Gavin botched his cross wind approach, broke the undercarriage on landing and flipped the plane.  After this crash, Gavin had to use a new Hispano with no instrument lighting for night patrols.  On one such flight his torch broke and he couldn’t read the oil pressure gauge.
 
 Also in November 1917, Gavin was given flying badges from a captured German pilot he was escorting to POW camp.  He flew an SE from Brooklands Aircraft Acceptance Park to St. Omer in pouring rain at a height of 100 feet.  He returned to Calais by tender and took the leave boat back to London
 
-### 1917 – 1918
+### 1917 - 1918
 
 The RFC merged with the RNAS to become the Royal Air Force (RAF) and Gavin wore a new blue uniform.
 
@@ -149,7 +149,7 @@ On 17th December 1920 the planes finally arrived in Peking.  Gavin and the othe
 
 ### 1921
 
-In February 1921 an unsuccessful first attempt was made to fly between Peking and Shanghai.  The Peking – Shanghai Air Service had been ordered to run on the first day of the monsoons.  In May 1921 Gavin returned to London, where he continued working for Vickers Limited.
+In February 1921 an unsuccessful first attempt was made to fly between Peking and Shanghai.  The Peking - Shanghai Air Service had been ordered to run on the first day of the monsoons.  In May 1921 Gavin returned to London, where he continued working for Vickers Limited.
 
 ### 1922
 
@@ -157,4 +157,4 @@ In January 1922 Gavin was sent by Vickers Limited to Melbourne, Australia to sup
 
 ## References
 
-“Sagittarius Rising” – Cecil Lewis, Corgi Books, 1969.
+“Sagittarius Rising” - Cecil Lewis, Corgi Books, 1969.

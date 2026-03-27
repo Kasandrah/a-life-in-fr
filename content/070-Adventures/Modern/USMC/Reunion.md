@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1997-01-16
+fc-end: 1997-01-24
+fc-category: USMC vs "What the … ?"
+fc-display-name: Reunion
 title: Reunion
 draft: false
 ---

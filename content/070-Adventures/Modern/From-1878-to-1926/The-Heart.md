@@ -25,7 +25,7 @@ Also known as **"The Sunfire’s Heart"**
 | Player Characters                         | Non-Player Characters                       |
 | ----------------------------------------- | ------------------------------------------- |
 | _[[Neil-F#^901589\|Jenks, Stanley]]_ | _Appledorn, Sir Humphrey_                   |
-| _[[Aletta-Yasmini\|Yasmini, Aletta]]_     | _Blackthorne, Michael_ – aka Hallahan       |
+| _[[Aletta-Yasmini\|Yasmini, Aletta]]_     | _Blackthorne, Michael_ - aka Hallahan       |
 |                                           | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_ |
 |                                           | _Pugh, Colonel Clifton_                     |
 
@@ -49,7 +49,7 @@ one large piece of rock crystal from the dungeon on Rammos
 
 1750’s book on brain surgery, life suspension, etc.
 
-bearskin – large black bear
+bearskin - large black bear
 
 2 coins from the 1100s
 
@@ -57,6 +57,6 @@ bearskin – large black bear
 
 1 uncut precious stone
 
-wand – magic missiles but don’t know how to use it
+wand - magic missiles but don’t know how to use it
 
-time travel spell decoded from the Arabic plate – specific to 1100s world
+time travel spell decoded from the Arabic plate - specific to 1100s world

@@ -16,22 +16,22 @@ draft: false
 ---
 # Home Sweet Home
 
-1924 September – Shahpura, India.
+1924 September - Shahpura, India.
 
 ## Characters
 
 | Player Characters                                                                                                          | Non-Player Characters                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| _Charles_ – English dilettante who has a predilection for art, the occult, doing nothing and duelling with pistols (Simon) | _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_                                                                             |
-| _[[Jenny-H#^efe01a\|Holmes, Monica]]_                                                                                   | _Ardra, Sher Singh_ – Commander of the Shahpura Royal Guard, Anjuli's bodyguard                                                               |
-| _[[Michael-H#^5f3573\|Smirnoff, Nikolai]]_                                                                            | _Banh, Mohandur_ – Raja’s half-brother and major-domo, an all-around villain                                                                  |
-| _Trevelyan_ – British Army Major stationed in the Punjab region (Ben)                                                      | _Bharmal_ – Rajah of Shahpura and his wife _Catherine_, the only child of the 10th Earl of Carmarthen and Rani of Shahpura (Anjuli’s parents) |
-|                                                                                                                            | _Chani_ – Anjuli’s old maid                                                                                                                   |
-|                                                                                                                            | _Lalji_ – Anjuli’s dead elder brother, rumoured to have died by Mohandar’s hand                                                               |
-|                                                                                                                            | _Nandu_ – Anjuli’s younger brother and heir to Shahpura, outwardly confident but cream-puff on the inside                                     |
-|                                                                                                                            | _Pran, Gunjit Ranwar_ – Mohandar’s yes-man                                                                                                    |
-|                                                                                                                            | _Shushila_ – Anjuli’s younger sister, cruel bitch queen, mad-dog killer of kids                                                               |
-|                                                                                                                            | _Winstanley-Beckett, Colonel Sir Aubrey_ – British Resident in Shahpura                                                                       |
+| _Charles_ - English dilettante who has a predilection for art, the occult, doing nothing and duelling with pistols (Simon) | _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_                                                                             |
+| _[[Jenny-H#^efe01a\|Holmes, Monica]]_                                                                                   | _Ardra, Sher Singh_ - Commander of the Shahpura Royal Guard, Anjuli's bodyguard                                                               |
+| _[[Michael-H#^5f3573\|Smirnoff, Nikolai]]_                                                                            | _Banh, Mohandur_ - Raja’s half-brother and major-domo, an all-around villain                                                                  |
+| _Trevelyan_ - British Army Major stationed in the Punjab region (Ben)                                                      | _Bharmal_ - Rajah of Shahpura and his wife _Catherine_, the only child of the 10th Earl of Carmarthen and Rani of Shahpura (Anjuli’s parents) |
+|                                                                                                                            | _Chani_ - Anjuli’s old maid                                                                                                                   |
+|                                                                                                                            | _Lalji_ - Anjuli’s dead elder brother, rumoured to have died by Mohandar’s hand                                                               |
+|                                                                                                                            | _Nandu_ - Anjuli’s younger brother and heir to Shahpura, outwardly confident but cream-puff on the inside                                     |
+|                                                                                                                            | _Pran, Gunjit Ranwar_ - Mohandar’s yes-man                                                                                                    |
+|                                                                                                                            | _Shushila_ - Anjuli’s younger sister, cruel bitch queen, mad-dog killer of kids                                                               |
+|                                                                                                                            | _Winstanley-Beckett, Colonel Sir Aubrey_ - British Resident in Shahpura                                                                       |
 
 ## Involvement
 
@@ -200,27 +200,27 @@ Anjuli looked very impressive at that moment had she known it.  Eyes flashing f
 
 ## Written by [[Ben-G|Ben G.]] (Tyson)
 
-Monica, Charles, Nikolai, and Anjuli arrive in India on a trip to Shahpura.  Charles tries a drug and has a “trip” where he sees a Rakhasa (demon – blue-skinned, red-eyed, multi-armed) who is after me!
+Monica, Charles, Nikolai, and Anjuli arrive in India on a trip to Shahpura.  Charles tries a drug and has a “trip” where he sees a Rakhasa (demon - blue-skinned, red-eyed, multi-armed) who is after me!
 
 Cavalcade is halted by a sword-wielding outcast who speaks in tongues and who shrugs off being shot. I blast him with a couple of critical hits but then he appears to be hit by lightning from a clear sky and explodes.
 
-Arrive at Shaphura and the Jumtiaha Palace to find the Raja and Rani crazy as loons – no-one knows what to do.  We follow up a story of a strange woman who trashed Sher Singh a while ago.
+Arrive at Shaphura and the Jumtiaha Palace to find the Raja and Rani crazy as loons - no-one knows what to do.  We follow up a story of a strange woman who trashed Sher Singh a while ago.
 
-It’s called a tiger hunt, but when we are a day away from the Palace, we are led away from Anjuli and all the guards and elephants are killed with blood and bits everywhere (just like the Somme – oh the humanity) – but Anjuli lives!  We trek back through tiger country covered in blood but untouched.
+It’s called a tiger hunt, but when we are a day away from the Palace, we are led away from Anjuli and all the guards and elephants are killed with blood and bits everywhere (just like the Somme - oh the humanity) - but Anjuli lives!  We trek back through tiger country covered in blood but untouched.
 
-Us guys break into Mohandar’s apartments, I get bitten by his snake-spirit guardian – everyone investigates the secret tunnels underneath where ceremonies and sacrifices have been held – we fight a statue of demon come to life – I take the statue’s crown and find no-one wants it.
+Us guys break into Mohandar’s apartments, I get bitten by his snake-spirit guardian - everyone investigates the secret tunnels underneath where ceremonies and sacrifices have been held - we fight a statue of demon come to life - I take the statue’s crown and find no-one wants it.
 
 Info from my Brahmin friends leads to Anjuli sacrificing some Special Sea Shells to Vishnu’s wife, Kali-Ma.  Raja is cured but Kali-Ma appears to have come to stay within Anjuli.
 
-Breaking into Shushila’s apartments gives us a map to Mohandar’s and Shushila’s hideout – after going there and see more Kali than Anjuli – wild dogs get killed – Shushila gets killed.
+Breaking into Shushila’s apartments gives us a map to Mohandar’s and Shushila’s hideout - after going there and see more Kali than Anjuli - wild dogs get killed - Shushila gets killed.
 
-We kill a giant snake and get to a cavern with a ring of fire around a Banyan tree – I walk through and get purified – everyone else waits for Kali to put the fire out – I touch the tree and we’re all transported to the demon’s realm – I freak out and think I’m Vishnu – visit Demon’s palace and Kali kicks Demon butt – we return and kill the giant snake (who turns out to be Mohandar) again.
+We kill a giant snake and get to a cavern with a ring of fire around a Banyan tree - I walk through and get purified - everyone else waits for Kali to put the fire out - I touch the tree and we’re all transported to the demon’s realm - I freak out and think I’m Vishnu - visit Demon’s palace and Kali kicks Demon butt - we return and kill the giant snake (who turns out to be Mohandar) again.
 
 Back at the palace, Brahmins and Raja turn Kali’s visitation into a circus, and I mortally insult (according to the Hindus) Kali by sitting down on the throne (hey, I’m Kali’s husband, remember) but of course Kali doesn’t mind.
 
 Kali does nothing except strange clouds gather centring over Kali.  I track down Sher Singh, needle him out of his depression and tell him what to do and he sacrifices his faith and his honour and almost his life to get Kali to leave Anjuli.  I have to lead him away and fuss over him while everybody else is all over Anjuli.
 
-Anjuli’s previously arranged marriage is cancelled as she now has much greater value – a living avatar of Kali-Ma.  Maharaja Ganga Singh of Bikaner, one of the 21-gun salute states of Rajasthan, arranges to marry Anjuli.  Sher Singh is no longer a Sikh, and Charles is befriending Nandu.
+Anjuli’s previously arranged marriage is cancelled as she now has much greater value - a living avatar of Kali-Ma.  Maharaja Ganga Singh of Bikaner, one of the 21-gun salute states of Rajasthan, arranges to marry Anjuli.  Sher Singh is no longer a Sikh, and Charles is befriending Nandu.
 
 We all travel to Bikaner for the wedding, but Anjuli disappears (in plain sight of everybody) from the Wedding Howdah going to the ceremony.  Monica also disappears in the same instant.  Kali gets the blame.
 

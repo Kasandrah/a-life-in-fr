@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: 010 History of Clan Bahari
 draft: false
+aat-render-enabled: false
 ---
 # History of Clan Bahari
 
@@ -11,7 +12,7 @@ _[[Lilith|Lilith]]_ believed She was Adam’s equal, as they were both made by G
 
 We were created equal, and thus we shall make love in equal positions.
 
-Adam tried to force Lilith to submit to his demands, so She uttered the Divine Name (the secret true name of God) and flew away from the Garden of Eden to the Red Sea. Adam begged God to return Lilith to him, so God sent three Enforcer Angels – Senoy, Sansenoy and _[[Abdiel|Abdiel]]_ – to bring Lilith back from Her cave on the shore of the Red Sea.
+Adam tried to force Lilith to submit to his demands, so She uttered the Divine Name (the secret true name of God) and flew away from the Garden of Eden to the Red Sea. Adam begged God to return Lilith to him, so God sent three Enforcer Angels - Senoy, Sansenoy and _[[Abdiel|Abdiel]]_ - to bring Lilith back from Her cave on the shore of the Red Sea.
 
 Lilith refused to return to Adam, defying God’s will. The angels were angered by their lack of power to compel Lilith, and threatened to kill any children She might have if She did not comply. Lilith remained defiant, as She knew the Divine Name and this gave Her power over God. She was more than a match for the three angels. Senoy and Sansenoy succumbed to their sudden, all-consuming desire for Lilith. Abdiel fled back to Heaven with news of Lilith’s continued defiance and the fall from Grace of his two companions.
 

@@ -16,7 +16,7 @@ draft: false
 ---
 # Boker Hall
 
-1922 May 22nd to June 23rd – Adelaide, South Australia and surrounds
+1922 May 22nd to June 23rd - Adelaide, South Australia and surrounds
 
 ## Characters
 
@@ -25,8 +25,8 @@ draft: false
 | _[[Dianne-G#^df7d56\|Elliot, Dr. Robyn]]_           | _Boker, Zadoc_                                            |
 | _[[Steve-B#^dd7b98\|Lane, Arnold "Arnie"]]_          | _Boker, Phineas_                                          |
 | _[[Jenny-H#^a797a7\|Ravenwood, Dame Marion]]_          | _Chileskas, Mark_                                         |
-| _[[Michael-H#^5c665d\|Waverley, Tom]]_               | _Raffe, Sir Giles_ – Baronet                              |
-| _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ | _Raffe, Lady Mary_ – wife of Sir Giles and Diana’s cousin |
+| _[[Michael-H#^5c665d\|Waverley, Tom]]_               | _Raffe, Sir Giles_ - Baronet                              |
+| _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ | _Raffe, Lady Mary_ - wife of Sir Giles and Diana’s cousin |
 |                                                           | _[[Neil-F#^93d9ac\|Ravenwood, N.L.]]_                |
 
 ## Involvement

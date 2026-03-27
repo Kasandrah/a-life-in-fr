@@ -41,7 +41,7 @@ The remains of what has been described as a huge lost city may force historians 
 
 [http://news.bbc.co.uk/1/hi/world/south_asia/1768109.stm](http://news.bbc.co.uk/1/hi/world/south_asia/1768109.stm) - BBC News, 19/01/2002
 
-## Herakleion – Alexandria
+## Herakleion - Alexandria
 
 Underwater archaeologists working off the Egyptian coast have discovered an entire submerged city dating from ancient times.  At a news conference in Alexandria, the French marine archaeologist, Franck Goddio, revealed the first evidence of what is believed to be the ancient city of Herakleion.
 
@@ -61,13 +61,13 @@ Underwater archaeologists working off the Egyptian coast have discovered an enti
 
 # Characters
 
-Patrons / Sponsors – _[[Charles-van-Buren|Charles]]_ and _[[Sarah-Ann-van-Buren|Sarah van Buren]]_, owners of the [[Silk-Scorpion-II|Silk Scorpion II]], Captain, crew and guests
+Patrons / Sponsors - _[[Charles-van-Buren|Charles]]_ and _[[Sarah-Ann-van-Buren|Sarah van Buren]]_, owners of the [[Silk-Scorpion-II|Silk Scorpion II]], Captain, crew and guests
 
-Marine Salvage – larger ship, Captain and crew
+Marine Salvage - larger ship, Captain and crew
 
-Underwater Archaeologists – onboard the larger ship
+Underwater Archaeologists - onboard the larger ship
 
-Academics – Ancient History / Architecture / Hieroglyphics
+Academics - Ancient History / Architecture / Hieroglyphics
 
 Government Representatives - site?
 

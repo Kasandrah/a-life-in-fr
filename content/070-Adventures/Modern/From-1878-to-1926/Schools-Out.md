@@ -41,11 +41,11 @@ There was one large monster in the attic which was worshipped by a coven of teac
 
 ![[cc_schools_out_map_1.jpg]]
 
-**Chateaux St Croix – Ground Level**
+**Chateaux St Croix - Ground Level**
 
 ![[cc_schools_out_map_2.jpg]]
 
-**Chateaux St Croix – First Floor**
+**Chateaux St Croix - First Floor**
 
 ## Injuries
 

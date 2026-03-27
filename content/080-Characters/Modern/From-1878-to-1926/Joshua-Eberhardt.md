@@ -19,7 +19,7 @@ Joshua: “God is my salvation”, Hebrew
 | _Height / weight:_ | 5 feet 9 inches / 180 lbs                                        |
 | _Voice:_           |                                                                  |
 | _Cologne:_         |                                                                  |
-| _Born:_            | 1840 March, in New Mexico Territory (revised to 1888) – American |
+| _Born:_            | 1840 March, in New Mexico Territory (revised to 1888) - American |
 | _Birth sign:_      |                                                                  |
 | _Birth stones:_    |                                                                  |
 | _Birth flowers:_   |                                                                  |

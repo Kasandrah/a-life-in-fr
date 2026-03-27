@@ -76,7 +76,7 @@ Evelyn is the only one of her family to come to Whitehall so far, although one o
 
 ---
 
->**Player's Reply:** This will be a new experience for both of them – Evelyn has a new partner and Hrithik is going to focus on one woman for the foreseeable future.
+>**Player's Reply:** This will be a new experience for both of them - Evelyn has a new partner and Hrithik is going to focus on one woman for the foreseeable future.
 >
 >Not to say he won’t follow his Father’s dictates at a later date but in the meantime Evelyn is the centre of his attention. If he grows to love her then he may be looking for loopholes in the “go forth and procreate” rule. He has come from a stable two-parent family, after all, and knows the benefits that bestows on the children of such a successful union.
 >
@@ -165,7 +165,7 @@ Hrithik’s Intelligence gives him +3 bonus skill points for each of his Cleric 
 
 6. Garuda Aasimars gain +2 ranks to their acrobatics and fly skills.
 
-7. An Aasimar has **one** racial Hit Dice, hence Hrithik’s additional skill points for being a half-celestial are (8 + 3) x (**1** + 3) = 44 points. All skills for a half-celestial are bought as cross-class skills – i.e., 2 skill points per skill rank. See [[Hrithik-Olafsson#Skills|here]] for details.
+7. An Aasimar has **one** racial Hit Dice, hence Hrithik’s additional skill points for being a half-celestial are (8 + 3) x (**1** + 3) = 44 points. All skills for a half-celestial are bought as cross-class skills - i.e., 2 skill points per skill rank. See [[Hrithik-Olafsson#Skills|here]] for details.
 
 8. Jump is modified by speed. Hrithik’s land speed in armour is 20ft, so he has a -6 penalty on jump skill checks.
 
@@ -199,7 +199,7 @@ As a 5th level Cleric these are:
  - 2+1 2nd level spells, +1 bonus 2nd level spell
  - 1+1 3rd level spells, +1 bonus 3rd level spell
 
-### Aasimar – D&D 3.5e
+### Aasimar - D&D 3.5e
 
 #### Alignment
 
@@ -239,9 +239,9 @@ Aasimars have dark vision to 60 ft.
 
 #### Character Level
 
-**+1** – for example, an Aasimar with 5 levels of Cleric is a 6th level character.
+**+1** - for example, an Aasimar with 5 levels of Cleric is a 6th level character.
 
-### Garuda Blooded (Plumekith) – Pathfinder 1
+### Garuda Blooded (Plumekith) - Pathfinder 1
 
 Garudas are noble but impetuous birdlike celestials, and most Garuda-blooded Aasimars grow graceful feathers during puberty. The majority of these Aasimars have shimmering wings; the wings can be of virtually any shade, ranging from metallic colours to muted hues to pure white, or rarely, glossy black. Plumekith are sometimes born with taloned fingers or toes, and occasionally amber eyes like those of an eagle. Their avian features make Plumekith instantly recognizable.
 
@@ -271,7 +271,7 @@ Snake Hater (+2 trait bonus on Knowledge (dungeoneering) checks and Knowledge�
 
 **BENEFITS NOT TAKEN AS NONE OF THE OTHER PCS HAVE RACE TRAITS.**
 
-### Half-Celestial – D&D 3.5e
+### Half-Celestial - D&D 3.5e
 
 “Half-celestial” is an inherited or acquired template that can be added to any living, corporeal creature with an Intelligence score of 4 or more and non-evil alignment. A half-celestial creature retains the base creature’s statistics and special abilities except as noted here.
 
@@ -353,13 +353,13 @@ _An Aasimar has **one** racial Hit Dice, hence Hrithik’s additional skill poin
 
 Same as base creature **+4**. For example, an Aasimar with 5 Cleric levels and a Half-Celestial template is equivalent to a 10th level character.
 
-### Cleric – D&D 3.5e
+### Cleric - D&D 3.5e
 
 Hrithik is a Cleric. His deity is Shahrukh, a Chaotic Good angel in the Alterian pantheon and Hrithik’s father.
 
 #### Hit Dice
 
-1d8 + (CON bonus) – same as an Aasimar.
+1d8 + (CON bonus) - same as an Aasimar.
 
 #### Armour and Weapon Proficiencies
 

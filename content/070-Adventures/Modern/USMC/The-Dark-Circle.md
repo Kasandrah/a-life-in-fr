@@ -9,7 +9,7 @@ timelines:
   - Modern Timeline
 fc-date: 1997-04-10
 fc-end: 1997-04-22
-fc-category: From 1878 to 1926
+fc-category: USMC vs "What the … ?"
 fc-display-name: The Dark Circle
 title: The Dark Circle
 draft: false
@@ -20,15 +20,15 @@ draft: false
 
 ## Characters
 
-| Player Characters                                                          | Non-Player Characters                                                                                   |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ | _[[Jenny-H#^59824f\|Abrahamson, David]]_                                                             |
-| _[[Dresdina-Belle-Cooper\|Cooper, Dresdina]]_                              | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                                                             |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_  | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                                                              |
-| _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  | _Wenders, [[020-The-Antediluvians#Gwyn\|Agnetha]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_ |
-| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_      |                                                                                                         |
-| _[[The-White-Magicians#Kellion O’Shea\|O'Shea, Kellion]]_                  |                                                                                                         |
-| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_          |                                                                                                         |
+| Player Characters                                                          | Non-Player Characters                                                                                  |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ | _[[Jenny-H#^59824f\|Abrahamson, David]]_                                                               |
+| _[[Dresdina-Cooper\|Cooper, Dresdina]]_                              | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                                                               |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_  | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                                                                |
+| _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  | _Wenders, [[020-The-Antediluvians#Gwyn\|Agneta]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_ |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_      |                                                                                                        |
+| _[[The-White-Magicians#Kellion O’Shea\|O'Shea, Kellion]]_                  |                                                                                                        |
+| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_          |                                                                                                        |
 
 ## Highlights
 
@@ -66,7 +66,7 @@ Here they find a priest who has been sent by his church to find out what has bee
 
 >**GM's Note:**  Given the threat posed by Gwyn and Owain, my Jefferson Dean gave Colonel Snow standing orders to avoid any contact with them and to notify Antonio immediately so he could deal with them.  This would have come out in-game, **had either myself or Colonel Snow's player been in attendance**.
 
-On returning to Brasilia, Ilsenburg and Goldfarb meet the additional support sent by Dean: _[[Dresdina-Belle-Cooper|Dresdina Cooper]]_, _[[The-White-Magicians#Kellion O’Shea|Kellion O’Shea]]_ and _[[Jenny-H#^14ff80|Mairi McPherson]]_.  Dean has placed Dresdina in charge of the new team.  Dresdina, Kellion, and Mairi give a guarded summary of their backgrounds and ask for up-to-date details on the situation at the village.
+On returning to Brasilia, Ilsenburg and Goldfarb meet the additional support sent by Dean: _[[Dresdina-Cooper|Dresdina Cooper]]_, _[[The-White-Magicians#Kellion O’Shea|Kellion O’Shea]]_ and _[[Jenny-H#^14ff80|Mairi McPherson]]_.  Dean has placed Dresdina in charge of the new team.  Dresdina, Kellion, and Mairi give a guarded summary of their backgrounds and ask for up-to-date details on the situation at the village.
 
 >**GM's Note:** The stand-in GM didn't conclude their scenario before I returned from interstate. They asked to complete it. I agreed and played my NPCs as PCs. Snow's and Anderson's players were still absent.
 >
@@ -120,4 +120,6 @@ Gwyn and Owain made their own way to wherever they were going.  The rest of the
 >
 >My intention with the United States Marine Corps (USMC) characters was to explore the outcome of matching heavy weaponry against various Cthulhu and non-Cthulhu threats. By catering to the wishes of only one player, the stand-in GM, I'd allowed my game to drift off mission and, finally, out of my hands.
 >
->To address the glaring imbalance in player agency, I asked the stand-in GM to create a new USMC character comparable with the others.  Hence, _[[USMC-Fireteam-SG-21#Major Kris Morrissey|Major Kris Morrissey]]_ replaced _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_ and _[[Jenny-H#^59824f|David Abrahamson]]_.  I also ensured _[[020-The-Antediluvians#Gwyn|Agnetha]] and [[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ never appeared in this campaign again.
+>To address the glaring imbalance in player agency, I asked the stand-in GM to create a new USMC character comparable with the others.  Hence, _[[USMC-Fireteam-SG-21#Major Kris Morrissey|Major Kris Morrissey]]_ replaced _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_ and _[[Jenny-H#^59824f|David Abrahamson]]_.  I also ensured _[[020-The-Antediluvians#Gwyn|Agneta]] and [[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ never appeared in this campaign again.
+
+^714712

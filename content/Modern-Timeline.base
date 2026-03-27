@@ -3,9 +3,6 @@ views:
     name: Table
     filters:
       or:
-        - file.folder == "020-One-Night-Plays"
-        - file.folder == "070-Adventures/Arthurian-Britain"
-        - file.folder == "070-Adventures/Dark-Ages"
         - file.folder == "070-Adventures/Modern/From-1878-to-1926"
         - file.folder == "070-Adventures/Modern/From-1983-to-1992"
         - file.folder == "070-Adventures/Modern/Nephilim"
@@ -15,8 +12,14 @@ views:
       direction: ASC
     order:
       - file.name
+      - aat-render-enabled
+      - timelines
       - fc-date
       - fc-end
+      - fc-category
+      - fc-display-name
+      - file.path
     sort:
       - property: fc-date
         direction: ASC
+    columnSize: {}

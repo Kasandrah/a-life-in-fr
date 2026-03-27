@@ -12,7 +12,7 @@ draft: false
 
 **Arthur, The Boy King**
 
-Pendragon – Cymric for "High King" – "ben"= "chief", "dragon" = "warlord".
+Pendragon - Cymric for "High King" - "ben"= "chief", "dragon" = "warlord".
 
 Each test of the Dragon is a test of a candidate’s valour, justice and honour. Arthur will pass his first test, but not his second.
 
@@ -53,7 +53,7 @@ This campaign begins in 495 AD, an era of material, cultural, and spiritual pove
 
 # History
 
-Britain was occupied by a race of faeries before the first men came. Brutus, the grandson of Aeneas of Troy, was the first human to settle the island. Christianity was brought to the island by Joseph of Arimathea in AD 55. Feudalism was instituted by Uther Pendragon circa 480 – 495, in the style of his contemporary, Clovis of France.
+Britain was occupied by a race of faeries before the first men came. Brutus, the grandson of Aeneas of Troy, was the first human to settle the island. Christianity was brought to the island by Joseph of Arimathea in AD 55. Feudalism was instituted by Uther Pendragon circa 480 - 495, in the style of his contemporary, Clovis of France.
 
 In 495 AD, High King Uther Pendragon, strapped to his horse because he was too ill to ride unaided, led the assembled forces of Britain to defeat the Saxons in battle near the city of St Albans (May 22nd). At the victory feast, a Saxon, disguised as a doctor, poisoned the wine. Uther and most of his ranking nobles died during the next week (May 28th). Without an heir, the land plunged into civil war, plagued continuously by raids from the Saxons, Picts and Irish. This is an outlaw’s time; anyone can grab something and keep it through might and main rather than through law.
 
@@ -77,8 +77,8 @@ Church officials and monasteries also rely upon land grants to knightly vassals 
 - _Merffyn_ the legendary sorcerer, Arthur’s guardian
 - _[[Sir-Brennos|Sir Brennos]]_ (Cymric pagan)
 - _Sir Lancelot_ (French Christian, born 494 AD), wears Seelie armour, carries magical weapons and shield ^9bb92d
-- _Asterlan_ – son of Brennos and Titania, foster son of Arthur and Maeve ^c00cba
-- _Otho the Troll_ – Ambassador of the Unseelie Fae ^f5e6ab
+- _Asterlan_ - son of Brennos and Titania, foster son of Arthur and Maeve ^c00cba
+- _Otho the Troll_ - Ambassador of the Unseelie Fae ^f5e6ab
 
 # Social Classes
 
@@ -145,12 +145,12 @@ A critical function of marriage is to produce a legitimate heir (the eldest son 
 
 - _Jeanne, Lady of Broad Chalke, Priestess of Raven,_ wife to Rhodri ^fef3ea
 - _Caradoc_ (Cymric pagan, born 496), Rhodri’s son and heir, engaged to _Guinevere_ (Cymric Christian, born 495) ^bf9597
-- _Nia_ (born 498), _Gwyn_ and _Gwen_ (born 499) – children of Rhodri and Jeanne
+- _Nia_ (born 498), _Gwyn_ and _Gwen_ (born 499) - children of Rhodri and Jeanne
 - _Sir Edar, Castellan of Marlborough Castle and Steward of Mildenhall_ (Rhodri’s vassal knight), and his wife _Lady Aneurin_, _[[Oberon|Oberon's]]_ daughter. Aneurin disguised herself as a boy to act as Edar’s first squire. ^0711d0
 - _Sir Cynrain_, his wife _Lysanor_ (Ailil’s daughter), and her son _Uther_ (by Arthur)
-- _Sir Hywel_ – Rhodri’s first squire, now one of his vassal knights ^e7a766
-- _Sir Nai_ – another of Rhodri’s squires, now also one of his vassal knights ^fbe0d7
-- _Sir Tathyl_ – Brion’s first squire, now one of Rhodri’s vassal knights ^baa3eb
+- _Sir Hywel_ - Rhodri’s first squire, now one of his vassal knights ^e7a766
+- _Sir Nai_ - another of Rhodri’s squires, now also one of his vassal knights ^fbe0d7
+- _Sir Tathyl_ - Brion’s first squire, now one of Rhodri’s vassal knights ^baa3eb
 - _Perin_, Rhodri’s current squire (19 years old)
 - Rhodri also holds Broad and Marlborough Castles, Mildenhall Town, and Wood Reach Manor (Silchester)
 
@@ -203,18 +203,18 @@ Finias, the magic spear that controls the elements, is in Glastonbury Church and
 
 - _Lady Voklaynn, Red Dragon of Cymru_, her husband _Lord Anwyn_, and their sons _Illisander_ and _[[Karwin|Karwin]]_
 - _[[Cendrian]]_
-- _Murias_, Cauldron of the Dagda (of Plenty), resurrects the dead (but they can’t talk) – taken by Rhodri and Arthur from Ben Nevis (from the hall of _Varis the Black_, the un-dead dragon necromancer)
+- _Murias_, Cauldron of the Dagda (of Plenty), resurrects the dead (but they can’t talk) - taken by Rhodri and Arthur from Ben Nevis (from the hall of _Varis the Black_, the un-dead dragon necromancer)
 - _Wise One_ (a giant salmon) ^fc6c1c
 - _Guardian of Tor Barrow Hill_ ^4f99d3
 - _Knight of the Red Feather_ ^cae78d
 
-At the heart of the realm lies a great mountain that reaches halfway to the sky.  This mountain can be seen from anywhere within the realm and serves as a beacon for those journeying to see or seek refuge with the Queen of Air – the Red Dragon of Cymru.
+At the heart of the realm lies a great mountain that reaches halfway to the sky.  This mountain can be seen from anywhere within the realm and serves as a beacon for those journeying to see or seek refuge with the Queen of Air - the Red Dragon of Cymru.
 
 The realm consists of great forests, rivers, lakes and rolling hills of verdant green grasses, alive with animals, birds and magical creatures.  The seasons cycle through brilliant warm summers abuzz with activity, rich golden autumns muted by falling leaves, crisp diamond bright winters and rainbow coloured springs heavy with floral perfumes.  Two bright silver moons wax and wane with each passing night in a black velvet sky studded with stars.
 
-The people, many refugees from Saxon incursions, are uniformly healthy, robust and given to much playfulness.  They have an affinity for all things musical and poetical, and are fine craftsmen, potters, weavers, jewellers, stonemasons and anything else they turn their hands to.  Most dwell in the great castle on the lower western slope of the mountain – a huge stone construction that has been there as long as anyone can remember.  It is the home of Lady Voklaynn, her husband Lord Anwyn, and their sons _[[Karwin|Karwin]]_ and Illisander.
+The people, many refugees from Saxon incursions, are uniformly healthy, robust and given to much playfulness.  They have an affinity for all things musical and poetical, and are fine craftsmen, potters, weavers, jewellers, stonemasons and anything else they turn their hands to.  Most dwell in the great castle on the lower western slope of the mountain - a huge stone construction that has been there as long as anyone can remember.  It is the home of Lady Voklaynn, her husband Lord Anwyn, and their sons _[[Karwin|Karwin]]_ and Illisander.
 
-An abiding passion is a ball game played with verve, speed, agility and a recklessness that borders on life-threatening.  This game has few, if any, discernible rules and no boundaries – the only aim is to kick the ball through the opposition’s posts decorated with their colours.  These posts can be placed anywhere outside the castle, but players, male and female, often run about within the castle in search of a way to foil the opposing side.
+An abiding passion is a ball game played with verve, speed, agility and a recklessness that borders on life-threatening.  This game has few, if any, discernible rules and no boundaries - the only aim is to kick the ball through the opposition’s posts decorated with their colours.  These posts can be placed anywhere outside the castle, but players, male and female, often run about within the castle in search of a way to foil the opposing side.
 
 Lady Voklaynn has confiscated the ball during several particularly energetic games and declared the result a draw.  However, the ball usually reappears a few days later because of the intervention of an unknown agent with highly effective stealth skills.  The castle inhabitants suspect one of the castle’s three resident unicorns, all quite capable of undertaking the feat and all possessing the complete disregard for authority peculiar to unicorns.  After all, how often do you see a unicorn?
 
@@ -231,7 +231,7 @@ Another feature of the castle is the gargoyles that guard the grand staircase fr
 
 # Faerie
 
-Between the realms of men lie the mythical domains of the faerie – great dark woods unexplored by human foot or thought. Kingdoms of the immortals lie beyond settled lands. Their cities and castles appear and vanish like mist. Their magical residents often visit the world of men.
+Between the realms of men lie the mythical domains of the faerie - great dark woods unexplored by human foot or thought. Kingdoms of the immortals lie beyond settled lands. Their cities and castles appear and vanish like mist. Their magical residents often visit the world of men.
 
 Bold human questers enter the faerie realm to seek the greatest of adventures. From the domain of faerie comes the magic that enchants Britain. Ancient rites and songs echo in the challenges and prizes of adventure.
 
@@ -239,7 +239,7 @@ Bold human questers enter the faerie realm to seek the greatest of adventures. F
 
 ## In the Hall of Oberon, King of the Seelie Fae
 
-The Seelie relinquish power at Samhain (winter solstice – last night of October) and take over again at Beltane. Samhain is the time to choose between rebellion and redemption. At dawn, the Samhain mists force memories from the minds of those who yearn to forget.
+The Seelie relinquish power at Samhain (winter solstice - last night of October) and take over again at Beltane. Samhain is the time to choose between rebellion and redemption. At dawn, the Samhain mists force memories from the minds of those who yearn to forget.
 
 - _[[Oberon|Oberon]] and Titania_. Oberon carries Gorias, the sword of Lugh of the Long Arm that makes the wearer invincible in battle.
 - _Puck_ ^23db36

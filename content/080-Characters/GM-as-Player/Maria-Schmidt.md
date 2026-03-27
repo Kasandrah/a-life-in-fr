@@ -14,7 +14,7 @@ A character in [[Craig-B|Craig B.'s]] WWII campaign run under the D20 Modern sys
 
 ## Character Sheet
 
-**_[[d20m_maria_schmidt.pdf|Lieutenant Maria Schmidt]]_, D20 Modern, PCGen**
+**_[[d20m_schmidt_maria.pdf|Lieutenant Maria Schmidt]]_, D20 Modern, PCGen**
 
 ## Touch of the Wolf
 

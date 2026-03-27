@@ -4,6 +4,7 @@ aliases:
 tags: one-night-plays
 title: Rome 83 AD
 draft: false
+aat-render-enabled: false
 ---
 # Rome 83 AD
 
@@ -22,7 +23,7 @@ Domitian is popular with troops in the field as he is improving the lot of soldi
 
 Senators, freedmen and others have been arrested, tortured and executed on charges of conspiracy. This massacre of the nobles and the Senate has Rome afraid of him. Domitian has ordered several Vestal Virgins be put to death for impurity. He orders strict supervision of public morals and persecutes the Jews and the Christians. His niece Flavia Domitilla supports Christianity and helps Christians escape persecution.
 
-The Colosseum – originally called the Flavian Amphitheatre, stands on a marshy site between the Caelian and Esquiline hills near the lake of Stagnum Neronis.
+The Colosseum - originally called the Flavian Amphitheatre, stands on a marshy site between the Caelian and Esquiline hills near the lake of Stagnum Neronis.
 
 ## Day One, Prison Beneath the Colosseum
 
@@ -38,7 +39,7 @@ Seven Vestal Virgins are imprisoned in cells across the hall from Tatianus. He r
 
 Visit by Livillia (Lillane) to convert Tatianus into a ghoul so that he will survive in the arena. She arrives with the guard bringing the evening meal, having willed all in the immediate area not to notice her. She merges with the dark, then appears to the group in the cell.
 
-Tatianus calls her a Daughter of Proserpine (Goddess of the Underworld). Livillia corrects him – she is a Daughter of [[Lilith|Lilith]]. The Jew is horrified as he now knows that she is a vampire.
+Tatianus calls her a Daughter of Proserpine (Goddess of the Underworld). Livillia corrects him - she is a Daughter of [[Lilith|Lilith]]. The Jew is horrified as he now knows that she is a vampire.
 
 Livillia convinces Tatianus to accept her by telling him he can save his sister. If he protects Julia until dusk, then the Emperor will grant them freedom. Livillia takes a small silver dagger and cuts open the vein in her wrist, then offers her wrist to Tatianus, who drinks her blood. His wounds heal.
 
@@ -46,7 +47,7 @@ Livillia leaves by "stepping into the dark", then accompanying the guard who has
 
 ## Day Two, The Games
 
-Begins with a parade of participants (prisoners in chains and guarded by Gladiators – some few women warriors), beasts and their handlers, performers, etc. Domitian and his entourage arrive mid-morning.
+Begins with a parade of participants (prisoners in chains and guarded by Gladiators - some few women warriors), beasts and their handlers, performers, etc. Domitian and his entourage arrive mid-morning.
 
 In the mid-afternoon Tatianus, his cellmates and the Vestals are taken to the arena. Blood, sand, beasts, then gladiators. Three of the Vestals are killed by lions, as are both the Christians, the Jew and the Senator. Finally, at dusk, Tatianus combats some gladiators over Julia and the three other surviving Vestals. The crowd wants Tatianus to die (thumbs up).
 

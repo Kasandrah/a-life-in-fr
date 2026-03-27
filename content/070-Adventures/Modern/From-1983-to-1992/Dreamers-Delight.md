@@ -9,7 +9,7 @@ timelines:
   - Modern Timeline
 fc-date: 1992-02-04
 fc-end: 1992-02-10
-fc-category: From 1878 to 1926
+fc-category: From 1983 to 1992
 fc-display-name: Dreamer's Delight
 title: Dreamers Delight
 draft: false
@@ -24,11 +24,11 @@ draft: false
 
 | Player Characters                             | Non-Player Characters                                              |
 | --------------------------------------------- | ------------------------------------------------------------------ |
-| _[[Dresdina-Belle-Cooper\|Cooper, Dresdina]]_ | _[[Athos\|Athos]]_                                                 |
-|                                               | _Baroch, Momma_ – runs The Spangled Cat, a lodging house in Ulthar |
-|                                               | _Curren_ – Athos’ deputy                                           |
-|                                               | _O’Dei, Francis_ – Jocelyn’s second-in-charge                      |
-|                                               | _Shadowdancer, Jocelyn_ – head of Shadow Investigations            |
+| _[[Dresdina-Cooper\|Cooper, Dresdina]]_ | _[[Athos\|Athos]]_                                                 |
+|                                               | _Baroch, Momma_ - runs The Spangled Cat, a lodging house in Ulthar |
+|                                               | _Curren_ - Athos’ deputy                                           |
+|                                               | _O’Dei, Francis_ - Jocelyn’s second-in-charge                      |
+|                                               | _Shadowdancer, Jocelyn_ - head of Shadow Investigations            |
 
 ## Contents
 
@@ -126,7 +126,7 @@ Dresdina knew the Beast would destroy everything it touched if it ever came thro
 
 Dresdina still wasn’t ready to tell Jocelyn about the Beast. “Why haven’t you been able to find Algren’s home yourself?” asked Dresdina.
 
-“I can’t go to the Dreamlands any more. Although you can’t be physically hurt there – the damage doesn’t transfer to your real body when you wake up – if you are killed there, you can never return.” Jocelyn looked grim. “I was killed last time I was there.”
+“I can’t go to the Dreamlands any more. Although you can’t be physically hurt there - the damage doesn’t transfer to your real body when you wake up - if you are killed there, you can never return.” Jocelyn looked grim. “I was killed last time I was there.”
 
 Dresdina believed in destiny. She had always known that it would eventually come down to her and the Beast. “So, how do we start?”
 
@@ -144,7 +144,7 @@ Jocelyn looked hard at Dresdina, but said nothing more. Dresdina was relieved. T
 
 That evening Dresdina prepared for bed with more than her usual trepidation.  She believed she had already been to the Dreamlands, before she knew the name of her nightmare realm.  She eyed dubiously the small vial given to her by Jocelyn.  It was a plain chemist’s beaker containing a multi-hued viscous liquid.  She had never used an aid to dream before, but Jocelyn insisted on its use.  Dresdina lay fully clothed on the bed and drank it down.  The effect was slow, drawing her down into a deep sleep, drawing her down a huge staircase.  Down and down and down.
 
-Dresdina found herself standing naked in front of two priests, surprised at her lack of embarrassment or shame.  The priests looked into her soul, piercing her to her core.  They asked questions about why she wanted to enter the Dreamlands.  It didn’t occur to her to lie – it just seemed as natural as her nakedness to tell them about Algren and about Jocelyn’s request.  They didn’t make any comments, just nodded and scribbled something in an impressive tome.
+Dresdina found herself standing naked in front of two priests, surprised at her lack of embarrassment or shame.  The priests looked into her soul, piercing her to her core.  They asked questions about why she wanted to enter the Dreamlands.  It didn’t occur to her to lie - it just seemed as natural as her nakedness to tell them about Algren and about Jocelyn’s request.  They didn’t make any comments, just nodded and scribbled something in an impressive tome.
 
 They pointed towards a table on which lay a small old-fashioned knife, a small purse of unfamiliar coins and the clothes in which she had gone to sleep.  Dresdina moved over to the table and picked up her clothes.  On closer inspection she discovered unfamiliar, simple tie fastenings, wooden buttons and fine cotton weave, rather than synthetic fibre.  The knife was well made and sharp.  The priests gave her leave to continue climbing down the seemingly endless staircase.
 
@@ -276,7 +276,7 @@ The Spangled Cat was a clean, safe looking place, not at all like some of the ro
 
 Dresdina stepped carefully over a large orange tiger-stripped roly-poly specimen lying just inside the door, one of many inside the inn.  Too much stew for that one!  People who liked cats automatically went up several notches in Dresdina’s estimation, but this level of tolerance and encouragement was unusual.
 
-Curren hailed a woman.  She was all stereotype – huge build with a peasant blouse, mobcap and voluminous skirts.  When Curran mentioned that Athos had sent him, she beamed at Dresdina.
+Curren hailed a woman.  She was all stereotype - huge build with a peasant blouse, mobcap and voluminous skirts.  When Curran mentioned that Athos had sent him, she beamed at Dresdina.
 
 “Another stray kitten to care for!  Come in dearie, make yourself at home.”  She showed Dresdina to a table, magically cleared for her at a nod, and called for food and drink.  A serving woman placed a bowl of stew, the same as had been fed to the cats by all appearances, and a mug of beer in front of Dresdina.
 
@@ -556,7 +556,7 @@ So Dresdina was the stronger Dreamer of the two of them.  She would have to be 
 
 “As it stands now very soon I will wake up screaming again.  That’s not something that anyone has been prepared to deal with on a long-term basis in the past, so I usually wake up alone.  It’s easier that way.  It’s not what I want, but it works best for me.”
 
-Athos was very thoughtful.  “When I said that I hadn’t ever heard of someone from the Dreamlands bodily visiting the Waking World, I was referring to people.  There are other creatures who can do what you say – Elder and Outer gods and their minions, and cats swap back and forth all the time, of course.”
+Athos was very thoughtful.  “When I said that I hadn’t ever heard of someone from the Dreamlands bodily visiting the Waking World, I was referring to people.  There are other creatures who can do what you say - Elder and Outer gods and their minions, and cats swap back and forth all the time, of course.”
 
 “Why would any cat want to stay in the Waking World when they could be here?”
 

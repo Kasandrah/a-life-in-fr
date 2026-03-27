@@ -32,7 +32,7 @@ Also known as **"Wings of Nightmare"**.
 
 ## Involvement
 
-Alex was investigating the link between the Druid House hauntings and problems at Nelson Crossing. The only link between the two was Meia McConnell. After Alex contacted Meia she became involved with Meia’s group and their investigations at Nelson Crossing.
+Alex was investigating the link between the Druid House hauntings and problems at Nelson Crossing. The only link between the two was Meia McConnell. After Alex contacted Meia, she became involved with Meia’s group and their investigations at Nelson Crossing.
 
 After leaving Nelson Crossing, Alex accepted a job at Kenneth Allard’s Los Angeles film studios.
 

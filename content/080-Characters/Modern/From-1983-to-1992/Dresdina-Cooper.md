@@ -8,10 +8,10 @@ aliases:
 tags:
   - modern
   - player-character
-title: Dresdina Belle Cooper
+title: Dresdina Cooper
 draft: false
 ---
-# Dresdina Belle Cooper
+# Dresdina Cooper
 
 ![[cc_dresdina.jpg]]
 
@@ -155,4 +155,4 @@ Dresdina started off as a Call of Cthulhu character for whom I used [[Neil-F|Nei
 
 ### D20 Modern
 
-**_[[d20m_dresdina_belle_cooper.pdf|Dresdina Cooper]]_, D20 Modern, PCGen**
+**_[[d20m_cooper_dresdina.pdf|Dresdina Cooper]]_, D20 Modern, PCGen**

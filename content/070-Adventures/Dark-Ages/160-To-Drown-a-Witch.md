@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: To Drown a Witch
 draft: false
+aat-render-enabled: false
 ---
 # To Drown a Witch
 
@@ -11,7 +12,7 @@ draft: false
 
 Gwyn sat in front of the tiny mirror and watched as Juanita put the finishing touches to her appearance. The maid had been a useful addition to their household in Aragon. It was all very well to have a sojourn here, but being at any court was easier with a local person to advise on the right clothes to wear, the right people to speak to and the potential trouble to avoid. Juanita was an inveterate gossip, but a loyal one and a fount of knowledge on all manner of subjects.
 
-Normally Juanita would also chatter away about her lover. If everything she said were to be taken at face value, he was a paragon of virtue – kind, gentle, loving, considerate… Gwyn could well recognise such strength of feeling. She only had to look at Owain to feel it herself.
+Normally Juanita would also chatter away about her lover. If everything she said were to be taken at face value, he was a paragon of virtue - kind, gentle, loving, considerate… Gwyn could well recognise such strength of feeling. She only had to look at Owain to feel it herself.
 
 However, there was growing doubt in her mind about the situation. Normally open, Juanita was careful never to speak his name. She was evasive whenever Gwyn tried to ask. And tonight she seemed distracted. There was something definitely wrong here and Juanita was sensing it too.
 
@@ -95,4 +96,4 @@ That was how she made the suggestion to Juanita. She told her that she had a pot
 
 The following day broke bright and fair. A perfect day to drown a witch. The little procession made its way to a pond outside the city walls. Alvarez made no last minute appearance. Juanita did not float. Owain arranged a Christian burial for her body, and then he and Gwyn left the city, clearly displeased with the turn of events.
 
-Which left the hard part for the journey home – explaining it all to Juanita.
+Which left the hard part for the journey home - explaining it all to Juanita.

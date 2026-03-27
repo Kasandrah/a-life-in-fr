@@ -4,12 +4,13 @@ aliases:
 tags: dark-ages
 title: To Hell and Back
 draft: false
+aat-render-enabled: false
 ---
 # To Hell and Back
 
 **Written by [[Ben-G|Ben G.]] (Raushan)**
 
-The following month, after Monico and Rafi had gone on their outing to see the unicorns, our Sire informed us of our next undertaking. Lillane told us that the Emissary from Arcadia, Charon the Ferryman, had asked for her help, again in exchange for some unspecified favor. It seems that there is a war for possession of the Lands of the Dead, so Lillane sends us on our way. But before we are led of to the Circle in the Cellar, Lucio gives me a weapon of last resort; it is a perfume bottle containing something that must be wafted at whomever to take effect. Without any further ado, bar thanks, we go to the Circle in the Cellar, and we are sent straight to Hell – one at a time.
+The following month, after Monico and Rafi had gone on their outing to see the unicorns, our Sire informed us of our next undertaking. Lillane told us that the Emissary from Arcadia, Charon the Ferryman, had asked for her help, again in exchange for some unspecified favor. It seems that there is a war for possession of the Lands of the Dead, so Lillane sends us on our way. But before we are led of to the Circle in the Cellar, Lucio gives me a weapon of last resort; it is a perfume bottle containing something that must be wafted at whomever to take effect. Without any further ado, bar thanks, we go to the Circle in the Cellar, and we are sent straight to Hell - one at a time.
 
 The Lord Charon and a large, dead, Viking leader named Lars greet our party atop a high plateau. Below us is a battle that stretches along a big wall, further than we can see. Defending atop the wall are humans (well, as much as the dead can be human), and attacking them are masses of big black creatures that Lars tell us are orcs. The orcs are swarming up against the walls, and scaling them using ladders, and the defenders are swarming them as they get there. Siege engines can be seen spread throughout the ranks of the orcs.
 
@@ -49,7 +50,7 @@ We return to the Circle on the plateau, and I say that I must go first with Seth
 
 I take Seth out to the yard, while Gwyn stays at the Circle and thinks of going to Lillane. She said to us afterwards that she saw the others fade out and she was alone, but she could now sense a very, very angry Lillane somewhere beyond the door. When she tried to go through it, she was almost run through by Rollon and Tomas and the guards and Rafi’s troop and then Lucio and Lillane (a lot of people in a very small area). Gwyn pushed through and knelt before Lillane and confessed all. To the rest of the party, Gwyn had just vanished.
 
-Shortly afterwards, Owain tried the same thing and also vanished. Then Monico also does the same. Of course, Lillane had instructed that no one was going back through the Circle. Her description was that we had been diverted to the false Sadaba as a defence for the Circle when something very dangerous is trying to pass through it – Seth!
+Shortly afterwards, Owain tried the same thing and also vanished. Then Monico also does the same. Of course, Lillane had instructed that no one was going back through the Circle. Her description was that we had been diverted to the false Sadaba as a defence for the Circle when something very dangerous is trying to pass through it - Seth!
 
 On our end, I decide that since I can’t take Seth to the real world I will cut the middle out and take him to be redeemed. I may not know much but the opposite of hell is heaven, so I begin to prepare things to attempt to summon the Archangel Mikhail.
 

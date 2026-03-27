@@ -132,7 +132,7 @@ Well, I started at 5.00 pm on this reply and it's now 11.12 pm.  I wanted to ge
 
 I hope I'll see you on Friday - it won't be the same without you and I'd hazard a guess and say that other groups don't play the way we do.  I wouldn't like to lose it either.
 
-Regards – Sharon
+Regards - Sharon
 
 ---
 
@@ -159,17 +159,17 @@ Jenny.
 
 ---
 
-PS – following on from your reply to date.
+PS - following on from your reply to date.
 
 The choice between playing Hadra or Sari is up to you.  I’m just reminding you of why Sari was created in the first place.  I don’t want Hadra “minding the ship” while the rest of the PCs get down to business planet side.  There was enough of that in the past for you to want a second character.  I can’t guarantee that this situation won’t come up again, especially if Hadra is the only pilot in the group.
 
 An alternative is to make another pilot available who can baby sit the ship while the rest of you are off doing things.  However, I don’t see Hadra sitting still and letting another pilot fly the ship when she sees that as her best skill.  Its also very hard to find a better pilot than Hadra at short notice, and finding one to fly the ship she’s on won’t do her ego any good.
 
-A third option is to take the Maker, and the Starwind and the Kierra on away missions.  This is what we are doing at the moment and it’s working with the exception that the boys consider Hadra’s crew superfluous to requirements – i.e. an imbalance between the resources that each player can apply in the game.  Hadra is their Captain – her crew will do what she tells them to.
+A third option is to take the Maker, and the Starwind and the Kierra on away missions.  This is what we are doing at the moment and it’s working with the exception that the boys consider Hadra’s crew superfluous to requirements - i.e. an imbalance between the resources that each player can apply in the game.  Hadra is their Captain - her crew will do what she tells them to.
 
 We haven’t tested this in the game yet, but if the three ships went somewhere else and the action took place planet side, then what will Hadra’s crew be doing?  I don’t see “just wait here until I get back” working when they know she’s off to do something dangerous for the Alliance.  It’ll be “lock up the Maker and follow the Captain”.
 
-Also, you’ve raised the problem of Hadra moving on from the Maker – she made a deal with the crew and doesn’t want to back out now.  Hadra’s willingness to move on will be dependant on, among other things, the Maker’s new Captain and whether or not Jayme stays onboard.
+Also, you’ve raised the problem of Hadra moving on from the Maker - she made a deal with the crew and doesn’t want to back out now.  Hadra’s willingness to move on will be dependant on, among other things, the Maker’s new Captain and whether or not Jayme stays onboard.
 
 I think that unless Hadra accepts her Jedi abilities and wants to train full time under Dermod, there will be no separating her from the Maker and her crew.  There is no reason to do that when she’s doing what she does best for the Alliance.  Also, General Madine isn’t about to break up such a successful crew for any “half baked, dangerous Jedi nonsense”, and anything but the truth is not going to get past him.
 
@@ -179,7 +179,7 @@ Not everyone aboard the base was disinterested in Jess’ death.  You haven’t
 
 I have first hand from two Grandfathers who served during WW2 that people operating in war zone didn’t talk about those who had been killed, as that would “attract bad luck”.  You just put your head down and kept going until you either got killed or got out.  It was that denial of death and the dead that made them able to keep going.
 
-I can list off a large number of base personnel that have never displayed any enmity towards Jess – have a read of Storming Home again.  Leith covers that when he’s trying to determine why Jess was thrown off the base.  Yes, individual base personnel were making it their life’s work to get Jess off the base, but there are many there who actively supported her.  There are a few who feel her loss keenly.
+I can list off a large number of base personnel that have never displayed any enmity towards Jess - have a read of Storming Home again.  Leith covers that when he’s trying to determine why Jess was thrown off the base.  Yes, individual base personnel were making it their life’s work to get Jess off the base, but there are many there who actively supported her.  There are a few who feel her loss keenly.
 
 Boddi didn’t like Jess, that’s true - no prizes for that one.  However, when Jess returned as Hadra that was the last straw as far as Boddi was concerned.  As long as Jess hides from her problems Boddi will consider her unfit to be a Jedi.  Now that Hadra doesn’t believe she has Jedi skills and doesn’t want to continue training, Boddi considers her job done.
 
@@ -191,17 +191,17 @@ However, they have also always stated that they enjoy the games immensely, other
 
 If we are going to sit down at an open roundtable and discuss these issues, it needs to be conducted in light of the above.  I don’t want to lose any players out of it.
 
-Also, I know that both you and I intimidate the hell out of the boys – they have told me as much.  They find it particularly hard to confront either of us with a problem.  They are highly unlikely to raise anything like this with you because they are afraid that you will bite their heads off.
+Also, I know that both you and I intimidate the hell out of the boys - they have told me as much.  They find it particularly hard to confront either of us with a problem.  They are highly unlikely to raise anything like this with you because they are afraid that you will bite their heads off.
 
 I’m not joking.
 
 My concern is that you have already told me that you find dealing in person with situations where you anticipate conflict very difficult.  That makes two of us, by the way.  I thought that was why I’m up so late two nights in a row laboriously typing out long emails.  I don’t want you disadvantaged in any discussion with the boys because of that.
 
-However, I think if we can have an open discussion without taking things personally – after all, it is only gaming – it will be good practice for all of us for real life.  How about that – FRP leads to life skills.  Who have thought it possible?
+However, I think if we can have an open discussion without taking things personally - after all, it is only gaming - it will be good practice for all of us for real life.  How about that - FRP leads to life skills.  Who have thought it possible?
 
-Regards – Sharon
+Regards - Sharon
 
-PS – Glad to hear I’m not Neil at his worst.  I’ll stop drafting that for sale ad for “slightly used” FRP gear.  Pity, I probably could have paid off the alarm system out of the proceeds.
+PS - Glad to hear I’m not Neil at his worst.  I’ll stop drafting that for sale ad for “slightly used” FRP gear.  Pity, I probably could have paid off the alarm system out of the proceeds.
 
 ---
 
@@ -212,7 +212,7 @@ Dear Sharon,
 There’s a lot here and a lot of underlying stuff, so I’ll try and sort this into some kind of order. 
 
 **Star Wars**
-I think the main question here is where is this campaign going? (And I mean the physical location most of all.) If it is going to be still set on the base, then a lot of the questions are moot. If it is going to be a case of moving the Jedi to a secret location, then you have a lot bigger problems than my characters – you still have the problem of Wazza. I am also not clear on how you are going to run the Jedi training for the PCs. I can’t imagine that you want to split us all up and send us in different directions for a year or two. (Or at least that you want to run through it for any extended period of time on a Friday night.) 
+I think the main question here is where is this campaign going? (And I mean the physical location most of all.) If it is going to be still set on the base, then a lot of the questions are moot. If it is going to be a case of moving the Jedi to a secret location, then you have a lot bigger problems than my characters - you still have the problem of Wazza. I am also not clear on how you are going to run the Jedi training for the PCs. I can’t imagine that you want to split us all up and send us in different directions for a year or two. (Or at least that you want to run through it for any extended period of time on a Friday night.) 
 
 As I see it, both characters can be squeezed into the campaign with a bit of tweaking and provided they are going to be accepted. If the only way that is going to happen is if they divest themselves of all friends and resources, then this is not going to work no matter what I do. (More on that later.) To be more specific...
 
@@ -240,11 +240,11 @@ The disguise was assumed for several reasons: 1) To provide the Maker with a lea
 
 Hadra can be recognised for her heroic sacrifice later. In the meantime, Jess is honouring her name by continuing her work. If her crew (who knew Hadra far better than Jess did) don’t see this as a problem, why should Jess? Hadra was so much more than a name on a plaque.
 
-Jess/Hadra already knew that she wasn’t ready. Boddi didn’t have to test her to tell her that. You can’t really compare Hadra and Luke – Hadra isn’t running around trying to do anything at all with the Force. Jess has come a long way in facing her problems. Remaining as Hadra actually helps her resolve more without the baggage that Jess was saddled with. Give her a break! Reforming your character doesn’t happen overnight! At least her reasons for giving up pretending she’s a Jedi are altruistic, if mistaken.
+Jess/Hadra already knew that she wasn’t ready. Boddi didn’t have to test her to tell her that. You can’t really compare Hadra and Luke - Hadra isn’t running around trying to do anything at all with the Force. Jess has come a long way in facing her problems. Remaining as Hadra actually helps her resolve more without the baggage that Jess was saddled with. Give her a break! Reforming your character doesn’t happen overnight! At least her reasons for giving up pretending she’s a Jedi are altruistic, if mistaken.
 
-Actually, Jess has run from a fight several times – we started her off running from na Dago, after all! She ran from the base, she ran from herself... Why break an in-grained survival habit? And the truth of it is that she doesn’t really care enough about being a Jedi to fight for it. She doesn’t care enough about Boddi to bother to prove her wrong. However, she is refusing to run away from her commitment to the maker’s crew. Is this the first sign of becoming responsible?
+Actually, Jess has run from a fight several times - we started her off running from na Dago, after all! She ran from the base, she ran from herself... Why break an in-grained survival habit? And the truth of it is that she doesn’t really care enough about being a Jedi to fight for it. She doesn’t care enough about Boddi to bother to prove her wrong. However, she is refusing to run away from her commitment to the maker’s crew. Is this the first sign of becoming responsible?
 
-When has Hadra tried to give direct orders to the Starwind crew? And with regard to Hadra trying to pull rank – if you remember, she didn’t initiate that situation, Roger did. Ben asked who the highest ranking officer was, assuming it was Roger. Until that point, I hadn’t thought about it. (And when it was pointed out that Hadra outranked him, rank immediately became an unacceptable way of resolving the situation.) Even then Hadra didn’t pull rank, she presented her reasons for her suggestion. If the obstacles had proved insurmountable, she would have backed down. What she wasn’t prepared to consider was a waste of potential Alliance resources for no good reason. (Ironic, isn’t it?)
+When has Hadra tried to give direct orders to the Starwind crew? And with regard to Hadra trying to pull rank - if you remember, she didn’t initiate that situation, Roger did. Ben asked who the highest ranking officer was, assuming it was Roger. Until that point, I hadn’t thought about it. (And when it was pointed out that Hadra outranked him, rank immediately became an unacceptable way of resolving the situation.) Even then Hadra didn’t pull rank, she presented her reasons for her suggestion. If the obstacles had proved insurmountable, she would have backed down. What she wasn’t prepared to consider was a waste of potential Alliance resources for no good reason. (Ironic, isn’t it?)
 
 That was always Jess’ complaint about the Alliance. She may have been loud and obnoxious. Nevertheless, she always did as she was asked, unless there was a very good reason not to. As she told Leith, her main reason for not joining the Alliance was to prevent them using her in stupid ways. Actually, it was the players who told me in words of one syllable that Jess was not welcome when I got back from Brisbane.  There was never a hint that there might be a way of getting their PCs to accept her back. That’s why it has remained a secret to them. 
 

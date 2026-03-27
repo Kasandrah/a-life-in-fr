@@ -184,7 +184,7 @@ _[[Diana-Elizabeth-Winthrop|Winthrop, Diana Elizabeth]]_
 
 ### New York - New York City
 
-_[[Dresdina-Belle-Cooper|Cooper, Dresdina]]_
+_[[Dresdina-Cooper|Cooper, Dresdina]]_
 
 _Hudson, Dr. Morris_ - headed the NASA team sent to Gove to investigate the cause of the contamination aboard the space shuttle and its unauthorised landing in Kansas.  He is a passable scientist and a skilful administrator whose greatest fear is that this fresh disaster will ground the shuttle program for years.
 

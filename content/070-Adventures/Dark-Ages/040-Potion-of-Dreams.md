@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: Potion of Dreams
 draft: false
+aat-render-enabled: false
 ---
 # Potion of Dreams
 
@@ -27,7 +28,7 @@ Monico advises I assume my falcon-form to make the search quicker. After having 
 
 Monico and I try to find out from him what it is supposed to do and he says it can give us almost whatever we want. With a little feeling of trepidation but with a much greater feeling of curiosity and general trust in Lucio, we drink some of the potion.
 
-After have our sips, Monico and I look at each other, then at Lucio, then at … there is no one else here! Lucio says they left while we were in a daze, otherwise there seems to have been no other effect. Monico decides to go out to the library, but on the way he sees no one … in the entire castle! Meanwhile I look out the window, but don’t notice anything… but when I walk away Lucio calls me back to the window. When I get there, we watch the dawn break … the DAWN!!! I’m … dreaming! But this is something I haven’t done for over 400 years … not since I was a mortal. Here, we can do whatever we can think to do. Monico is in the library, a library which stretches beyond what the eyes can see – well beyond the walls of the castle, when I enter to grab a few books and the best food and wine, and go outside to repose in the sun.
+After have our sips, Monico and I look at each other, then at Lucio, then at … there is no one else here! Lucio says they left while we were in a daze, otherwise there seems to have been no other effect. Monico decides to go out to the library, but on the way he sees no one … in the entire castle! Meanwhile I look out the window, but don’t notice anything… but when I walk away Lucio calls me back to the window. When I get there, we watch the dawn break … the DAWN!!! I’m … dreaming! But this is something I haven’t done for over 400 years … not since I was a mortal. Here, we can do whatever we can think to do. Monico is in the library, a library which stretches beyond what the eyes can see - well beyond the walls of the castle, when I enter to grab a few books and the best food and wine, and go outside to repose in the sun.
 
 Half the day has gone by in forms of pleasures, which I had long missed. When the temperature drops suddenly, and the claps of thunder arise all around me. A gigantic stroke of lightning strikes the ground nearby from the gathering clouds above that are forming faster than the sea tide comes in. My first thoughts are to reach Lucio’s side, as soon as I can.
 

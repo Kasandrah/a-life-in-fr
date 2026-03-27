@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: The Search
 draft: false
+aat-render-enabled: false
 ---
 # The Search
 
@@ -11,7 +12,7 @@ draft: false
 
 It was shortly after our return from destroying the demons from the star that I approached the Lady Lillane. It is not something I normally do, but I was concerned about Gwyn. After so long, I could recognise the signs of her interest in something that was likely to be dangerous to her. As ever, Gwyn did not consider this danger, merely the desire to investigate a curiosity.
 
-On our journey west, Gwyn had flown out to scout, as is her habit. She had encountered a Knight Templar and his lady. At the time, the lady was being burnt at the stake as a witch. How Gwyn resisted freeing her is beyond my comprehension. For once she was aware of her own shortcomings – caught alone without weapons or armour and in a position that would mark her as a witch herself if she interfered. She must have felt highly frustrated at her inability to effectively intervene.
+On our journey west, Gwyn had flown out to scout, as is her habit. She had encountered a Knight Templar and his lady. At the time, the lady was being burnt at the stake as a witch. How Gwyn resisted freeing her is beyond my comprehension. For once she was aware of her own shortcomings - caught alone without weapons or armour and in a position that would mark her as a witch herself if she interfered. She must have felt highly frustrated at her inability to effectively intervene.
 
 The Knight did. He attacked the villagers and, with a sword stroke, cut the lady free. Gwyn followed them as they rode from the village. She fled when the knight prayed for healing for his lady and returned to witness that it had indeed happened. This was a holy knight indeed, something we had not expected from the Templars.
 
@@ -19,7 +20,7 @@ It might have been merely of passing interest, but Gwyn overheard some of their 
 
 I shudder every time I think of how much danger my love put herself in for two total strangers who had no call on her loyalty. Being able to tell that Gwyn was different, the knight was able to see that she was telling the truth. However, he then saw Gwyn as the enemy. Unaware at first of the danger, she escaped only narrowly from his wind-summoning prayers.
 
-Even now, she underestimates her weaknesses. As she has remained devout, she cannot accept that those of her own faith can cause great harm to what she has become. I had to protect her from her own curiosity about the fate of the two lovers. We knew that the knight had gone to Saragossa to investigate the miraculous appearance of the Archangel Michael – unaware that it was Gwyn herself who had been responsible. We suspected that the squire he had acquired was actually his lady. However, Gwyn wanted to know more, and that I could not allow. So I went to Lillane.
+Even now, she underestimates her weaknesses. As she has remained devout, she cannot accept that those of her own faith can cause great harm to what she has become. I had to protect her from her own curiosity about the fate of the two lovers. We knew that the knight had gone to Saragossa to investigate the miraculous appearance of the Archangel Michael - unaware that it was Gwyn herself who had been responsible. We suspected that the squire he had acquired was actually his lady. However, Gwyn wanted to know more, and that I could not allow. So I went to Lillane.
 
 "Lady Lillane, I have been talking to the monks who are staying here. There are some very interesting rumours about the pilgrim paths through the Pyrenees. As you know, it was never conquered by the Moors."
 
@@ -73,9 +74,9 @@ Afterwards, Gwyn and I spent some time in private prayer in the different alcove
 
 The following night, I informed the monks that my wife had dreamt of San Virilia. He had told her that if she could find the spring, she would be cured. Anxious for our safety, the monks tried to talk us out of the search, but Gwyn remained firm. She did however consent to a monk being assigned to act as a guide.
 
-Frolian was an earnest young man, prone to lecturing. Gwyn merely ignored his outraged sensibilities, pointing out that it would be impossible to climb a mountain in skirts, so unless he planned to carry her, she had no choice but to travel in men’s clothing. She added that in her country, women were all trained to fight – a blatant lie that only I could dispute. And the sword was only for protection against the wolves she’d heard inhabited this region.
+Frolian was an earnest young man, prone to lecturing. Gwyn merely ignored his outraged sensibilities, pointing out that it would be impossible to climb a mountain in skirts, so unless he planned to carry her, she had no choice but to travel in men’s clothing. She added that in her country, women were all trained to fight - a blatant lie that only I could dispute. And the sword was only for protection against the wolves she’d heard inhabited this region.
 
-Frolian spluttered more complaints as we travelled. I soon wondered if that was the reason he had been sent with us but I could see his point. Once away from the monastery, Gwyn soon reverted to true form – hardly the model of a well-bred young lady. She was also obviously in charge of the expedition. I think I once heard something about her father not having beat her enough and I suspect Frolian thought I was lax in that area as well. I smiled at the thought of trying to beat Gwyn, even if I had wanted to.
+Frolian spluttered more complaints as we travelled. I soon wondered if that was the reason he had been sent with us but I could see his point. Once away from the monastery, Gwyn soon reverted to true form - hardly the model of a well-bred young lady. She was also obviously in charge of the expedition. I think I once heard something about her father not having beat her enough and I suspect Frolian thought I was lax in that area as well. I smiled at the thought of trying to beat Gwyn, even if I had wanted to.
 
 Finding a suitable place to rest the day was difficult, but we managed. Frolian slept as well, worn out by his talking I suspect. I need little sleep, so I explored the immediate area. I had thought Frolian was taking us along a woodcutter’s trail, but now I wasn’t sure. There was no evidence of recent cutting, but I was certain the trail had been recently used. When I questioned him about it later, he denied any knowledge of other pilgrims coming this way recently. I began to worry about the possibility of bandits or smugglers on the way. Gwyn could handle them easily, but it would reveal too much to Frolian.
 
@@ -109,7 +110,7 @@ As he lumbered off, I knocked down the Templar. Seeing the chance, I gathered Gw
 
 We lost Frolian in the fight. Quite possibly, he saw Gwyn in action and fled. He must already have begun to suspect that there was more to her than we were admitting. I had more on my mind. Dawn was close, and I had to get Gwyn undercover.
 
-It was sheer accident – or a miracle – that I found the cave. I had thought I might be able to excavate an area at the base of a cliff. When I pushed aside the bushes, I almost fell into the opening. I helped Gwyn inside and got her comfortable. She was asleep before the first rays of light struck the cliff.
+It was sheer accident - or a miracle - that I found the cave. I had thought I might be able to excavate an area at the base of a cliff. When I pushed aside the bushes, I almost fell into the opening. I helped Gwyn inside and got her comfortable. She was asleep before the first rays of light struck the cliff.
 
 I watched over her as she slept. She would be hungry when she woke, but Frolian was gone. I hoped he would be able to make his way back to the monastery. I was probably needlessly concerned about Gwyn. It’s easy to forget how a youthful, slight, sweet-looking girl can be so powerful and resilient.
 

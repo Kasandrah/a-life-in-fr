@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1996-12-09
+fc-end: 1996-12-15
+fc-category: USMC vs "What the … ?"
+fc-display-name: Sins of the Father
 title: Sins of the Father
 draft: false
 ---

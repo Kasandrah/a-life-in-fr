@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1999-05-15
+fc-end: 1999-05-27
+fc-category: USMC vs "What the … ?"
+fc-display-name: The Dark Side of the Moon
 title: The Dark Side of the Moon
 draft: false
 ---
@@ -15,7 +22,7 @@ draft: false
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _Banks, Agent Tara_  - FBI San Francisco office                                                                                                                        |
 | _[[Michael-B#^2a3d68\|Ford, Aaron]]_, guest PC                                        | _Beachy, Mr. Morris_ - Kyle Woodson’s neighbour, aimless retiree and friend of animals.                                                                                |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _Cox, David_ - Assistant Director of the Sanbourne Institute of Pacific Antiquities – a source of interesting information on Mayan connections with extraterrestrials. |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _Cox, David_ - Assistant Director of the Sanbourne Institute of Pacific Antiquities - a source of interesting information on Mayan connections with extraterrestrials. |
 | _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     | _[[010-Modern-Characters#^d263fb\|Donnelly, Susan]]_                                                                                                                   |
 | _[[USMC-Fireteam-SG-21#Major Kris Morrissey\|Morrissey, Major Kris]]_                     | _Green, Agent Casper_ - FBI San Francisco office                                                                                                                       |
 | _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         | _[[010-Modern-Characters#^46b6d3\|Mossman, Jamie]]_                                                                                                                    |
@@ -26,7 +33,7 @@ draft: false
 
 ## Background to Events
 
-### Kate’s Lagoon, northern Belize – late summer 1994
+### Kate’s Lagoon, northern Belize - late summer 1994
 
 An archaeological expedition from the University of Pennsylvania, headed by Dr. Paul Hughbanks and including Kyle Woodson and Susan Donnelly, carries out a survey and dig.  Rumours of a huge unexplored site in the nearby jungle called El Cacao led Hughbanks to set up a team to survey and possibly excavate.
 
@@ -60,15 +67,15 @@ After a thorough analysis of the information obtained, Agents Banks and Simonson
     
 - Woodson’s most serious injuries when admitted to Cal Med/San Francisco were to the top of his head, almost as if he had dived headfirst into the front of the car, and his face was badly lacerated, as reported by emergency room personnel
     
-- a Mrs. Felice Woodson was contacted by emergency room personnel after they saw her name and phone number scrawled into the “next of kin” field in Woodson’s passport – she took Woodson’s passport and personal effects (a tentative description of her has been provided by witnesses)
+- a Mrs. Felice Woodson was contacted by emergency room personnel after they saw her name and phone number scrawled into the “next of kin” field in Woodson’s passport - she took Woodson’s passport and personal effects (a tentative description of her has been provided by witnesses)
     
-- subsequent testimony from Woodson’s colleagues, including Donnelly and his neighbour Beachy, states that Woodson was a loner who had never, to their knowledge, been married – his employment records confirm this
+- subsequent testimony from Woodson’s colleagues, including Donnelly and his neighbour Beachy, states that Woodson was a loner who had never, to their knowledge, been married - his employment records confirm this
     
 - the police and the FBI have no records of a Mrs. Felice Woodson
     
-- no records of Woodson exist at Cal Med/San Francisco save for admitting doctor Herman Zanca’s examination report, and Zanca’s treatment and prescription orders (no HMO computer database records, no master file, no pharmacy records – all apparently deleted after the fact)
+- no records of Woodson exist at Cal Med/San Francisco save for admitting doctor Herman Zanca’s examination report, and Zanca’s treatment and prescription orders (no HMO computer database records, no master file, no pharmacy records - all apparently deleted after the fact)
     
-- the hasty transport and cremation of Woodson’s body was arranged illegally by Felice Woodson and carried out by hospital, mortuary, funeral home, and crematorium personnel – these serious irregularities in procedure involve violations in city regulation and criminal statutes of state law
+- the hasty transport and cremation of Woodson’s body was arranged illegally by Felice Woodson and carried out by hospital, mortuary, funeral home, and crematorium personnel - these serious irregularities in procedure involve violations in city regulation and criminal statutes of state law
     
 - a break in occurred at Woodson’s house on the same night as his death - Woodson’s neighbour, Maurice Beachy, reported a burglar next door and when police investigated, they found the Woodson’s house ransacked, no sign of forced entry and the burglar long gone
     
@@ -113,7 +120,7 @@ Donnelly and Agents Banks and Green visit David Cox, Assistant Director of the S
 
 After leaving the Institute, the team are followed by four men in a black sedan.  The driver of the black sedan loses the team when Agent Green turns their car around to confront the men in the sedan.  The team returns to its Los Angeles hotel rooms for the night.
 
-After waking from a horrible dream about El Cacao just after dawn, Donnelly discovers that her room has been searched – little things are subtly out of place.  The searcher(s) have gone to a lot of trouble to conceal the search.  She informs Agents Banks and Green, who inform Dean.  Dean sends the team to Arkham.
+After waking from a horrible dream about El Cacao just after dawn, Donnelly discovers that her room has been searched - little things are subtly out of place.  The searcher(s) have gone to a lot of trouble to conceal the search.  She informs Agents Banks and Green, who inform Dean.  Dean sends the team to Arkham.
 
 ### Arkham, Massachusetts
 
@@ -129,9 +136,9 @@ Dean calls in the Marines for an operation in Belize.  Why Belize?  Just after
 
 ## Highlights
 
-### Belize, Central America – Mid May, 1999
+### Belize, Central America - Mid May, 1999
 
-Belize is a British protectorate with a small English defence force.  As an ally of the United States, Belize will co-operate with US DEA “anti-drug” operations that extend into Belize.  This is the cover story for Dean’s investigation into Kate’s Lagoon, El Cacao, and surrounds – drug interdiction.  Dean directs _[[Michael-B#^2a3d68|Aaron Ford]]_ to Belmopan, Belize, to prepare the way for Colonel Snow and his team.
+Belize is a British protectorate with a small English defence force.  As an ally of the United States, Belize will co-operate with US DEA “anti-drug” operations that extend into Belize.  This is the cover story for Dean’s investigation into Kate’s Lagoon, El Cacao, and surrounds - drug interdiction.  Dean directs _[[Michael-B#^2a3d68|Aaron Ford]]_ to Belmopan, Belize, to prepare the way for Colonel Snow and his team.
 
 ### Belmopan, capital of Belize
 
@@ -189,7 +196,7 @@ If the thermonuclear option is used at Station Peru, the team have the time rema
 
 Once the Earth gates are all destroyed, the team is free to wander around unmolested.  Jamie Mossman tries the Stargate controller.  He can dial the chevrons for connection with the Cheyenne Mountain Gate, but a Mi-Go device attached to the controller is preventing the gate from activating.  Mossman informs Snow that the gate must be destroyed.  Snow has two more thermonuclear devices.  Time to use another one?
 
-_[[Athos|Athos]]_, Sheriff of Ulthar, _[[The-White-Magicians#Kellion O’Shea|Kellion O’Shea]]_, and several of Ulthar’s finest come through the Dreamlands gate, having activated it from the other side.  _[[Dresdina-Belle-Cooper|Dresdina Cooper's]]_ research into the diaries of _[[Diana-Elizabeth-Winthrop|Diana Elizabeth Winthrop van Hasalt]]_ has paid off big time.  The team should exit the base via the now active Dreamlands gate, leaving behind another timed thermonuclear detonation.
+_[[Athos|Athos]]_, Sheriff of Ulthar, _[[The-White-Magicians#Kellion O’Shea|Kellion O’Shea]]_, and several of Ulthar’s finest come through the Dreamlands gate, having activated it from the other side.  _[[Dresdina-Cooper|Dresdina Cooper's]]_ research into the diaries of _[[Diana-Elizabeth-Winthrop|Diana Elizabeth Winthrop van Hasalt]]_ has paid off big time.  The team should exit the base via the now active Dreamlands gate, leaving behind another timed thermonuclear detonation.
 
 On the other side of the Dreamlands gate awaits Cooper, some more of Ulthar’s finest, and a boarding detail from the Princess Ark, led by (?). Cooper is using Diana’s diary as a guide for how to get the team home.
 

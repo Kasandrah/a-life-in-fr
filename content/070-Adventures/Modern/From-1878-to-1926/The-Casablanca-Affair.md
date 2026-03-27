@@ -22,12 +22,12 @@ draft: false
 
 | Player Characters                     | Non-Player Characters                                                                         |
 | ------------------------------------- | --------------------------------------------------------------------------------------------- |
-| _[[Aletta-Yasmini\|Yasmini, Aletta]]_ | _[[Viktor-Besarab\|Besarab, Viktor]]_ – Capitaine de Legion Etranger                          |
-|                                       | _Hassan_ – Aletta’s houseboy                                                                  |
-|                                       | _Ikamande, Ipande_ – a Nigerian Muslim, son of the Deputy Fon of Kamande in northeast Nigeria |
+| _[[Aletta-Yasmini\|Yasmini, Aletta]]_ | _[[Viktor-Besarab\|Besarab, Viktor]]_ - Capitaine de Legion Etranger                          |
+|                                       | _Hassan_ - Aletta’s houseboy                                                                  |
+|                                       | _Ikamande, Ipande_ - a Nigerian Muslim, son of the Deputy Fon of Kamande in northeast Nigeria |
 |                                       | _[[Neil-F#^901589\|Jenks, Stanley]]_                                                     |
-|                                       | _Pons, Solar_ – famous “Inquiry Agent”                                                        |
-|                                       | _Sampson, Dr Mahmud_ – surgeon called in to treat Pons’ gunshot wounds                        |
+|                                       | _Pons, Solar_ - famous “Inquiry Agent”                                                        |
+|                                       | _Sampson, Dr Mahmud_ - surgeon called in to treat Pons’ gunshot wounds                        |
 
 ## GM’s Note:
 
@@ -111,7 +111,7 @@ Aletta’s beautiful rose-coloured villa was tucked away from open view by a ban
 
 After Ipande had garaged the car they made their way inside the villa to one of the large informal rooms off the central courtyard. Aletta gave instructions to Hassan, the young houseboy, for refreshments and made herself comfortable on the piled silken cushions. There was a distinct air of decadent luxury about the room, one she had taken great pains to establish. Everything was in the finest taste with the jarring exception of three grotesque and ugly little Nigerian fetishes that Ipande had insisted on adding to the decor. She had covered them up as much as possible, but the withered features seemed to glare at her every now and then. She was beginning to believe they hated her for luring Ipande away from his home, even though it was the circus and not her that he had originally followed. The fetishes never listened to her explanations. Ipande said they protected the villa and its inhabitants, especially Aletta and himself, from malign influences. He had told Aletta about his maternal great grandfather, a powerful “juju man”, and how his great grandfather had made the fetishes. Aletta had the distinct impression from Ipande’s words that the old man was still alive.
 
-Ipande prowled about casting dark glances over Pons. The Englishman seemed quite oblivious to the scowls and sipped cautiously at the coffee Hassan had provided. “Miss Aletta, we both have reasons for wanting Jean Crenques – forgive me, but I first came across him using that name – out of business, as they say. You, because as long as he is alive, let alone in Casablanca, he is an extreme danger to you. He will never forgive you for robbing him. Jenks put me onto you. A top rate fellow, that Jenks. It is only a shame Scotland Yard do not recognise quality when they see it. Jenks based his methods on my predecessor, you see. I was partly influenced by Jenks’ work. More so by the Master, naturally. The Master’s solution to the Hoxley double murder was classic!” Pons pressed the bridge of his nose with thumb and forefinger. “I apologise for rambling. I am recovering from a wound. I am interested in removing Crenques from operations because of his line in blackmail. I was hired in London by a young woman … Well, exactly why she hired me I shall omit to say.”
+Ipande prowled about casting dark glances over Pons. The Englishman seemed quite oblivious to the scowls and sipped cautiously at the coffee Hassan had provided. “Miss Aletta, we both have reasons for wanting Jean Crenques - forgive me, but I first came across him using that name - out of business, as they say. You, because as long as he is alive, let alone in Casablanca, he is an extreme danger to you. He will never forgive you for robbing him. Jenks put me onto you. A top rate fellow, that Jenks. It is only a shame Scotland Yard do not recognise quality when they see it. Jenks based his methods on my predecessor, you see. I was partly influenced by Jenks’ work. More so by the Master, naturally. The Master’s solution to the Hoxley double murder was classic!” Pons pressed the bridge of his nose with thumb and forefinger. “I apologise for rambling. I am recovering from a wound. I am interested in removing Crenques from operations because of his line in blackmail. I was hired in London by a young woman … Well, exactly why she hired me I shall omit to say.”
 
 “Why hire you?” interrupted Aletta. “My God, Aletta! Don’t you know him yet?” Ipande’s shocked outburst startled Aletta, but she remained outwardly unperturbed. “No,” she lied. Now she would find out just what Ipande knew of this man. “He’s Solar Pons. They call him the Sherlock Holmes of Praed Street! He’s the world’s finest private investigator!”
 
@@ -149,7 +149,7 @@ Hassan trotted in, wearing his best stripped robe. He always wore it when Aletta
 
 “Bad, Mistress, bleeding from the mouth.” He pointed to the bloodied stomach. “Lungs and probably the guts too. The bad air will get in, Mistress and he will die. In sh’allah,” he said, philosophically.
 
-“He is a guest in my house Hassan and he will not die while I have anything to say on the matter. I want you to drive to the City – not you, you rogue, but Ipande – and get a doctor and all that he will need. But he must be the best available and discrete, or buyable. You understand?”
+“He is a guest in my house Hassan and he will not die while I have anything to say on the matter. I want you to drive to the City - not you, you rogue, but Ipande - and get a doctor and all that he will need. But he must be the best available and discrete, or buyable. You understand?”
 
 “Of course, Mistress.” Hassan smiled conspiratorially. He and she knew each other far better than she and Ipande would ever know each other. “I think Dr Sampson, who lives in the medina.”
 
@@ -191,7 +191,7 @@ The engine’s noise was a throbbing thunder by the time she got to the forecour
 
 He looked down at her, for he was much taller than she, three inches over the six-foot mark. He was built like an athlete too, a runner; broad shoulders and narrow hips. His hands were long and slender, but finely muscled. There was an elaborate gold ring bearing a carved emerald signet on his right second finger. She could not see the design for the glowing in her eyes.
 
-His face was a strange mix of races. He had the wheaten-blond hair of the northern German, but the high cheeks of the Slav. He had the blue eyes of a German too, but the lips of a Frenchman or an Italian. He was by no means quite handsome, yet at the same time, he was infinitely better looking – in an interesting way – than most men Aletta had seen before. There was a tiny, lightning-bolt shaped scar on his left temple and a larger, more ragged-looking scar, star-shaped, in the middle of his right cheek. Though the colour of an old scar, it was stark against the tan of his skin.
+His face was a strange mix of races. He had the wheaten-blond hair of the northern German, but the high cheeks of the Slav. He had the blue eyes of a German too, but the lips of a Frenchman or an Italian. He was by no means quite handsome, yet at the same time, he was infinitely better looking - in an interesting way - than most men Aletta had seen before. There was a tiny, lightning-bolt shaped scar on his left temple and a larger, more ragged-looking scar, star-shaped, in the middle of his right cheek. Though the colour of an old scar, it was stark against the tan of his skin.
 
 He smiled then, briefly and in a way that only revealed his front teeth. He took her hand. Aletta knew that he had inspected her as closely as she had him and had approved of what he had seen. He bent over her hand and kissed it. She felt the touch of late night bristles on his upper lip and chin.
 
@@ -258,7 +258,7 @@ Aletta knew that handwriting; the painful care in every letter. She knew that he
 
 “P.P.S.: I have fixed it so when Vanderkren goes through his hired scum at the Yard, he will not get anything on you. I’ve fiddled their records. If they do owe me anything, it is that if anyone is ever going to stop you, it will be me. No-one else deserves that pleasure. So the only true record on your activities is owned by yours truly and since the Yard does not want to know about you, why should I care?
 
-By the way, in case you do not think he could do it, I outlined your finest eight robberies to him and he solved them all in five minutes each flat! I had solved them too – that is, how you done them – but I took a few weeks on each! Thank God the Yard never listened to me! You are too much the bird to be caged! Remember, for me, if not for yourself: TAKE CARE!”
+By the way, in case you do not think he could do it, I outlined your finest eight robberies to him and he solved them all in five minutes each flat! I had solved them too - that is, how you done them - but I took a few weeks on each! Thank God the Yard never listened to me! You are too much the bird to be caged! Remember, for me, if not for yourself: TAKE CARE!”
 
 That definitely was the letter this time. She folded it carefully and tucked it away. Pons’ voice was thin, but very clear. She looked up in startlement. He should not have been awake, let alone lucid in the state he was in!
 
@@ -308,6 +308,6 @@ Hassan returned laden down with many huge white towels and hauling the trolley w
 4. Names and addresses of the principals associated with the two villas, the hotel, the jeweller’s shop and the two pawn shops. Names and addresses of all of these properties. Are there any others?
 5. Names, addresses, current whereabouts and activities of the Chief of Police, Van der Kren’s two lawyers and all other known lieutenants. Also need contacts or names of people in high places that are known enemies or adversaries of Van der Kren/Crenques and any of his supporters. She might want to try and get onside with Van der Kren’s opponents/enemies, etc.
 6. Any rumours on what Van der Kren thinks of Arabic women? What sort of cover would fit in with his opinions (let’s not make him suspicious straight away).
-7. More info about Peter Houghton-Pentecost – or whatever Aletta may know from reading the papers (including the gossip rags).
-8. Does she have any specific contacts in the Arab, Berber or French community that may be of assistance in the current circumstances? This is your chance to introduce so more NPCs if you like/need, as I haven’t thought about this yet – on second thought, she will probably have her hands full just with Besarab (very nice, by the way!).
+7. More info about Peter Houghton-Pentecost - or whatever Aletta may know from reading the papers (including the gossip rags).
+8. Does she have any specific contacts in the Arab, Berber or French community that may be of assistance in the current circumstances? This is your chance to introduce so more NPCs if you like/need, as I haven’t thought about this yet - on second thought, she will probably have her hands full just with Besarab (very nice, by the way!).
 9. When Pons is stable, or after the doctor has removed more of his clothing, obtain the other information at the back of Pon’s belt.

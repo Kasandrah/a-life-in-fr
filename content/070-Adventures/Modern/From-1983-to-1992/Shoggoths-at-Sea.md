@@ -9,7 +9,7 @@ timelines:
   - Modern Timeline
 fc-date: 1983-10-12
 fc-end: 1984-03-25
-fc-category: From 1878 to 1926
+fc-category: From 1983 to 1992
 fc-display-name: Shoggoths at Sea
 title: Shoggoths at Sea
 draft: false

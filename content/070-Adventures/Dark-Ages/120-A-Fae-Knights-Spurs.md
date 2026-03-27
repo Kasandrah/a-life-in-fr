@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: A Fae Knights Spurs
 draft: false
+aat-render-enabled: false
 ---
 # A Fae Knight's Spurs
 

@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1997-03-27
+fc-end: 1997-04-05
+fc-category: USMC vs "What the … ?"
+fc-display-name: Marines in the Jungle
 title: One of Our Planes is Missing
 draft: false
 ---
@@ -34,15 +41,15 @@ The UFO has buried itself into the side of a steep riverbank cliff, coming to re
 
 ### Day One
 
-A garbled and strange distress call is picked up by US spy satellite over South America – radiation from the crash site is interfering with communications.  Dig site personnel are trying to report the disappearances of two researchers and two patrolling mercenaries, victims of who knows what.  The remaining researchers are now fearful of whatever is out there picking them off.
+A garbled and strange distress call is picked up by US spy satellite over South America - radiation from the crash site is interfering with communications.  Dig site personnel are trying to report the disappearances of two researchers and two patrolling mercenaries, victims of who knows what.  The remaining researchers are now fearful of whatever is out there picking them off.
 
-Wilson calls old friend Dean for “special” help and support of a recovery mission.  Weird stuff is happening, and Wilson knows Dean can help.  However, Wilson won’t tell Dean everything just yet – Majestic-12 wants to recover the alien ship and its contents for examination and possible duplication in experimental military aircraft.  Dean notifies Colonel Snow and _[[Jenny-H#^14ff80|Mairi McPherson]]_.
+Wilson calls old friend Dean for “special” help and support of a recovery mission.  Weird stuff is happening, and Wilson knows Dean can help.  However, Wilson won’t tell Dean everything just yet - Majestic-12 wants to recover the alien ship and its contents for examination and possible duplication in experimental military aircraft.  Dean notifies Colonel Snow and _[[Jenny-H#^14ff80|Mairi McPherson]]_.
 
 ### Night Two
 
 The party, including six marines and Antonio and Angela, met up with Jamie Mossman, Colonel Wilson and six specially trained USAF Black Berets onboard an aircraft carrier in the Gulf of Mexico, just off of Honduras.  The mission is to determine the recoverability of the crashed plane, assess the danger presented by any radiation leak, and recover or destroy top-secret technology components.  After the briefing, two helicopters leave the carrier and head toward the crash site.
 
-On the way to the crash site a garbled SOS is intercepted – the researchers at the dig site are requesting immediate help.  Something (the now active Predators) is picking them off one by one.  Colonel Snow informs them that help is on the way.
+On the way to the crash site a garbled SOS is intercepted - the researchers at the dig site are requesting immediate help.  Something (the now active Predators) is picking them off one by one.  Colonel Snow informs them that help is on the way.
 
 ### Day Two
 
@@ -64,10 +71,10 @@ Attack by Predators.  Picked off by the USMC and the Black Berets, as well as b
 
 ### Day Three
 
-Thorough investigation of the site reveals the secret tomb and the location of the crashed ship – completely buried in the side of the hill on which the ruins are situated.  Major fire fight with the remaining Predators results in two dead Black Berets, “killed in a rock fall”.
+Thorough investigation of the site reveals the secret tomb and the location of the crashed ship - completely buried in the side of the hill on which the ruins are situated.  Major fire fight with the remaining Predators results in two dead Black Berets, “killed in a rock fall”.
 
 Later finds include the royal burial chambers, complete with bones, and more representations of the “feathered serpent”.  The power of the rulers was based on their ability to summon supernatural forces.  Angela was K’inick Yax K’uk’ Mo’, Sun-eyed Green Quetzal Macaw, the founder of the city-state that built the Acropolis and a god-king revered by his 20,000 subjects.  In 426 AD he established a dynasty and maintained power for over 400 years.  He began constructing the Acropolis around 500 AD.
 
-His wife was a normal human born in 400 AD, died in 450 AD and whose bones lay in a nearby tomb.  She was Queen Mother to the Mayan Copan dynasty – 15 generations of rulers who held power up until 738 AD, when the last god-king was captured and sacrificed by the king of a rival city-state.
+His wife was a normal human born in 400 AD, died in 450 AD and whose bones lay in a nearby tomb.  She was Queen Mother to the Mayan Copan dynasty - 15 generations of rulers who held power up until 738 AD, when the last god-king was captured and sacrificed by the king of a rival city-state.
 
 Antonio was Sun-eyed Green Quetzal Macaw’s Shaman-Priestess.  Her bones are found buried in the bottom of a circular crypt with the skulls of three men, and the bones of a number of sacrificed animals.  The Acropolis was abandoned around 900 AD.

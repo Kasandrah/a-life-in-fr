@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: A Kings Sword
 draft: false
+aat-render-enabled: false
 ---
 # A King's Sword
 
@@ -25,7 +26,7 @@ On our arrival back at Sadaba, Lillane welcomes us in the courtyard and formal i
 
 The Song of Roland is known to me, I think it paints an violent, over-confident warrior as romantic, chivalrous soul, but my tastes run to things which hold some relationship with reality. Anyway, part of the legend is that Rollon’s true boon-companion (may we say it, love), Oliver, had been killed on Rollon’s own sword (Durandel, truly a jealous lover). Now, this tragically slain Oliver has been reborn as Angelica, which raises quite interesting questions as well as great hilarity. But enough of that for now.
 
-Soon after I awakened the next night, I knew that Angelica was gathering information to make a great decision. I found out these details later, but they should come first in this narrative. During the day, Angelica came to Monico and Tomas while they are playing their daily chess games. And began to question them on the bonds that bind us. I don’t doubt that they were taken quite aback, but they then found out what Rollon had already told her. She had been told that she would become one of two types – either like Monico, Tomas and Owain, or like the others.
+Soon after I awakened the next night, I knew that Angelica was gathering information to make a great decision. I found out these details later, but they should come first in this narrative. During the day, Angelica came to Monico and Tomas while they are playing their daily chess games. And began to question them on the bonds that bind us. I don’t doubt that they were taken quite aback, but they then found out what Rollon had already told her. She had been told that she would become one of two types - either like Monico, Tomas and Owain, or like the others.
 
 Monico also drew out that Rollon had inferred that if she was made into either, then she wouldn’t want to be in a relationship with him. I don’t doubt that Monico would have tried to give impartial opinions, as is his nature to do so. After some prompting, Monico remembered the Song of Roland and that Rollon was holding Durandel when it ran through Oliver. When he re-entered the conversation, Angelica had been talking about how they were trying to protect her, but how could they stop betrayal! Wallâhi (By Almighty God), but the memories of past lives must lie shallowly under the surface … how interesting.
 

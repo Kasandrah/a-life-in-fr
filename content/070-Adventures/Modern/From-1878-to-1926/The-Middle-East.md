@@ -18,19 +18,19 @@ draft: false
 
 Also known as **"Thoth’s Dagger"** followed by **"The City Without a Name"**
 
-1924 February 25th to November 3rd – Boston, Massachusetts to Egypt to Jerusalem to Sana, South Yemen, and back via Jerusalem, Alexandria and Greece
+1924 February 25th to November 3rd - Boston, Massachusetts to Egypt to Jerusalem to Sana, South Yemen, and back via Jerusalem, Alexandria and Greece
 
 ## Characters
 
 | Player Characters                                        | Non-Player Characters                               |
 | -------------------------------------------------------- | --------------------------------------------------- |
-| _[[Sarah-Ann-van-Buren\|Bateman, Sarah Ann]]_            | _Bateman, Arthur_ – Sarah’s father, an Egyptologist |
-| _[[Charles-van-Buren\|van Buren, Charles]]_              | _Cuttingham, Wilfred_ – British Consul (Yemen)      |
-| _Ervine and Levi – twin brothers (Barry)_                | _[[Neil-F#^bc047f\|Farquarson, Magnus]]_            |
-| _[[Jenny-H#^90313e\|Farquarson (nee McConnell), Megan]]_ | _Omar_ – camel driver, chief and guide              |
-| _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                  | _al-Qusi, Butrus_ – Coptic Monk                     |
-| _[[George-G#^b2f17d\|Rycroft, Scotty]]_                  | _Shenuda, Abba_  – Coptic Monk                      |
-|                                                          | _Sufyani, Mikhay’el_ – cultist                      |
+| _[[Sarah-Ann-van-Buren\|Bateman, Sarah Ann]]_            | _Bateman, Arthur_ - Sarah’s father, an Egyptologist |
+| _[[Charles-van-Buren\|van Buren, Charles]]_              | _Cuttingham, Wilfred_ - British Consul (Yemen)      |
+| _Ervine and Levi - twin brothers (Barry)_                | _[[Neil-F#^bc047f\|Farquarson, Magnus]]_            |
+| _[[Jenny-H#^90313e\|Farquarson (nee McConnell), Megan]]_ | _Omar_ - camel driver, chief and guide              |
+| _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                  | _al-Qusi, Butrus_ - Coptic Monk                     |
+| _[[George-G#^b2f17d\|Rycroft, Scotty]]_                  | _Shenuda, Abba_  - Coptic Monk                      |
+|                                                          | _Sufyani, Mikhay’el_ - cultist                      |
 
 ## Involvement
 
@@ -38,20 +38,20 @@ Sarah’s father asked her to attend an auction and bid for some Egyptian artifa
 
 # Highlights
 
-- [[The-Middle-East#The Auction – 25th February 1924|The Auction – 25th February 1924]]
-- [[The-Middle-East#From Boston to Alexandria – 25th February to 16th March 1924|From Boston to Alexandria – 25th February to 16th March 1924]]
+- [[The-Middle-East#The Auction - 25th February 1924|The Auction - 25th February 1924]]
+- [[The-Middle-East#From Boston to Alexandria - 25th February to 16th March 1924|From Boston to Alexandria - 25th February to 16th March 1924]]
 - [[The-Middle-East#Alexandria|Alexandria]]
 - [[The-Middle-East#Cairo and the Ruins of Hermopolis|Cairo and the Ruins of Hermopolis]]
-- [[The-Middle-East#Monastery of Saint Pakomios – end of March to end of May 1924|Monastery of Saint Pakomios – end of March to end of May 1924]]
-- [[The-Middle-East#Jerusalem – end of May to start of July 1924|Jerusalem – end of May to start of July 1924]]
-- [[The-Middle-East#From Jerusalem to Sana, South Yemen – early July to mid August 1924|From Jerusalem to Sana, South Yemen – early July to mid August 1924]]
+- [[The-Middle-East#Monastery of Saint Pakomios - end of March to end of May 1924|Monastery of Saint Pakomios - end of March to end of May 1924]]
+- [[The-Middle-East#Jerusalem - end of May to start of July 1924|Jerusalem - end of May to start of July 1924]]
+- [[The-Middle-East#From Jerusalem to Sana, South Yemen - early July to mid August 1924|From Jerusalem to Sana, South Yemen - early July to mid August 1924]]
 - [[The-Middle-East#Sana, South Yemen|Sana, South Yemen]]
-- [[The-Middle-East#From Sana to Iram of the Pillars – late August to 16th September 1924|From Sana to Iram of the Pillars – late August to 16th September 1924]]
+- [[The-Middle-East#From Sana to Iram of the Pillars - late August to 16th September 1924|From Sana to Iram of the Pillars - late August to 16th September 1924]]
 - [[The-Middle-East#Iram of the Pillars|Iram of the Pillars]]
 - [[The-Middle-East#From Iram of the Pillars to Riyadh|From Iram of the Pillars to Riyadh]]
 - [[The-Middle-East#From Riyadh to Alexandria|From Riyadh to Alexandria]]
 
-## The Auction – 25th February 1924
+## The Auction - 25th February 1924
 
 Sarah was attending an auction of the estate of the late Dr. Karl von Petersdorf, a famed occultist and antiquarian and a Professor of Egyptology, hoping to buy something for her father who was investigating ancient ruins in Egypt. Dr. von Petersdorf had suffered a heart attack and stroke and died while working on his latest book, a radical new interpretation of Egyptology expressing his belief that the Egyptian gods were descendants of older, more powerful and much more dangerous gods.
 
@@ -83,7 +83,7 @@ While Charles was holding the dagger something very strange happened. He stagger
 
 Sarah decided to join with Charles and his companions, as she possessed skills that would be useful in Egypt and her father may even be able to help them if they could reach him in time. Sarah also wanted to go with Charles because of the feelings he had stirred within her, feelings she had not experienced since the guns of the Great War claimed the man she loved. She had suppressed those feelings in order to suppress the pain of losing Michael, but now one look from Charles cut through every emotional barrier she had constructed.
 
-## From Boston to Alexandria – 25th February to 16th March 1924
+## From Boston to Alexandria - 25th February to 16th March 1924
 
 The party arrange for passage to Alexandria, Egypt, on a ship called the “Ramses”. The accommodation was in single first class staterooms and the ship sailed from Boston in the late evening. Sarah rediscovered the joy she always felt when she was at sea; even the expected roughness of the Bay of Biscay didn’t worry her. There was something about this particular voyage though, something that set it apart from the rest and that promised adventure, danger, excitement and possibly even love.
 
@@ -129,7 +129,7 @@ Charles had in his possession an Arabic copy of the Necromonicon, which he “fo
 
 Sarah asked Charles if he had considered a price for the thing, to which Charles replied “do you like ships?” At this point Sarah decided the sun had adversely affected Charles and he was babbling. No book was worth that much, surely.
 
-## Monastery of Saint Pakomios – end of March to end of May 1924
+## Monastery of Saint Pakomios - end of March to end of May 1924
 
 Abba Shenuda invited the party to the Monastery of Saint Pakomios to recover from their ordeal. The party arrived at the Coptic monastery, located in the eastern desert near the Red Sea, towards the end of March 1924. They stayed two months quietly recovering from their ordeal, exploring the monastery, learning the ways of the Coptic priests and becoming more attuned to a desert lifestyle.
 
@@ -155,7 +155,7 @@ That evening saw Charles and Sarah gently exploring the new ideas illustrated in
 
 Their gift to each other was an unforgettable wedding night, courtesy of the infamous book’s words and illustrations, their own stamina and a healthy curiosity for new pleasures. Each desired nothing more than to see the other succumbing completely and repeatedly to their intimate attentions. The bond between Sarah and Charles grew stronger every time one lay nearly senseless in the arms of the other. They finally fell asleep as the early morning light filtered into their room.
 
-## Jerusalem – end of May to start of July 1924
+## Jerusalem - end of May to start of July 1924
 
 When the party left the Monastery of Saint Pakomios to journey home via Jerusalem, Abba Shenuda gave Charles some very important sealed papers to give to an Abbott there.
 
@@ -175,7 +175,7 @@ The Abbot’s final calculations had indicated to him that an old and powerful e
 
 After informing the authorities of the Abbott’s death and answering numerous questions from the police, apparently to their satisfaction, the party decided to travel to Sana and seek help from the sheikh. If they were going to fight some terrible evil they would need all the help they could get.
 
-## From Jerusalem to Sana, South Yemen – early July to mid August 1924
+## From Jerusalem to Sana, South Yemen - early July to mid August 1924
 
 The journey to Sana was long and arduous. It began with a trip to Aqaba by truck where the party was delayed by four weeks when Megan fell seriously ill. When she was well enough to travel again the party boarded the Pride of Portsmouth, a beautiful white cruise ship, and sailed in luxury to Jidda.
 
@@ -185,7 +185,7 @@ On arrival in Jidda the party transferred to an awful tramp steamer for the jour
 
 ## Sana, South Yemen
 
-The party arrived in Sana in mid August 1924. On reaching their destination they found their way to the sheikh, a revered and respected teacher in a mosque. He agreed to help them by providing background and advice on what the party had begun to fear – some nameless evil growing and strengthening in the desert, preparing for its attack on mankind.
+The party arrived in Sana in mid August 1924. On reaching their destination they found their way to the sheikh, a revered and respected teacher in a mosque. He agreed to help them by providing background and advice on what the party had begun to fear - some nameless evil growing and strengthening in the desert, preparing for its attack on mankind.
 
 After speaking to the sheikh, the party prepared for an expedition into the Empty Quarter, an area of desert northeast of Sana that was totally devoid of life. This area was rumored to be the site of the legendary Iram of the Pillars, an evil enchanted place from which few people had returned. Those that had were dangerously insane.
 
@@ -193,7 +193,7 @@ As a protective measure Charles began teaching Sarah how to shoot, using a 38 re
 
 They were ready to leave for Iram of the Pillars one week later. Accompanying them was a professor interested in astronomy who said that he knew where Iram of the Pillars was because he had studied old writings and star maps. Also travelling with them was Wilfred Cuttingham, the resident British Consul, an upper class English twit who spoke with a lisp and constantly got on Sarah’s nerves. However, the party needed all the help they could get and accepted his offer of assistance.
 
-## From Sana to Iram of the Pillars – late August to 16th September 1924
+## From Sana to Iram of the Pillars - late August to 16th September 1924
 
 The journey further inland began with a three day trip to Mareeb, two days to a well, two days to another well, then three days to a small town where the party rested for a day. After another day’s travel the party reached Zamack. Here they delayed three days while the professor studied and copied an ancient star map carved in stone on the side of a mountain. Sarah spent some time looking at the star map with the old professor. With his help and her own limited knowledge of astronomy she came to understand the star map and how it pointed to Iram of the Pillars.
 

@@ -16,7 +16,7 @@ draft: false
 ---
 # Alternate America
 
-1923 September 12th to 1924 January – New York, Boston and Dunwich
+1923 September 12th to 1924 January - New York, Boston and Dunwich
 
 Also known as **"Death in Dunwich"**
 
@@ -24,7 +24,7 @@ Also known as **"Death in Dunwich"**
 
 | Player Characters                                                 | Non-Player Characters                            |
 | ----------------------------------------------------------------- | ------------------------------------------------ |
-| _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_ | _Dunklehurst_ – Rothenfelder’s private secretary |
+| _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_ | _Dunklehurst_ - Rothenfelder’s private secretary |
 | _[[Zoran-B#^b62306\|Anstey, Harry]]_                         | _[[Neil-F#^7efc15\|Holmes, Munroe]]_        |
 | _[[Braddon-G#^68e18a\|Carew, Sophie]]_                        | _Rothenfelder, J. D._                            |
 | _[[Barry-L#^01b6d6\|Barry Lenny]]_                            |                                                  |
@@ -61,7 +61,7 @@ The next day Harry and Anjuli returned to Boston and opened Plunkett’s locker 
 
 Anjuli believed Rothenfelder was involved in the desecration of the graves of great artists, musicians and writers, and once he obtained some of their remains, he somehow resurrected these artists for the creation of new works. Harry and Anjuli returned to Dunwich and discussed their finds with the rest of the party.
 
-While breakfasting at Whatley’s Tavern the party asked the waitress about the farmhouse in Dunwich owned by Rothenfelder. This place was identified as the Greyson place out of town. The party decided to investigate the farmhouse later in the day, after they had been over the old mill again. The old mill was badly fallen down and revealed noting. An old churchyard had the grave of Ambrose Whately (1800 – 1882), a name written on newspaper clippings found with Plunkett’s belongings.
+While breakfasting at Whatley’s Tavern the party asked the waitress about the farmhouse in Dunwich owned by Rothenfelder. This place was identified as the Greyson place out of town. The party decided to investigate the farmhouse later in the day, after they had been over the old mill again. The old mill was badly fallen down and revealed noting. An old churchyard had the grave of Ambrose Whately (1800 - 1882), a name written on newspaper clippings found with Plunkett’s belongings.
 
 The party decided to look over Whately’s place, which had been destroyed by fire in 1882. It was in this fire that Whately perished. After looking around the ruins the party discovered and dug up a collapsed tunnel, finding Whately’s body, old ruined books, a ring, a silver cylinder full of dirt, a tooth necklace and a bag of mulch. This disproved the local story that Whately was buried in the churchyard. The townspeople had covered up his death for some reason that the party was as yet unaware of.
 

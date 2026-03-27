@@ -9,6 +9,4 @@ draft: false
 ---
 # Modern Timeline
 
-```aat-vertical
-Modern Timeline
-```
+![[Modern-Timeline.base]]

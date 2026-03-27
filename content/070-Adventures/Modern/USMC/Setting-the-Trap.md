@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1997-01-26
+fc-end: 1997-01-31
+fc-category: USMC vs "What the … ?"
+fc-display-name: Setting the Trap
 title: Setting the Trap
 draft: false
 ---
@@ -22,11 +29,11 @@ draft: false
 | _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     |                                                                            |
 | _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                            |
 
->**GM's Note:** David and Michal contact an art dealer, posing as a Jewish couple that have discovered Bormann’s copy of “Mein Kamph” in their recently deceased grandfather’s possessions.  They rent a house on the outskirts of Sao Paulo and settle into wait for a response.  They are contacted by Hans Gustaf and arrange a time for him to come and view the book.
+>**GM's Note:** David and Michal contact an art dealer, posing as a Jewish couple who have discovered Bormann’s copy of “Mein Kamph” in their recently deceased grandfather’s possessions.  They rented a house on the outskirts of Sao Paulo and settle into wait for a response.  They are contacted by Hans Gustaf and arrange a time for him to come and view the book.
 >
->Just before Gustaf arrives they have an unexpected visit from Antonio, who meets Gustaf just as Gustaf is leaving the house after having viewed the book.  Shortly after Gustaf has driven away, Angela arrives and chews Antonio out for making a target of himself.  Angela is interrupted by a sniper who hits Antonio, but to no apparent effect.  They run inside where Antonio hands a bemused Michal a hollow point, high calibre sniper’s bullet.  Michal pretends not to notice the hole in the front of his shirt.
+>Just before Gustaf arrives, they have an unexpected visit from Antonio, who meets Gustaf just as Gustaf is leaving the house after having viewed the book.  Shortly after Gustaf has driven away, Angela arrives and chews Antonio out for making a target of himself.  Angela is interrupted by a sniper who hits Antonio, but to no apparent effect.  They run inside where Antonio hands a bemused Michal a hollow-point, high-calibre sniper’s bullet.  Michal pretends not to notice the hole in the front of his shirt.
 >
->All hell breaks loose as those in the house are attacked by a number of heavily armed assailants using high-powered weapons and grenade launchers.  Antonio summons a wind to put out the fire and dispose of some of the attackers.  The party return fire, survive the attack and take one of their assailants in for questioning.  Antonio was delegated to pay for damages to the rented property.
+>All hell breaks loose as those in the house are attacked by a number of heavily armed assailants using high-powered weapons and grenade launchers.  Antonio summons a wind to put out the fire and dispose of some of the attackers.  The party returned fire, survived the attack, and took one of their assailants in for questioning.  Antonio was delegated to pay for the damages to the rented property.
 >
 >The party decides to head for Iguape, a seaside town south of Sao Paulo where Antonio has a beach house.  Here they questioned the surviving Nazi attacker, aided by Ilsenberg’s chemical interrogation assistants.  All they learned was the whereabouts of their attackers’ original meeting place where the Nazis were supposed to bring “the magician”, presumably Antonio.
 >

@@ -10,13 +10,13 @@ draft: false
 
 ![[blog_post_01.jpg]]
 
-Role-playing has two types of characters – Player Characters (PCs) and Non-Player Characters (NPCs).
+Role-playing has two types of characters - Player Characters (PCs) and Non-Player Characters (NPCs).
 
 ## Player Characters
 
 Players create their PCs for specific campaigns using rules for character creation and advancement. PC actions and reactions make a game work and, in the best cases, become memorable for all the right reasons. PCs should be able to advance in their chosen pursuits and make a significant impact on their world, for better or worse.
 
-Many players become very attached to their PCs, so much so that what happens in-game can have consequences on a player’s mental health and overall well-being – positive or negative. When you run a game, your players are trusting you to take care of their PCs. It’s critical that you don’t let them down in this respect, as their enjoyment of your game and their willingness to continue playing **at all** hinges on that trust.
+Many players become very attached to their PCs, so much so that what happens in-game can have consequences on a player’s mental health and overall well-being - positive or negative. When you run a game, your players are trusting you to take care of their PCs. It’s critical that you don’t let them down in this respect, as their enjoyment of your game and their willingness to continue playing **at all** hinges on that trust.
 
 If you want your players to be invested in your game, to put themselves in their PC’s shoes and to live and breathe your story, you cannot be arbitrary, callous, or careless with their creations. Besides, there are many other ways to put a scare into a PC.
 
@@ -50,7 +50,7 @@ NPCs can range from a nameless set of generic statistics taken straight from the
 > 
 > Herbert Patterson, NPC Dad
 
-I’ve been a player and a GM for over 40 years. Many of my PCs from other games have become NPCs in my games. From my perspective, there’s no distinction – I still play my characters as I did before, and love them just as much. The only difference is I have to rely on my players to provide story surprises.
+I’ve been a player and a GM for over 40 years. Many of my PCs from other games have become NPCs in my games. From my perspective, there’s no distinction - I still play my characters as I did before, and love them just as much. The only difference is I have to rely on my players to provide story surprises.
 
 Luckily, my players are all very good at surprising me. Knowingly or not, they’re a constant source of “what the …?” from my NPCs.
 
@@ -62,7 +62,7 @@ For bit-player NPCs, I’ll improvise reactions on the spot with just some suppo
 
 For new NPCs with the potential to reappear frequently, I’ll craft a solid history and character study before I introduce them in-game. This provides me with a basis for any subsequent in-game reactions.
 
-I’ll only go this far if I think an NPC might be destined for a close relationship – intimate, social, professional, or familial – with one or more of the PCs. This is my way of repaying players for their time, effort, creativity, and attachment. Their PCs’ significant others in-game are fleshed out completely, not just one-dimensional cookie-cutter templates.
+I’ll only go this far if I think an NPC might be destined for a close relationship - intimate, social, professional, or familial - with one or more of the PCs. This is my way of repaying players for their time, effort, creativity, and attachment. Their PCs’ significant others in-game are fleshed out completely, not just one-dimensional cookie-cutter templates.
 
 I have to confess to trepidation in making one of my fully crafted and well-loved NPCs available to “fall in love” with a PC. If a cavalier PC breaks my NPC’s heart, I feel it too. The offending PC may find from that point on that the gods are out to get them. Not that I’m petty and vindictive, but … my baby is hurting!
 
@@ -70,7 +70,7 @@ I have to confess to trepidation in making one of my fully crafted and well-love
 
 That said, I know firsthand from a player’s perspective the unique satisfaction that comes from your PC making a successful, loving, and lasting match in-game. It’s like watching one of your children get married. I will not deny that to my players, so I’m up for it if they are.
 
-My only rule is that intimate encounters are “off the table” – i.e. not run during a face-to-face gaming session. I’ll accept a simple, non-vulgar statement of intent from a player and then, if the NPC agrees, leave the rest to the player’s imagination. Which means, according to the [Book of Erotic Fantasy](https://www.drivethrurpg.com/product/12195/Book-of-Erotic-Fantasy), I run a “PG” game.
+My only rule is that intimate encounters are “off the table” - i.e. not run during a face-to-face gaming session. I’ll accept a simple, non-vulgar statement of intent from a player and then, if the NPC agrees, leave the rest to the player’s imagination. Which means, according to the [Book of Erotic Fantasy](https://www.drivethrurpg.com/product/12195/Book-of-Erotic-Fantasy), I run a “PG” game.
 
 Off the table, I write erotic fiction, so a private “play-by-mail” with a consenting adult bounded by relevant Internet pornography and local jurisdiction law isn’t out of the question. I prefer role-playing an intimate encounter, but if you want dice-determined outcomes only, then this [guide](http://carnal.orfinlir.de/versions/guide0-6-0.pdf) is a go-to resource.
 

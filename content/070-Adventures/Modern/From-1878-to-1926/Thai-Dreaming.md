@@ -22,11 +22,11 @@ draft: false
 
 | Player Characters                                  | Non-Player Characters                     |
 | -------------------------------------------------- | ----------------------------------------- |
-| _[[Neil-F#^901589\|Jenks, Stanley]]_          | _Kuan, Ackan_ – cultist                   |
+| _[[Neil-F#^901589\|Jenks, Stanley]]_          | _Kuan, Ackan_ - cultist                   |
 | _[[Zoran-B#^9224e1\|Nacht, Mons. Frederick]]_ | _[[Jenny-H#^de5750\|McConnell, Meia]]_ |
-| _[[George-G#^ec1e00\|Wallace, Kingsley]]_   | _McConnell, Angus_ – Megan’s brother      |
-| _[[Aletta-Yasmini\|Yasmini, Aletta]]_              | _Songchai_ – Siamese guide                |
-|                                                    | _Wetheringham, Colonel_ – cultist         |
+| _[[George-G#^ec1e00\|Wallace, Kingsley]]_   | _McConnell, Angus_ - Megan’s brother      |
+| _[[Aletta-Yasmini\|Yasmini, Aletta]]_              | _Songchai_ - Siamese guide                |
+|                                                    | _Wetheringham, Colonel_ - cultist         |
 
 ## Involvement
 
@@ -54,6 +54,6 @@ Sarong
 
 Shell (a guide to the Thai Dreamworld)
 
-£300.00 in jewellery, clothes and headdress – Siamese style
+£300.00 in jewellery, clothes and headdress - Siamese style
 
-Amulet – bronze with a design of a running river (one-time protection against fire attack).
+Amulet - bronze with a design of a running river (one-time protection against fire attack).

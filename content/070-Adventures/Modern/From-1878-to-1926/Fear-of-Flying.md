@@ -16,7 +16,7 @@ draft: false
 ---
 # Fear of Flying
 
-1924 end January – London to Germany by air
+1924 end January - London to Germany by air
 
 ## Characters
 
@@ -24,7 +24,7 @@ draft: false
 | ----------------------------------------------------------- | --------------------- |
 | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ |                       |
 | _[[Jenny-H#^52b214\|Mandiville, Maggie]]_                |                       |
-| _O’Donovan, John_ – famous jungle explorer (George)         |                       |
+| _O’Donovan, John_ - famous jungle explorer (George)         |                       |
 
 ## Involvement
 

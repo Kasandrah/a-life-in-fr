@@ -27,17 +27,17 @@ Meet the new [[020-The-Antediluvians|Antediluvians]].
 
 ## Recent Events
 
-1189 July 6 – England’s King Henry II dies
+1189 July 6 - England’s King Henry II dies
 
-1189 September 3 – Richard I crowned King of England
+1189 September 3 - Richard I crowned King of England
 
-1189 December 11 – Richard sails from Dover
+1189 December 11 - Richard sails from Dover
 
-1190 July – French and English set out from Marseilles for the 2nd Crusade, stuck in Sicily until 10 April 1191
+1190 July - French and English set out from Marseilles for the 2nd Crusade, stuck in Sicily until 10 April 1191
 
 Queen Berengaria and Cypress (now a Christian base)
 
-1191 June 6 – Tyre
+1191 June 6 - Tyre
 
 ## Beginning Late 1189 AD …
 
@@ -46,18 +46,18 @@ Queen Berengaria and Cypress (now a Christian base)
 - [[040-Potion-of-Dreams|Potion of Dreams]]
 - [[050-Templars-and-Falling-Stars|Templars and Falling Stars]]
 - [[060-The-Search|The Search]]
-- [[070-Unicorn-Dreams|Unicorn Dreams]] – Rafi and Monico
+- [[070-Unicorn-Dreams|Unicorn Dreams]] - Rafi and Monico
 - [[080-To-Hell-and-Back|To Hell and Back]]
 - A Circle Shattered …
-    - [[090-Sliver-of-the-Moon|Sliver of the Moon]] – Rafi retrieves a token from the Were (wolves)
-    - [[100-An-Angels-Feather|An Angel's Feather]] – a token from the Angels
-    - [[110-A-Unicorns-Horn|A Unicorn's Horn]] – a token from the Magical Creatures
-    - [[120-A-Fae-Knights-Spurs|A Fae Knight's Spurs]] – a token from the Seelie Fae
-    - [[130-A-Kings-Sword|A King's Sword]] – with which to mend the Circle
-    - [[140-A-Book-in-Yellow|A Book in Yellow]] – a token from an Elder God
+    - [[090-Sliver-of-the-Moon|Sliver of the Moon]] - Rafi retrieves a token from the Were (wolves)
+    - [[100-An-Angels-Feather|An Angel's Feather]] - a token from the Angels
+    - [[110-A-Unicorns-Horn|A Unicorn's Horn]] - a token from the Magical Creatures
+    - [[120-A-Fae-Knights-Spurs|A Fae Knight's Spurs]] - a token from the Seelie Fae
+    - [[130-A-Kings-Sword|A King's Sword]] - with which to mend the Circle
+    - [[140-A-Book-in-Yellow|A Book in Yellow]] - a token from an Elder God
     - [[150-A-Circle-Re-Consecrated|A Circle Re-Consecrated]]
 - [[160-To-Drown-a-Witch|To Drown a Witch]]
-- [[170-New-Arrivals|New Arrivals]] – [[020-The-Antediluvians#Romegio|Romegio]], Harold and Rachel
+- [[170-New-Arrivals|New Arrivals]] - [[020-The-Antediluvians#Romegio|Romegio]], Harold and Rachel
 - [[180-Cain-Comes-Calling|Cain Comes Calling]]
 
 # Clan Bahari Powers

@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1997-01-01
+fc-end: 1997-01-07
+fc-category: Nephilim, or Angels in America
+fc-display-name: The Apocalypse
 title: The Apocalypse
 draft: false
 ---

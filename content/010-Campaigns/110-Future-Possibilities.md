@@ -12,7 +12,7 @@ As my focus is running games online via[ FoundryVTT](https://foundryvtt.com/), m
 
 ## Earth-Based Campaigns
 
-**[[010-Knights-of-Arthurian-Britain#Second Campaign – 520 AD|Arthurian Britain]]** - (520 AD using [Pendragon 6th Edition](https://www.foundryvtt.store/products/cha-pen-fvtt-en-core)) - continuing the current campaign, moving forward to the next generation of PC knights, the sons of the PCs so well established in the game to date.
+**[[010-Knights-of-Arthurian-Britain#Second Campaign - 520 AD|Arthurian Britain]]** - (520 AD using [Pendragon 6th Edition](https://www.foundryvtt.store/products/cha-pen-fvtt-en-core)) - continuing the current campaign, moving forward to the next generation of PC knights, the sons of the PCs so well established in the game to date.
 
 ---
 
@@ -49,7 +49,7 @@ Another possibility is [Berlin - The Wicked City](https://www.drivethrurpg.com/e
 
 **[[050-Modern#From 1983 to 1992|Modern]]** - (late 1990s using [Everyday Heroes](https://www.foundryvtt.store/products/eh-core-rulebook)):
 
-Adelaide, South Australia - _[[Dresdina-Belle-Cooper|Dresdina]]_ (now with ASIO), _[[Athos|Athos]]_, the [[080-Dreamlands|Dreamlands]], and the new occult.  PCs undergo training as "Dreamers" to influence the real world through dreams, Jungian psychological explorations of the collective unconscious, astral projection, astrology, low-end "mind tricks," and occultism.
+Adelaide, South Australia - _[[Dresdina-Cooper|Dresdina]]_ (now with ASIO), _[[Athos|Athos]]_, the [[080-Dreamlands|Dreamlands]], and the new occult.  PCs undergo training as "Dreamers" to influence the real world through dreams, Jungian psychological explorations of the collective unconscious, astral projection, astrology, low-end "mind tricks," and occultism.
 
 Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the opposite side is real evil.  Non-military, soft-end PCs with only their wits, their skills, and prayer to protect them.
 
@@ -105,7 +105,7 @@ I've not adapted the following D&D 5E adventures to Mystara, so they will requir
 **[[080-Dreamlands|Dreamlands]]** - (equivalent technology to 1400 AD using ?) - 
 
  - [Cats of Ulthar](https://en.wikipedia.org/wiki/The_Cats_of_Ulthar) - referencing [Cathulhu](https://www.drivethrurpg.com/en/product/128524/cathulhu), be a magical cat in H. P. Lovecraft's Dreamlands!
- - _[[Dresdina-Belle-Cooper|Dresdina]]_ and _[[Athos|Athos]]_ in Ulthar
+ - _[[Dresdina-Cooper|Dresdina]]_ and _[[Athos|Athos]]_ in Ulthar
 
 ---
 

@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: New Arrivals
 draft: false
+aat-render-enabled: false
 ---
 # New Arrivals
 

@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1997-03-04
+fc-end: 1997-03-25
+fc-category: USMC vs "What the … ?"
+fc-display-name: Marines on Ice
 title: Marines on Ice
 draft: false
 ---

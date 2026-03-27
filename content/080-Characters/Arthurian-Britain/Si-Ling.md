@@ -36,15 +36,15 @@ If a phoenix was used to decorate a house, it symbolised the loyalty and honesty
 
 ## Incarnations
 
-### [[010-One-Night-Plays#3000 BC – A Fire in Memphis|3000 BC – A Fire in Memphis]]
+### [[010-One-Night-Plays#3000 BC - A Fire in Memphis|3000 BC - A Fire in Memphis]]
 
 General in Pharaoh's Army, Memphis, Egypt
 
-### [[010-One-Night-Plays#387 AD – Macaw Feathers and Yax Spots|387 AD – Macaw Feathers and Yax Spots]]
+### [[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots|387 AD - Macaw Feathers and Yax Spots]]
 
 K'inick Yax K'uk' Mo', Sun-eyed Green Quetzal Macaw, City State of Copan (Honduras, Central America)
 
-### [[010-One-Night-Plays#1189 AD – A Castle in Spain|1189 AD – A Castle in Spain]]
+### [[010-One-Night-Plays#1189 AD - A Castle in Spain|1189 AD - A Castle in Spain]]
 
 Maria / "Julio", Sadaba, Spain
 

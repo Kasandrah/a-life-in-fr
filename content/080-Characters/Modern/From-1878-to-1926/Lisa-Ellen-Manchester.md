@@ -71,7 +71,7 @@ Secondary education (1909 to 1914)
 
 Harvard University (1915 to 1920) - Bachelor of Medicine, Bachelor of Surgery (MBBS)
 
-![[Lisa's Education Table.gif]]
+![[cc_lisa_education_table.gif]]
 
 ## Timeline
 

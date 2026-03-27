@@ -4,6 +4,13 @@ aliases:
 tags:
   - modern
   - timeline
+aat-render-enabled: true
+timelines:
+  - Modern Timeline
+fc-date: 1996-09-07
+fc-end: 1996-09-14
+fc-category: USMC vs "What the … ?"
+fc-display-name: Independence Day
 title: Independence Day
 draft: false
 ---
@@ -11,7 +18,7 @@ draft: false
 
 ## Travel
 
-1996 September 7th – Brasilia
+1996 September 7th - Brasilia
 
 ## Characters
 

@@ -53,4 +53,4 @@ I agreed with Charles, but I raised one more objection, the most important one.�
 
 “Sarah, all we have to do is contact this Rabbi that Mairi mentions at the end of her letter.  He is here in London.  We don’t have to go any further than that.”
 
-But we had to go further than London – we had to return to Iram of the Pillars before we were finally done.  We experienced the strangeness of travelling through time and space via a magical two-way gate, and our reward for the hardships we suffered was to discover Magnus alive.  He returned with us to London with the power to dispel Mairi's nightmares.
+But we had to go further than London - we had to return to Iram of the Pillars before we were finally done.  We experienced the strangeness of travelling through time and space via a magical two-way gate, and our reward for the hardships we suffered was to discover Magnus alive.  He returned with us to London with the power to dispel Mairi's nightmares.

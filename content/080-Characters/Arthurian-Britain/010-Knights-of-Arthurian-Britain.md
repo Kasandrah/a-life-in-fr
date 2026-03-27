@@ -13,7 +13,7 @@ draft: false
 
 **"God Speed" - Edmund Blair Leighton**
 
-## First Campaign – 495 AD
+## First Campaign - 495 AD
 
 ### Sir Arcavius
 
@@ -53,7 +53,7 @@ Earl of Jagent, Cymric Pagan born 474 AD. Son of the mercenary knight Gwrfelling
 
 Played by [[Ben-G|Ben G.]]
 
-## Second Campaign – 520 AD
+## Second Campaign - 520 AD
 
 >**GM's Note:** We began this soft reboot, but we didn't continue for the reasons stated [[Out-of-Place#GM's Note|here]].
 

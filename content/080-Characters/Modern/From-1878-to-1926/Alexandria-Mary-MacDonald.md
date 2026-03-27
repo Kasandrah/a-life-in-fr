@@ -12,7 +12,7 @@ draft: false
 ---
 # Alexandria Mary MacDonald
 
-Alexandria: feminine of Alexander – “defender of men”
+Alexandria: feminine of Alexander - “defender of men”
 
 Mary: “the bitter”, Hebrew, myrrh, common form of Miriam
 
@@ -21,7 +21,7 @@ Mary: “the bitter”, Hebrew, myrrh, common form of Miriam
 | _Height / weight:_ | 5 feet 3 inches tall / 115 pounds                                        |
 | _Voice:_           | Soprano                                                                  |
 | _Perfume:_         |                                                                          |
-| _Born:_            | 10th September 1897 in Pittsburgh, Pennsylvania – American               |
+| _Born:_            | 10th September 1897 in Pittsburgh, Pennsylvania - American               |
 | _Birth sign:_      | Virgo                                                                    |
 | _Birth stones:_    | Sapphire, agate, jacinth, opal                                           |
 | _Birth flowers:_   | Valerian                                                                 |
@@ -76,7 +76,7 @@ Primary (1902 to 1907)
 
 Secondary (1908 to 1913)
 
-University (1914 to 1917) – Bachelor of Arts, Honours (BA Hons), English language and literature.
+University (1914 to 1917) - Bachelor of Arts, Honours (BA Hons), English language and literature.
 
 Journalism and Photography.
 
@@ -118,4 +118,4 @@ Gun maintenance kit
 Bonds, stocks and shares (&#36;33,000)
 Land in the Hollywood Hills (&#36;15,000)
 Furniture (&#36;2,600)
-First edition books – Poe's “Collected Tales”, Stoker's “Dracula”, Shelly's “Frankenstein” and Le Fanu's “Carmilla” (&#36;5,000)
+First edition books - Poe's “Collected Tales”, Stoker's “Dracula”, Shelly's “Frankenstein” and Le Fanu's “Carmilla” (&#36;5,000)

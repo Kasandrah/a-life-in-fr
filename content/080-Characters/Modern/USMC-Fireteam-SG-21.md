@@ -13,7 +13,7 @@ draft: false
 
 **USMC, SG-21**
 
-- make General, then Chief of Staff – career soldier
+- make General, then Chief of Staff - career soldier
 - improve his golf and fishing
 - confident he has the means to deal with all the weird stuff
 
@@ -44,6 +44,8 @@ Played by [[Jenny-H|Jenny H.]]
 New York Jew who looks like Jude Law. Almost became a rabbi, but became a doctor instead. Joined the Navy and was assigned eventually to the US Embassy in Brazil.
 
 Likes bagels, ’80s new wave music, and old black and white mystery movies. Dislikes undead, Go-auld and innocents getting hurt. David wants to become a sorcerer and learn the weird stuff, as well as learn about Antonio and Angela.
+
+**[[cc_david_goldfarb.pdf|Captain David Goldfarb]], Call of Cthulhu**
 
 Played by [[Ben-G|Ben G.]]
 

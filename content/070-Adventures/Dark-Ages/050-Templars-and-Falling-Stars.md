@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: Templars and Falling Stars
 draft: false
+aat-render-enabled: false
 ---
 # Templars and Falling Stars
 
@@ -13,7 +14,7 @@ The following night, the Compline mass has a special guest who is more concerned
 
 After the mass, Monico and I have returned to our usual haunt in the library, while young Rafi has decided to trail after Wolfstead to learn how to be a vampire. (Well, no accounting for taste, really.) Of course, Gwyn had decided to go out flying again on another of her interminable hunts. Who would have thought her prey would have such an impact on us.
 
-Gwyn espies someone who is staggering along, obviously wounded but not giving off any smell of blood. When Gwyn flies to down to talk with this unfortunate (more so than she realised), she finds that it is a ghoul – a ghoul who was made one after having been badly burnt and now has those burns from now to his eternity – with a message for Lillane. Gwyn, being the noble soul that she is (just ask her!), did something that surprised me as she gave him some of her blood. It was what I would do, so it was surprising to see it from her (and who said that living centuries led to eternal boredom.)
+Gwyn espies someone who is staggering along, obviously wounded but not giving off any smell of blood. When Gwyn flies to down to talk with this unfortunate (more so than she realised), she finds that it is a ghoul - a ghoul who was made one after having been badly burnt and now has those burns from now to his eternity - with a message for Lillane. Gwyn, being the noble soul that she is (just ask her!), did something that surprised me as she gave him some of her blood. It was what I would do, so it was surprising to see it from her (and who said that living centuries led to eternal boredom.)
 
 This gruesome messenger wouldn’t tell her what the message was. Rafi and Wolfstead come across them and ride ahead to give warning to our castles inhabitants. For some reason or another (I believe that she just has the ultimate aplomb), Lillane is not surprised by the messenger and instructs to bring him to her.
 
@@ -47,4 +48,4 @@ I had started chuckling at the mention of him, but when the discussion progresse
 
 Our return is a lot less eventful than before. In fact the most interesting things are that we encounter lots of stories about the Templar and his "page", which is obviously the woman he rescued, again not the usual behaviour of a Templar. Apparently he has continued to do lots of good acts and is noted for praying for 12 hours at a time. I told you before … he really is the strangest Templar ever.
 
-When we arrive back at Sadaba, we give a performance based on our adventure for Lillane. Well, Gwyn tries to explain what happened, but when she tries to omit certain pertinent facts like the Templar, Monico and I start a performance of it before it becomes part of her story. Lillane inspects the Rat King’s gift and informs us that it was a white feather with a very fine sheen that we recognized from the creature that had been summoned to take the grail – an angel, if you couldn’t have guessed. Very interesting, indeed.
+When we arrive back at Sadaba, we give a performance based on our adventure for Lillane. Well, Gwyn tries to explain what happened, but when she tries to omit certain pertinent facts like the Templar, Monico and I start a performance of it before it becomes part of her story. Lillane inspects the Rat King’s gift and informs us that it was a white feather with a very fine sheen that we recognized from the creature that had been summoned to take the grail - an angel, if you couldn’t have guessed. Very interesting, indeed.

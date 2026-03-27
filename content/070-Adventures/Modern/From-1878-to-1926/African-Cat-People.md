@@ -20,7 +20,7 @@ draft: false
 
 **Tiger Drinking, MS Copilot**
 
-1922 September 26th to end December – London to Tanganyika, East Africa then home via Alexandria, Athens, and then to Paris via the Orient Express.
+1922 September 26th to end December - London to Tanganyika, East Africa then home via Alexandria, Athens, and then to Paris via the Orient Express.
 
 Also known as **“Black Claws”**.
 

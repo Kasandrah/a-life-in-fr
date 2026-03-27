@@ -20,15 +20,15 @@ draft: false
 
 **Dodge City, 1878**
 
-1925 November – Kenneton Wells, Arizona with time travel back to 1878 December
+1925 November - Kenneton Wells, Arizona with time travel back to 1878 December
 
 ## Characters
 
 | Player Characters                                           | Non-Player Characters                                                     |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------- |
-| _[[Zoran-B#^91f12c\|Ellis, Runyard]]_                  | _Diaz, Virgil_ – a vampire                                                |
-| _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ | _[[Joshua-Eberhardt\|Eberhardt, Josh]]_ – Sheriff of Kenneton Wells, 1878 |
-| _[[Michael-H#^7d0455\|Saunders, Frank]]_               | _Gentry, Dr Nicholas_ – an archaeologist                                  |
+| _[[Zoran-B#^91f12c\|Ellis, Runyard]]_                  | _Diaz, Virgil_ - a vampire                                                |
+| _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ | _[[Joshua-Eberhardt\|Eberhardt, Josh]]_ - Sheriff of Kenneton Wells, 1878 |
+| _[[Michael-H#^7d0455\|Saunders, Frank]]_               | _Gentry, Dr Nicholas_ - an archaeologist                                  |
 
 ## Involvement
 
@@ -52,4 +52,4 @@ Read [[The-Morning-After|The Morning After]].
 
 &#36;2,600 worth of furniture
 
-&#36;5,000 worth of first edition books – Poe's “Collected Tales”, Stoker's “Dracula”, Shelly's “Frankenstein” and Le Fanu's “Carmilla”.
+&#36;5,000 worth of first edition books - Poe's “Collected Tales”, Stoker's “Dracula”, Shelly's “Frankenstein” and Le Fanu's “Carmilla”.

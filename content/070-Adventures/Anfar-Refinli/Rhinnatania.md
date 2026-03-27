@@ -25,7 +25,7 @@ There was no mistaking Anwyn’ s disapproval of the Black One. Even if it was n
 
 “She hurts … kills Saurians. She said so.”
 
-“But don’t they come back to life? Not that I am saying it is right to kill them, but at least the one killed is not lost to the world, is he?” Anwyn shrugged. “But, as for helping her, I do not know. She is the owner of a very, very great power that is strange to me. And though I think she wants to be healed – she is conscientious, I think, though she scorns most folk as lesser than her in every sense of the word – the power she has resists my power. It is a rigid, mechanical power. It is not like mine and resists because it does not know that it is bad to do so. I doubt she knows this or can do anything to suppress it. It is so much a part of her. It may be that I shall have to call on one greater than I for aid.”
+“But don’t they come back to life? Not that I am saying it is right to kill them, but at least the one killed is not lost to the world, is he?” Anwyn shrugged. “But, as for helping her, I do not know. She is the owner of a very, very great power that is strange to me. And though I think she wants to be healed - she is conscientious, I think, though she scorns most folk as lesser than her in every sense of the word - the power she has resists my power. It is a rigid, mechanical power. It is not like mine and resists because it does not know that it is bad to do so. I doubt she knows this or can do anything to suppress it. It is so much a part of her. It may be that I shall have to call on one greater than I for aid.”
 
 Then he paused again and looked at her, smiling a quirky smile. Voklaynn felt the waves of his devotion wash from him and knew that he projected it more forcefully than usual. He wanted her to know that what he was about to say was in no way a reflection upon her.
 
@@ -35,7 +35,7 @@ Then he paused again and looked at her, smiling a quirky smile. Voklaynn felt th
 
 “Before we rejoin the company, Beloved. It could well be that you do not notice. The others certainly do not, I think. But I am a part of you, and your likeness is etched upon my whole being. Look into the stream.”
 
-The water stilled as he passed a hand over it. Though it still flowed, the surface was now metallic-seeming and gorgeously reflective. Voklaynn had seen a brilliant silver mirror once – most mirrors were bronze – but this watery mirror was finer by far than the silver had been.
+The water stilled as he passed a hand over it. Though it still flowed, the surface was now metallic-seeming and gorgeously reflective. Voklaynn had seen a brilliant silver mirror once - most mirrors were bronze - but this watery mirror was finer by far than the silver had been.
 
 “My apologies,” Anwyn said softly. “This will last only a little while. It is not in me to be able to do such a thing for long, even with good intent. Especially to you.” He tenderly caressed the left side of her face, and Voklaynn felt it go wholly numb. It was as well she trusted her Soul. As it was, she saw the tears streaming from his eyes. “Look quickly! Before it is too late,” he said softly, urgently.
 
@@ -93,7 +93,7 @@ The Grim screwed up his eyes. “Well,” he said slowly. “Yes an’ no. I’m
 
 “They were a legend,” Anwyn said gravely.
 
-“Not ‘nymore,” the Grim said. “An’ th’ tushen are findin’ a way inta ‘n outa th’ Country. Gods know where they go. An’ th’ Dark-Souled Ones – p’r’aps they’re allies o’ th’ Trow – seem t’ave a way inta ‘n out as well. An’ these wanderin’ Gates. Now it’s said that th’ Jinain are thinkin’ of headin’ south, ‘spite of th’ Sun, ’cause they’ve heard that there’s a chance of a real barney to be had!”
+“Not ‘nymore,” the Grim said. “An’ th’ tushen are findin’ a way inta ‘n outa th’ Country. Gods know where they go. An’ th’ Dark-Souled Ones - p’r’aps they’re allies o’ th’ Trow - seem t’ave a way inta ‘n out as well. An’ these wanderin’ Gates. Now it’s said that th’ Jinain are thinkin’ of headin’ south, ‘spite of th’ Sun, ’cause they’ve heard that there’s a chance of a real barney to be had!”
 
 He stood and stretched, then padded over to Voklaynn. She observed that he made no noise whatsoever as he moved. He snuffled loudly at her face.
 
@@ -157,7 +157,7 @@ Voklaynn could feel the white heat of Anwyn’s anger flaming up in their touchi
 
 “This is the Completion of my Being, my Soul. As I know you already knew. For is not a Guard truly Healed only when he is Joined?”
 
-“With such an aberration as you, who knows?” Dian Cecht said. He shook his head. “Why the Dagda and the Morrigan are so interested in you – in you both – is beyond me. Were it up to me, I’d snuff out all the unicorns starting with you, and keep the alicorns alone. At least they have a value.”
+“With such an aberration as you, who knows?” Dian Cecht said. He shook his head. “Why the Dagda and the Morrigan are so interested in you - in you both - is beyond me. Were it up to me, I’d snuff out all the unicorns starting with you, and keep the alicorns alone. At least they have a value.”
 
 He pushed past the two and entered the hut. It was going to take a great deal of her energy in the near future to calm Anwyn down, Voklaynn thought grimly. She could actually hear his teeth grind together. She was almost certain she had never known him to be this angry before. She kissed him urgently on the mouth, and he relaxed into her embrace as she had prayed he would.
 
@@ -239,7 +239,7 @@ With his spear-unencumbered hand, Dian Cecht reached out for Rhinnatania’s arm
 
 “Be warned,” Rhinnatania said. She sounded almost sorrowful. “I will not submit to your sexual demands. I will pay you what I owe you, but it will be a price that is agreeable to us both.”
 
-“You know the price, and you shall pay!” Dian Cecht was shouting again. He grew giant-sized suddenly – five metres more of height in a second, and reached for her with hands that were larger than her whole torso. Then he was flying backwards through the air and landed on a young oak, smashing it to splinters.
+“You know the price, and you shall pay!” Dian Cecht was shouting again. He grew giant-sized suddenly - five metres more of height in a second, and reached for her with hands that were larger than her whole torso. Then he was flying backwards through the air and landed on a young oak, smashing it to splinters.
 
 “Thank whatever that di’n’t belong t’ no’un,” the Grim remarked.
 

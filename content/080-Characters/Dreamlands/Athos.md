@@ -22,7 +22,7 @@ draft: false
 | _Birth sign:_      |                                                                       |
 | _Birth stones:_    |                                                                       |
 | _Birth flowers:_   |                                                                       |
-| _Partner:_         | _[[Dresdina-Belle-Cooper\|Dresdina Cooper]]_, FBI Agent               |
+| _Partner:_         | _[[Dresdina-Cooper\|Dresdina Cooper]]_, FBI Agent               |
 | _Occupation_       | Under-Sheriff of Ulthar, a city in the [[080-Dreamlands\|Dreamlands]] |
 | _Residence:_       | Ulthar                                                                |
 | _Transport:_       | Horses                                                                |

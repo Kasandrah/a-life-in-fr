@@ -9,7 +9,7 @@ timelines:
   - Modern Timeline
 fc-date: 1992-03-10
 fc-end: 1992-03-19
-fc-category: From 1878 to 1926
+fc-category: From 1983 to 1992
 fc-display-name: Looking for Algren’s Home
 title: Looking for Algrens Home
 draft: false
@@ -24,10 +24,10 @@ draft: false
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_             | _[[Athos\|Athos]]_                                                     |
 | _[[The-White-Magicians#Robert Anthony\|Anthony, Robert]]_                     | _Holmes, [[Jenny-H#^efe01a\|Monica]]_ and _[[Neil-F#^7efc15\|Munroe]]_ |
-| _[[Dresdina-Belle-Cooper\|Cooper, Dresdina]]_                                 | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_ – Shadow Investigations        |
-| _[[Sam-Houston-Krescke\|Houston Krescke, Sam]]_                               | _O’Dey, Francis_ – Shadow Investigations                               |
+| _[[Dresdina-Cooper\|Cooper, Dresdina]]_                                 | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_ - Shadow Investigations        |
+| _[[Sam-Houston-Krescke\|Houston Krescke, Sam]]_                               | _O’Dey, Francis_ - Shadow Investigations                               |
 | _[[The-White-Magicians#Kellion O’Shea\|O’Shea, Killian]]_                     | _Seelie of the Ash Grove_, and their _Queen_                           |
-| _[[Angela-Taylor\|Taylor, Angela]]_                                           | _Wormwood_ – Magician up to no good                                    |
+| _[[Angela-Taylor\|Taylor, Angela]]_                                           | _Wormwood_ - Magician up to no good                                    |
 | _[[The-White-Magicians#Sydney George Washington\|Washington, Sydney George]]_ |                                                                        |
 
 ## Involvement
@@ -88,7 +88,7 @@ On stepping through the portal, the party finds themselves in a tunnel. After no
 
 ### The Seelie of the Ash Grove
 
-The party avoids a direct confrontation with this creature and continues on through the tunnels. After some time, they came to another portal. This one takes the party somewhere else again, a land of verdant green grass and brilliant blue skies. Here they find _[[Dresdina-Belle-Cooper|Dresdina]]_, a man they take to be the missing Under-Sheriff, _[[Athos|Athos]]_, and two other “Algrens” battling a night-gaunt. The party joins the fight and dispatches the night gaunt, but not before Dresdina accidentally stabs Athos. Her horrified reaction and obvious care for Athos show that they have become far more than just associates working on the same case. Killian successfully treats Athos’ wound, much to Dresdina’s relief.
+The party avoids a direct confrontation with this creature and continues on through the tunnels. After some time, they came to another portal. This one takes the party somewhere else again, a land of verdant green grass and brilliant blue skies. Here they find _[[Dresdina-Cooper|Dresdina]]_, a man they take to be the missing Under-Sheriff, _[[Athos|Athos]]_, and two other “Algrens” battling a night-gaunt. The party joins the fight and dispatches the night gaunt, but not before Dresdina accidentally stabs Athos. Her horrified reaction and obvious care for Athos show that they have become far more than just associates working on the same case. Killian successfully treats Athos’ wound, much to Dresdina’s relief.
 
 Athos recognises Mairi and reacts badly to her presence. According to Athos, Mairi kidnapped Mama Barouch’s granddaughter and killed many people. She is a demon sorceress who tried to sacrifice the young girl. All look askance at Mairi!
 
@@ -108,7 +108,7 @@ Some time later Koran returns with news of Wormwood the Magician, the party’s 
 
 On returning to the festival, now in full swing, the party sees the Algrens singing and attempting to move the mountain, while Wormwood, magical rod in hand, stands to one side waiting. Assuming the Magician is waiting for the mountain to move to start something nasty, the party attacks Wormwood. Big fight. Wormwood attacks using magic. Very unpredictable results. Party members gifted with strange abilities.
 
-The Queen is grateful for the return of her subjects and for the defeat of Wormwood. She returns all party members to their rightful places – Dresdina, Killian, Robert, Snake, and Mairi are returned to the cabin in the Finger Lakes from when and where they left, Athos is returned to the Dreamlands proper, while Sam, Anjuli, Monica and Munro are returned to Shahpura, India in September 1925.
+The Queen is grateful for the return of her subjects and for the defeat of Wormwood. She returns all party members to their rightful places - Dresdina, Killian, Robert, Snake, and Mairi are returned to the cabin in the Finger Lakes from when and where they left, Athos is returned to the Dreamlands proper, while Sam, Anjuli, Monica and Munro are returned to Shahpura, India in September 1925.
 
 ## Written by [[Ben-G|Ben G.]]
 
@@ -136,7 +136,7 @@ Time is now in short supply, as Jocelyn would soon find out we had snooped (secu
 
 ### In the Dreamlands
 
-We went to sleep, and all except Robert found ourselves alone and naked in what appeared to be a tall tree. There were circular stairs (on the inside, remember), which led down to an area that had some basic kind of clothes; they seemed pretty bland to me – no colour, really. We exited and found ourselves gathered, with the exception of Robert. He appears a little later and said he didn’t want to talk about it and he had that air he gets when he’s on the verge of losing it.
+We went to sleep, and all except Robert found ourselves alone and naked in what appeared to be a tall tree. There were circular stairs (on the inside, remember), which led down to an area that had some basic kind of clothes; they seemed pretty bland to me - no colour, really. We exited and found ourselves gathered, with the exception of Robert. He appears a little later and said he didn’t want to talk about it and he had that air he gets when he’s on the verge of losing it.
 
 Anyway, we walk along what seems to become a path, past some farmhouses. I go off to one of them to find out anything about these realms, but I’m told to go away through the closed door. Trouble must frequent these lands, then. The path becomes a road and leads into a town; the kind you’d think would be medieval.
 

@@ -4,6 +4,7 @@ aliases:
 tags: dark-ages
 title: A Unicorns Horn
 draft: false
+aat-render-enabled: false
 ---
 # A Unicorn's Horn
 
@@ -27,7 +28,7 @@ In the discussion that follows, Illisander is pleased to see his friends again a
 
 Just before Illisander turns to go, he appears to be a bit discomfited as he first looks down, bites his lip and such, but then he warns us that the Prince may be … wilful. Inshallah. (As God wills.) We are then left to await a response. Thankfully, there is an empty keep nearby, where we can rest, as Owain and Monico while the day away talking about metaphysics and about reincarnation, and generally swap ghoul stories.
 
-When some of us awaken as dusk approaches, we start exploring to the north of the keep in time to meet up with Illisander, and his companion, who is coming the other way. They escort us up to some caves, which contains a pool of water that is absolutely still. I mean it gives a perfect reflection – I can’t recall ever seeing one so perfect before. Taking a deep breath, Rafi restates to Illisander precisely what we want, and then a smiling Illisander, in childish fashion, puts his finger in the pool and “draws” a diminishing spiral. All of us have been silent till now, especially when the pool becomes still again.
+When some of us awaken as dusk approaches, we start exploring to the north of the keep in time to meet up with Illisander, and his companion, who is coming the other way. They escort us up to some caves, which contains a pool of water that is absolutely still. I mean it gives a perfect reflection - I can’t recall ever seeing one so perfect before. Taking a deep breath, Rafi restates to Illisander precisely what we want, and then a smiling Illisander, in childish fashion, puts his finger in the pool and “draws” a diminishing spiral. All of us have been silent till now, especially when the pool becomes still again.
 
 For now the pool looks like a window on the bottom of a fountain, looking up at the stars, with no moon showing, and a man who is similar to Illisander sitting on a bench near the fountain. The man in the pool is dressed in silver and blue, looks clean-shaven but still looks ageless. So this is the Prince of Stars. We bow, pass on our Sires felicitations, and formally request his aid to help repair the circle. We described the circumstances of the Circle being broken, and he summed it all up by saying with a smile, “So all hell broke loose?”
 

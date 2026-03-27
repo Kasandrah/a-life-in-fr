@@ -9,7 +9,7 @@ draft: false
 ---
 # General Leith
 
-Commander, Home Base.
+Commander, Home Base. Formerly of the Imperial Army, defected to the Rebel Alliance.  Leith is stable, thoughtful, and dependable, with a leader's charisma, strength, and decisiveness.  His genuine care for the troops under his command has boosted morale on the base to an all-time high.
 
 ## Background
 
