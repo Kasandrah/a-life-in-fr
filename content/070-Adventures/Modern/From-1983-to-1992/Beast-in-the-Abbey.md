@@ -18,7 +18,7 @@ draft: false
 
 Also known as **"The Dark Side of the Force"**
 
-Inverness, Scotland (1991 December) to Wisconsin, Alternate America (1925 July 20th to September), to mythical Ireland to Wisconsin USA (1992 January)
+Inverness, Scotland (1991 December) to Wisconsin, Alternate America (1925 July 20th to August 2nd), to mythical Ireland to Wisconsin USA (1992 January)
 
 ## Characters
 

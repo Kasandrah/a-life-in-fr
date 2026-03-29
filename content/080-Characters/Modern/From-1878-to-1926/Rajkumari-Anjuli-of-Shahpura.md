@@ -36,7 +36,7 @@ Anjuli: (Juli by her friends or Larla “darling” by Sam)
 
 Anjuli is an Anglicised Indian princess who is the oldest daughter of the Rajah of Shahpura and his British wife, the only child of an English Earl.  Anjuli is engaged to marry Sam Houston Krescke.
 
->**GM's Note:** Anjuli is one of my original player characters. I rolled a critical on my class roll; hence she is a member of the Brahmin caste, as is her father Bharmal, Rajah of Shahpura.
+>**GM's Note:** Anjuli is one of my original player characters. I rolled a critical on my class roll; hence she is a member of the [Kshatriya](https://en.wikipedia.org/wiki/Kshatriya) (warrior) caste, as is her father Bharmal, Rajah of Shahpura.
 
 ## Appearance
 
@@ -66,11 +66,11 @@ University in England (1919 to 1921) - degrees in Indian Languages (including li
 
 ## Background
 
-Anjuli is an Anglicised Indian princess who is the oldest daughter of Bharmal, Rajah of Shahpura and his British wife, the lovely Catherine, Rani of Shahpura.
+Anjuli is an Anglicised Indian princess who is the oldest daughter of Bharmal, Rajah of Shahpura, and his British wife, the lovely Catherine, Rani of Shahpura.
 
-Bharmal is a Rajput autocrat of the Kshatriyas (warrior ) caste who is very popular with his subjects.  In the reign of Sikander Lodi a Rajput chieftain and adventurer came north from Delhi to defeat a robber chieftain and obtain a fortress.  The son of this 15th-century adventurer became the first Rajah of Shahpura.
+Bharmal is a Rajput autocrat of the Kshatriya caste who is very popular with his subjects.  In the reign of Sikander Lodi, a Rajput chieftain and adventurer came north from Delhi to defeat a robber chieftain and win a fortress.  The son of this 15th-century adventurer became the first Rajah of Shahpura.
 
-Catherine is the only child of Baron Ormond, the 10th Earl of Carmarthen (Irish “East Munster”).  Baron Ormond’s Earldom was established in 1660 after the English Civil War (his ancestors were very loyal to the King).
+Catherine is the only child of Baron Ormond, the 10th Earl of Carmarthen (Irish “East Munster”).  Baron Ormond’s Earldom was established in 1660 after the English Civil War (his ancestors were loyal to the King).
 
 Catherine’s mother was the daughter of a Russian Cossack officer, a nobleman and adventurer named Sergi Vodvichenko.  Catherine is referred to as the Feringhi-Rani or “Foreign Queen”.  She met Bharmal while touring India.
 
@@ -93,4 +93,4 @@ Anjuli’s youngest surviving sibling is another brother, the 10-year-old Prince
 
 ## References
 
-“The Far Pavilions” - M. M. Kaye, Penguin Books, 1983
+[“The Far Pavilions”](https://en.wikipedia.org/wiki/The_Far_Pavilions) - M. M. Kaye, Penguin Books, 1983

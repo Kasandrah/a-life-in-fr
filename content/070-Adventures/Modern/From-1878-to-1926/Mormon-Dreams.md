@@ -20,13 +20,13 @@ draft: false
 
 ## Characters
 
-| Player Characters                                                     | Non-Player Characters                     |
-| --------------------------------------------------------------------- | ----------------------------------------- |
-| _[[Zoran-B#^91f12c\|Ellis, Runyard]]_                            | _Blacke, Silas_ – a Sorcerer              |
-| _[[Jenny-H#^502c32\|Pratt, Abish "Abby"]]_                         | _Broadmountain, Elder Henry_              |
-| _Saunders, Frank_ – journalist / lawyer / private investigator (Mike) | _[[David-van-Hasalt\|van Hasalt, David]]_ |
-| _[[Jenny-H#^162a37\|Verri-all, Lady Tirray'na]]_                   | _Silk, Jabez_                             |
-| _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_             |                                           |
+| Player Characters                                         | Non-Player Characters                     |
+| --------------------------------------------------------- | ----------------------------------------- |
+| _[[Zoran-B#^91f12c\|Ellis, Runyard]]_                     | _Blacke, Silas_ – a Sorcerer              |
+| _[[Jenny-H#^502c32\|Pratt, Abish "Abby"]]_                | _Broadmountain, Elder Henry_              |
+| _[[Michael-H#^7d0455\|Saunders, Frank]]_                  | _[[David-van-Hasalt\|van Hasalt, David]]_ |
+| _[[Jenny-H#^162a37\|Verri-all, Lady Tirray'na]]_          | _Silk, Jabez_                             |
+| _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ |                                           |
 
 ## Involvement
 
