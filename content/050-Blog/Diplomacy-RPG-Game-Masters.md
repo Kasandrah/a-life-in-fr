@@ -8,7 +8,7 @@ draft: false
 ---
 # Diplomacy for RPG Game Masters: The Fine Art of Wrangling Players
 
-![[blog_post_01.jpg]]
+![[bp_01.jpg]]
 
 Role-playing has two types of characters - Player Characters (PCs) and Non-Player Characters (NPCs).
 

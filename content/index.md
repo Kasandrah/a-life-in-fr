@@ -6,7 +6,7 @@ draft: false
 ---
 # Introduction  
 
-![[anin_dice1.jpg]]
+![[in_anin_dice1.jpg]]
 
 **Dice for Fantasy Role-Players**
 

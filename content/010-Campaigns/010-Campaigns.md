@@ -23,7 +23,7 @@ A campaign is a series of linked adventures undertaken by a group of characters,
 
 # Earth-Based Campaigns
 
-![[camp_earth1.jpg]]
+![[ca_earth1.jpg]]
 
 **Earth**
 
@@ -73,7 +73,7 @@ The campaign turned into one big, high-stakes scavenger hunt across vast realms 
 
 ## Modern
 
-![[mo_bridge.jpg]]
+![[d20m_bridge.jpg]]
 
 **Le Viaduc de Millau, Autoroute E11-A75, Aveyron, France**
 
@@ -157,7 +157,7 @@ The realms of sleep have their own existence separate from dreamers, and dreamer
 
 ## Dragon Riders of Pern
 
-![[pn_dragon.jpg]]
+![[ca_dragon.jpg]]
 
 **Pernese Dragon and Rider**
 
