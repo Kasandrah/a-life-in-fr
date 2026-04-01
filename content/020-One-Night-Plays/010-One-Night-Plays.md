@@ -65,7 +65,7 @@ The _[[Si-Ling|Phoenix]]_ incarnates as K’inick Yax K’uk’ Mo’, Sun-eyed 
 
 **Map of Logres, Pendragon**
 
-Beginning of the [[030-Arthurian-Britain|Arthurian Britain]] campaign. Lillane (as _[[Lillane-of-Clan-Bahari|Lady Leda]]_) embraces _[[010-Knights-of-Arthurian-Britain#Sir Brion|Sir Brion]]_, an Irish knight, after he is possessed by the Morrigan. Lucifer (as _[[Lucifer-Morningstar|Lucien]]_) builds several castles of advanced structure to educate the locals.
+Beginning of the [[030-Arthurian-Britain|Arthurian Britain]] campaign. Lillane (as _[[Lillane-of-Clan-Bahari|Lady Leda]]_) embraces _[[010-Knights-of-Arthurian-Britain#Sir Brion|Sir Brion]]_, an Irish knight, after the Morrigan possessed him. Lucifer (as _[[Lucifer-Morningstar|Lucien]]_) builds several castles of advanced structure to educate the locals.
 
 ## 515 AD - On the Road to Avebury
 
@@ -145,9 +145,9 @@ Jamaica, West Indies
 
 Lillane and Tyler are aboard a Spanish galleon bound for Jamaica when the ship is crippled by a violent storm. To survive, Lillane and Tyler kill some of the crew. Tyler is locked in the brig and Lillane doesn’t rescue him - punishment for getting her "stuck on this damned ship in the middle of nowhere".
 
-On arrival in Caribbean waters southwest of Jamaica, the ship appears "deserted". Tyler is released from the brig by curious pirates under the command of Captain Henry Morgan. Morgan is returning from his successful raid on Panama. The pirates include [[020-The-Antediluvians#Michael Winter|Michael Winter's]] earlier incarnation, one William (Bill) Mains, a 23-year-old Cornishman who jumped ship from the British Navy.
+On arrival in Caribbean waters southwest of Jamaica, the ship appears "deserted". Tyler is released from the brig by curious pirates under the command of Captain Henry Morgan. Morgan is returning from his successful raid on Panama. The pirates include _[[020-The-Antediluvians#Michael Winter|Michael Winter's]]_ earlier incarnation, one William (Bill) Mains, a 23-year-old Cornishman who jumped ship from the British Navy.
 
-While trying to salvage the ship and its treasure, the pirates run foul of Lillane. She embraces one of the pirates, a 35-year-old Frenchman named [[020-The-Antediluvians#Jacques|Jacques]], because he assists her in escaping Morgan’s crewmen.
+While trying to salvage the ship and its treasure, the pirates run foul of Lillane. She embraces one of the pirates, a 35-year-old Frenchman named _[[020-The-Antediluvians#Jacques|Jacques]]_, because he assists her in escaping Morgan’s crewmen.
 
 On returning to Jamaica, Lillane ingratiates herself with Morgan and "persuades" him to part with his treasure, including the contents of the Spanish galleon. On discovering that the treasure is missing, Morgan’s crew capture him and send him back to England in 1672 to answer charges of piracy. In England Morgan is treated as a hero and returns to Jamaica as lieutenant-governor, where he lives quietly thereafter.
 
@@ -157,11 +157,11 @@ On returning to Jamaica, Lillane ingratiates herself with Morgan and "persuades"
 
 **Towers of Smolny Cathedral, St. Petersburg, 1725**
 
-Lucifer (as [[Lucifer-Morningstar|Count Vladimir Ludevich Petrov syn Turgeneva]]), hereditary noble, landowner and builder of bridges, cathedrals, and palaces, has been commissioned by Tsar Peter the Great to build the first floating bridge over the Neva River in the new capital of St Petersburg. Assisting the Count is Rafael, a young Venetian architect and canal builder, newly arrived in the "Venice of the North" after leaving a difficult and dangerous personal situation in somewhat of a hurry.
+Lucifer (as _[[Lucifer-Morningstar|Count Vladimir Ludevich Petrov syn Turgeneva]]_), hereditary noble, landowner and builder of bridges, cathedrals, and palaces, has been commissioned by Tsar Peter the Great to build the first floating bridge over the Neva River in the new capital of St Petersburg. Assisting the Count is Rafael, a young Venetian architect and canal builder, newly arrived in the "Venice of the North" after leaving a difficult and dangerous personal situation in somewhat of a hurry.
 
-New at Court is the very earnest young Boris Alekseyevich Golitsyn II, 17 years old and a student at the St Petersburg Academy, and his beautiful sister Illaria (16). Boris and Illaria are the grandchildren of the great Russian statesman and friend of Peter the Great, the late Boris Alekseyevich Golitsyn. Illaria is making her formal debut into Russian society at a magnificent Court function attended by all the important people in St Petersburg, including many foreign dignitaries such as [[Tyler|Count Temnoi Ostromirich]] (Tyler) and his wife, [[Lillane-of-Clan-Bahari|Countess Volodimerna Lidena]] (Lillane) from Novgorod, north-western Russia, and by Peter the Great himself.
+New at Court is the very earnest young _Boris Alekseyevich Golitsyn II_, 17 years old and a student at the St Petersburg Academy, and his beautiful sister _Illaria_ (16). Boris and Illaria are the grandchildren of the great Russian statesman and friend of Peter the Great, the late _Boris Alekseyevich Golitsyn_. Illaria is making her formal debut into Russian society at a magnificent Court function attended by all the important people in St Petersburg, including many foreign dignitaries such as _[[Tyler|Count Temnoi Ostromirich]]_ (Tyler) and his wife, _[[Lillane-of-Clan-Bahari|Countess Volodimerna Lidena]]_ (Lillane) from Novgorod, north-western Russia, and by Peter the Great himself.
 
-During the course of the next few days, Illaria sickens with river fever. She is quarantined in a room at Count Petrov’s palace while he tries to treat her illness. He recognizes that Illaria is a nascent air Ka Nephilim, an Angel. Having some prior experience with Angels, Count Petrov uses Illaria’s black lacquer jewel box to summon another of her kind, the legendary Russian Firebird, a fire Ka Nephilim.
+During the course of the next few days, Illaria sickens with river fever. She is quarantined in a room at Count Petrov’s palace while he tries to treat her illness. He recognises that Illaria is a nascent air Ka Nephilim, an Angel. Having some prior experience with Angels, Count Petrov uses Illaria’s black lacquer jewel box to summon another of her kind, the legendary Russian Firebird, a fire Ka Nephilim.
 
 The jewel box contains a solid silver tube engraved with Firebird images, the container for a thick vellum scroll on which is written the [[030-The-Legend-of-the-Firebird|The Legend of the Firebird]]. The box comes from Dagestan in the Northern Caucasus (a forward point on the Great Silk Road).
 
@@ -191,7 +191,7 @@ Here they try to make a new life for themselves. The blacksmith learns to make w
 
 New Orleans, Louisiana
 
-Lillane and Tyler track another of her renegade progeny, [[020-The-Antediluvians#Jacques|Jacques]], to New Orleans and then on to Baton Rouge. On a Mississippi steam paddle-wheeler, they execute Jacques, thus correcting another of Lillane’s errors of judgment.
+Lillane and Tyler track another of her renegade progeny, _[[020-The-Antediluvians#Jacques|Jacques]]_, to New Orleans and then on to Baton Rouge. On a Mississippi steam paddle-wheeler, they execute Jacques, thus correcting another of Lillane’s errors of judgment.
 
 ## 1878 AD - The Wild West
 
@@ -203,7 +203,7 @@ Start of the [[050-Modern|Modern]] campaign. A time-travelling 1920s writer an
 
 London, England
 
-Lillane and Tyler search for a renegade vampire known as Jack the Ripper who is slaughtering women of ill repute. Jack is, surprisingly, not one of Lillane’s progeny but a Ventrue of high position in the English aristocracy. Against Tyler’s better judgment, Lillane embraces an alcoholic [[020-The-Antediluvians#East End Doctor|East End doctor]] after the doctor’s hand is severely damaged in a confrontation with Jack.
+Lillane and Tyler search for a renegade vampire known as Jack the Ripper who is slaughtering women of ill repute. Jack is, surprisingly, not one of Lillane’s progeny but a Ventrue of high position in the English aristocracy. Against Tyler’s better judgment, Lillane embraces an alcoholic _[[020-The-Antediluvians#East End Doctor|East End doctor]]_ after the doctor’s hand is severely damaged in a confrontation with Jack.
 
 ## 1896 AD - The Strange Case of the Sussex Vampire
 
