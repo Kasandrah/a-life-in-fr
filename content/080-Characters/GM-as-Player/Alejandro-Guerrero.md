@@ -34,9 +34,17 @@ Xiucoatl is directing Alejandro to find the matching crystal axe, also sentient!
 
  - Ehecachichtli "Whistle", Lizardman Rogue, [[Ben-G|Ben G.]] ^7a3727
  - Jeb Sam Smithy, Human Paladin, Ryan W.
+ - Lucky, Tabaxi Monk, Feronas
  - Silas Nonagesimus, Storm Sorcerer, Zac W.
  - Tavie Vix, Wood ½-Elf Hexblade Warlock, Feronas
  - Zephyra Breezeborn, Owl Circle of Stars Druid, Clegg I.
+
+![[gm_lucky.jpg]]
+
+**Lucky**
+
+Alejandro likes Lucky, like, really likes Lucky!
+
 
 
 

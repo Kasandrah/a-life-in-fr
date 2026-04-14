@@ -92,11 +92,11 @@ Evelyn is the only one of her family to come to Whitehall so far, although one o
 
 ## Character Sheets
 
-### D&D 3.5 FoundryVTT
+### D&D 3.5 Foundry VTT
 
 ![[gm_hrithik_character_sheet.pdf]]
 
-**Hrithik Olafsson, D&D 3.5 FoundryVTT**
+**Hrithik Olafsson, D&D 3.5 Foundry VTT**
 
 ### D&D 3.5 Hero Lab
 

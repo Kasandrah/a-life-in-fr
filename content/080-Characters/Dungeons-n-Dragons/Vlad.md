@@ -1,6 +1,11 @@
 ---
 aliases:
   - Vlad
+tags:
+  - dungeons-n-dragons
+  - player-character
+title: Vlad
+draft: false
 ---
 # Vlad
 

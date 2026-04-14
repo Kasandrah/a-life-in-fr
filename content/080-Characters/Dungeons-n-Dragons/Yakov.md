@@ -1,6 +1,11 @@
 ---
 aliases:
   - Yakov
+tags:
+  - dungeons-n-dragons
+  - player-character
+title: Yakov
+draft: false
 ---
 # Yakov
 

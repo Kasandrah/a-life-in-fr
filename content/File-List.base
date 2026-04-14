@@ -6,7 +6,6 @@ views:
       direction: ASC
     order:
       - file.name
-      - file.ctime
       - aliases
       - tags
       - file.backlinks
@@ -15,4 +14,4 @@ views:
       - draft
     sort: []
     columnSize:
-      file.folder: 302
+      file.backlinks: 562
