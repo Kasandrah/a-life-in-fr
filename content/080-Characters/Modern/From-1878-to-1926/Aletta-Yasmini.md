@@ -86,11 +86,11 @@ Aletta has no formal education, but is very streetwise.
 | Wand - magic missiles but don’t know how to use it                                        |
 | Time travel spell decoded from an Arabic plate - specific to 1100s world                  |
 | Money:                                                                                    |
-| £21,000.00 in a Swiss bank account (proceeds from fencing stolen jewels in Pretoria)      |
-| £15,000.00 black diamond, £12,000.00 red diamond, £7,000.00 yellow and other brilliants   |
-| £10,000.00 rectangular cut ruby                                                           |
+| £21,000 in a Swiss bank account (proceeds from fencing stolen jewels in Pretoria)         |
+| £15,000 black diamond, £12,000 red diamond, £7,000 yellow and other brilliants            |
+| £10,000 rectangular cut ruby                                                              |
 | 1 uncut precious stone                                                                    |
-| £300.00 in jewellery, clothes and headdress - Siamese style                               |
+| £300 in jewellery, clothes and headdress - Siamese style                                  |
 | 2 coins from the 1100’s, 1 coin from the 1200’s                                           |
 | £5.00 per day in expenses                                                                 |
 | Other:                                                                                    |

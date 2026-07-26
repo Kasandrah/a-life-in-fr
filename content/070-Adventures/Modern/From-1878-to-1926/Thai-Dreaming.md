@@ -54,6 +54,6 @@ Sarong
 
 Shell (a guide to the Thai Dreamworld)
 
-£300.00 in jewellery, clothes and headdress - Siamese style
+£300 in jewellery, clothes and headdress - Siamese style
 
 Amulet - bronze with a design of a running river (one-time protection against fire attack).

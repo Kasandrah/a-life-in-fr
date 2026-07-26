@@ -18,6 +18,8 @@ My library holds my digital resources for the following roleplaying games, acces
 		- [Shadowforce Archer](https://www.drivethrurpg.com/en/product/24693/classic-spycraft-shadowforce-archer-worldbook)
 		- [Spycraft 2.0](https://www.drivethrurpg.com/en/publisher/341/crafty-games/category/4116/spycraft-2-0)
 	- [Stargate SG-1](https://www.drivethrurpg.com/en/product/55630/stargate-sg-1-roleplaying-game)
+- [Arc Dream Publishing](https://arcdream.com/home/)
+	- [Delta Green: Need to Know Starter Rulebook](https://www.drivethrurpg.com/en/product/175760/delta-green-need-to-know-free-starter-rulebook)
 - [Chaosium Inc.](https://www.chaosium.com/)
 	- [Basic Roleplaying - Universal Game Engine](https://www.chaosium.com/brp-core/)
 	- [Call of Cthulhu](https://www.chaosium.com/call-of-cthulhu-rpg/)
@@ -27,9 +29,11 @@ My library holds my digital resources for the following roleplaying games, acces
 	- [Nephilim](https://www.chaosium.com/nephilim/)
 	- [Pendragon](https://www.chaosium.com/pendragon-rpg/)
 	- [RuneQuest](https://www.chaosium.com/runequest-rpg/)
-- Delta Green
 - Dragon Age Origins
-- Old School Essentials
+- [Old School Essentials](https://www.drivethrurpg.com/en/publisher/5606/necrotic-gnome/category/32434/old-school-essentials)
+	- [Classic Fantasy](https://www.drivethrurpg.com/en/product/279183/old-school-essentials-classic-fantasy-rules-tome)
+	- [Advanced Fantasy Player's Tome](https://www.drivethrurpg.com/en/product/336584/old-school-essentials-advanced-fantasy-player-s-tome)
+	- [Advanced Fantasy Referee's Tome](https://www.drivethrurpg.com/en/product/336585/old-school-essentials-advanced-fantasy-referee-s-tome)
 - Pathfinder
 	- First Edition
 	- Second Edition

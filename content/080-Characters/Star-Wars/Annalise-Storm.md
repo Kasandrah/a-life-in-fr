@@ -26,15 +26,15 @@ Jess: "No.  Look, I have to go."
 
 Annalise: "Why don't we go shopping now and pick out something nice.  Andre had some delightful new gowns in his shop yesterday.  There was an apricot one you'd look stunning in."
 
-Jess: I'm really not interested."
+Jess: "I'm really not interested."
 
 Annalise: "I'll just call an air car."
 
-What Jess doesn't realize is that Annalise has a romantic streak a mile long and just wants Jess to meet someone really nice, fall in love, settle down, etc.  All this gallivanting around is just not on.  It's not safe.
+What Jess doesn't realise is that Annalise has a romantic streak a mile long and just wants Jess to meet someone really nice, fall in love, settle down, etc.  All this gallivanting around is just not on.  It's not safe.
 
 Annalise is quite capable of looking after herself, if necessary, and she's not the sort to run and hide.  Having got Jess' message, Annalise's most probable actions would be to wonder what her daughter is up to now and ignore it, go and find out, or check with Taran, whichever seemed quickest to achieve.
 
-I fully expect Annalise to turn up at an inconvenient time and descend on Jess to take her off to yet another marriageable person.  Varth is not marriageable - he's more interested in running a base than Jess and that is not in the least romantic.  Annalise had a father who was busy running the universe and it's not what she has in mind.
+I fully expect Annalise to turn up at an inconvenient time and descend on Jess to take her off to yet another marriageable person.  Varth is not marriageable - he's more interested in running a base than Jess, and that is not in the least romantic.  Annalise had a father who was busy running the universe, and it's not what she had in mind.
 
 Annalise would not be at all surprised to learn Elkior was alive.  She'd mentally sigh resignedly and say something like, "Yes, I'm sure it was something very important."  Elkior was always a distant father.  She wouldn't lay blame - why bother.  It's the way he is.
 

@@ -43,14 +43,14 @@ Seriously hurt when blown through a solid wooden door by an exploding window in 
 
 ## Possessions Acquired
 
-£21,000.00 in a Swiss bank account (proceeds from fencing stolen jewels in Pretoria)
+£21,000 in a Swiss bank account (proceeds from fencing stolen jewels in Pretoria)
 
-£15,000.00 black diamond
+£15,000 black diamond
 
-£12,000.00 red diamond
+£12,000 red diamond
 
-£7,000.00 yellow and other brilliants
+£7,000 yellow and other brilliants
 
-£10,000.00 rectangular-cut ruby
+£10,000 rectangular-cut ruby
 
 Magic dragon eye stone, fist-sized, very heavy, adds 1d4 to power when carried on person.

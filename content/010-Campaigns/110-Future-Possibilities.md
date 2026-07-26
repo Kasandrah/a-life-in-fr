@@ -117,7 +117,7 @@ Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the op
 
 **Dragon Age Quick Start Guide**
 
-**[Dragon Age](https://www.drivethrurpg.com/en/product/147899/dragon-age-rpg-core-rulebook)** - (using the [The Expanse Ruleset](https://foundryvtt.com/packages/expanse), the only Foundry VTT system based on Green Ronin's [Adventure Game Engine](https://greenronin.com/what-is-age-the-adventure-game-engine/), the system underlying Dragon Age) - a licensed IP roleplaying game based on the video games of the [same name](https://www.ea.com/games/dragon-age).
+**[Dragon Age](https://www.drivethrurpg.com/en/product/147899/dragon-age-rpg-core-rulebook)** - (using [The Expanse Ruleset](https://foundryvtt.com/packages/expanse), the only Foundry VTT system based on Green Ronin's [Adventure Game Engine](https://greenronin.com/what-is-age-the-adventure-game-engine/), the system underlying Dragon Age) - a licensed IP roleplaying game based on the video games of the [same name](https://www.ea.com/games/dragon-age).
 
 ---
 
@@ -147,9 +147,10 @@ Dungeons & Dragons - same setting and era as the Old School Essentials campaign 
 I've not adapted the following D&D 5E adventures to Mystara, so they will require additional work before being ready to play.
 
  - [Dragon of Icespire Peak](https://marketplace.dndbeyond.com/adventures/SRC-00041) levels 1-7, [Storm Lord’s Wrath](https://marketplace.dndbeyond.com/adventures/SRC-00050) levels 7-9, [Sleeping Dragon's Wake](https://marketplace.dndbeyond.com/adventures/SRC-00051) levels 9-11, and [Divine Contention](https://marketplace.dndbeyond.com/adventures/SRC-00052) levels 11-13, an adventure path.
- - [Heroes of the Borderlands](https://marketplace.dndbeyond.com/category/4705000?pid=DB4705000&Digital%2FPhysical=Digital), a classic entry-level campaign rebooted for the modern era with 40 to 60 hours of playtime for levels 1-5
+ - [Heroes of the Borderlands](https://marketplace.dndbeyond.com/category/4705000?pid=DB4705000&Digital%2FPhysical=Digital), a classic entry-level campaign rebooted for the modern era with 40 to 60 hours of playtime for levels 1-5.
  - [Lost Caverns of Tsojcanth](https://www.dndbeyond.com/claim/source/descent-into-tsojcanth) level 9, an abridged version based on an [AD&D original](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRp88CAAAAARpM2ExTb_VoOmVtqcBXwj4?e=ApawPk), can be placed in any mountain range near a kingdom or settlement. Contains just the lesser caverns.
- - [The Wild Beyond the Witchlight](https://marketplace.dndbeyond.com/adventures/wild-beyond-the-witchlight?pid=SRC-00079) levels 1-8, set in the Feywild, also known as the Plane of Faerie, hence easier to run in Mystara than other adventures on this list. 
+ - [The Wild Beyond the Witchlight](https://marketplace.dndbeyond.com/adventures/wild-beyond-the-witchlight?pid=SRC-00079) levels 1-8, set in the Feywild, also known as the Plane of Faerie, hence easier to run in Mystara than other adventures on this list.
+ - [Zombie Clot](https://www.dndbeyond.com/claim/source/dungeon-masters-zombie-clot-play-along-pack) levels ? to ?, the first episode of the [Play Along Pack](https://www.dungeonsanddragons.com/dungeon-masters/#Play-Along-Pack) for [Ravenloft: The Horrors Within](https://marketplace.dndbeyond.com/BB-Ravenloft-WK15). This campaign will start in Mystara but quickly transfer to the [Plane of Ravenloft](https://ravenloft.fandom.com/wiki/Ravenloft), specifically [Sithicus](https://ravenloft.fandom.com/wiki/Sithicus), one of the Realms of Dread.
 
 ---
 
