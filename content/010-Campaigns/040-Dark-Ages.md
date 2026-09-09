@@ -65,7 +65,7 @@ Queen Berengaria and Cypress (now a Christian base)
 Life Sense:
 
 1. Sense Life
-2. Alter Simple Patters, Heal Self
+2. Alter Simple Patterns, Heal Self
 3. Alter Self, Heal Life, Transform Simple Patterns, Create Simple Patterns
 4. Alter Complex Life Patterns, Transform Self
 5. Transform Complex Life Patterns, Create Complex Life Patterns, Perfect Metamorphosis

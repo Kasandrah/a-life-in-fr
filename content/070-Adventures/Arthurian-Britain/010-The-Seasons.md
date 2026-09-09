@@ -146,7 +146,7 @@ First appearance of:
 
 Feeling guilty over Morgaine, Rhodri promises her father _[[Oberon|Oberon]]_ that he will obtain the Stone of Destiny for him.  Jeanne suggests Rhodri get information from a Fomori sympathiser and then steal the Stone, rather than openly challenge the Fomori King for it.  Rhodri gathers a reluctant party for a tough mission.
 
-At Levcomagus the party are side tracked by _[[010-The-Seasons#^b842ab|Tamlyn]]_, whose village has been attacked by Saxons and two Fomori.  On arrival at the village, the party meet and are joined by _[[010-Knights-of-Arthurian-Britain#Lady Niani|Lady Niani]]_ and _[[Sir-Brennos|Sir Brennos]]_, recently arrived to protect the village on Raven's behalf.  Sir Cynon claims overlordship of the village in return for providing additional standing knights and strengthening the village's defences.
+At Levcomagus the party are side tracked by _[[010-The-Seasons#^b842ab|Tamlyn]]_, whose village has been attacked by Saxons and two Fomori.  On arrival at the village, the party meet and are joined by _[[010-Knights-of-Arthurian-Britain#Lady Niani|Lady Niani]]_ and _[[Brennos|Sir Brennos]]_, recently arrived to protect the village on Raven's behalf.  Sir Cynon claims overlordship of the village in return for providing additional standing knights and strengthening the village's defences.
 
 The party, with the addition of Niani and Brennos, battled the Saxons and the two Fomori, killing all.  They follow the trail back to the Saxon campsite, where they battle more Saxons and Fomori.  Merffyn assists by killing one of the Fomori, the King's son.  The party heals up at Lady Voklaynn's and ask the Wise One many questions.
 

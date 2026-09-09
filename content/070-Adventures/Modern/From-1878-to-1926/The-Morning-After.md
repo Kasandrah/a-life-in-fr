@@ -14,7 +14,6 @@ fc-display-name: The Morning After
 title: The Morning After
 draft: false
 ---
-
 # The Morning After
 ## 1878
 

@@ -6,7 +6,7 @@ tags:
 title: Silk Scorpion II
 draft: false
 ---
-# Silk Scorpion II
+# 1995 Silk Scorpion II
 
 ![[cc_silk_scorpion_II.jpg]]
 

@@ -32,7 +32,7 @@ draft: false
 
 ![[da_anwyn.jpg]]
 
-Lord Anwyn is a 210-year-old male unicorn, a King of the Lesser Children and forest guardian who’s original home was the Summer Country.
+Lord Anwyn is a 210-year-old male unicorn, a King of the Lesser Children and forest guardian who’s original home was the [[The-Summer-Country|Summer Country]].
 
 Unicorns have two forms - a beast form, referred to as their True Form, and a human form.  In his human form Anwyn is perfect beauty and absolute masculinity.  His skin is the colour of clean, fresh ivory, his eyes are like new bluebells and he has a diamond bump on his forehead.  In unicorn form this is his horn, which he refers to as his alicorn.  His hair is long and thick, the colour of old cream satin.  Most of it is loose around his shoulders, but the hair at his temples is plaited, the end of each plait secured with a silver ornament.  He has a heart shaped face, which is beardless, and pointed ears.
 
@@ -46,7 +46,7 @@ Around his neck Lord Anwyn wears a torc made from two silver rods twisted togeth
 
 Although he prefers to converse telepathically or through dreams when in unicorn form, Lord Anwyn will use spoken conversation when in human form.  His voice is deep and melodious with the lyrical patterns of a bard.  His Bardic leanings become more obvious the longer he speaks, as he has an appreciation of linguistic subtlety and a refined and elegant fluency with the language.
 
-Lord Anwyn has nerve, courage and pride.  He fights with grace, gallantry and a kind of fierce joy.  He uses a direct, if naive approach and possesses great determination and ferocity.  Lord Anwyn's only allegiance is to Lady Voklaynn and his sons, [[Karwin|Karwin]] and Illisander.  Due to this he is not a "team player", he has no sense of teamwork and limited tactical ability.  He usually shows total disregard for his personal safety as all of his efforts are directed at protecting his family.
+Lord Anwyn has nerve, courage and pride.  He fights with grace, gallantry and a kind of fierce joy.  He uses a direct, if naive approach and possesses great determination and ferocity.  Lord Anwyn's only allegiance is to _[[Lady-Voklaynn|Lady Voklaynn]]_ and his sons, _[[Karwin|Karwin]]_ and _[[Illisander]]_.  Due to this he is not a "team player", he has no sense of teamwork and limited tactical ability.  He usually shows total disregard for his personal safety as all of his efforts are directed at protecting his family.
 
 An excellent scout and tracker, Lord Anwyn's acute perception allows him to be completely aware of the terrain around him.  With his superb hearing in human and unicorn form he can hear even the softest sounds some distance away.  He has a unicorn's understanding of the forest and its inhabitants, both animal and plant life, and is an unsurpassed woodsman and herbalist.  Lady Voklaynn is learning much from him.
 

@@ -7,9 +7,9 @@ tags: arthurian-britain
 title: Lady Voklaynn
 draft: false
 ---
-# Lady Voklayn
+# Lady Voklaynn
 
-| Lady Voklayn       | Queen of the Air, Red Dragon of Cymru                    |
+| Lady Voklaynn      | Queen of the Air, Red Dragon of Cymru                    |
 | ------------------ | -------------------------------------------------------- |
 | _Height / weight:_ | 5ft 10ins tall, 147 lbs                                  |
 | _Voice:_           | Soprano                                                  |
@@ -33,7 +33,7 @@ Lady Voklaynn prefers to wear gowns of vibrant blue with silver embroidery, or d
 
 Years of singing have strengthened her soprano voice, which she usually accompanies by playing her lute.  The lute is remarkable for its screws, tiny animals carved from mountain hardwood by a master craftsman.  Lady Voklaynn can read and write, speaks a number of local languages well and can make herself understood in a number of lesser-known tongues.
 
-Only Lord Anwyn, Lady Voklaynn’s husband, surpasses her as a healer and herbalist.  However, it was she who taught him the secret of the rare wild orchids that grow here.  From the essence of a single orchid, she can distil a potion that increases the strength and stamina of anyone who drinks it.  Her medical bag also contains several rare and miraculous herbs that produce amazing results when correctly applied to wounds, injuries, or illness.
+Only _[[Lord-Anwyn|Lord Anwyn]]_, Lady Voklaynn’s husband, surpasses her as a healer and herbalist.  However, it was she who taught him the secret of the rare wild orchids that grow here.  From the essence of a single orchid, she can distil a potion that increases the strength and stamina of anyone who drinks it.  Her medical bag also contains several rare and miraculous herbs that produce amazing results when correctly applied to wounds, injuries, or illness.
 
 Even though she is a healer, Lady Voklaynn has learnt the value of a short sword, a dagger, and a crossbow and is skilled with all three.  The wilds beyond her realm are not to be traversed lightly, so she travels with her short sword at her left hip, her dagger in her belt, and her crossbow within reach.  Her fae armour of gold and silver chain mail, padded with silk, has protected her from harm on a number of occasions.  She has superb vision and always serves her travelling companions as a scout as well as a healer.
 

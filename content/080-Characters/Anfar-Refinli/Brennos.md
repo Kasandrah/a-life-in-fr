@@ -8,14 +8,14 @@ tags:
   - anfar-refinli
   - arthurian-britain
   - player-character
-title: Sir Brennos
+title: Brennos
 draft: false
 ---
 # Brennos
 
 **Knight of Epona, Goddess of Horses, also known as the Swan Knight**
 
-Brennos is a thirty-year-old Toleki knight whose current home is the Summer Country.  He is large, well-muscled and powerful, just over six feet tall, very strong and moves with grace and fluidity.  Although his cheeks are clean-shaven he has a long, neatly kept moustache, the ends of which just brush the base of his neck.  His wavy, shoulder-length red/blonde hair is plaited at his temples so as to hang on either side of his face.  The rest of his hair is loose about his shoulders.  He has pale skin and piercing green eyes.
+Brennos is a thirty-year-old Toleki knight whose current home is the [[The-Summer-Country|Summer Country]].  He is large, well-muscled and powerful, just over six feet tall, very strong and moves with grace and fluidity.  Although his cheeks are clean-shaven he has a long, neatly kept moustache, the ends of which just brush the base of his neck.  His wavy, shoulder-length red/blonde hair is plaited at his temples so as to hang on either side of his face.  The rest of his hair is loose about his shoulders.  He has pale skin and piercing green eyes.
 
 A very well-spoken man, Brennos uses a refined and elegant style of speech.  His voice is deeper than the usual male voice and has a very attractive burr, especially on “r” sounds.
 
@@ -35,7 +35,7 @@ Brennos rides a large, very elegant grey stallion, a “faery” horse gifted to
 
 Brennos was born almost 200 years ago.  His mother was a singer and dancer who also played the lute, his father was a duellist.  After serving as a medium infantry soldier Brennos eventually became the bodyguard for a noble Gelfinlorn family.  He was knighted after brave and honourable service to that family over 10 years.  Not long after he received his knighthood Brennos was believed to have been slain in battle, his body hastily buried by the kidnappers of a child belonging to the household he was responsible for guarding.
 
-Luckily for Brennos, the kidnappers were premature in their judgement and had actually buried him alive.  He was rescued by a party of night jinn who took him into the Summer Country and left him in the care of Epona.  Here he was healed by Ilvilon, Tintagel’s father.  Brennos has no memory of his journey into the Summer Country or of being attacked by the kidnappers.
+Luckily for Brennos, the kidnappers were premature in their judgement and had actually buried him alive.  He was rescued by a party of night jinn who took him into the Summer Country and left him in the care of Epona.  Here he was healed by Ilvilon, _[[Lord-Anwyn|Tintagel's]]_ father.  Brennos has no memory of his journey into the Summer Country or of being attacked by the kidnappers.
 
 After coming to the attention of Epona, Brennos was trained in the arts of war by a female warrior “Power” named Emer.  Emer trained Brennos in single combat on foot, on horseback and from the back of a war chariot.  Emer also gave Brennos valuable instruction in military strategy.
 

@@ -9,19 +9,19 @@ draft: false
 
 **Written by [[Neil-F|Neil F.]]**
 
-Chill winds flurried about the little group as they trudged across the endless plain. The long grass hissed in the wind. [[010-Knights-of-Arthurian-Britain#_Niani, Lady_|Niani]] rode in a remote daze, as she had since she’d decided to leave the caravan and strike off across the plain. Mnesse was the only one not wrapped up. She seemed to enjoy the cold weather. Voklaynn didn’t. Sitting glumly on the seat of the little cart, she huddled into the fur robe as much as she could. Her thin skin and all too vulnerable blood absorbed cold, so she shivered intermittently.
+Chill winds flurried about the little group as they trudged across the endless plain. The long grass hissed in the wind. _[[010-Knights-of-Arthurian-Britain#Lady Niani|Niani]]_ rode in a remote daze, as she had since she’d decided to leave the caravan and strike off across the plain. Mnesse was the only one not wrapped up. She seemed to enjoy the cold weather. _[[Dranffilo-Voklaynn|Voklaynn]]_ didn’t. Sitting glumly on the seat of the little cart, she huddled into the fur robe as much as she could. Her thin skin and all too vulnerable blood absorbed cold, so she shivered intermittently.
 
-“There!” cried out [[010-Knights-of-Arthurian-Britain#_Niani, Lady_|Niani]] suddenly.
+“There!” cried Niani suddenly.
 
 The noblewoman pointed ahead. There was a small hut, possibly a survival hut, looming up out of the dark ahead.
 
 “How did you know it was there?” asked Mnesse.
 
-[[010-Knights-of-Arthurian-Britain#_Niani, Lady_|Niani]] gave a curious little smile and shrugged.
+Niani gave a curious little smile and shrugged.
 
 The donkeys pulled the cart into a ramshackle shelter. Voklaynn unharnessed them from the cart and led them into a roomy stable. Though they were thick furred, the two little animals appreciated the warmth and a break from the incessant wind. Holes in the walls let in cold air, but they were soon plugged with various cloths. In a short time, Mnesse had a fire burning and a pot of tea water boiling. She glanced at Voklaynn sidelong, secretly amused at something.
 
-With a casual air, Voklaynn wolfed her food and gulped her tea, even though it was still steaming hot. Mnesse smiled again. [[010-Knights-of-Arthurian-Britain#_Niani, Lady_|Niani]] stared remote into the distance. Mnesse mimed a kiss but ducked as Voklaynn threw a pillow at her. In almost the same movement Voklaynn swept up her robe and ran from the hut. Mnesse’s laughter followed.
+With a casual air, Voklaynn wolfed her food and gulped her tea, even though it was still steaming hot. Mnesse smiled again. Niani stared remote into the distance. Mnesse mimed a kiss but ducked as Voklaynn threw a pillow at her. In almost the same movement Voklaynn swept up her robe and ran from the hut. Mnesse’s laughter followed.
 
 He awaited her some distance from the hut, eagerly approaching her as she ran toward him.
 
@@ -51,7 +51,7 @@ His reply was worried.
 
 ![[ar_tintagel.jpg]]
 
-The Summer Country was not the heaven of Toleki legend, but a land of enchantment and perfect beauty, a sort of Fairyland. Voklaynn looked around her. The plain was covered by a soft close nap of emerald grass interspersed with tiny brightly coloured flowers. They blazed like tiny stars on the ground underfoot. The sky was a perfect blue, the sun a gigantic shimmering ball of molten copper. The river to one side was slow, serene and deep as it sang its way sweetly to the sea. To the other side climbed rampart over tower of mountain, pine-covered then snowy at the tips. The agonizing white of the frost glinted like sharp diamonds in the sun.
+[[The-Summer-Country|The Summer Country]] was not the heaven of Toleki legend, but a land of enchantment and perfect beauty, a sort of Fairyland. Voklaynn looked around her. The plain was covered by a soft close nap of emerald grass interspersed with tiny brightly coloured flowers. They blazed like tiny stars on the ground underfoot. The sky was a perfect blue, the sun a gigantic shimmering ball of molten copper. The river to one side was slow, serene and deep as it sang its way sweetly to the sea. To the other side climbed rampart over tower of mountain, pine-covered then snowy at the tips. The agonizing white of the frost glinted like sharp diamonds in the sun.
 
 Voklaynn was not cold and this amazed her, even more as she realised her nakedness. The milk of her skin lay over the royal blue of her veins and she felt no embarrassment or shame. Such could not be in the Summer Country.
 

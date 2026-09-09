@@ -9,13 +9,13 @@ draft: false
 
 **Written by [[Neil-F|Neil F.]]**
 
-The white saurian stood within the Actuality that was The Dragon. This was confusing. Perhaps for the first time, its thoughts were confused, be it by ever so little, by the feelings of the Voklaynn entity. But not the petty little Dragon that the humans called “a god”, but The Dragon.
+The white saurian stood within the Actuality that was The Dragon. This was confusing. Perhaps for the first time, its thoughts were confused, be it by ever so little, by the feelings of the _[[Dranffilo-Voklaynn|Voklaynn]]_ entity. But not the petty little Dragon that the humans called “a god”, but The Dragon.
 
 The white saurian held up the human male it had casually in one great clawed hand and looked thoughtfully at it. What was it called again? Lan? It considered Deleting it, but then, the small part of it that was (and would ever be?) Voklaynn protested. Lan was her friend!
 
 The white saurian acknowledged this. The experiment was working in quite unexpected ways, it seemed. However, was it succeeding? It Transposed the Lan-being to a more convenient Otherwhere and considered its options.
 
-It was almost annoying (a very … wrong reaction) to realise that Voklaynn’s thoughts, especially ones concerning those named Anwyn and [[Karwin|Karwin]], were intruding on its deliberations. She had to return as soon as she could, or Anwyn would be distressed. And Karwin would be also, in his own way. And those two likelihoods would in turn … distress her. It. The white saurian.
+It was almost annoying (a very … wrong reaction) to realise that Voklaynn’s thoughts, especially ones concerning those named _[[Lord-Anwyn|Anwyn]]_ and _[[Karwin|Karwin]]_, were intruding on its deliberations. She had to return as soon as she could, or Anwyn would be distressed. And Karwin would be also, in his own way. And those two likelihoods would in turn … distress her. It. The white saurian.
 
 Most interesting! It seemed that all became… had become … would become an integrated whole. What did that bode for the future? What would the Advocate say?
 
@@ -87,19 +87,19 @@ The saurian “turned” back one last time.
 
 < You do?!!! How extraordinary! >
 
-It retrieved the Lan-being. Where the human had been was warmer than where it now again was, and the ice that had deliquesced commenced to turn solid again. The saurian removed enough ambient essence from the surrounds to replenish its own supply of ######, and Stepped back through.
+It retrieved the Lan-being. Where the human had been was warmer than where it now again was, and the ice that had deliquesced commenced to turn solid again. The saurian removed enough ambient essence from the surrounds to replenish its own supply of ?, and Stepped back through.
 
 Night-time, as Voklaynn would have defined things. It was now in a camp. Many people (none of them saurian) very much about. For the moment then, it ensured that none of them could see it. It kept itself slightly out of the “reality” those who called themselves … what were those names now? Ben. Arron. Those Khagraz. Oh. And all the others.
 
 It gestured. Those things, those labels were Voklaynn’s concern, not its. Voklaynn’s friends. Extraordinary! It was not quite in the reality that those ones thought was all that there was. Too hard to explain. The minds were too … shallow. No. Not shallow. That much it had learnt. Not shallow, but naive.
 
-Hmmm. It had the Anwyn-Tintagel frozen in time and took the opportunity to satisfy its Voklaynn that Karwin was still well and happy.
+Hmmm. It had Anwyn frozen in time and took the opportunity to satisfy its Voklaynn that Karwin was still well and happy.
 
 That Voklaynn part of it - much more prominent here in the world that was largely her own - let it know that it would be a very good idea not to let him know that it had suspended his “Time” and taken him from his hatching reality. He would likely be upset to learn that the white saurian’s power encompassed such things, even into the … Summer Country.
 
 It was still almost as if he did not believe that it and its Voklaynn were One. Though confusingly, even the Voklaynn herself wondered sometimes about such things. Extraordinary!
 
-Anwyn thought that in the Summer Country (at least) he had power, and not it. Her. But there was power and there was power. But it … she thought that he would not understand. Appreciate the difference. It was indeed possible Voklaynn might not.
+Anwyn thought that in the [[The-Summer-Country|Summer Country]] (at least) he had power, and not it. Her. But there was power and there was power. But it … she thought that he would not understand. Appreciate the difference. It was indeed possible Voklaynn might not.
 
 Voklaynn began to allow herself to return but then hesitated. No. Lan first. He was inserted into his bed. Thawed out. Dry. Then, with the embarrassment of Voklaynn, it remembered and erected the two tents, making sure the temporal sequence was revised, so that it was the tents that had been pitched before the body had been put inside it.
 

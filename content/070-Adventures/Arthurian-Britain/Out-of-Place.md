@@ -16,9 +16,9 @@ aat-render-enabled: false
 - [[Out-of-Place#Anfar Refinli|Anfar Refinli]]
 - [[Out-of-Place#501-AD - Arthurian Britain|501 AD - Arthurian Britain]]
 - [[Out-of-Place#510-AD Lysanor and Oberon 510 AD - Niani Angers Titania|510 AD - Niani Angers Titania]]
-- [[Out-of-Place#512-AD - September - Brennos and Niani|512-AD - September - Brennos and Niani]]
-- [[Out-of-Place#514-AD - February - Asterlan|514-AD - February - Asterlan]]
-- [[Out-of-Place#514-AD - July - Niani Conceives Maelin|514-AD - July - Niani Conceives Maelin]]
+- [[Out-of-Place#512 AD - September - Brennos and Niani|512 AD - September - Brennos and Niani]]
+- [[Out-of-Place#514 AD - February - Asterlan|514 AD - February - Asterlan]]
+- [[Out-of-Place#514 AD - July - Niani Conceives Maelin|514 AD - July - Niani Conceives Maelin]]
 - [[Out-of-Place#As Time Passes - Niani, Brennos and Mae|As Time Passes - Niani, Brennos and Mae]]
 - [[Out-of-Place#Maelin (Mae)|Maelin (Mae)]]
 - [[Out-of-Place#Mae and Asterlan|Mae and Asterlan]]
@@ -37,7 +37,7 @@ Back at the village, Tintagel warned Niani she needed a direct promise from Rave
 
 The following day they met Raven again.  Niani sought the promise from Raven, but received only the words "Time will not be your enemy", a statement that disquieted her.  She could not query it, as Raven immediately transported them to the new country.
 
-## [[501-AD]] - Arthurian Britain
+## [[501 AD]] - Arthurian Britain
 
 There, they rode towards a primitive hill fort, assuming it was the home of the people Raven had sent them to protect.  Their welcome, when they informed the suspicious defenders that Raven had sent them, convinced them that their assumption was correct.  The defenders treated them like gods.
 
@@ -113,7 +113,7 @@ Continues in **[[501-AD#^9d5d88|501 AD]]**. ^318252
 >  
 >In **September 512 AD**, Brennos returns from the Fae realm.  He fears for Niani, as even though he's complied with all of Titania's requests, he doesn't trust her not to make an attempt on Niani's life.  He also fears Oberon will find out about his liaison with Titania and challenge him to one-on-one combat, justifiably.
 
-## [[512-AD]] - September - Brennos and Niani
+## [[512 AD]] - September - Brennos and Niani
 
 Brennos sat holding Niani.  He'd been gone from her long enough to really rattle her.  Although passionate, she was also reserved.  However, at the moment, she seemed intent on being in constant contact with him, even if it was just her hand resting lightly on his arm.  And the odd idea of getting married.
 
@@ -123,7 +123,7 @@ Brennos was sure Niani was holding something back, which disturbed him even more
 
 "Sir Rhodri was capable of getting in touch with the Fae, but they were all very reluctant to go with me to the woods to try it.  Eventually, they told me there are some sort of creatures living outside the walls of Silchester that attack at night.  Everyone was scared of them."
 
-## [[514-AD]] - February - Asterlan
+## [[514 AD]] - February - Asterlan
 
 >**GM's Note:**  Niani and Brennos find out he is the father of Titania's newborn son _[[030-Arthurian-Britain#^c00cba|Asterlan]]_, as yet unacknowledged by Oberon.  Time being what it is in the Fae realm, Titania has only just given birth even though she abducted Brennos in **June 512 AD**.
 >
@@ -168,7 +168,7 @@ Niani had **always** wanted to return to Anfar Refinli.  She still had a couple
 
 Niani had the choice to go home without Brennos or to stay in Britain with him.  She chose to stay.  However, he never asked her what she wanted to do, and now she has Mae, the option to go home has been removed.  She cannot take Mae from her only home.
 
-## [[514-AD]] - July - Niani Conceives Maelin
+## [[514 AD]] - July - Niani Conceives Maelin
 
 Deciding to have a child was not a rational, considered move.  It was decided out of panic.  She had to find a way of countering Titania, countering the influence of Asterlan and keeping Brennos with her.  It was obvious Voklaynn was only considering the political ramifications of Asterlan and had no interest in helping Brennos and Niani as people.  Niani could not rely on her for any help at all.
 

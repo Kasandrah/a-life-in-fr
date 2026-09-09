@@ -21,7 +21,7 @@ From Anfar Refinli to the Summer Country and back again.
 
 ## Characters
 
->**GM's Note:** Niani's player asked me to create a better in-game match for her than _[[The-Summer-Country#Dannar|Dannar]]_. Being a first-time inexperienced GM, not realising I was stepping into a minefield, and wanting to do right by my friend, I created _[[Sir-Brennos|Brennos]]_ for that purpose.
+>**GM's Note:** Niani's player asked me to create a better in-game match for her than _[[The-Summer-Country#Dannar|Dannar]]_. Being a first-time inexperienced GM, not realising I was stepping into a minefield, and wanting to do right by my friend, I created _[[Brennos|Brennos]]_ for that purpose.
 >
 >Once my sessions were complete, we switched back to Neil as GM. He refused to play Brennos as an NPC. Brennos had "cut Dannar's lunch", as the old saying goes (i.e., stolen Dannar's girlfriend, in this case, Niani). Neil tasked me with running two PCs, Voklaynn and Brennos, and admitted Brennos would have a large target on his back.
 >
@@ -71,7 +71,7 @@ Played by [[Jenny-H|Jenny H.]]
 
 #### Brennos  
 
-A Knight and Epona’s Champion. _[[Sir-Brennos|Brennos]]_ will aid the party in recovering _[[Karwin|Karwin]]_ partly because he is attracted to Niani. He knows Dannar feels the same way about Niani, but that won’t stop Brennos from going after what he wants.
+A Knight and Epona’s Champion. _[[Brennos|Brennos]]_ will aid the party in recovering _[[Karwin|Karwin]]_ partly because he is attracted to Niani. He knows Dannar feels the same way about Niani, but that won’t stop Brennos from going after what he wants.
 
 #### Culain
 

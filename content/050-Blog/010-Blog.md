@@ -6,6 +6,6 @@ tags:
 title: Blog Roll
 draft: false
 ---
-# Blog Roll
+# Blog Posts
 
 [[Diplomacy-RPG-Game-Masters|Diplomacy for RPG Game Masters: The Fine Art of Wrangling Players]]

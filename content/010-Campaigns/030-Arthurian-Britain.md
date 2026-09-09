@@ -75,7 +75,7 @@ Church officials and monasteries also rely upon land grants to knightly vassals 
 
 - _King Arthur_ and _Queen Maeve_, his wife ^5ae098
 - _Merffyn_ the legendary sorcerer, Arthur’s guardian
-- _[[Sir-Brennos|Sir Brennos]]_ (Cymric pagan)
+- _[[Brennos|Sir Brennos]]_ (Cymric pagan)
 - _Sir Lancelot_ (French Christian, born 494 AD), wears Seelie armour, carries magical weapons and shield ^9bb92d
 - _Asterlan_ - son of Brennos and Titania, foster son of Arthur and Maeve ^c00cba
 - _Otho the Troll_ - Ambassador of the Unseelie Fae ^f5e6ab

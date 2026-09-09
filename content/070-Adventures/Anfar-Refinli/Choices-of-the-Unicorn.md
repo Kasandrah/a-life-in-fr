@@ -30,7 +30,7 @@ A common choice.
 
 A time equal to that calculated above, less half his INT and half her APP, and then a sweet and poignant dream is shared. Increase the Beloved’s POW and “species maximum” POW by 1d3. Love seems to be made and a mystical “seed” is shed (?) by the Beloved to join with the Unicorn's “seed” to become a unicorn foal. The unicorn raises and teaches the foal and eventually dies.
 
-Also, a common choice. The initial choice of Tintagel and Voklaynn.
+Also, a common choice. The initial choice of _[[Lord-Anwyn|Tintagel]]_ and _[[Dranffilo-Voklaynn|Voklaynn]]_.
 
 ### Third Choice
 
@@ -58,7 +58,7 @@ For his part, the unicorn seeks a “completion” of himself. Unicorns are neve
 
 As unicorns are virgins until they Choose, and sometimes still well after or forever, so must their choice be virginal. How many potential Beloveds have never been found because they have lost their virginity before the unicorn found them?
 
-Who / what the Guard chooses is like a jigsaw puzzle piece to the “partial edges” of his Spirit. The soul of the Chosen / Beloved will fit the unicorn’s incomplete soul - but how well it fits will depend on the perceived haste/urgency the unicorn feels “to be complete”. The more searching he does, the generally better chance he has to find a more exact match in his Beloved. Some are very lucky, and find their Beloved very soon; others search for centuries.
+Who / what the Guard chooses is like a jigsaw puzzle piece to the “partial edges” of his Spirit. The soul of the Chosen / Beloved will fit the unicorn’s incomplete soul - but how well it fits will depend on the perceived haste/urgency the unicorn feels “to be complete”. The more searching he does, the generally better chance he has to find a more exact match in his Beloved. Some are very lucky and find their Beloved very soon; others search for centuries.
 
 Tintagel and Voklaynn added the Sixth Choice:
 
