@@ -8,11 +8,11 @@ aat-render-enabled: false
 ---
 # A Unicorn's Horn
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 Our Sire smiled mysteriously as she charged us to entreat with the Avarim (as the house of the unicorn was called), to see the Prince of Stars to request his token. As Wolfstead is busy elsewhere for now, on one of his merchant ventures, Lillane instructs us to take young Rosalita with us.
 
-Now, I haven’t mentioned her before, and the reason for that is that she has only recently become a new resident amongst us. She returned with Rafi to “escort” the [[090-Sliver-of-the-Moon|Sliver of the Moon]]. It may appear that young Rosalita is just a very striking, sensual Spanish senorita of great poise, but she is also member of the Clan Garou, a werewolf by any other name.
+Now, I haven’t mentioned her before, and the reason for that is that she has only recently become a new resident amongst us. She returned with Rafi to “escort” the _[[090-Sliver-of-the-Moon|Sliver of the Moon]]_. It may appear that young Rosalita is just a very striking, sensual Spanish senorita of great poise, but she is also member of the Clan Garou, a werewolf by any other name.
 
 Now, as I was saying, Lillane instructed us to bring Rosalita with us, and so as we left to gather our things for this journey, Rafi went to find her and get her ready. Now, I found out from Rafi afterwards that he had told her all that we were going to do on this trip. After telling her where we were going, she was very enthused as it seems she had encountered Illisander before and she was quite keen to pursue him again, amorously of course. I could easily understand why she would (the challenge, don’t you know), but then Rafi tried to convince her of the error of her ways.
 
@@ -44,7 +44,7 @@ Approaching Sadaba, we enter a fog that seems to surround the castle. Owain, Mon
 
 After introductions are made between Lillane and our new castle companions, she continues to apologize and tells us she instructed Lucio to summon it to prevent others from scrying us from afar. She believes that the Tremere Clan was aware of the Horn as soon as it entered the lands, and sought to take it off of us. This is very interesting and requires much discussion but I need to rest … now.
 
-# Written by [[Jenny-H|Jenny H.]] (Gwyn)
+# Written by _[[Jenny-H|Jenny H.]]_ (Gwyn)
 
 Gwyn left the servants to see to their guests’ needs. That was the least of her concerns. She was shocked, but not totally surprised, that Lillane had caused the haze that had affected their eyes. Lillane did as she saw fit and it was not Gwyn’s place to question her actions.
 

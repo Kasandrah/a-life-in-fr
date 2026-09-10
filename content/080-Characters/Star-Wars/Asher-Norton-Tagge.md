@@ -16,13 +16,13 @@ draft: false
 
 ## Background
 
-Asher is a member of the Rebel Alliance and a scion of Tagge House - a merchant family, quasi nobility.  He is the son of [[010-Star-Wars-Characters#_Tagge, Trevelyan Lewis - deceased_|Trevelyan Tagge]] and [[010-Star-Wars-Characters#_Tagge, Evayne - deceased_|Evayne]], a mysterious and beautiful woman with no known past.  Evayne’s death when Asher was 5 was the accepted reason for Trevelyan’s withdrawal from the family - i.e. to be with his son.  Accepted as truth everywhere but within Tagge House, as Ormon Tagge had his father the Baron and his father's younger brother Trevelyan slain to become Baron Tagge.
+Asher is a member of the Rebel Alliance and a scion of Tagge House - a merchant family, quasi nobility.  He is the son of _[[010-Star-Wars-Characters#_Tagge, Trevelyan Lewis - deceased_|Trevelyan Tagge]]_ and _[[010-Star-Wars-Characters#_Tagge, Evayne - deceased_|Evayne]]_, a mysterious and beautiful woman with no known past.  Evayne’s death when Asher was 5 was the accepted reason for Trevelyan’s withdrawal from the family - i.e. to be with his son.  Accepted as truth everywhere but within Tagge House, as Ormon Tagge had his father the Baron and his father's younger brother Trevelyan slain to become Baron Tagge.
 
 Fearing for years that Ormon was going to do something drastic, Trevelyan had set up a secret account with enormous sums of money and a refuge within the Tagge Fleet amongst some personal friends and ex-followers.  For a couple of years after Trevelyan's death, things remained as they were, with a new Baron at the helm and a young cadet in the Fleet.  But as Asher's popularity amongst the Fleet grew, he suffered four near-fatal accidents in the space of two days.  As friends died in these failed assassination attempts, Asher fled to the distant and unimportant Minos Sector and joined _Red Storm Rising_ as Asher Fletcher when the opportunity arose.
 
 When Asher originally joined the Tagge Fleet, he assumed the behaviour of a young and very rich playboy to allay Orman’s concerns about him.  Until Asher encountered Troy, he had forgotten that being the playboy was an act.  Although he still lapses into the act occasionally, he is trying to be like the man his father was, with the emotions of his mother.
 
-## Written by [[Ben-G|Ben G.]] (Asher)
+## Written by _[[Ben-G|Ben G.]]_ (Asher)
 
 Entered the Tagge Fleet when 17.  Place for Asher to be out of the way from Orman's plans.  Originally, just to be a cadet and general officer but in time found an amazing aptitude for astrogation.  Everyone amazed at almost instinctual grasp of physics and maths.  Although extremely popular with the general crews, officers avoided Asher when not on duty (it was politically and professionally 'bad news' to be around him.
 
@@ -70,11 +70,11 @@ FAMILY: Most noted fact about the Tagge family is that they are the owners of th
 
 The main line of the family has 3 brothers and a sister.  The eldest brother of the Tagge line is Baron Ormon Tagge.  Other than being the head of this powerful Family, he is also a rival for the emperor's throne.  He was blinded by a light sabre used by Darth Vader, and has to use cyber-vision to see.  He has publicly stated he will get revenge on Lord Vader in a duel.  He and the rest of the family do not believe in the powers of the so-called Force.  Independent assessment has concluded that Baron Ormon suffers from megalomania.
 
-The next sibling is [[010-Star-Wars-Characters#_Tagge, Silas_|Silas Tagge]].  He is an emotionless scientist who has become a noted designer of ingenious Imperial weaponry.
+The next sibling is _[[010-Star-Wars-Characters#_Tagge, Silas_|Silas Tagge]]_.  He is an emotionless scientist who has become a noted designer of ingenious Imperial weaponry.
 
-The third sibling is [[010-Star-Wars-Characters#_Tagge, Domina_|Domina Tagge]].  She has been cloistered in a monastery (the Order of the Sacred Circle) on the wishes of her brother Ormon.  It is believed that Ormon views her as "the only pure and innocent thing in this (the Tagge) family" and he doesn't want to see her corrupted.
+The third sibling is _[[010-Star-Wars-Characters#_Tagge, Domina_|Domina Tagge]]_.  She has been cloistered in a monastery (the Order of the Sacred Circle) on the wishes of her brother Ormon.  It is believed that Ormon views her as "the only pure and innocent thing in this (the Tagge) family" and he doesn't want to see her corrupted.
 
-The youngest sibling is [[010-Star-Wars-Characters#_Tagge, General Ulric_|General Ulric Tagge]], who is an Imperial Fleet Commander.  All other details have been withheld for security reasons.
+The youngest sibling is _[[010-Star-Wars-Characters#_Tagge, General Ulric_|General Ulric Tagge]]_, who is an Imperial Fleet Commander.  All other details have been withheld for security reasons.
 
 The current subject is a first cousin of the leading Tagge siblings.  His father was the younger brother of the siblings' father.  Although not proven, suspicious circumstances surround the deaths of both the subject's father and the previous Baron.  (It is widely believed that Baron Ormon killed both of them to become Baron.)  There have been no notable events in the subject's life, except for being immersed in the family's fleet as an astrogator, until recently.  There have been four near-fatal accidents near the subject.  The subject left the Imperial planet and has headed off to one of the minor sectors.  The subject lost the operative in the spaceport.  Current whereabouts are unknown.
 

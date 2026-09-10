@@ -11,7 +11,7 @@ draft: false
 >
 >It was also an opportunity for the party to learn that running about with low-level followers in tow, even Alliance Marines, could prove very dangerous for the followers.  The party has advanced to a level where any credible threat to them could easily prove fatal for their non-Jedi followers.
 
-## Written by [[Jenny-H|Jenny H.]] (Hadra)
+## Written by _[[Jenny-H|Jenny H.]]_ (Hadra)
 
 All the captains were summoned to talk to General Leith.  Elan turned up, as he didn't trust either Lou or Ash to be the captain.  He still invited Ash, deciding that a genuine Alliance presence was probably called for.  They were all (Wedge, Hadra, Elan, Ash and Ross) being sent to scout out a planet proposed as an Alliance safe world.  The initial survey had been promising, but there were inconsistencies, which was why the group was being sent en masse.
 

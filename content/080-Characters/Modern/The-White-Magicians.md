@@ -14,7 +14,7 @@ draft: false
 
 Retired to contemplate the insides of his eyelids after “too many monsters”.
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ## Dr Alexander Notting
 
@@ -22,21 +22,21 @@ Intense, middle-aged archaeologist, a professor at Harvard University. After ext
 
 **[[cc_alexander_notting.pdf|Dr Alexander Notting]], Call of Cthulhu**
 
-Played by [[Ben-G|Ben G.]]
+Played by _[[Ben-G|Ben G.]]_
 
 ## Professor Edwin Occultree
 
 Yale University.
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ## Kellion O’Shea
 
 Short, red-haired Irishman who looks like a bearded Kenneth Brannagh. Was a British SAS sniper specialist, now a public speaker and successful author. Called in occasionally by Jefferson Dean for assignments requiring his talents. Enjoys playing cards, hunting, and singing. Dislikes serious people, plain clothes, Hollywood, and cultists (how can they be so stupid?).
 
-**[[cc_kellion_oshea.pdf|Kellion O'Shea]], Call of Cthulhu**
+**_[[cc_kellion_oshea.pdf|Kellion O'Shea]]_, Call of Cthulhu**
 
-Played by [[Ben-G|Ben G.]]
+Played by _[[Ben-G|Ben G.]]_
 
 ## Sydney George Washington
 
@@ -44,7 +44,7 @@ Played by [[Ben-G|Ben G.]]
  
 Private investigator, ex-CIA.
 
-Played by [[Michael-H|Michael H.]]
+Played by _[[Michael-H|Michael H.]]_
 
 ## Max Willis
 
@@ -52,4 +52,4 @@ Played by [[Michael-H|Michael H.]]
 
 Computer hacker and street racer.
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_

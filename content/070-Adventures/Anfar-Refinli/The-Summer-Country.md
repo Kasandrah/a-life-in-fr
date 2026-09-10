@@ -7,7 +7,7 @@ draft: false
 ---
 # The Summer Country
 
->**GM's Note:** This was the first time I'd acted as a GM. [[Neil-F|Neil F.]] was exceptionally generous in offering me the opportunity to add to his beloved [[100-Anfar-Refinli|Anfar Refinli]] homebrew campaign.
+>**GM's Note:** This was the first time I'd acted as a GM. _[[Neil-F|Neil F.]]_ was exceptionally generous in offering me the opportunity to add to his beloved _[[100-Anfar-Refinli|Anfar Refinli]]_ homebrew campaign.
 
 A land of enchantment and perfect beauty. A soft, close nap of emerald green grass interspersed with gold, mauve, violet, blue, pink, amber, and orange flowers blazing like tiny stars covers the plain. The sky is perfectly blue; the sun a gigantic shimmering ball of molten copper. Fallen leaves, as vibrant as before they fell from the trees, crackle and rustle underfoot.
 
@@ -35,19 +35,19 @@ From Anfar Refinli to the Summer Country and back again.
 
 A knight in love with Niani.
 
-Played by [[Neil-F|Neil F.]]
+Played by _[[Neil-F|Neil F.]]_
 
 #### Kyle
 
 A thief with a social interest and a sense of humour.
 
-Played by [[Zoran-B|Zoran B.]]
+Played by _[[Zoran-B|Zoran B.]]_
 
 #### Lan
 
 A knight, Niani’s second-in-command.
 
-Played by [[Michael-H|Michael H.]]
+Played by _[[Michael-H|Michael H.]]_
 
 #### Melitha
 
@@ -57,7 +57,7 @@ A huntress, Lan’s wife.
 >
 >Melitha is hiding an embarrassing secret. She loves Lan, but will never say so. 
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_
 
 #### Pnessamo Boklaro Niani
 
@@ -65,7 +65,7 @@ Played by [[Jenny-H|Jenny H.]]
 
 An exiled noble and knight.
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_
 
 ### Non-Player Characters (NPCs)
 
@@ -144,7 +144,7 @@ Day Five - Journey back to Epona’s fortress
 Dawn at Epona’s fortress  
 Day Six - Journey back to the Rainbow Cavern
 
-# Written by [[Jenny-H|Jenny H.]] (Niani)
+# Written by _[[Jenny-H|Jenny H.]]_ (Niani)
 
 ## Day One - Dwarven trading village south of Gernos
 

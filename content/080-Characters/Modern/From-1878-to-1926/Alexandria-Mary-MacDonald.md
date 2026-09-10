@@ -16,21 +16,21 @@ Alexandria: feminine of Alexander - “defender of men”
 
 Mary: “the bitter”, Hebrew, myrrh, common form of Miriam
 
-| Aspect             | Description                                                              |
-| ------------------ | ------------------------------------------------------------------------ |
-| _Height / weight:_ | 5 feet 3 inches tall / 115 pounds                                        |
-| _Voice:_           | Soprano                                                                  |
-| _Perfume:_         |                                                                          |
-| _Born:_            | 10th September 1897 in Pittsburgh, Pennsylvania - American               |
-| _Birth sign:_      | Virgo                                                                    |
-| _Birth stones:_    | Sapphire, agate, jacinth, opal                                           |
-| _Birth flowers:_   | Valerian                                                                 |
-| _Partner:_         | _[[Joshua-Eberhardt\|Joshua Eberhardt]]_                          |
-| _Occupation_       | Author, journalist and photographer                                      |
-| _Residence:_       | Los Angeles, California                                                  |
-| _Drives:_          | [[Stutz-BB-Blackhawk\|1928 Stutz Model BB Blackhawk Boattail Speedster]] |
-| _Reads / Writes:_  | English                                                                  |
-| _Weapons:_         | Handgun, shotgun                                                         |
+| Aspect             | Description                                                                |
+| ------------------ | -------------------------------------------------------------------------- |
+| _Height / weight:_ | 5 feet 3 inches tall / 115 pounds                                          |
+| _Voice:_           | Soprano                                                                    |
+| _Perfume:_         |                                                                            |
+| _Born:_            | 10th September 1897 in Pittsburgh, Pennsylvania - American                 |
+| _Birth sign:_      | Virgo                                                                      |
+| _Birth stones:_    | Sapphire, agate, jacinth, opal                                             |
+| _Birth flowers:_   | Valerian                                                                   |
+| _Partner:_         | _[[Joshua-Eberhardt\|Joshua Eberhardt]]_                                   |
+| _Occupation_       | Author, journalist and photographer                                        |
+| _Residence:_       | Los Angeles, California                                                    |
+| _Drives:_          | _[[Stutz-BB-Blackhawk\|1928 Stutz Model BB Blackhawk Boattail Speedster]]_ |
+| _Reads / Writes:_  | English                                                                    |
+| _Weapons:_         | Handgun, shotgun                                                           |
 
 ## Appearance
 
@@ -88,24 +88,24 @@ Alex is a freelance journalist and photographer. Many leading newspapers and mag
 
 Alex is the only daughter of a Pittsburgh (Pennsylvania) steelworker of Scottish-American heritage, the seventh and youngest child of her parents. Two of her six brothers are members of the Pittsburgh Police Department.
 
-Read [[The-Morning-After|The Morning After]] for the story of how Alex first met Josh Eberhardt.
+Read _[[The-Morning-After|The Morning After]]_ for the story of how Alex first met Josh Eberhardt.
 
 ## Timeline
 
-| Date                                 | Adventure                                          |
-| ------------------------------------ | -------------------------------------------------- |
-| 1878 December                    | [[The-Wild-West\|The Wild West]]               |
-| 1921 late November to 1922 end March | [[Sirens\|Sirens]]                                 |
-| 1923 August                          | [[Horse-of-the-Invisible\|Horse of the Invisible]] |
-| 1923 end August                      | [[The-Red-Witch\|The Red Witch]]                   |
-| 1923 early November                  | [[Sirens-II\|Sirens II]]                           |
-| 1924 end January                     | [[Fear-of-Flying\|Fear of Flying]]                 |
-| 1924 May                             | [[Occult-and-Cult\|Occult and Cult]]               |
-| 1924 November 21st to 30th           | [[Orient-Express\|Orient Express]]                 |
-| 1925 July 11th to 13th               | [[Schools-Out\|School’s Out]]                      |
-| 1925 August 8th                      | [[To-Aid-a-Friend\|To Aid a Friend]]               |
-| 1925 September 23rd                  | [[Temple-of-the-Moon\|Temple of the Moon]]         |
-| 1925 November                        | [[The-Wild-West\|The Wild West]]                   |
+| Date                                 | Adventure                                            |
+| ------------------------------------ | ---------------------------------------------------- |
+| 1878 December                        | _[[The-Wild-West\|The Wild West]]_                   |
+| 1921 late November to 1922 end March | _[[Sirens\|Sirens]]_                                 |
+| 1923 August                          | _[[Horse-of-the-Invisible\|Horse of the Invisible]]_ |
+| 1923 end August                      | _[[The-Red-Witch\|The Red Witch]]_                   |
+| 1923 early November                  | _[[Sirens-II\|Sirens II]]_                           |
+| 1924 end January                     | _[[Fear-of-Flying\|Fear of Flying]]_                 |
+| 1924 May                             | _[[Occult-and-Cult\|Occult and Cult]]_               |
+| 1924 November 21st to 30th           | _[[Orient-Express\|Orient Express]]_                 |
+| 1925 July 11th to 13th               | _[[Schools-Out\|School’s Out]]_                      |
+| 1925 August 8th                      | _[[To-Aid-a-Friend\|To Aid a Friend]]_               |
+| 1925 September 23rd                  | _[[Temple-of-the-Moon\|Temple of the Moon]]_         |
+| 1925 November                        | _[[The-Wild-West\|The Wild West]]_                   |
 
 ## Weapons
 

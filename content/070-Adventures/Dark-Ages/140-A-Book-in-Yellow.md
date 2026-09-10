@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # A Book in Yellow
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 The final token from the Circle members to complete the repair of the Circle must now be obtained. Lillane explains that we will need to go to the Outer Worlds. To do so, we will need to pass through a mirror that has been sealed to prevent things from passing through. When we try to get some definitive information from Merffyn and Lucio, they point out that any information they could give us would be useless?! Although this leaves us all bemused, confused and wanting to refuse, but … we do nothing.
 

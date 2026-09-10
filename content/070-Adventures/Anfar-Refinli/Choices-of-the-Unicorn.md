@@ -8,7 +8,7 @@ draft: false
 ---
 # Choices of the Unicorn
 
-**Written by [[Neil-F|Neil F.]]**
+**Written by _[[Neil-F|Neil F.]]_**
 
 A unicorn will offer the following choices to his beloved:
 

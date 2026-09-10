@@ -6,17 +6,17 @@ tags:
 title: Lines of Storm Force
 draft: false
 ---
->**GM's Note:** I didn't accept this player writeup **as canon** for my Star Wars campaign. The writer's assumptions regarding my NPCs' motives and behaviour are incorrect.
+>**GM's Note:** I didn't accept this player story as **canon** for my Star Wars campaign. The writer's assumptions regarding my NPCs' motives and behaviour are incorrect.
 >
->[[Boddi|Boddi]] doesn't hate Jess; Boddi doesn't hate anyone or anything. She's learned hate is a fast path to the Dark, to the Bogan.  Boddi is familiar with many ways of using the Force. She prefers the way of the [[Jedi-Bendu|Jedi Bendu]] for long-term galactic stability, but sees value in other Light-side approaches.
+>_[[Boddi|Boddi]]_ doesn't hate Jess; Boddi doesn't hate anyone or anything. She's learned hate is a fast path to the Dark, to the Bogan.  Boddi is familiar with many ways of using the Force. She prefers the way of the _[[Jedi-Bendu|Jedi Bendu]]_ for long-term galactic stability, but sees value in other Light-side approaches.
 >
->In this player writeup, Jess invents a way of using the Force that is "something completely new". In Boddi's long experience, Jess' wild and untamed dancing isn't new. This form derives from ancient shamanistic traditions among tribal and clan-centric Force users.   [[Jedi-Bendu#Dermod|Dermod]], being an ancient Jedu Bendu himself, would have recognised this "new" form for what it was as well.
+>In this player story, Jess invents a way of using the Force that is "something completely new". In Boddi's long experience, Jess' wild and untamed dancing isn't new. This form derives from ancient shamanistic traditions among tribal and clan-centric Force users. _[[Jedi-Bendu#Dermod|Dermod]]_, being an ancient Jedu Bendu himself, would have recognised this "new" form for what it was as well.
 >
 >Boddi agrees Jess isn't a Jedi Bendu, that much is obvious, but is more a Witch of Dathomir with a rare Force-cloaking ability, for example.  This being the case, Boddi would have acknowledged Jess' fresh path and commitment to training, and encouraged her to seek a suitable teacher. One who had already walked the path Jess was starting out on.
 
 # Lines of Storm Force
 
-**Written by [[Jenny-H|Jenny H.]]**
+**Written by _[[Jenny-H|Jenny H.]]_**
 
 Jess had had enough.  She and Jayme had been waiting to receive their new assignments for long enough, especially as Jayme informed her that the delay was an argument about whether she really was a member of the Alliance and not just a stand-in for Hadra.  Jess made a signal to him and they went into action, Jayme distracting the adjutant who had kept them waiting in the reception area, while she entered the conference room.
 

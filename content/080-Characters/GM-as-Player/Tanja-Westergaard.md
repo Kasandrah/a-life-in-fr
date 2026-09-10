@@ -15,7 +15,7 @@ An actress and singer working in the Old West town of Deadwood.
 
 **Tanja as Ophelia, Deadwood Theatre**
 
-Partnered with _Pleasant McGriffen_, undertaker and shootist - played by [[Ben-G|Ben G.]] ^25d384
+Partnered with _Pleasant McGriffen_, undertaker and shootist - played by _[[Ben-G|Ben G.]]_ ^25d384
 
 ## Character Sheet
 

@@ -11,7 +11,7 @@ draft: false
 
 Jess' maternal grandmother.
 
-## Written by [[Jenny-H|Jenny H.]] (Jess)
+## Written by _[[Jenny-H|Jenny H.]]_ (Jess)
 
 Heije met and fell in love with a Corellian CorSec agent, Elkior Toiyabe.  He thought that marriage and a child, Annalise, would slow her down.  (Even then he had conservative leanings.)  He thought they would build a quiet, respectable life together.  He was wrong.
 

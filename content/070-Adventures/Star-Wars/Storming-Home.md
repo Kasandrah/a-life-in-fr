@@ -1249,7 +1249,7 @@ Leith looked hard at both women.  "I'm not going to have this mission and our l
 
 Leith's decision held.
 
->**GM's Note:** Tor is inquisitive of Sari.  Deak explains her story to Tor.  Deak is concerned that Sari may not be reliable or trustworthy.  Sari is concerned that Deak left Leith in a very bad situation (see [[Parry-Riposte-Checkmate|Parry, Riposte ... Checkmate]]).  Sari runs interference between Tor and Leith, until she realises there's nothing in it.
+>**GM's Note:** Tor is inquisitive of Sari.  Deak explains her story to Tor.  Deak is concerned that Sari may not be reliable or trustworthy.  Sari is concerned that Deak left Leith in a very bad situation (see _[[Parry-Riposte-Checkmate|Parry, Riposte ... Checkmate]]_).  Sari runs interference between Tor and Leith, until she realises there's nothing in it.
 >
 >While the _Dark Heart_ is on Draenell's Point, Sari gets to know Hela better.  Hela knows that her "Ice" is a clone.  Boddi and the crew of the _Red Storm Rising_ encountered another Iceman in Minos Sector, a contract killer working for Tecknel Shnick.  This Iceman shot dead Jess' navigator Tag over a gambling debt just after the _Red Storm Rising_ first arrived in Minos Sector.  Boddi eventually put this Iceman into hibernation deep sleep after she recognised him as a new generation clone.  Finding the second clone saved Boddi the trouble of going back to get the first one.
 >

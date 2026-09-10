@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # A Circle Re-Consecrated
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 At that moment, Rollon is forced back a few steps. We race the book through to the Circle room where Lillane, Lucio and Merffyn have been awaiting our arrival with everything else prepared. We are ordered out and they perform the ceremony straight away. Afterwards, Lillane instructed us to return the book immediately but only Monico is able to pass back through the mirror. On the other side, Monico said afterwards, was the sense of absolutely nothing but what he was standing on and It standing in front him in the dark. Monico gave him the book politely and was told to pass on greetings from the King In Yellow to Lillane.
 

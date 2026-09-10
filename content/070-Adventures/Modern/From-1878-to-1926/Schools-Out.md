@@ -24,10 +24,10 @@ Also known as **"The Affair at St. Croix"**
 
 | Player Characters                                           | Non-Player Characters |
 | ----------------------------------------------------------- | --------------------- |
-| _[[Jenny-H#^72dacc\|Chesterfield, Heather Petunia]]_     |                       |
+| _[[Jenny-H#^72dacc\|Chesterfield, Heather Petunia]]_        |                       |
 | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ |                       |
-| _[[Zoran-B#^9224e1\|Nacht, Mons. Frederick]]_          |                       |
-| _[[George-G#^ec1e00\|Wallace, Kingsley]]_            |                       |
+| _[[Zoran-B#^9224e1\|Nacht, Mons. Frederick]]_               |                       |
+| _[[George-G#^ec1e00\|Wallace, Kingsley]]_                   |                       |
 
 ## Involvement
 

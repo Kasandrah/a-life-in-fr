@@ -8,9 +8,9 @@ aat-render-enabled: false
 ---
 # An Angel's Feather
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
-Lillane has what she needs for her part of the Circle (a bloodstone necklace), and Lucio has a fist-sized emerald (Lucifer’s Crown) for his part. Rafi has just obtained a [[090-Sliver-of-the-Moon|Sliver of the Moon]] from the Lycanthropes. We are now going to try and get Mik’ail’s token. It is decided that since Gwyn has encountered The Templar, we will try and get his help. A note is sent to Saragossa requesting his help, and to arrange a meeting about ½ way between Saragossa and Sadaba. Our party will consist of Gwyn, Monico, and myself under an escort from the castle men-at-arms. For the sake of caution, we arrived at the rendezvous a night early.
+Lillane has what she needs for her part of the Circle (a bloodstone necklace), and Lucio has a fist-sized emerald (Lucifer’s Crown) for his part. Rafi has just obtained a _[[090-Sliver-of-the-Moon|Sliver of the Moon]]_ from the Lycanthropes. We are now going to try and get Mik’ail’s token. It is decided that since Gwyn has encountered The Templar, we will try and get his help. A note is sent to Saragossa requesting his help, and to arrange a meeting about ½ way between Saragossa and Sadaba. Our party will consist of Gwyn, Monico, and myself under an escort from the castle men-at-arms. For the sake of caution, we arrived at the rendezvous a night early.
 
 While the rest of us are quiescent for the day, Monico first greets some mercenaries who introduce themselves as employed by the noble and holy Don Juan Carlos Vega y Galino, before the Templar arrives with his retinue. This retinue consists of some more mercenaries and his “squire”. Juan Carlos is told that we had travelled hard to reach here and were resting for a while. As I believe he can sense that Gwyn is nearby, I expect he is not surprised that we are resting for the day.
 

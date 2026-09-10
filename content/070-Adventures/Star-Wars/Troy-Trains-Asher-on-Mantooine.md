@@ -7,7 +7,7 @@ draft: false
 ---
 # Troy Trains Asher on Mantooine
 
-## Written by Ben (Asher)
+## Written by _[[Ben-G|Ben G.]]_ (Asher)
 
 >**GM's Note:**  As the Force is far stronger on a living planet than on a barren space station, Troy decides to step up Asher's training by organising a trip to the Rebel base on Mantooine.  The Rebels occupy the mountainous region near several cities on Mantooine's southern continent.  The main base has been cut out of the mountains and supports several thousand Rebels.  The lush forests around the mountain stronghold are strong in the Force.
 

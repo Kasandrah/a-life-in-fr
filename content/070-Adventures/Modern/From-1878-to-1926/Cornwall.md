@@ -24,10 +24,10 @@ Also known as **"The Cornish Chalice"**
 
 | Player Characters                                     | Non-Player Characters                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| _[[Neil-F#^9d1620\|Boker, Nan]]_                 | _Abernathy, Molly and Martin_ - housekeeper and driver/gardener                         |
-| _[[Zoran-B#^960632\|Jupiter, Andrew "Monk"]]_    | _Bateman, Beatrice_ - Sarah’s Mother                                                    |
-| _[[Michael-H#^b6baef\|Petherick, Colonel Gary]]_ | _[[Charles-van-Buren\|van Buren, Charles]]_                                             |
-| _[[Jenny-H#^88427e\|Powers, Melanie "Annie"]]_     | _[[Sarah-Ann-van-Buren\|van Buren, Sarah Ann]]_                                         |
+| _[[Neil-F#^9d1620\|Boker, Nan]]_                      | _Abernathy, Molly and Martin_ - housekeeper and driver/gardener                         |
+| _[[Zoran-B#^960632\|Jupiter, Andrew "Monk"]]_         | _Bateman, Beatrice_ - Sarah’s Mother                                                    |
+| _[[Michael-H#^b6baef\|Petherick, Colonel Gary]]_      | _[[Charles-van-Buren\|van Buren, Charles]]_                                             |
+| _[[Jenny-H#^88427e\|Powers, Melanie "Annie"]]_        | _[[Sarah-Ann-van-Buren\|van Buren, Sarah Ann]]_                                         |
 |                                                       | _Heale, Grania - Sarah’s maternal Grandmother_                                          |
 |                                                       | _Paterson, Ninian and Matthew_ - Nimue and Merlin and their English Mastiff dog, Arthur |
 

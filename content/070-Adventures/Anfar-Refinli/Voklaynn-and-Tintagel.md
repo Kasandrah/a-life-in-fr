@@ -7,7 +7,7 @@ draft: false
 ---
 # Voklaynn and Tintagel
 
-**Written by [[Neil-F|Neil F.]]**
+**Written by _[[Neil-F|Neil F.]]_**
 
 Chill winds flurried about the little group as they trudged across the endless plain. The long grass hissed in the wind. _[[010-Knights-of-Arthurian-Britain#Lady Niani|Niani]]_ rode in a remote daze, as she had since she’d decided to leave the caravan and strike off across the plain. Mnesse was the only one not wrapped up. She seemed to enjoy the cold weather. _[[Dranffilo-Voklaynn|Voklaynn]]_ didn’t. Sitting glumly on the seat of the little cart, she huddled into the fur robe as much as she could. Her thin skin and all too vulnerable blood absorbed cold, so she shivered intermittently.
 
@@ -51,7 +51,7 @@ His reply was worried.
 
 ![[ar_tintagel.jpg]]
 
-[[The-Summer-Country|The Summer Country]] was not the heaven of Toleki legend, but a land of enchantment and perfect beauty, a sort of Fairyland. Voklaynn looked around her. The plain was covered by a soft close nap of emerald grass interspersed with tiny brightly coloured flowers. They blazed like tiny stars on the ground underfoot. The sky was a perfect blue, the sun a gigantic shimmering ball of molten copper. The river to one side was slow, serene and deep as it sang its way sweetly to the sea. To the other side climbed rampart over tower of mountain, pine-covered then snowy at the tips. The agonizing white of the frost glinted like sharp diamonds in the sun.
+_[[The-Summer-Country|The Summer Country]]_ was not the heaven of Toleki legend, but a land of enchantment and perfect beauty, a sort of Fairyland. Voklaynn looked around her. The plain was covered by a soft close nap of emerald grass interspersed with tiny brightly coloured flowers. They blazed like tiny stars on the ground underfoot. The sky was a perfect blue, the sun a gigantic shimmering ball of molten copper. The river to one side was slow, serene and deep as it sang its way sweetly to the sea. To the other side climbed rampart over tower of mountain, pine-covered then snowy at the tips. The agonizing white of the frost glinted like sharp diamonds in the sun.
 
 Voklaynn was not cold and this amazed her, even more as she realised her nakedness. The milk of her skin lay over the royal blue of her veins and she felt no embarrassment or shame. Such could not be in the Summer Country.
 
@@ -131,7 +131,7 @@ There was quiet between the lovers for a while. Tintagel had told Voklaynn much 
 
 “You will find our baby son awaiting you. I shall send you a messenger who is brusque but true. She will lead you to our son. With him, you shall always have me with you, but I must seek you out to be with you. I am jealous.” He kissed her deeply, holding her tightly to him.
 
-“The [[Choices-of-the-Unicorn|choices of the unicorn]] are five,” he said, beginning the Litany. “The first is to continue the relationship, but the unicorn will fade when the woman takes her first lover. The second is to continue the relationship for a time, then share a dream and part forever. The third is for the woman to become a unicorn and then both return to the Summer Country, paired forever. The fourth is to continue the relationship forever, but the woman cannot take any other lover. The fifth is for the unicorn to be rejected. Together we made the second choice.” He kissed her again, breathing in her scent. “But then you made a suggestion and I agreed with a word, a word that must not be broken for it was the word of a Lover to his True Love. We made a Sixth Choice!”
+“The _[[Choices-of-the-Unicorn|choices of the unicorn]]_ are five,” he said, beginning the Litany. “The first is to continue the relationship, but the unicorn will fade when the woman takes her first lover. The second is to continue the relationship for a time, then share a dream and part forever. The third is for the woman to become a unicorn and then both return to the Summer Country, paired forever. The fourth is to continue the relationship forever, but the woman cannot take any other lover. The fifth is for the unicorn to be rejected. Together we made the second choice.” He kissed her again, breathing in her scent. “But then you made a suggestion and I agreed with a word, a word that must not be broken for it was the word of a Lover to his True Love. We made a Sixth Choice!”
 
 “How so, my Tintagel?” she murmured, so close no louder sound was needed. He smiled.
 

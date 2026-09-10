@@ -15,7 +15,7 @@ timelines:
 
 >**Player's Note:** I don't remember playing through this, but it was dated 2001 or earlier.
 
-**Written by [[Jenny-H|Jenny H.]]**
+**Written by _[[Jenny-H|Jenny H.]]_**
 
 _[[Dresdina-Cooper|Dresdina]]_ was dreaming, but it was a dream quite unlike any she had ever had before. An army of people, dressed in elaborate, archaic armour, marched across a desert area. Their faces were oddly distorted, almost inhuman. They fought opponents who were even less human - tall, thin, evil-looking. Clouds of swirling colours leapt from their finger-tips.
 

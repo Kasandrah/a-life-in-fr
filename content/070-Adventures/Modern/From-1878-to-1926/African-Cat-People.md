@@ -28,11 +28,11 @@ Also known as **“Black Claws”**.
 
 | Player Characters                                                                 | Non-Player Characters                         |
 | --------------------------------------------------------------------------------- | --------------------------------------------- |
-| _[[Aletta-Yasmini\|Yasmini, Aletta]]_                                             | _[[Jenny-H#^4df543\|Harper, John Wesley]]_ |
-| _[[Michael-H#^5f3573\|Smirnoff, Nikolai]]_, involved with Aletta at the time | _[[Jenny-H#^52b214\|Mandiville, Maggie]]_  |
-| _[[Dianne-G#^669d4e\|Pemberton, Amelia]]_                                   | _Wild, Lord Vincent_                          |
+| _[[Aletta-Yasmini\|Yasmini, Aletta]]_                                             | _[[Jenny-H#^4df543\|Harper, John Wesley]]_    |
+| _[[Michael-H#^5f3573\|Smirnoff, Nikolai]]_, involved with Aletta at the time      | _[[Jenny-H#^52b214\|Mandiville, Maggie]]_     |
+| _[[Dianne-G#^669d4e\|Pemberton, Amelia]]_                                         | _Wild, Lord Vincent_                          |
 | _[[David-van-Hasalt\|van Hasalt, David]]_                                         |                                               |
-| _[[Neil-F#^c2a5f3\|Allison, Jason]]_                                         |                                               |
+| _[[Neil-F#^c2a5f3\|Allison, Jason]]_                                              |                                               |
 
 ## Involvement
 

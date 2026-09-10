@@ -10,7 +10,7 @@ draft: false
 ---
 # Sari Blackwood
 
-**Written by [[Jenny-H|Jenny H.]] (Sari)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Sari)**
 
 Sari didn't know she had Force abilities, only that if she spoke in a certain way, she had a better chance of persuading people she was telling the truth, and that she could tell whether or not people should be trusted.  Sari has a secret spot within her mind that she retreats to when she doesn't want to be aware of her outside condition (cold, hungry, being tortured, etc.).  Meeting someone who could follow her there would scare her half to death.
 
@@ -38,7 +38,7 @@ Eighteen months ago Blackwood stopped sending information.  An agent was sent t
 
 Blackwood was forcibly withdrawn from operations, but sufficient information did not exist to confirm her status.  She was posted to the Core Worlds and watched.
 
->**GM's Note:**  Sari's forcible removal by Intel Commander Deak Freehold is described in [[Parry-Riposte-Checkmate|Parry, Riposte ... Checkmate]].  Since those events, Sari has been doing "little jobs" for Intel while making a living as a nightclub singer.  Intel is loath to use her for anything critical, as they have doubts about her loyalty.  She's known to have played a role in the accidental death of Brormal, an Intel agent (and ISB double agent undetected by Intel), and was involved with Imperial General Leith.
+>**GM's Note:**  Sari's forcible removal by Intel Commander Deak Freehold is described in _[[Parry-Riposte-Checkmate|Parry, Riposte ... Checkmate]]_.  Since those events, Sari has been doing "little jobs" for Intel while making a living as a nightclub singer.  Intel is loath to use her for anything critical, as they have doubts about her loyalty.  She's known to have played a role in the accidental death of Brormal, an Intel agent (and ISB double agent undetected by Intel), and was involved with Imperial General Leith.
 
 Recently Blackwood has dropped out of sight.  There is some reason to believe she may try to prevent the defection of an Imperial officer.
 
@@ -54,4 +54,4 @@ What do you do with an agent whose only real talent is her voice?  You get her 
 
 Just recently, Sari has had a sense of foreboding and has decided its time to check on Leith, just in case.  She would give anything to have him safe and with her again.
 
->**GM's Note:**  Sari's story picks up again in [[Riders-of-the-Maelstrom|Riders of the Maelstrom]].
+>**GM's Note:**  Sari's story picks up again in _[[Riders-of-the-Maelstrom|Riders of the Maelstrom]]_.

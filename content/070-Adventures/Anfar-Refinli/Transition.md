@@ -7,7 +7,7 @@ draft: false
 ---
 # Transition
 
-**Written by [[Neil-F|Neil F.]]**
+**Written by _[[Neil-F|Neil F.]]_**
 
 Mabhan was enormous, almost three metres tall and looming vast, not only in his physical presence but also in his personality. It was almost hard to be in the same room as him, so overwhelming was he. He might have been only a minor Power, as he seemed fond of repeating, but here in his own lands, he was Might personified.
 
@@ -23,7 +23,7 @@ At present Mabhan was brooding, irritable. His fingers plucked fitfully at the g
 
 **The House of Mabhan, site map**
 
-Mabhan grinned broadly, showing square white teeth. Voklaynn noticed that he did that often. But then he as suddenly looked sour. He almost, though not quite, looked at her as she stood aside a little from Tintagel, nursing [[Karwin|Karwin]]. Smudge was well back from her, but she knew his exact location as surely as she knew hers, Tintagil’s and Karwin’s. The child played entranced with strands of snow-hair and gurgled nonsense sounds solemnly to himself and her. Somewhere behind her and to her right were Lan and Melitha.
+Mabhan grinned broadly, showing square white teeth. Voklaynn noticed that he did that often. But then he as suddenly looked sour. He almost, though not quite, looked at her as she stood aside a little from Tintagel, nursing _[[Karwin|Karwin]]_. Smudge was well back from her, but she knew his exact location as surely as she knew hers, Tintagil’s and Karwin’s. The child played entranced with strands of snow-hair and gurgled nonsense sounds solemnly to himself and her. Somewhere behind her and to her right were Lan and Melitha.
 
 Voklaynn was well aware that it was hers and Smudge’s presence that disturbed the Power so. Something to do with Saurians being outside the realm of the Gods if indeed that could be so? She knew Mabhan had no inkling at all as to where Smudge was, and she was mostly invisible to him. And here in his domain, in the seat of his power, he took this almost as though it were a personal insult.
 

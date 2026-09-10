@@ -12,16 +12,16 @@ draft: false
 
 Contents:
 
-- [[010-Star-Wars-Characters#Jedi Bendu of the Circle of the Ashla|Jedi Bendu of the Circle of the Ashla]]
-- [[010-Star-Wars-Characters#Star Wind|Star Wind]]
-- [[010-Star-Wars-Characters#The Maker|The Maker]]
-- [[010-Star-Wars-Characters#Dark Heart|Dark Heart]]
-- [[010-Star-Wars-Characters#Storm Clouds|Storm Clouds]]
-- [[010-Star-Wars-Characters#The Kierra|The Kierra]]
-- [[010-Star-Wars-Characters#Home Base|Home Base]]
-- [[010-Star-Wars-Characters#Rebel Alliance|Rebel Alliance]]
-- [[010-Star-Wars-Characters#Imperials|Imperials]]
-- [[010-Star-Wars-Characters#Others|Others]]
+- _[[010-Star-Wars-Characters#Jedi Bendu of the Circle of the Ashla|Jedi Bendu of the Circle of the Ashla]]_
+- _[[010-Star-Wars-Characters#Star Wind|Star Wind]]_
+- _[[010-Star-Wars-Characters#The Maker|The Maker]]_
+- _[[010-Star-Wars-Characters#Dark Heart|Dark Heart]]_
+- _[[010-Star-Wars-Characters#Storm Clouds|Storm Clouds]]_
+- _[[010-Star-Wars-Characters#The Kierra|The Kierra]]_
+- _[[010-Star-Wars-Characters#Home Base|Home Base]]_
+- _[[010-Star-Wars-Characters#Rebel Alliance|Rebel Alliance]]_
+- _[[010-Star-Wars-Characters#Imperials|Imperials]]_
+- _[[010-Star-Wars-Characters#Others|Others]]_
 
 ![[sw_original_crew.jpg]]
 
@@ -31,25 +31,25 @@ Left to right:  Roger, Jess, Varth, Deak, Busurra, Tor, Ash, Nogradis, and Lou 
 
 ## Jedi Bendu of the Circle of the Ashla
 
-[[Jedi-Bendu|Jedi Bendu of the Circle of the Ashla]]
+_[[Jedi-Bendu|Jedi Bendu of the Circle of the Ashla]]_
 
 ### Jedi Bendu Apprentices
 
-- [[010-Star-Wars-Characters#Ashton, Lou (Max Doon)|Ashton, Lou (Max Doon)]]
-- [[010-Star-Wars-Characters#Azur-Jamin, Daye|Azur-Jamin, Daye]]
-- [[010-Star-Wars-Characters#Blackwood, Sari|Blackwood, Sari]]
-- [[010-Star-Wars-Characters#Freehold, Commander Deak|Freehold, Commander Deak]]
-- [[010-Star-Wars-Characters#Hela|Hela]]
-- [[010-Star-Wars-Characters#Jayme|Jayme]]
-- [[010-Star-Wars-Characters#Leith, General|Leith, General]]
-- [[010-Star-Wars-Characters#Neena|Neena]]
-- [[010-Star-Wars-Characters#Riddick|Riddick]]
-- [[010-Star-Wars-Characters#Roger, Captain|Roger, Captain (Elan)]]
-- [[010-Star-Wars-Characters#Ross, Captain Thaddeus|Ross, Captain Thaddeus]]
-- [[010-Star-Wars-Characters#Storm, Commander Jess|Storm, Commander Jess]]
-- [[010-Star-Wars-Characters#Tagge, Asher Norton|Tagge, Asher Norton (Syll)]]
-- [[010-Star-Wars-Characters#Varth Jr., Adam|Varth Jr., Adam]]
-- [[010-Star-Wars-Characters#Vernan, General|Vernan, General]]
+- _[[010-Star-Wars-Characters#Ashton, Lou (Max Doon)|Ashton, Lou (Max Doon)]]_
+- _[[010-Star-Wars-Characters#Azur-Jamin, Daye|Azur-Jamin, Daye]]_
+- _[[010-Star-Wars-Characters#Blackwood, Sari|Blackwood, Sari]]_
+- _[[010-Star-Wars-Characters#Freehold, Commander Deak|Freehold, Commander Deak]]_
+- _[[010-Star-Wars-Characters#Hela|Hela]]_
+- _[[010-Star-Wars-Characters#Jayme|Jayme]]_
+- _[[010-Star-Wars-Characters#Leith, General|Leith, General]]_
+- _[[010-Star-Wars-Characters#Neena|Neena]]_
+- _[[010-Star-Wars-Characters#Riddick|Riddick]]_
+- _[[010-Star-Wars-Characters#Roger, Captain|Roger, Captain (Elan)]]_
+- _[[010-Star-Wars-Characters#Ross, Captain Thaddeus|Ross, Captain Thaddeus]]_
+- _[[010-Star-Wars-Characters#Storm, Commander Jess|Storm, Commander Jess]]_
+- _[[010-Star-Wars-Characters#Tagge, Asher Norton|Tagge, Asher Norton (Syll)]]_
+- _[[010-Star-Wars-Characters#Varth Jr., Adam|Varth Jr., Adam]]_
+- _[[010-Star-Wars-Characters#Vernan, General|Vernan, General]]_
 
 
 ___
@@ -72,7 +72,7 @@ Wants to:
 - further explore his Jedi powers - won't accept he's Force sensitive
 - check if his new force sensitivity could result from a meta-virus in his system
 
-Played by [[Michael-H|Michael H.]]
+Played by _[[Michael-H|Michael H.]]_
 
 ### Pendragon, Captain Nogradus
 
@@ -82,9 +82,9 @@ Played by Dragon B.
 
 ### Roa, Major Taron
 
-Major, Alliance Intelligence, military specialist, spy.  Also an Alliance Intelligence operative code-named [[Taron-Roa|Harlequin]].
+Major, Alliance Intelligence, military specialist, spy.  Also an Alliance Intelligence operative code-named _[[Taron-Roa|Harlequin]]_.
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_
 
 ### Roger, Captain
 
@@ -99,11 +99,11 @@ Wants to:
 - find stuff to improve the ship
 - see if the person he is impersonating has found out about him and might come looking.
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ### Tagge, Asher Norton
 
-[[Asher-Norton-Tagge|Asher]] (then *Spar* and now *Syll*) is learning to be a Jedi (Consular) from [[Jedi-Bendu#Troy|Troy]]. He is mending his ways from being a superficial playboy to being a man, and a Jedi, that his father would have been proud of.
+_[[Asher-Norton-Tagge|Asher]]_ (then *Spar* and now *Syll*) is learning to be a Jedi (Consular) from _[[Jedi-Bendu#Troy|Troy]]_. He is mending his ways from being a superficial playboy to being a man, and a Jedi, that his father would have been proud of.
 
 Navigator onboard the _Red Storm Rising_, then the _Star Wind_.  Short (5' 4"), very short black hair, blue eyes, fair complexion, medium build.
 
@@ -111,9 +111,9 @@ Wants to:
 - be a better Jedi - training and resulting skill increases
 - follow up on the Tagge family (on the prison planet Kessel).
  
-While still growing in maturity and power, Syll keeps what he is at heart.  He likes [[010-Star-Wars-Characters#Carly - X-Wing Pilot|Carly]], luxuries, the senses, and the Force.  He dislikes discomfort, the Dark Side, and [[010-Star-Wars-Characters#Tagge, Baron Ormon|Baron Ormon Tagge]].
+While still growing in maturity and power, Syll keeps what he is at heart.  He likes _[[010-Star-Wars-Characters#Carly - X-Wing Pilot|Carly]]_, luxuries, the senses, and the Force.  He dislikes discomfort, the Dark Side, and _[[010-Star-Wars-Characters#Tagge, Baron Ormon|Baron Ormon Tagge]]_.
 
-Played by [[Ben-G|Ben G.]]
+Played by _[[Ben-G|Ben G.]]_
 
 ### "Gunnie" (Gunner)
 
@@ -125,7 +125,7 @@ ___
 
 ### Storm, Commander Jess
 
-[[Jess-Storm|Commander Jess Storm]] is a Corellian, Captain of _The Maker_, and a Jedi Bendu apprentice.  Tall (5' 8''), slender but strongly built, leggy, short slightly curly naturally blond hair, hard steel grey eyes.  Rough around the edges.  Usually dressed in an Alliance uniform or a pilot's outfit.  Can scrub up well if chooses.
+_[[Jess-Storm|Commander Jess Storm]]_ is a Corellian, Captain of _The Maker_, and a Jedi Bendu apprentice.  Tall (5' 8''), slender but strongly built, leggy, short slightly curly naturally blond hair, hard steel grey eyes.  Rough around the edges.  Usually dressed in an Alliance uniform or a pilot's outfit.  Can scrub up well if chooses.
 
 Wants to:
 - protect the crew of _The Maker_
@@ -133,7 +133,7 @@ Wants to:
 - become a better Jedi - especially defensively, learning from Nadoc and Dermod
 - learn about Jess' uninterested friends, Varth, Yerkys ne Dago, Hadra's friends and family
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_
 
 ### Jayme
 
@@ -145,11 +145,11 @@ ___
 
 ### Skylow, Captain Tor
 
-[[Tor-Skylow|Captain Tor Skylow]], ex-Imperial Navy. 
+_[[Tor-Skylow|Captain Tor Skylow]]_, ex-Imperial Navy. 
 
 ### Freehold, Commander Deak
 
-[[Deak-Freehold|Commander Deak Freehold]], Alliance Intelligence, and Navigator onboard the _Dark Heart_.
+_[[Deak-Freehold|Commander Deak Freehold]]_, Alliance Intelligence, and Navigator onboard the _Dark Heart_.
 
 Played by Tim Howe.
 
@@ -165,7 +165,7 @@ Tall and athletic, fair complexion, blonde hair.  Bodyguard for Hela and Boddi 
 
 ### Riddick
 
-Yes, that [[Riddick|Riddick]].
+Yes, that _[[Riddick|Riddick]]_.
 
 ___
 
@@ -173,11 +173,11 @@ ___
 
 ### Storm, Captain Taran
 
-[[Taran-Storm|Captain Taran Storm]], Jess' father.
+_[[Taran-Storm|Captain Taran Storm]]_, Jess' father.
 
 ### Annalise Storm
 
-[[Annalise-Storm|Annalise Storm]], Jess' mother.
+_[[Annalise-Storm|Annalise Storm]]_, Jess' mother.
 
 ### Jensen, Tyler
 
@@ -191,11 +191,11 @@ A ship "possessed" by a droid intelligence named Kierra.
 
 ### Ross, Captain Thaddeus
 
-[[Thaddeus-Ross|Captain Thaddeus Ross]] is a Corellian bounty hunter and smuggler, handsome with soft, spiked blonde hair clipped short, green eyes, a very attractive smile and a mischievous expression.  Easy-going 28-year-old who comes from a long line of smugglers.
+_[[Thaddeus-Ross|Captain Thaddeus Ross]]_ is a Corellian bounty hunter and smuggler, handsome with soft, spiked blonde hair clipped short, green eyes, a very attractive smile and a mischievous expression.  Easy-going 28-year-old who comes from a long line of smugglers.
 
 Has a ruthless occupational edge and a reputation as a good enforcer derived from his ability to capture the most dangerous criminal personalities quickly and with a minimum of fuss.  Easily provoked by senseless violence.  Cynical and self-righteous, weakness for protecting the underdog.
 
-Often interferes to even the odds, ignoring danger. The Jedi Bendu [[Jedi-Bendu#Nichelle|Nichelle]] raised Ross from the dead after he was ambushed and killed by Rodian bounty hunters onboard Omze’s Incredible Travelling Starport.
+Often interferes to even the odds, ignoring danger. The Jedi Bendu _[[Jedi-Bendu#Nichelle|Nichelle]]_ raised Ross from the dead after he was ambushed and killed by Rodian bounty hunters onboard Omze’s Incredible Travelling Starport.
 
 ___
 
@@ -211,7 +211,7 @@ Young Intellectual.  Formerly a senior supervisor with I’att Armaments, armam
 
 ### Blackwood, Sari
 
-[[Sari-Blackwood|Sari Blackwood]] is a singer. Slender, 4'10", short and straight black hair, beautiful. Clothes are sophisticated and sexy.  Quite capable of "dressing the part".  Was an Alliance Intelligence agent but now training as a Jedi Bendu under Nichelle.
+_[[Sari-Blackwood|Sari Blackwood]]_ is a singer. Slender, 4'10", short and straight black hair, beautiful. Clothes are sophisticated and sexy.  Quite capable of "dressing the part".  Was an Alliance Intelligence agent but now training as a Jedi Bendu under Nichelle.
 
 Wants to:
 - marry Leith and produce lots of offspring
@@ -219,7 +219,7 @@ Wants to:
 - become a better Jedi, stay away from Dermod
 - find the hole in the Alliance contacts she had.
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_
 
 ### Busurra - Wookie
 
@@ -247,7 +247,7 @@ Light-absorbing Derfel that can only be seen in the ultraviolet spectrum. 1.8 m
 
 Escaped to the Alliance, where he has yet to find a niche.  Angry with the Empire and those with no honour, really murderously angry with oath breakers.  Blood feud with the Iron Clan.  Appears nasty but quite mild-mannered.  Likes adventure and a chance to stretch his limits.  Likes to cook in his time off.  Bit reserved with strangers.
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_
 
 ### Erris, Royd
 
@@ -265,7 +265,7 @@ Originally from Ryloth head-clan.  Driven out into the Ryloth dark side to die 
 
 Ex-Imperial Guard, defector to the Alliance.
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_
 
 ### I'att, Tinian
 
@@ -277,7 +277,7 @@ An Imperial officer who defected to the Alliance, he maintains a stern military 
 
 ### Leith, General
 
-[[Leith|General Leith]], Commander, Home Base, is formerly of the Imperial Army.  Defected to the Rebel Alliance.  Leith is stable, thoughtful, and dependable, with a leader's charisma, strength, and decisiveness.  His genuine care for the troops under his command has boosted morale on the base to an all-time high.
+_[[Leith|General Leith]]_, Commander, Home Base, is formerly of the Imperial Army.  Defected to the Rebel Alliance.  Leith is stable, thoughtful, and dependable, with a leader's charisma, strength, and decisiveness.  His genuine care for the troops under his command has boosted morale on the base to an all-time high.
 
 ### Neena
 
@@ -293,7 +293,7 @@ Historian
 
 ### Varth, Adam
 
-[[Adam-Varth|Wing Commander Adam Varth]], Home Base.
+_[[Adam-Varth|Wing Commander Adam Varth]]_, Home Base.
 
 Tall, dark, and very good-looking.  Usually wears a sour expression.  A bitter and taciturn disciplinarian whose flawless tactics have kept his pilots alive and victorious against terrible odds.
 
@@ -305,13 +305,13 @@ Kid.  Wing Commander Varth's 12-year-old son by his wife, Seleene.  Varth thou
 
 A male Toydarian with a flair for numbers. Base resource manager and accountant.
 
-Played by [[Michael-B|Michael B.]]
+Played by _[[Michael-B|Michael B.]]_
 
 ### Zeff
 
 Short, green, lizard-like Chi Chi Psi pilot.  Originally from the core worlds, worked for a small/medium merchant shipping line that was overrun by Baron Orman Tagge's line.  Has the annoying habit of being totally honest.
 
-Played by [[Zoran-B|Zoran B.]]
+Played by _[[Zoran-B|Zoran B.]]_
 
 ### Zoe - Command Centre
 
@@ -423,7 +423,7 @@ Water covers his planet. Water-based alien race.
 
 ### Toiyabe, Elkior
 
-Alliance Minister for Supply.  [[Elkior-Toiyabe|Elkior Toiyabe]] is Jess Storm's maternal grandfather, whom she believed to be dead.
+Alliance Minister for Supply.  _[[Elkior-Toiyabe|Elkior Toiyabe]]_ is Jess Storm's maternal grandfather, whom she believed to be dead.
 
 ### Troomis - Intel
 
@@ -518,7 +518,7 @@ Pursuing Jess Storm for the money the cargo of nerve toxins she dumped would hav
 
 ### Gamou, Heije
 
-[[Heije-Gamou|Heije Gamou]] was Jess' maternal grandmother. Deceased.
+_[[Heije-Gamou|Heije Gamou]]_ was Jess' maternal grandmother. Deceased.
 
 ### Jarel, Jana - Bounty Hunter
 

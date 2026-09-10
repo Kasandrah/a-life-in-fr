@@ -24,10 +24,10 @@ Also known as **"Wings of Nightmare"**.
 
 | Player Characters                                           | Non-Player Characters                          |
 | ----------------------------------------------------------- | ---------------------------------------------- |
-| _[[Barry-L#^fba145\|Dare, Allan T.]]_                   | _McWaters, Maisy_ – Dare’s secretary           |
+| _[[Barry-L#^fba145\|Dare, Allan T.]]_                       | _McWaters, Maisy_ – Dare’s secretary           |
 | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ | _Kilmeister, Ethyl_ – occultist                |
-| _[[Jenny-H#^de5750\|McConnell, Meia]]_                   | _[[Neil-F#^730cdb\|McConnell, Terry]]_    |
-| _[[George-G#^dd2bb1\|O’Donovan, John]]_              | _Opanel, Mavin_ – religious leader and cultist |
+| _[[Jenny-H#^de5750\|McConnell, Meia]]_                      | _[[Neil-F#^730cdb\|McConnell, Terry]]_         |
+| _[[George-G#^dd2bb1\|O’Donovan, John]]_                     | _Opanel, Mavin_ – religious leader and cultist |
 |                                                             | _Yochim_ – became a four-armed giant           |
 
 ## Involvement

@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-## [[050-Modern|Modern]]
+## _[[050-Modern|Modern]]_
 
 _Allison, Jason_ - American, ex-Foreign Legionnaire, husband of _[[Jenny-H#^3101c8|Myfanwie Allison]]_ ^c2a5f3
 

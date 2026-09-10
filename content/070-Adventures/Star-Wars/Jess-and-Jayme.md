@@ -7,7 +7,7 @@ draft: false
 ---
 # Jess and Jayme
 
-**Written by [[Jenny-H|Jenny H.]] (Jess)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Jess)**
 
 Straight after the campfire history lesson from Karan, Jayme waited until everyone else had left _The Maker_ and made a pass at Jess.  It was as subtle as grabbing her and starting to kiss her.  It took Jess completely by surprise.
 

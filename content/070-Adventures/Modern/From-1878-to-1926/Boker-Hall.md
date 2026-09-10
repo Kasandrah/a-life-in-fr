@@ -22,12 +22,12 @@ draft: false
 
 | Player Characters                                         | Non-Player Characters                                     |
 | --------------------------------------------------------- | --------------------------------------------------------- |
-| _[[Dianne-G#^df7d56\|Elliot, Dr. Robyn]]_           | _Boker, Zadoc_                                            |
-| _[[Steve-B#^dd7b98\|Lane, Arnold "Arnie"]]_          | _Boker, Phineas_                                          |
-| _[[Jenny-H#^a797a7\|Ravenwood, Dame Marion]]_          | _Chileskas, Mark_                                         |
-| _[[Michael-H#^5c665d\|Waverley, Tom]]_               | _Raffe, Sir Giles_ - Baronet                              |
+| _[[Dianne-G#^df7d56\|Elliot, Dr. Robyn]]_                 | _Boker, Zadoc_                                            |
+| _[[Steve-B#^dd7b98\|Lane, Arnold "Arnie"]]_               | _Boker, Phineas_                                          |
+| _[[Jenny-H#^a797a7\|Ravenwood, Dame Marion]]_             | _Chileskas, Mark_                                         |
+| _[[Michael-H#^5c665d\|Waverley, Tom]]_                    | _Raffe, Sir Giles_ - Baronet                              |
 | _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ | _Raffe, Lady Mary_ - wife of Sir Giles and Diana’s cousin |
-|                                                           | _[[Neil-F#^93d9ac\|Ravenwood, N.L.]]_                |
+|                                                           | _[[Neil-F#^93d9ac\|Ravenwood, N.L.]]_                     |
 
 ## Involvement
 
@@ -43,7 +43,7 @@ Spear wound to the outside of her left ankle (scarred badly on healing).
 
 ## Cthulhu Cthucks!
 
-**Written by [[Jenny-H|Jenny H.]] (Marion)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Marion)**
 
 >**GM's Note:** This incomplete extract is all I have.
 
@@ -60,7 +60,7 @@ _[[Dianne-G#^df7d56|Robyn Elliot]]_ ([[Dianne-G|Dianne G.]]), daughter of Marion
 _[[Diana-Elizabeth-Winthrop|Diana Elizabeth Winthrop]]_ ([[Sharon-P|Sharon P.]]), wealthy gangster's daughter, driver.
 _[[Steve-B#^dd7b98|Arnie]]_ ([[Steve-B|Steve B.]]), insurance salesman, footballer, part-time archaeologist.
 
-GM ([[Neil-F|Neil F.]]), vicious decimator of characters' minds and souls.
+GM (_[[Neil-F|Neil F.]]_), vicious decimator of characters' minds and souls.
 
 The following is from the diary of Lady Marion Ravenwood. Btess.
 

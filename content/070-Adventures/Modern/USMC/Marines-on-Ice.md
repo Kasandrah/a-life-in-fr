@@ -22,12 +22,12 @@ draft: false
 
 | Player Characters                                                                         | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                     | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 |                                                                            |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                     |                                                                            |
-| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     |                                                                            |
-| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                            |
+| _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                        | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
+| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 |                                                                            |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                        |                                                                            |
+| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     |                                                                            |
+| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                            |
 
 >**GM's Note:** The group takes a military transport plane from Washington to Port Stanley in the Falkland Islands.  Then they travel by military helicopter to a Los Angeles-class nuclear submarine, the USS Miami, off the Falkland Islands.  Next is a submarine journey to Antarctica, with 12 Arctic Seals.  The only thing to break the monotony is an attack by “some large unidentifiable marine creature”, repelled by the use of torpedoes.
 >
@@ -39,7 +39,7 @@ draft: false
 >
 >The team retreats to the submarine and awaits discovery of the transmitter by Dean’s personnel.  The transmitter has gone through the gate to another Nazi base in the Amazon jungle.  Back to Brazil.
 
-## Written by [[Jenny-H|Jenny H.]] (Michal)
+## Written by _[[Jenny-H|Jenny H.]]_ (Michal)
 
 Along with a contingent of Arctic-trained Seals, the party boarded military flights to the Falkland Islands and rendezvoused with a submarine off the coast, then headed towards the Ronne Ice Shelf in a Los Angeles class submarine, the USS Miami.  Ilsenberg spent as much time close to the exit hatches as possible.  He really wasn't happy about being in a submarine.  Neither were Antonio and Angela. David and Michal played chess and bridge with them to take their minds off it.  It appealed to Antonio's competitive streak.
 

@@ -24,12 +24,12 @@ Also known as **"The Two Temples"**.
 
 | Player Characters                                         | Non-Player Characters                                                  |
 | --------------------------------------------------------- | ---------------------------------------------------------------------- |
-| _[[Jenny-H#^8bee83\|McDougall, Hope]]_                 | _Carey, Lt. Colonel John_                                              |
+| _[[Jenny-H#^8bee83\|McDougall, Hope]]_                    | _Carey, Lt. Colonel John_                                              |
 | _Morgan, Silva_ – a model (Dianne)                        | _Cromwell, Dermot_ – 11th Earl of Kilkenny and his wife _Philadelphia_ |
-| _[[Jenny-H#^a797a7\|Ravenwood, Dame Marion]]_          | _[[David-van-Hasalt\|van Hasalt, David]]_ – Philadelphia’s brother     |
-| _[[George-G#^9c0418\|Richardson, Captain Bill]]_   | _HRH The Prince of Wales_ (briefly)                                    |
-| _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ | _[[Neil-F#^93d9ac\|Ravenwood, N.L.]]_                             |
-|                                                           | _[[Neil-F#^be806d\|McDougall, Mick]]_                             |
+| _[[Jenny-H#^a797a7\|Ravenwood, Dame Marion]]_             | _[[David-van-Hasalt\|van Hasalt, David]]_ – Philadelphia’s brother     |
+| _[[George-G#^9c0418\|Richardson, Captain Bill]]_          | _HRH The Prince of Wales_ (briefly)                                    |
+| _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ | _[[Neil-F#^93d9ac\|Ravenwood, N.L.]]_                                  |
+|                                                           | _[[Neil-F#^be806d\|McDougall, Mick]]_                                  |
 
 ## Involvement
 

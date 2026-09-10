@@ -7,7 +7,7 @@ draft: false
 ---
 # Rhinnatania
 
-**Written by [[Neil-F|Neil F.]]**
+**Written by _[[Neil-F|Neil F.]]_**
 
 Rhinnatania sat half-leaning against the elm on the small verdant mound. Her crippled left arm flopped at her side and she turned her head with difficulty to look about with wonder. Psila knelt beside her, brushing the wizardess’ luxuriant hair. She murmured something to her mistress that made the wizardess smile. _[[Karwin|Karwin]]_ sat gurgling beside the two women. Rhinnatania reacted to him with great uneasiness, but it was apparent that Psila had much previous experience with babies. She was no-nonsense but very capable. She also seemed fascinated by his alicorn nubbin.
 
@@ -199,7 +199,7 @@ Then the hut blew up. Psila literally appeared out of nowhere and it was only by
 
 “The brownies will be upset!” Anwyn said. Voklaynn thought him to be a little in shock.
 
-In the remnants of the hut, Rhinnatania stood facing Dian Cecht. She was dressed in gorgeous gold-embroidered pale saffron-yellow and cream best wear, but best wear owing much to the female fashions of the [[The-Summer-Country|Summer Country]]. Dian Cecht’ s hair was standing on end and the tips of his ears and all of his fingers were smoking orange smoke. A livid red handprint was imprinted on his cheek.
+In the remnants of the hut, Rhinnatania stood facing Dian Cecht. She was dressed in gorgeous gold-embroidered pale saffron-yellow and cream best wear, but best wear owing much to the female fashions of the _[[The-Summer-Country|Summer Country]]_. Dian Cecht’ s hair was standing on end and the tips of his ears and all of his fingers were smoking orange smoke. A livid red handprint was imprinted on his cheek.
 
 “Oh, my Oath!” Anwyn said and made as though to scoop Voklaynn up in his arms and dash towards their son. The Black Advocate made a noise that sounded like disgust to Voklaynn, but not to the White Saurian, and “made a transposition”. Voklaynn’s head ached with trying to articulate the Saurian concept. Karwin was sitting at Voklaynn’s feet. Surprised, he began to wail at the removal of his latest plaything.
 

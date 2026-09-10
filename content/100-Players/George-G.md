@@ -7,7 +7,7 @@ draft: false
 ---
 # George G.
 
-## [[050-Modern|Modern]]
+## _[[050-Modern|Modern]]_
 
 _Gorson, Joe_ - private investigator ^b3a77d
 

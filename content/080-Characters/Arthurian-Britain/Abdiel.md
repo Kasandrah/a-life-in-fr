@@ -21,15 +21,15 @@ Abdiel was also mentioned during the Middle Ages in the mystical Jewish work “
 
 # Incarnations
 
-## [[010-One-Night-Plays#3000 BC - A Fire in Memphis|3000 BC - A Fire in Memphis]]
+## _[[010-One-Night-Plays#3000 BC - A Fire in Memphis|3000 BC - A Fire in Memphis]]_
 
 Priestess of Isis, Memphis, Egypt
 
-## [[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots|387 AD - Macaw Feathers and Yax Spots]]
+## _[[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots|387 AD - Macaw Feathers and Yax Spots]]_
 
 Shaman-Priestess, City-State of Copan (Honduras, Central America)
 
-## [[010-One-Night-Plays#1189 AD - A Castle in Spain|1189 AD - A Castle in Spain]]
+## _[[010-One-Night-Plays#1189 AD - A Castle in Spain|1189 AD - A Castle in Spain]]_
 
 Don Juan Carlos Vega y Galino, Knight Templar, Sadaba, Spain. ^f5cf41
 
@@ -43,20 +43,20 @@ San Paulo, Brazil
 
 Brazil’s triple Formula One World Champion, now retired from racing after a near-fatal accident at Imola in May 1994.  He lives in Sao Paulo with his wife, _[[Si-Ling|Angela Hamilton]]_.
 
-| Personal Timeline      | Adventure                                                      |
-| ---------------------- | -------------------------------------------------------------- |
-| 1996 September 7th     | [[Independence-Day\|Independence Day]]                         |
-| 1996 October 20th      | [[Crystal-Eyes\|Crystal Eyes]]                                 |
-| 1996 November          | [[Illegal-Aliens\|Illegal Aliens]]                             |
-| 1997 January           | [[Reunion\|Reunion]]                                           |
-| 1997 late January      | [[Setting-the-Trap\|Setting the Trap]]                         |
-| 1997 early February    | [[Fire-and-Air\|Fire and Air]]                                 |
-| 1997 late February     | [[Or-the-Box\|Or the Box]]                                     |
-| 1997 early March       | [[Marines-on-Ice\|Marines on Ice]]                             |
-| 1997 late March        | [[Marines-in-the-Jungle\|Marines in the Jungle]]               |
-| 1997 April             | [[The-Dark-Circle\|The Dark Circle]]                           |
-| 1997 June              | [[One-of-Our-Planes-is-Missing\|One of Our Planes is Missing]] |
-| 1998 March 6th and 7th | [[Airport\|Airport]]                                           |
+| Personal Timeline      | Adventure                                                        |
+| ---------------------- | ---------------------------------------------------------------- |
+| 1996 September 7th     | _[[Independence-Day\|Independence Day]]_                         |
+| 1996 October 20th      | _[[Crystal-Eyes\|Crystal Eyes]]_                                 |
+| 1996 November          | _[[Illegal-Aliens\|Illegal Aliens]]_                             |
+| 1997 January           | _[[Reunion\|Reunion]]_                                           |
+| 1997 late January      | _[[Setting-the-Trap\|Setting the Trap]]_                         |
+| 1997 early February    | _[[Fire-and-Air\|Fire and Air]]_                                 |
+| 1997 late February     | _[[Or-the-Box\|Or the Box]]_                                     |
+| 1997 early March       | _[[Marines-on-Ice\|Marines on Ice]]_                             |
+| 1997 late March        | _[[Marines-in-the-Jungle\|Marines in the Jungle]]_               |
+| 1997 April             | _[[The-Dark-Circle\|The Dark Circle]]_                           |
+| 1997 June              | _[[One-of-Our-Planes-is-Missing\|One of Our Planes is Missing]]_ |
+| 1998 March 6th and 7th | _[[Airport\|Airport]]_                                           |
 
 ![[cc_citation.jpg]]
 

@@ -9,19 +9,19 @@ aat-render-enabled: false
 ---
 # Out of Place
 
->**GM's Note:**  This describes Niani and Brennos' transition from [[Neil-F|Neil F.'s]] [[100-Anfar-Refinli|Anfar Refinli]] campaign to my [[030-Arthurian-Britain|Arthurian Britain]] campaign.
+>**GM's Note:**  This describes Niani and Brennos' transition from _[[Neil-F|Neil F.'s]]_ _[[100-Anfar-Refinli|Anfar Refinli]]_ campaign to my _[[030-Arthurian-Britain|Arthurian Britain]]_ campaign.
 
-**Written by [[Jenny-H|Jenny H.]] (Niani)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Niani)**
 
-- [[Out-of-Place#Anfar Refinli|Anfar Refinli]]
-- [[Out-of-Place#501-AD - Arthurian Britain|501 AD - Arthurian Britain]]
-- [[Out-of-Place#510-AD Lysanor and Oberon 510 AD - Niani Angers Titania|510 AD - Niani Angers Titania]]
-- [[Out-of-Place#512 AD - September - Brennos and Niani|512 AD - September - Brennos and Niani]]
-- [[Out-of-Place#514 AD - February - Asterlan|514 AD - February - Asterlan]]
-- [[Out-of-Place#514 AD - July - Niani Conceives Maelin|514 AD - July - Niani Conceives Maelin]]
-- [[Out-of-Place#As Time Passes - Niani, Brennos and Mae|As Time Passes - Niani, Brennos and Mae]]
-- [[Out-of-Place#Maelin (Mae)|Maelin (Mae)]]
-- [[Out-of-Place#Mae and Asterlan|Mae and Asterlan]]
+- _[[Out-of-Place#Anfar Refinli|Anfar Refinli]]_
+- _[[Out-of-Place#501-AD - Arthurian Britain|501 AD - Arthurian Britain]]_
+- _[[Out-of-Place#510-AD Lysanor and Oberon 510 AD - Niani Angers Titania|510 AD - Niani Angers Titania]]_
+- _[[Out-of-Place#512 AD - September - Brennos and Niani|512 AD - September - Brennos and Niani]]_
+- _[[Out-of-Place#514 AD - February - Asterlan|514 AD - February - Asterlan]]_
+- _[[Out-of-Place#514 AD - July - Niani Conceives Maelin|514 AD - July - Niani Conceives Maelin]]_
+- _[[Out-of-Place#As Time Passes - Niani, Brennos and Mae|As Time Passes - Niani, Brennos and Mae]]_
+- _[[Out-of-Place#Maelin (Mae)|Maelin (Mae)]]_
+- _[[Out-of-Place#Mae and Asterlan|Mae and Asterlan]]_
 
 ## Anfar Refinli
 
@@ -37,7 +37,7 @@ Back at the village, Tintagel warned Niani she needed a direct promise from Rave
 
 The following day they met Raven again.  Niani sought the promise from Raven, but received only the words "Time will not be your enemy", a statement that disquieted her.  She could not query it, as Raven immediately transported them to the new country.
 
-## [[501 AD]] - Arthurian Britain
+## _[[501 AD]]_ - Arthurian Britain
 
 There, they rode towards a primitive hill fort, assuming it was the home of the people Raven had sent them to protect.  Their welcome, when they informed the suspicious defenders that Raven had sent them, convinced them that their assumption was correct.  The defenders treated them like gods.
 
@@ -99,11 +99,11 @@ Brennos laughed again and kissed her.  "I think we'll surprise ourselves."
 
 Continues in **[[501-AD#^9d5d88|501 AD]]**. ^318252
 
-## [[510-AD#Lysanor and Oberon|510 AD]] - Niani Angers Titania
+## _[[510-AD#Lysanor and Oberon|510 AD]]_ - Niani Angers Titania
 
->**GM's Note:** During the **510 AD** campaigning season, Niani [[510-AD#Lysanor and Oberon|persuades the avaricious Lysanor]], already _[[030-Arthurian-Britain#^5ae098|Arthur's]]_ lover, to become _[[Oberon|Oberon's]]_ lover instead.  This achieves the party's dual aims of separating the unsuitable Lysanor from Arthur and delivering her to Oberon as per his previous request.
+>**GM's Note:** During the **510 AD** campaigning season, Niani _[[510-AD#Lysanor and Oberon|persuades the avaricious Lysanor]]_, already _[[030-Arthurian-Britain#^5ae098|Arthur's]]_ lover, to become _[[Oberon|Oberon's]]_ lover instead.  This achieves the party's dual aims of separating the unsuitable Lysanor from Arthur and delivering her to Oberon as per his previous request.
 > 
->While Titania had turned a blind eye to Oberon's past lovers, never had one been delivered so enthusiastically into his arms, and with such disrespect for his wife, the Queen of the Seelie Fae.  This was a high insult indeed, as in **[[496-AD|496 AD]]** Titania had saved Cynon's life by providing the magical armour he wore when he battled Oberon's captain.
+>While Titania had turned a blind eye to Oberon's past lovers, never had one been delivered so enthusiastically into his arms, and with such disrespect for his wife, the Queen of the Seelie Fae.  This was a high insult indeed, as in **_[[496-AD|496 AD]]_** Titania had saved Cynon's life by providing the magical armour he wore when he battled Oberon's captain.
 >
 >Titania was furious at the entire party, but especially at Niani. Rhodri, as a man and as Oberon's pawn, had behaved no better than Titania expected him to, but Niani? Titania assumed Niani understood the threat posed by a new mistress. Niani should have denounced encouraging another's husband to stray, not provided an opportunity. 
 >
@@ -113,7 +113,7 @@ Continues in **[[501-AD#^9d5d88|501 AD]]**. ^318252
 >  
 >In **September 512 AD**, Brennos returns from the Fae realm.  He fears for Niani, as even though he's complied with all of Titania's requests, he doesn't trust her not to make an attempt on Niani's life.  He also fears Oberon will find out about his liaison with Titania and challenge him to one-on-one combat, justifiably.
 
-## [[512 AD]] - September - Brennos and Niani
+## _[[512 AD]]_ - September - Brennos and Niani
 
 Brennos sat holding Niani.  He'd been gone from her long enough to really rattle her.  Although passionate, she was also reserved.  However, at the moment, she seemed intent on being in constant contact with him, even if it was just her hand resting lightly on his arm.  And the odd idea of getting married.
 
@@ -123,7 +123,7 @@ Brennos was sure Niani was holding something back, which disturbed him even more
 
 "Sir Rhodri was capable of getting in touch with the Fae, but they were all very reluctant to go with me to the woods to try it.  Eventually, they told me there are some sort of creatures living outside the walls of Silchester that attack at night.  Everyone was scared of them."
 
-## [[514 AD]] - February - Asterlan
+## _[[514 AD]]_ - February - Asterlan
 
 >**GM's Note:**  Niani and Brennos find out he is the father of Titania's newborn son _[[030-Arthurian-Britain#^c00cba|Asterlan]]_, as yet unacknowledged by Oberon.  Time being what it is in the Fae realm, Titania has only just given birth even though she abducted Brennos in **June 512 AD**.
 >
@@ -164,11 +164,11 @@ Niani had to make a decision about whether she would fight for Brennos.  Part o
 
 Niani had **always** wanted to return to Anfar Refinli.  She still had a couple of extended family members she gets on well with.  She had friends, a position, responsibilities, and she fitted in there.  In Albion, she is largely friendless, has to fight constantly to maintain her position, has responsibilities on sufferance and will never be accepted by the people around her.
 
->**GM's Note:** I offered a player the opportunity to bring _[[The-Summer-Country#^a23288|a much-loved character]]_ from a [[100-Anfar-Refinli|defunct campaign]] over to an active campaign, giving that player the opportunity to play the character again. In hindsight, I recommend GMs never transfer characters, i.e., square pegs, into completely different campaigns, i.e., round holes.  The character, the character's player, the GM, and, by extension, every other character and their player suffered from the lack of "fit".
+>**GM's Note:** I offered a player the opportunity to bring _[[The-Summer-Country#^a23288|a much-loved character]]_ from a _[[100-Anfar-Refinli|defunct campaign]]_ over to an active campaign, giving that player the opportunity to play the character again. In hindsight, I recommend GMs never transfer characters, i.e., square pegs, into completely different campaigns, i.e., round holes.  The character, the character's player, the GM, and, by extension, every other character and their player suffered from the lack of "fit".
 
 Niani had the choice to go home without Brennos or to stay in Britain with him.  She chose to stay.  However, he never asked her what she wanted to do, and now she has Mae, the option to go home has been removed.  She cannot take Mae from her only home.
 
-## [[514 AD]] - July - Niani Conceives Maelin
+## _[[514 AD]]_ - July - Niani Conceives Maelin
 
 Deciding to have a child was not a rational, considered move.  It was decided out of panic.  She had to find a way of countering Titania, countering the influence of Asterlan and keeping Brennos with her.  It was obvious Voklaynn was only considering the political ramifications of Asterlan and had no interest in helping Brennos and Niani as people.  Niani could not rely on her for any help at all.
 
@@ -230,7 +230,7 @@ Fostering Mae out is not an option.
 >
 >Brennos didn't tell Niani his suspicions. He knew this would damage Niani's relationship with Mae.  He doesn't love Mae, but he will meet his responsibilities as far as raising Mae goes simply because she is Niani's daughter, and Niani is the great love of his life.
 >
->Brennos loves Niani. He finds it difficult to tell her, as she has never forgiven him for Titania and Asterlan, and her jealousy and bitterness sour their day-to-day relations. Brennos wishes he and Niani could go back to [[100-Anfar-Refinli|Anfar Refinli]], before Titania, before Asterlan, and before Mae. **If he's ever given a wish, Brennos knows what he'll ask for.** 
+>Brennos loves Niani. He finds it difficult to tell her, as she has never forgiven him for Titania and Asterlan, and her jealousy and bitterness sour their day-to-day relations. Brennos wishes he and Niani could go back to _[[100-Anfar-Refinli|Anfar Refinli]]_, before Titania, before Asterlan, and before Mae. **If he's ever given a wish, Brennos knows what he'll ask for.** 
 
 Motherhood doesn't slow Niani down.  If anything, the energy she had spent on her relationship with Brennos is now directed towards securing a place for herself and her daughter.  As soon as practical, she is back in training.  A priority remains increasing her combat abilities.  She seeks guardianship of the dryad forests and spends time there acquainting Mae and herself with her adopted heritage, and rescues men.  She tries to encourage the dryads not to take an inordinate number and to leave married men alone.
 
@@ -264,15 +264,15 @@ All of my other players expressed vehement frustration at:
 
 Here I was doing it again in the **520 AD** campaign. The rest of my players declined to continue.
 
-Had I not made rookie GM blunders, Brennos and Niani would have "lived happily ever after" in [[100-Anfar-Refinli|Anfar Refinli]], a closed book since the original GM's death in 1999. I wouldn't have turned my campaign inside out to accommodate them, made Niani and Mae's player feel like I'd set them up to fail, twice, and attracted the ire of the rest of my players.
+Had I not made rookie GM blunders, Brennos and Niani would have "lived happily ever after" in _[[100-Anfar-Refinli|Anfar Refinli]]_, a closed book since the original GM's death in 1999. I wouldn't have turned my campaign inside out to accommodate them, made Niani and Mae's player feel like I'd set them up to fail, twice, and attracted the ire of the rest of my players.
 
-For a [[Jenny-H|dear friend]], Brennos will get his wish. I just hope I get the time to write this up.
+For a _[[Jenny-H|dear friend]]_, Brennos will get his wish. I just hope I get the time to write this up.
 
 ---
 
 ## As Time Passes - Niani, Brennos and Mae (Part Two)
 
->**GM's Note:** What follows is moot, as my [[030-Arthurian-Britain|Arthurian Britain]] campaign ended prior to this point.
+>**GM's Note:** What follows is moot, as my _[[030-Arthurian-Britain|Arthurian Britain]]_ campaign ended prior to this point.
 
 After Mae leaves on her grand adventuring tour, Niani discusses having another child with Brennos.  She might have fallen out of love with him, but he is still her husband and is the only option for fathering her children.
 

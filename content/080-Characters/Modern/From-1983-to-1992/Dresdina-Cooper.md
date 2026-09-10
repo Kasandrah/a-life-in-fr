@@ -19,21 +19,21 @@ _Dresdina:_   
 
 _Belle:_     
 
-| Aspect             | Description                                                                               |
-| ------------------ | ----------------------------------------------------------------------------------------- |
-| _Height / weight:_ | 5 feet 5 inches / 125 pounds                                                              |
-| _Voice:_           | Alto                                                                                      |
-| _Perfume:_         | Estee Lauder's "White Diamonds"                                                           |
-| _Born:_            | 19th of April 1954 in Philadelphia, USA - American                                        |
-| _Birth sign:_      | Aries                                                                                     |
-| _Birth stones:_    |                                                                                           |
-| _Birth flowers:_   |                                                                                           |
-| _Partner:_         | _[[Athos\|Athos]]_, Under-Sheriff of Ulthar, a city in the [[080-Dreamlands\|Dreamlands]] |
-| _Occupation_       | FBI Agent                                                                                 |
-| _Residence:_       | New York City                                                                             |
-| _Drives:_          | 1996 Ford Taurus (dark green)                                                             |
-| _Reads / Writes:_  | English                                                                                   |
-| _Weapons:_         | Handgun, unarmed combat                                                                   |
+| Aspect             | Description                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------- |
+| _Height / weight:_ | 5 feet 5 inches / 125 pounds                                                                |
+| _Voice:_           | Alto                                                                                        |
+| _Perfume:_         | Estee Lauder's "White Diamonds"                                                             |
+| _Born:_            | 19th of April 1954 in Philadelphia, USA - American                                          |
+| _Birth sign:_      | Aries                                                                                       |
+| _Birth stones:_    |                                                                                             |
+| _Birth flowers:_   |                                                                                             |
+| _Partner:_         | _[[Athos\|Athos]]_, Under-Sheriff of Ulthar, a city in the _[[080-Dreamlands\|Dreamlands]]_ |
+| _Occupation_       | FBI Agent                                                                                   |
+| _Residence:_       | New York City                                                                               |
+| _Drives:_          | 1996 Ford Taurus (dark green)                                                               |
+| _Reads / Writes:_  | English                                                                                     |
+| _Weapons:_         | Handgun, unarmed combat                                                                     |
 
 Dresdina is an American FBI agent and Delta Green operative.  She is a highly experienced Dreamer whose Dreaming skill is called on from time to time to sort out unusual events.  She has been studying the diaries of _[[Diana-Elizabeth-Winthrop|Diana Elizabeth Winthrop]]_, a 1920’s “adventurer” and Dreamer.
 
@@ -59,7 +59,7 @@ Dresdina was a member of the Girl Guides.  She was also a member of her college
 
 Dresdina is interested in the Heimlich manoeuvre (resuscitation), poisonous plants local to Philadelphia, handguns, card counting and card tricks, knife throwing, Zen meditation, reading people, anthropology, pre-law, psychology, excellent visualisation skills, wilderness survival, unarmed combat (Tae Kwon Do), chess, physical training, self-healing through mind, hypnosis.
 
-Dresdina lives in an apartment overlooking Central Park in New York.  She is single in the Waking World, but involved with Athos, Sheriff of Ulthar, in the [[080-Dreamlands|Dreamlands]].  The story of how Dresdina and Athos met is told in [[Dreamers-Delight|Dreamer’s Delight]].
+Dresdina lives in an apartment overlooking Central Park in New York.  She is single in the Waking World, but involved with Athos, Sheriff of Ulthar, in the _[[080-Dreamlands|Dreamlands]]_.  The story of how Dresdina and Athos met is told in _[[Dreamers-Delight|Dreamer’s Delight]]_.
 
 Dresdina has a cat named Ochita.
 
@@ -137,21 +137,21 @@ Asthma when young (13), sunburns easily (fair skinned), Dec/Jan 1968/’69 - ver
 | 1979 May 1st           | WE stabs Dresdina in the chest while attempting to murder Caroline, Dresdina was protecting her, six months leave while recovering                                 |
 | 1979 November          | Joins FBI counter-intelligence (six years) some involvement in Russia                                                                                              |
 | 1987                   | Drug interdiction, DEA Mexico.  Dresdina finds that working with these “cowboys” is too much for her nerves and returns to FBI offices in Philadelphia.            |
-| ?                      | [[Nova-Scotia\|Nova Scotia]] - Did we play this?                                                                                                                   |
-| 1992 February          | [[Dreamers-Delight\|Dreamer’s Delight]]                                                                                                                            |
-| 1992 March             | [[Looking-for-Algrens-Home\|Looking for Algren’s Home]]                                                                                                            |
-| 1997 April             | [[The-Dark-Circle\|The Dark Circle]]                                                                                                                               |
-| 1998 March 6th and 7th | [[Airport\|Airport]]                                                                                                                                               |
+| ?                      | _[[Nova-Scotia\|Nova Scotia]]_ - Did we play this?                                                                                                                 |
+| 1992 February          | _[[Dreamers-Delight\|Dreamer’s Delight]]_                                                                                                                          |
+| 1992 March             | _[[Looking-for-Algrens-Home\|Looking for Algren’s Home]]_                                                                                                          |
+| 1997 April             | _[[The-Dark-Circle\|The Dark Circle]]_                                                                                                                             |
+| 1998 March 6th and 7th | _[[Airport\|Airport]]_                                                                                                                                             |
 
 ## Character Sheets
 
-Dresdina started off as a Call of Cthulhu character for whom I used [[Neil-F|Neil F.]]'s custom character sheet. I recreated her under the D20 Modern system when I ran [[050-Modern#USMC vs “What the … ?”|USMC vs “What the … ?"]]
+Dresdina started off as a Call of Cthulhu character for whom I used _[[Neil-F|Neil F.]]'s_ custom character sheet. I recreated her under the D20 Modern system when I ran _[[050-Modern#USMC vs "What the … ?"|USMC vs “What the … ?"]]_
 
 ### Call of Cthulhu
 
 ![[cc_dresdina_CS.jpg]]
 
-**Dresdina Cooper, Call of Cthulhu by [[Neil-F|Neil F.]]**
+**Dresdina Cooper, Call of Cthulhu by _[[Neil-F|Neil F.]]_**
 
 ### D20 Modern
 

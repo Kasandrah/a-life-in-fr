@@ -13,21 +13,21 @@ draft: false
 
 _Aletta:_ “the winged”, Latin
 
-| Aspect             | Description                                                               |
-| ------------------ | ------------------------------------------------------------------------- |
-| _Height / weight:_ | 5 feet 5 inches tall / 129 pounds                                         |
-| _Voice:_           | Dramatic soprano (accent strongly Egyptian, spoken English is good)       |
-| _Perfume:_         | Cinnamon and spices                                                       |
-| _Born:_            | 30th November 1902 in Siwa Oasis, Egypt - Egyptian                        |
-| _Birth sign:_      | Sagittarius                                                               |
-| _Birth stones:_    | Turquoise, amethyst, lapis lazuli                                         |
-| _Birth flowers:_   | Chicory, narcissus, holly                                                 |
-| _Partner:_         | _[[Viktor-Besarab\|Viktor Besarab]]_                                      |
-| _Occupation_       | Ex-circus performer, jewel thief                                          |
-| _Residence:_       | Casablanca, Morocco                                                       |
-| _Drives:_          | [[Duesenberg-Arlington\|1933 Duesenberg Arlington Sedan SJ Twenty Grand]] |
-| _Reads / Writes:_  | Arabic, English, French, Turkish                                          |
-| _Weapons:_         | Knife, thrown knife, shotgun                                              |
+| Aspect             | Description                                                                 |
+| ------------------ | --------------------------------------------------------------------------- |
+| _Height / weight:_ | 5 feet 5 inches tall / 129 pounds                                           |
+| _Voice:_           | Dramatic soprano (accent strongly Egyptian, spoken English is good)         |
+| _Perfume:_         | Cinnamon and spices                                                         |
+| _Born:_            | 30th November 1902 in Siwa Oasis, Egypt - Egyptian                          |
+| _Birth sign:_      | Sagittarius                                                                 |
+| _Birth stones:_    | Turquoise, amethyst, lapis lazuli                                           |
+| _Birth flowers:_   | Chicory, narcissus, holly                                                   |
+| _Partner:_         | _[[Viktor-Besarab\|Viktor Besarab]]_                                        |
+| _Occupation_       | Ex-circus performer, jewel thief                                            |
+| _Residence:_       | Casablanca, Morocco                                                         |
+| _Drives:_          | _[[Duesenberg-Arlington\|1933 Duesenberg Arlington Sedan SJ Twenty Grand]]_ |
+| _Reads / Writes:_  | Arabic, English, French, Turkish                                            |
+| _Weapons:_         | Knife, thrown knife, shotgun                                                |
 
 Aletta is an Egyptian adventuress and thief with a liking for gemstones, hard currency, and jewellery.  She began her career as a circus trapeze artist and knife thrower, but graduated to “upper story work”.  Aletta has recently retired to Casablanca on the proceeds of her illegal activities, where she is living the high life in the French Quarter.
 
@@ -59,16 +59,16 @@ Aletta has no formal education, but is very streetwise.
 
 ## Timeline
 
-| Date                                | Adventure                                                                                                                                                                                                                                                  |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1922 September 26th to end December | [[African-Cat-People\|African Cat People]]                                                                                                                                                                                                                 |
-| 1923 August 11th to mid September   | [[The-Gorgon-Adventure\|The Gorgon Adventure]]                                                                                                                                                                                                             |
-| 1924 late January to February 7th   | [[The-Scottish-Adventure\|The Scottish Adventure]]                                                                                                                                                                                                         |
-| 1925 February 13th to mid-June      | [[Thai-Dreaming\|Thai Dreaming]]                                                                                                                                                                                                                           |
-| 1925 August to September        | [[The-Heart\|The Heart]]                                                                                                                                                                                                                               |
-| 1925 November to 1926 April         | Aletta stole a priceless collection of diamonds from Johannes van der Kren, a Dutch diamond merchant suspected of illegal dealings and murder.  Then she fled to Pretoria (South Africa) to sell the diamonds and returned to London via Egypt and Europe. |
-| 1926 May                            | [[Spears-of-Light\|Spears of Light]]                                                                                                                                                                                                                       |
-| 1926 August                         | [[The-Casablanca-Affair\|The Casablanca Affair]]                                                                                                                                                                                                           |
+| Date                                | Adventure                                                                                                                                                                                                                                                    |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1922 September 26th to end December | _[[African-Cat-People\|African Cat People]]_                                                                                                                                                                                                                 |
+| 1923 August 11th to mid September   | _[[The-Gorgon-Adventure\|The Gorgon Adventure]]_                                                                                                                                                                                                             |
+| 1924 late January to February 7th   | _[[The-Scottish-Adventure\|The Scottish Adventure]]_                                                                                                                                                                                                         |
+| 1925 February 13th to mid-June      | _[[Thai-Dreaming\|Thai Dreaming]]_                                                                                                                                                                                                                           |
+| 1925 August to September            | _[[The-Heart\|The Heart]]_                                                                                                                                                                                                                                   |
+| 1925 November to 1926 April         | Aletta stole a priceless collection of diamonds from Johannes van der Kren, a Dutch diamond merchant suspected of illegal dealings and murder.  Then she fled to Pretoria (South Africa) to sell the diamonds and returned to London via Egypt and Europe.   |
+| 1926 May                            | _[[Spears-of-Light\|Spears of Light]]_                                                                                                                                                                                                                       |
+| 1926 August                         | _[[The-Casablanca-Affair\|The Casablanca Affair]]_                                                                                                                                                                                                           |
 
 ## Possessions
 
@@ -77,9 +77,9 @@ Aletta has no formal education, but is very streetwise.
 | Weapons:                                                                                  |
 | Gorgon’s obsidian knife with a beautiful and elaborately carved handle                    |
 | Throwing knives                                                                           |
-| 12 gauge shotgun, hammerless, self-ejecting                                               |
+| 12-gauge shotgun, hammerless, self-ejecting                                               |
 | Magic:                                                                                    |
-| Magic dragon eye stone - fist sized, very heavy, adds 1d4 to power when carried on person |
+| Magic dragon eye stone - fist-sized, very heavy, adds 1d4 to power when carried on person |
 | Feather from an owl demon                                                                 |
 | Shell - guide to the Thai Dreamworld                                                      |
 | Amulet - bronze, running river design - one time protection against fire attack           |

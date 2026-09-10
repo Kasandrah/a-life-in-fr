@@ -13,21 +13,21 @@ I created the following One Night Plays when not all of my regular players could
 
 Most of these plays were on-the-spot creative endeavours that I used to add more background and history to my primary campaigns.
 
-| Contents                                                                                                                   |                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [[010-One-Night-Plays#3000 BC - A Fire in Memphis\|3000 BC - A Fire in Memphis]]                                           | [[010-One-Night-Plays#83 AD - When in Rome\|83 AD - When in Rome]]                                           |
-| [[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots\|387 AD - Macaw Feathers and Yax Spots]]                       | [[010-One-Night-Plays#495 AD - The Once and Future King\|495 AD - The Once and Future King]]                 |
-| [[010-One-Night-Plays#515 AD - On the Road to Avebury\|515 AD - On the Road to Avebury]]                                   | [[010-One-Night-Plays#600 AD - On the Viking Coast\|600 AD - On the Viking Coast]]                           |
-| [[010-One-Night-Plays#778 AD - The Horn of Roland\|778 AD - The Horn of Roland]]                                           | [[010-One-Night-Plays#1100 AD - A History of Clan Bahari\|1100 AD - A History of Clan Bahari]]               |
-| [[010-One-Night-Plays#1189 AD - A Castle in Spain\|1189 AD - A Castle in Spain]]                                           | [[010-One-Night-Plays#1250 AD - A Templar Knight Falls\|1250 AD - A Templar Knight Falls]]                   |
-| [[010-One-Night-Plays#1500 AD - The Ottoman Turks\|1500 AD - The Ottoman Turks]]                                           | [[010-One-Night-Plays#1614 AD - The Blood Countess\|1614 AD - The Blood Countess]]                           |
-| [[010-One-Night-Plays#1640 AD - A Small Matter of a Dagger\|1640 AD - A Small Matter of a Dagger]]                         | [[010-One-Night-Plays#1671 AD - A Storm at Sea\|1671 AD - A Storm at Sea]]                                   |
-| [[010-One-Night-Plays#1725 AD - The Legend of the Firebird\|1725 AD - The Legend of the Firebird]]                         | [[010-One-Night-Plays#1731 AD - A Death in the Family\|1731 AD - A Death in the Family]]                     |
-| [[010-One-Night-Plays#1760 AD - The Pirate King\|1760 AD - The Pirate King]]                                               | [[010-One-Night-Plays#1850 AD - A Gamble Lost\|1850 AD - A Gamble Lost]]                                     |
-| [[010-One-Night-Plays#1878 AD - The Wild West\|1878 AD - The Wild West]]                                                   | [[010-One-Night-Plays#1888 AD - Jack the Ripper\|1888 AD - Jack the Ripper]]                                 |
-| [[010-One-Night-Plays#1896 AD - The Strange Case of the Sussex Vampire\|1896 AD - The Strange Case of the Sussex Vampire]] | [[010-One-Night-Plays#1897 AD - Dracula\|1897 AD - Dracula]]                                                 |
-| [[010-One-Night-Plays#1910 AD - Jack the Ripper II\|1910 AD - Jack the Ripper II]]                                         | [[010-One-Night-Plays#1922 AD to 1933 AD - The Roaring Twenties\|1922 AD to 1933 AD - The Roaring Twenties]] |
-| [[010-One-Night-Plays#1995 AD - Let’s Try Again\|1995 AD - Let’s Try Again]]                                               | [[010-One-Night-Plays#1997 AD - The Lady of the Lake\|1997 AD - The Lady of the Lake]]                       |
+| Contents                                                                                                                     |                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| _[[010-One-Night-Plays#3000 BC - A Fire in Memphis\|3000 BC - A Fire in Memphis]]_                                           | _[[010-One-Night-Plays#83 AD - When in Rome\|83 AD - When in Rome]]_                                           |
+| _[[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots\|387 AD - Macaw Feathers and Yax Spots]]_                       | _[[010-One-Night-Plays#495 AD - The Once and Future King\|495 AD - The Once and Future King]]_                 |
+| _[[010-One-Night-Plays#515 AD - On the Road to Avebury\|515 AD - On the Road to Avebury]]_                                   | _[[010-One-Night-Plays#600 AD - On the Viking Coast\|600 AD - On the Viking Coast]]_                           |
+| _[[010-One-Night-Plays#778 AD - The Horn of Roland\|778 AD - The Horn of Roland]]_                                           | _[[010-One-Night-Plays#1100 AD - A History of Clan Bahari\|1100 AD - A History of Clan Bahari]]_               |
+| _[[010-One-Night-Plays#1189 AD - A Castle in Spain\|1189 AD - A Castle in Spain]]_                                           | _[[010-One-Night-Plays#1250 AD - A Templar Knight Falls\|1250 AD - A Templar Knight Falls]]_                   |
+| _[[010-One-Night-Plays#1500 AD - The Ottoman Turks\|1500 AD - The Ottoman Turks]]_                                           | _[[010-One-Night-Plays#1614 AD - The Blood Countess\|1614 AD - The Blood Countess]]_                           |
+| _[[010-One-Night-Plays#1640 AD - A Small Matter of a Dagger\|1640 AD - A Small Matter of a Dagger]]_                         | _[[010-One-Night-Plays#1671 AD - A Storm at Sea\|1671 AD - A Storm at Sea]]_                                   |
+| _[[010-One-Night-Plays#1725 AD - The Legend of the Firebird\|1725 AD - The Legend of the Firebird]]_                         | _[[010-One-Night-Plays#1731 AD - A Death in the Family\|1731 AD - A Death in the Family]]_                     |
+| _[[010-One-Night-Plays#1760 AD - The Pirate King\|1760 AD - The Pirate King]]_                                               | _[[010-One-Night-Plays#1850 AD - A Gamble Lost\|1850 AD - A Gamble Lost]]_                                     |
+| _[[010-One-Night-Plays#1878 AD - The Wild West\|1878 AD - The Wild West]]_                                                   | _[[010-One-Night-Plays#1888 AD - Jack the Ripper\|1888 AD - Jack the Ripper]]_                                 |
+| _[[010-One-Night-Plays#1896 AD - The Strange Case of the Sussex Vampire\|1896 AD - The Strange Case of the Sussex Vampire]]_ | _[[010-One-Night-Plays#1897 AD - Dracula\|1897 AD - Dracula]]_                                                 |
+| _[[010-One-Night-Plays#1910 AD - Jack the Ripper II\|1910 AD - Jack the Ripper II]]_                                         | _[[010-One-Night-Plays#1922 AD to 1933 AD - The Roaring Twenties\|1922 AD to 1933 AD - The Roaring Twenties]]_ |
+| _[[010-One-Night-Plays#1995 AD - Let’s Try Again\|1995 AD - Let’s Try Again]]_                                               | _[[010-One-Night-Plays#1997 AD - The Lady of the Lake\|1997 AD - The Lady of the Lake]]_                       |
 
 ## 3000 BC - A Fire in Memphis
 
@@ -49,7 +49,7 @@ The Angel and Phoenix use their powers of Air and Fire respectively to create a 
 
 After a 3,000-year wait, Lillane (as _[[Lillane-of-Clan-Bahari|Livillia]]_) brings her reincarnated lover _Theshen_, now _Tribune Aquila Sabinus Tatianus_, into Clan Bahari and her heart as her ghoul, _[[Tyler|Tyler]]_. Lillane also makes _[[020-The-Antediluvians#Monico|Monico]]_, a citizen of Rome, her ghoul.
 
-Read [[020-Rome-83-AD|Rome 83 AD]].
+Read _[[020-Rome-83-AD|Rome 83 AD]]_.
 
 ## 387 AD - Macaw Feathers and Yax Spots
 
@@ -65,7 +65,7 @@ The _[[Si-Ling|Phoenix]]_ incarnates as K’inick Yax K’uk’ Mo’, Sun-eyed 
 
 **Map of Logres, Pendragon**
 
-Beginning of the [[030-Arthurian-Britain|Arthurian Britain]] campaign. Lillane (as _[[Lillane-of-Clan-Bahari|Lady Leda]]_) embraces _[[010-Knights-of-Arthurian-Britain#Sir Brion|Sir Brion]]_, an Irish knight, after the Morrigan possessed him. Lucifer (as _[[Lucifer-Morningstar|Lucien]]_) builds several castles of advanced structure to educate the locals.
+Beginning of the _[[030-Arthurian-Britain|Arthurian Britain]]_ campaign. Lillane (as _[[Lillane-of-Clan-Bahari|Lady Leda]]_) embraces _[[010-Knights-of-Arthurian-Britain#Sir Brion|Sir Brion]]_, an Irish knight, after the Morrigan possessed him. Lucifer (as _[[Lucifer-Morningstar|Lucien]]_) builds several castles of advanced structure to educate the locals.
 
 ## 515 AD - On the Road to Avebury
 
@@ -101,7 +101,7 @@ Lillane has an illuminated manuscript prepared by _[[020-The-Antediluvians#Emma 
 
 Sadaba, Spain
 
-Beginning of the [[040-Dark-Ages|Dark Ages]] campaign.
+Beginning of the _[[040-Dark-Ages|Dark Ages]]_ campaign.
 
 ## 1250 AD - A Templar Knight Falls
 
@@ -163,7 +163,7 @@ New at Court is the very earnest young _Boris Alekseyevich Golitsyn II_, 17 year
 
 During the course of the next few days, Illaria sickens with river fever. She is quarantined in a room at Count Petrov’s palace while he tries to treat her illness. He recognises that Illaria is a nascent air Ka Nephilim, an Angel. Having some prior experience with Angels, Count Petrov uses Illaria’s black lacquer jewel box to summon another of her kind, the legendary Russian Firebird, a fire Ka Nephilim.
 
-The jewel box contains a solid silver tube engraved with Firebird images, the container for a thick vellum scroll on which is written the [[030-The-Legend-of-the-Firebird|The Legend of the Firebird]]. The box comes from Dagestan in the Northern Caucasus (a forward point on the Great Silk Road).
+The jewel box contains a solid silver tube engraved with Firebird images, the container for a thick vellum scroll on which is written the _[[030-The-Legend-of-the-Firebird|The Legend of the Firebird]]_. The box comes from Dagestan in the Northern Caucasus (a forward point on the Great Silk Road).
 
 Illaria, at death’s door and rapidly coming into her own as an Angel, is taken away from Count Petrov’s palace in the arms of the Firebird, who will now care for her and guide her into her new way of life.
 
@@ -197,7 +197,7 @@ Lillane and Tyler track another of her renegade progeny, _[[020-The-Antediluvian
 
 Kenneton Wells, Arizona
 
-Start of the [[050-Modern|Modern]] campaign. A time-travelling 1920s writer and photographer meets the Wild West US Marshall of her dreams and takes him back home with her to Los Angeles, 1925.
+Start of the _[[050-Modern|Modern]]_ campaign. A time-travelling 1920s writer and photographer meets the Wild West US Marshall of her dreams and takes him back home with her to Los Angeles, 1925.
 
 ## 1888 AD - Jack the Ripper
 

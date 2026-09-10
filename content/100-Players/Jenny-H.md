@@ -15,12 +15,12 @@ draft: false
 - _[[The-Summer-Country#Melitha|Melitha]]_
 - _[[090-Dragon-Riders-of-Pern#Mireta|Mireta]]_
 - _[[The-Summer-Country#Pnessamo Boklaro Niani|Niani, Pnessamo Boklaro]]_, also _[[010-Knights-of-Arthurian-Britain#Lady Niani|Niani, Lady]]_
-- _[[USMC-Fireteam-SG-21#Major Kris Morrissey|Morrissey, Major Kris]]_
+- _[[USMC-Fireteam-SG21#Major Kris Morrissey|Morrissey, Major Kris]]_
 - _[[010-Star-Wars-Characters#Storm, Commander Jess|Storm, Commander Jess]]_
 
 ---
 
-## [[050-Modern|Modern]]
+## _[[050-Modern|Modern]]_
 
 _Abrahamson, David_ - _[[David-Abrahamson|David]]_ is _[[Jenny-H#^27cdd0|Michal Hertzeanu's]]_ fiancée ^59824f
 
@@ -50,10 +50,10 @@ _McPherson, Mairi Catriona_ - English, Salvation Army Officer, now one of Jeffe
 
 _Powers, Melanie, "Annie"_ - American writer, novelist, partner is _[[Neil-F#^9d1620|Nan Boker]]_ ^88427e
 
-_Pratt, Abish, "Abby"_ - aka "Iris Green", American, PhD Anthropology University of Colorado, Dreamer, also known as "Lady Isobel of Sasharion" in the [[080-Dreamlands|Dreamlands]] ^502c32
+_Pratt, Abish, "Abby"_ - aka "Iris Green", American, PhD Anthropology University of Colorado, Dreamer, also known as "Lady Isobel of Sasharion" in the _[[080-Dreamlands|Dreamlands]]_ ^502c32
 
 _Ravenwood, Dame Marion Agatha Morgan, Baronetess_ - Australian, Doctor of Archaeology, Professor at Miskatonic University in Arkham, wife of _[[Neil-F#^93d9ac|N.L. Ravenwood]]_ ^a797a7
 
 _Sargon, Chantella_ - British dancer, mother of 4-month-old Marlene Jurelle Sargon ^7964ca
 
-_Verri-all, Lady Tirray'na_ - [[080-Dreamlands|Dreamlands]] inhabitant, bodyguard to Lady Isobel ^162a37
+_Verri-all, Lady Tirray'na_ - _[[080-Dreamlands|Dreamlands]]_ inhabitant, bodyguard to Lady Isobel ^162a37

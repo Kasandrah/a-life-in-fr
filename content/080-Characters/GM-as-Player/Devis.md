@@ -56,7 +56,7 @@ Shandell took Devis back to their secret place in the Elven woods.  After sever
 
 Devis' travels took him to Greyhawk - safety in numbers.  The rest - as they say - is history.
 
-## First Dream - Written by [[Simon-M|Simon M.]]
+## First Dream - Written by _[[Simon-M|Simon M.]]_
 
 Devis has experienced the dream as confusing and disturbing fragments that have built up into a comprehensible whole over a number of nights.
 
@@ -98,7 +98,7 @@ For Devis' information:
 4. Ashardalon was medium-sized, i.e. human-sized, which is normal for a wyrmling red dragon.
 5. Ashardalon is the child of Timat, goddess of the coloured (evil) dragons, and her Red Dragon consort.
 
-## Second Dream - Written by [[Simon-M|Simon M.]]
+## Second Dream - Written by _[[Simon-M|Simon M.]]_
 
 ![[dd_ashardalon.jpg]]
 

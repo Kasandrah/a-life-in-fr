@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # The Search
 
-**Written by [[Jenny-H|Jenny H.]] (Gwyn)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Gwyn)**
 
 It was shortly after our return from destroying the demons from the star that I approached the Lady Lillane. It is not something I normally do, but I was concerned about Gwyn. After so long, I could recognise the signs of her interest in something that was likely to be dangerous to her. As ever, Gwyn did not consider this danger, merely the desire to investigate a curiosity.
 

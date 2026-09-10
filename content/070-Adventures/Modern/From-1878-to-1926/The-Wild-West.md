@@ -26,9 +26,9 @@ draft: false
 
 | Player Characters                                           | Non-Player Characters                                                     |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------- |
-| _[[Zoran-B#^91f12c\|Ellis, Runyard]]_                  | _Diaz, Virgil_ - a vampire                                                |
+| _[[Zoran-B#^91f12c\|Ellis, Runyard]]_                       | _Diaz, Virgil_ - a vampire                                                |
 | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ | _[[Joshua-Eberhardt\|Eberhardt, Josh]]_ - Sheriff of Kenneton Wells, 1878 |
-| _[[Michael-H#^7d0455\|Saunders, Frank]]_               | _Gentry, Dr Nicholas_ - an archaeologist                                  |
+| _[[Michael-H#^7d0455\|Saunders, Frank]]_                    | _Gentry, Dr Nicholas_ - an archaeologist                                  |
 
 ## Involvement
 
@@ -42,7 +42,7 @@ At the house, Diaz sent the group back to December 1878, where he attempted to k
 
 When Diaz was killed, the group returned to 1925. Alex leapt on Josh at the point of transfer, so he came forward in time with the rest of the group.
 
-Read [[The-Morning-After|The Morning After]].
+Read _[[The-Morning-After|The Morning After]]_.
 
 ## Possessions Acquired
 

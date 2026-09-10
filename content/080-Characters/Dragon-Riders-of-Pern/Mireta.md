@@ -9,7 +9,7 @@ draft: false
 ---
 # Mireta
 
-**Written by [[Jenny-H|Jenny H.]]**
+**Written by _[[Jenny-H|Jenny H.]]_**
 
 Mireta is loyal, gentle, considerate, hard working and dedicated. Because she has spent her life trying to fit in, she is often flexible and conciliatory. She can appear to be easily manipulated because she doesn’t let trivial things bother her. She only fights the fights worth fighting. Those that think this means she is malleable are in for a shock when they try to cross her in an area where she will not bend. When it is an issue she feels strongly about, Mireta is quietly as firm and immovable as a mountain. If she cannot persuade someone of the validity of her position, she will simply do what she wants or arrange things so that they go her way.
 

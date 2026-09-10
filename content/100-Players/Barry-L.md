@@ -7,7 +7,7 @@ draft: false
 ---
 # Barry L.
 
-## [[050-Modern|Modern]]
+## _[[050-Modern|Modern]]_
 
 _Dare, Allan T._ - American, private investigator, medium brown hair and eyes, clean-shaven, solidly built, craggy-faced.  Owner and operator of "Dare and McWaters - We Never Sleep".  His secretary is Maisy McWaters. ^fba145
 

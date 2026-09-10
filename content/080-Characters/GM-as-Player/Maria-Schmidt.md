@@ -10,7 +10,7 @@ draft: false
 ---
 # # Lieutenant Maria Schmidt
 
-A character in [[Craig-B|Craig B.'s]] WWII campaign run under the D20 Modern system. A very enjoyable change of pace from our usual settings.
+A character in _[[Craig-B|Craig B.'s]]_ WWII campaign run under the D20 Modern system. A very enjoyable change of pace from our usual settings.
 
 ## Character Sheet
 
@@ -66,7 +66,7 @@ Level 20          Teleport 1/per day
 
 ## Campaign Background
 
-**Written by [[Craig-B|Craig B.]]**
+**Written by _[[Craig-B|Craig B.]]_**
 
 ![[gm_d_section.pdf]]
 

@@ -16,7 +16,7 @@ As my focus is running games online via [Foundry VTT](https://foundryvtt.com/), 
 
 **Pendragon**
 
-**[[010-Knights-of-Arthurian-Britain#Second Campaign - 520 AD|Arthurian Britain]]** - (520 AD using [Pendragon 6th Edition](https://www.foundryvtt.store/products/cha-pen-fvtt-en-core)) - continuing the current campaign, moving forward to the next generation of PC knights, the sons of the PCs so well established in the game to date.
+**_[[010-Knights-of-Arthurian-Britain#Second Campaign - 520 AD|Arthurian Britain]]_** - (520 AD using [Pendragon 6th Edition](https://www.foundryvtt.store/products/cha-pen-fvtt-en-core)) - continuing the current campaign, moving forward to the next generation of PC knights, the sons of the PCs so well established in the game to date.
 
 ---
 
@@ -32,7 +32,7 @@ As my focus is running games online via [Foundry VTT](https://foundryvtt.com/), 
 
 **Dark Ages Vampire**
 
-**[[040-Dark-Ages|Dark Ages]]** - (1200 AD, Spain using [World of Darkness 5E](https://foundryvtt.com/packages/wod5e/)) - continuing the current campaign, providing opportunities to learn more about [[010-History-of-Clan-Bahari|Clan Bahari]] and the workings of the [[010-The-Circle-of-Order|Circle of Order]].
+**_[[040-Dark-Ages|Dark Ages]]_** - (1200 AD, Spain using [World of Darkness 5E](https://foundryvtt.com/packages/wod5e/)) - continuing the current campaign, providing opportunities to learn more about _[[010-History-of-Clan-Bahari|Clan Bahari]]_ and the workings of the _[[010-The-Circle-of-Order|Circle of Order]]_.
 
 **Knights Templar and the Crusades** - a new campaign starting in Saragossa and journeying to the Holy Land. The PCs are Templar Knights, [Imbued Hunters](https://whitewolf.fandom.com/wiki/Hunter:_The_Reckoning#Imbued), under the command of _[[Abdiel#^f5cf41|Don Juan Carlos Vega y Galino]]_, with the special commission of giving the unholy progeny of Cain the True Death.
 
@@ -51,7 +51,7 @@ As my focus is running games online via [Foundry VTT](https://foundryvtt.com/), 
 
 **Call of Cthulhu**
 
-**[[050-Modern#From 1878 to 1926|Modern]]** - (1920s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - short campaigns of a few weeks each:
+**_[[050-Modern#From 1878 to 1926|Modern]]_** - (1920s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - short campaigns of a few weeks each:
 
 - [Call of Cthulhu Quick-Start Rules](https://foundryvtt.com/packages/cha-coc-fvtt-en-quickstart) with [The Haunting](https://cultistarmoury.org/the-haunting/)
 - [Call of Cthulhu Starter Set](https://www.foundryvtt.store/products/cha-coc-fvtt-en-starterset) with:
@@ -64,7 +64,7 @@ As my focus is running games online via [Foundry VTT](https://foundryvtt.com/), 
 - Boston (USA) - _[[Diana-Elizabeth-Winthrop|Diana]]_ and _[[David-van-Hasalt|David]]_ vs the East Coast anarchist movement, April 1926
 - Melbourne (Australia) - _[[Lisa-Ellen-Manchester|Lisa]]_ and _[[Gavin-Lewis|Gavin]]_ vs the Elite’s eugenics mantra, October 1926.
 
-I’ve been developing a longer campaign set in [[India-Campaign-Notes|India]] in 1926 with _[[Rajkumari-Anjuli-of-Shahpura|Rajkumari Anjuli of Shahpura]]_ as the focus around whom events unfold. This offers the opportunity for a mix of Indian and [Cthulhu Mythos](https://en.wikipedia.org/wiki/Cthulhu_Mythos) stories, set in the twilight years of the British Raj.
+I’ve been developing a longer campaign set in _[[India-Campaign-Notes|India]]_ in 1926 with _[[Rajkumari-Anjuli-of-Shahpura|Rajkumari Anjuli of Shahpura]]_ as the focus around whom events unfold. This offers the opportunity for a mix of Indian and [Cthulhu Mythos](https://en.wikipedia.org/wiki/Cthulhu_Mythos) stories, set in the twilight years of the British Raj.
 
 Anjuli’s companions will include _[[Tyson-Trevelyan|Baron Tyson Trevelyan]]_, an ex-British Army Major stationed in India who left the Army in dire circumstances. Tyson has a passion for climbing mountains and looking after his friends, particularly Sher Singh Ardra. Tyson also wants to tie up the loose ends caused by his break with his immediate family.
 <br>
@@ -81,15 +81,15 @@ Another possibility is [Berlin - The Wicked City](https://www.drivethrurpg.com/e
 
 **Everyday Heroes**
 
-**[[050-Modern#From 1983 to 1992|Modern]]** - (late 1990s using [Everyday Heroes](https://www.foundryvtt.store/products/eh-core-rulebook)):
+**_[[050-Modern#From 1983 to 1992|Modern]]_** - (late 1990s using [Everyday Heroes](https://www.foundryvtt.store/products/eh-core-rulebook)):
 
-Adelaide, South Australia - _[[Dresdina-Cooper|Dresdina]]_ (now with ASIO), _[[Athos|Athos]]_, the [[080-Dreamlands|Dreamlands]], and the new occult.  PCs undergo training as "Dreamers" to influence the real world through dreams, Jungian psychological explorations of the collective unconscious, astral projection, astrology, low-end "mind tricks," and occultism.
+Adelaide, South Australia - _[[Dresdina-Cooper|Dresdina]]_ (now with ASIO), _[[Athos|Athos]]_, the _[[080-Dreamlands|Dreamlands]]_, and the new occult.  PCs undergo training as "Dreamers" to influence the real world through dreams, Jungian psychological explorations of the collective unconscious, astral projection, astrology, low-end "mind tricks," and occultism.
 
 Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the opposite side is real evil.  Non-military, soft-end PCs with only their wits, their skills, and prayer to protect them.
 
-**[[050-Modern#Nephilim, or Angels in America|Nephilim]]** (Cleveland) - referencing the [3E D20 Occult Lore](https://www.drivethrurpg.com/en/product/145735/occult-lore-penumbra-ogl-3e-digital) supplement?
+**_[[050-Modern#Nephilim, or Angels in America|Nephilim]]_** (Cleveland) - referencing the [3E D20 Occult Lore](https://www.drivethrurpg.com/en/product/145735/occult-lore-penumbra-ogl-3e-digital) supplement?
 
-**[[USMC-Fireteam-SG-21|USMC Fireteam SG-21]]** - continuing the current campaign, but moving to the Stargate facility and referencing the [Stargate: SG-1 Roleplaying Game](https://en.wikipedia.org/wiki/Stargate_SG-1_\(roleplaying_game\)) for setting background. See also [Debriefing: The Stargate SG-1 Roleplaying Game](https://kismetrose.com/sg1/DebriefingIndex.html).
+**_[[USMC-Fireteam-SG21|USMC Fireteam SG21]]_** - continuing the current campaign, but moving to the Stargate facility and referencing the [Stargate: SG-1 Roleplaying Game](https://en.wikipedia.org/wiki/Stargate_SG-1_\(roleplaying_game\)) for setting background. See also [Debriefing: The Stargate SG-1 Roleplaying Game](https://kismetrose.com/sg1/DebriefingIndex.html).
 
 ---
 
@@ -97,11 +97,11 @@ Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the op
 
 **Delta Green Agent's Handbook**
 
-**[[050-Modern#Web of Spies|Web of Spies II]]** - (2019 AD using [Delta Green: Agents Handbook](https://www.foundryvtt.store/products/delta-green-agents-handbook)) - restarting my [Classic Spycraft/Shadowforce Archer](https://www.drivethrurpg.com/en/publisher/341/crafty-games/category/4320/classic-spycraft) and [Spycraft 2.0](https://www.drivethrurpg.com/en/publisher/341/crafty-games/category/4116/spycraft-2-0) campaign in the [COVID](https://en.wikipedia.org/wiki/COVID-19_pandemic) era.
+**_[[050-Modern#Web of Spies|Web of Spies II]]_** - (2019 AD using [Delta Green: Agents Handbook](https://www.foundryvtt.store/products/delta-green-agents-handbook)) - restarting my [Classic Spycraft/Shadowforce Archer](https://www.drivethrurpg.com/en/publisher/341/crafty-games/category/4320/classic-spycraft) and [Spycraft 2.0](https://www.drivethrurpg.com/en/publisher/341/crafty-games/category/4116/spycraft-2-0) campaign in the [COVID](https://en.wikipedia.org/wiki/COVID-19_pandemic) era.
 
 ---
 
-**[[The-Ocean-of-Space|The Ocean of Space]]** - (current time using ?) - a new campaign for underwater archaeologists investigating ancient and mysterious structures in the world's oceans. _[[Charles-van-Buren|Charles]]_ and _[[Sarah-Ann-van-Buren|Sarah van Buren]]_, wealthy philanthropists onboard their luxury yacht, the [[Silk-Scorpion-II|Silk Scorpion II]], sponsor the research crew.
+**_[[The-Ocean-of-Space|The Ocean of Space]]_** - (current time using ?) - a new campaign for underwater archaeologists investigating ancient and mysterious structures in the world's oceans. _[[Charles-van-Buren|Charles]]_ and _[[Sarah-Ann-van-Buren|Sarah van Buren]]_, wealthy philanthropists onboard their luxury yacht, the _[[Silk-Scorpion-II|Silk Scorpion II]]_, sponsor the research crew.
 
 ---
 
@@ -125,7 +125,7 @@ Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the op
 
 **Thunder Rift**
 
-**[[060-Dungeons-n-Dragons|Dungeons & Dragons]]** - (1000 AC using [Old School Essentials](https://www.foundryvtt.store/products/ose-advancedfantasytome) instead of [BECMI](https://www.drivethrurpg.com/en/browse?ruleSystem=44828-basic-becmi-or-od-d))
+**_[[060-Dungeons-n-Dragons|Dungeons & Dragons]]_** - (1000 AC using [Old School Essentials](https://www.foundryvtt.store/products/ose-advancedfantasytome) instead of [BECMI](https://www.drivethrurpg.com/en/browse?ruleSystem=44828-basic-becmi-or-od-d))
 
  - [Council of Wyrms](https://www.drivethrurpg.com/en/product/17026/campaign-option-council-of-wyrms-setting-2e) - be a dragon, half-dragon, or kindred demi-human in the [Dragon Kingdom of Wyrmsteeth](https://www.scribd.com/document/379650395/The-Dragon-Kingdom-of-Wyrmsteeth)
  - [Thunder Rift](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clmokg2nd005a033cwvm71x05/) from 1st to 5th level, then landing in [Pendleton](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICR29ICAAAAAaSb8XFPPIXlvns5eTgDGdQ?e=1qav07) 
@@ -158,7 +158,7 @@ I've not adapted the following D&D 5E adventures to Mystara, so they will requir
 
 **Star Wars - Edge of the Empire**
 
-**[[070-Star-Wars|Star Wars]]** - (using [StarWarsFFG](https://github.com/StarWarsFoundryVTT/StarWarsFFG/wiki)) - continuing the classic space opera campaign post-Return of the Jedi but not following established book / comic continuity.
+**_[[070-Star-Wars|Star Wars]]_** - (using [StarWarsFFG](https://github.com/StarWarsFoundryVTT/StarWarsFFG/wiki)) - continuing the classic space opera campaign post-Return of the Jedi but not following established book / comic continuity.
 
 ---
 
@@ -166,7 +166,7 @@ I've not adapted the following D&D 5E adventures to Mystara, so they will requir
 
 **Cathulhu**
 
-**[[080-Dreamlands|Dreamlands]]** - (equivalent technology to 1400 AD using ?) - 
+**_[[080-Dreamlands|Dreamlands]]_** - (equivalent technology to 1400 AD using ?) - 
 
  - [Cats of Ulthar](https://en.wikipedia.org/wiki/The_Cats_of_Ulthar) - referencing [Cathulhu](https://www.drivethrurpg.com/en/product/128524/cathulhu), be a magical cat in H. P. Lovecraft's Dreamlands!
  - _[[Dresdina-Cooper|Dresdina]]_ and _[[Athos|Athos]]_ in Ulthar
@@ -187,7 +187,7 @@ I've not adapted the following D&D 5E adventures to Mystara, so they will requir
 
 **[Gauntlight Keep](https://pathfinderwiki.com/wiki/Gauntlight_Keep)** - (4726 Age of Lost Omens using [Pathfinder 2E](https://foundryvtt.com/packages/pf2e)) - set on [Golarion](https://map.pathfinderwiki.com/#location=3.31/29.88/1.35) and starting with the [Pathfinder Beginner Box](https://www.foundryvtt.store/products/pf2e-beginner-box), Menace Under Otari, [Troubles in Otari](https://store.paizo.com/pathfinder-adventure-troubles-in-otari-pdf/), then [Abomination Vaults](https://www.foundryvtt.store/products/pf2e-abomination-vaults).
 
-[[Ben-G|Ben G.]] and I have invested quite a bit into Pathfinder, so we have a lot of setting and adventure material for ongoing campaigns.
+_[[Ben-G|Ben G.]]_ and I have invested quite a bit into Pathfinder, so we have a lot of setting and adventure material for ongoing campaigns.
 
 ---
 

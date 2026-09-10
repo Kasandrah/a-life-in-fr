@@ -18,13 +18,13 @@ draft: false
 
 ## Travel
 
-1992 February - New York City, the [[080-Dreamlands|Dreamlands]], the slave mines of Cthulhu, the Ash Grove.
+1992 February - New York City, the _[[080-Dreamlands|Dreamlands]]_, the slave mines of Cthulhu, the Ash Grove.
 
 # Characters
 
 | Player Characters                             | Non-Player Characters                                              |
 | --------------------------------------------- | ------------------------------------------------------------------ |
-| _[[Dresdina-Cooper\|Cooper, Dresdina]]_ | _[[Athos\|Athos]]_                                                 |
+| _[[Dresdina-Cooper\|Cooper, Dresdina]]_       | _[[Athos\|Athos]]_                                                 |
 |                                               | _Baroch, Momma_ - runs The Spangled Cat, a lodging house in Ulthar |
 |                                               | _Curren_ - Athos’ deputy                                           |
 |                                               | _O’Dei, Francis_ - Jocelyn’s second-in-charge                      |
@@ -32,15 +32,15 @@ draft: false
 
 ## Contents
 
-- [[Dreamers-Delight#A Polite Request|A Polite Request]]
-- [[Dreamers-Delight#To Sleep, Perchance to Dream|To Sleep, Perchance to Dream]]
-- [[Dreamers-Delight#The City of Ulthar|The City of Ulthar]]
-- [[Dreamers-Delight#The Spangled Cat|The Spangled Cat]]
-- [[Dreamers-Delight#Dream Lover|Dream Lover]]
-- [[Dreamers-Delight#Awake|Awake]]
-- [[Dreamers-Delight#A Little Detour|A Little Detour]]
-- [[Dreamers-Delight#The Morning After|The Morning After]]
-- [[Dreamers-Delight#Between Two Worlds|Between Two Worlds]]
+- _[[Dreamers-Delight#A Polite Request|A Polite Request]]_
+- _[[Dreamers-Delight#To Sleep, Perchance to Dream|To Sleep, Perchance to Dream]]_
+- _[[Dreamers-Delight#The City of Ulthar|The City of Ulthar]]_
+- _[[Dreamers-Delight#The Spangled Cat|The Spangled Cat]]_
+- _[[Dreamers-Delight#Dream Lover|Dream Lover]]_
+- _[[Dreamers-Delight#Awake|Awake]]_
+- _[[Dreamers-Delight#A Little Detour|A Little Detour]]_
+- _[[Dreamers-Delight#The Morning After|The Morning After]]_
+- _[[Dreamers-Delight#Between Two Worlds|Between Two Worlds]]_
 
 ## A Polite Request
 
@@ -756,4 +756,4 @@ The conscious Algrens helped Dresdina and Athos to carry the two unconscious one
 
 Athos smiled encouragingly at Dresdina.  “Here we go again!”
 
-The story continues in [[Looking-for-Algrens-Home#The Seelie of the Ash Grove|Looking for Algren’s Home]].
+The story continues in _[[Looking-for-Algrens-Home#The Seelie of the Ash Grove|Looking for Algren’s Home]]_.

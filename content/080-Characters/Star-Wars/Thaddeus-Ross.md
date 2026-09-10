@@ -25,7 +25,7 @@ The mission was complete to the point of all scrambling aboard the Dark Heart an
 >
 >As I see the character, he's been through an amazing, awesome and unique experience - and trying to come to terms with it would be immensely difficult, if it weren't for the fact that the experience itself has changed him, fundamentally. He's a person in touch with himself, and even though there are occasional waverings, and probably lapses into old patterns (he really was tickled by the idea of having the Empire **pay** him for handing over Abav Gart!), Ross has found a demonstrable (!) connection with a greater Reality which grounds him and gives him a stability and acceptance which most of us strive for all our lives!
 
-Sorry, Robin, my error.  In your absence, I supply occasional commentary and derring-do from Ross (and Wazza when [[Michael-B|Michael B.]] isn't there).  I try to keep this to an absolute minimum, as I more often than not get the character wrong.  That's why I prefer to use my own NPCs as plot-forwarding (or correcting) devices rather than other PCs.
+Sorry, Robin, my error.  In your absence, I supply occasional commentary and derring-do from Ross (and Wazza when _[[Michael-B|Michael B.]]_ isn't there).  I try to keep this to an absolute minimum, as I more often than not get the character wrong.  That's why I prefer to use my own NPCs as plot-forwarding (or correcting) devices rather than other PCs.
 
 However, some players perversely need to speak to or interact with Ross and or Wazza when the players of said characters are absent.  I'm sure they are only doing it because they think they might get away with something that Ross and or Wazza would jump on them for if their players were actually there.
 

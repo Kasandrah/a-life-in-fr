@@ -18,21 +18,21 @@ draft: false
 
 Anjuli: (Juli by her friends or Larla “darling” by Sam)
 
-| Aspect             | Description                                                        |
-| ------------------ | ------------------------------------------------------------------ |
-| _Height / weight:_ | 5 feet 3 inches tall / 112 pounds                                  |
-| _Voice:_           | Dramatic soprano                                                   |
-| _Perfume:_         | Fragrance of dried rose petals                                     |
-| _Born:_            | 6th July 1900 in Shahpura, northwest India - British / Indian      |
-| _Birth sign:_      | Gemini                                                             |
-| _Birth stones:_    |                                                                    |
-| _Birth flowers:_   |                                                                    |
-| _Partner:_         | _[[Sam-Houston-Krescke\|Sam Houston Krescke]]_                     |
-| _Occupation_       | Rajkumari (Princess)                                               |
-| _Residence:_       | Shahpura, northwest India                                          |
-| _Drives:_          | [[Rolls-Royce-Silver-Ghost\|1925 Rolls Royce Silver Ghost Tourer]] |
-| _Reads / Writes:_  | Rajasthani, English, Hindi, French                                 |
-| _Weapons:_         | Club, handgun                                                      |
+| Aspect             | Description                                                          |
+| ------------------ | -------------------------------------------------------------------- |
+| _Height / weight:_ | 5 feet 3 inches tall / 112 pounds                                    |
+| _Voice:_           | Dramatic soprano                                                     |
+| _Perfume:_         | Fragrance of dried rose petals                                       |
+| _Born:_            | 6th July 1900 in Shahpura, northwest India - British / Indian        |
+| _Birth sign:_      | Gemini                                                               |
+| _Birth stones:_    |                                                                      |
+| _Birth flowers:_   |                                                                      |
+| _Partner:_         | _[[Sam-Houston-Krescke\|Sam Houston Krescke]]_                       |
+| _Occupation_       | Rajkumari (Princess)                                                 |
+| _Residence:_       | Shahpura, northwest India                                            |
+| _Drives:_          | _[[Rolls-Royce-Silver-Ghost\|1925 Rolls Royce Silver Ghost Tourer]]_ |
+| _Reads / Writes:_  | Rajasthani, English, Hindi, French                                   |
+| _Weapons:_         | Club, handgun                                                        |
 
 Anjuli is an Anglicised Indian princess who is the oldest daughter of the Rajah of Shahpura and his British wife, the only child of an English Earl.  Anjuli is engaged to marry Sam Houston Krescke.
 
@@ -82,14 +82,14 @@ Anjuli’s youngest surviving sibling is another brother, the 10-year-old Prince
 
 ## Timeline
 
-| Date                                | Adventure                                                         |
-| ----------------------------------- | ----------------------------------------------------------------- |
-| 1923 September 12th to 1924 January | [[Alternate-America\|Alternate America]]                          |
-| 1924 June 16th to 21st              | [[Zeppelin\|Zeppelin]]                                            |
-| 1924 September                      | [[Home-Sweet-Home\|Home Sweet Home]]                              |
-| 1925 July 20th to September         | [[Beast-in-the-Abbey\|Beast in the Abbey]]                        |
-| 1992 March                          | [[Looking-for-Algrens-Home\|Looking for Algren’s Home]]           |
-| 1925 September                      | Anjuli returns home to Shahpura, India, with Sam Houston Krescke. |
+| Date                                | Adventure                                                           |
+| ----------------------------------- | ------------------------------------------------------------------- |
+| 1923 September 12th to 1924 January | _[[Alternate-America\|Alternate America]]_                          |
+| 1924 June 16th to 21st              | _[[Zeppelin\|Zeppelin]]_                                            |
+| 1924 September                      | _[[Home-Sweet-Home\|Home Sweet Home]]_                              |
+| 1925 July 20th to September         | _[[Beast-in-the-Abbey\|Beast in the Abbey]]_                        |
+| 1992 March                          | _[[Looking-for-Algrens-Home\|Looking for Algren’s Home]]_           |
+| 1925 September                      | Anjuli returns home to Shahpura, India, with Sam Houston Krescke.   |
 
 ## References
 

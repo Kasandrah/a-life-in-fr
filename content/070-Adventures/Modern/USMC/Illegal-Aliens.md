@@ -22,17 +22,17 @@ draft: false
 
 | Player Characters                                                                         | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _Bormann, Martin_ - infamous Nazi                                          |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                     | _Montoyez, Rosa_ - a young woman hostage                                   |
-| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     |                                                                            |
-| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                            |
+| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
+| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _Bormann, Martin_ - infamous Nazi                                          |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                        | _Montoyez, Rosa_ - a young woman hostage                                   |
+| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     |                                                                            |
+| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                            |
 
 >**GM's Note:** Michal Herzeanu arrives through a gate from an isolated mountain location in Brazil in 1992, in pursuit of Martin Bormann.  Bormann has already run off when Michal lands near a high stone fence.  However, she is not alone.  Several ghouls are closing on her with obvious intent, summoned from the local sewers by Bormann, so she climbs over the fence to escape.  On the other side of the high fence she meets the USMC guard for the US Embassy in Brasilia.  They are not happy about her intrusion.
 >
 >After sorting things out, the party pursue Bormann via a couple of garrotted bodies and some pawned diamonds to a bus station, where he is shot dead before he can escape.  A young woman hostage, Rosa Montoyez, is subsequently taken to hospital after the drama, but recovers enough to check herself out later.
 
-## Written by [[Jenny-H|Jenny H.]] (Michal)
+## Written by _[[Jenny-H|Jenny H.]]_ (Michal)
 
 Michal Herzeanu had stopped being the hunter and instead was being hunted by creatures that her mind refused to accept were real.  She was still a little disoriented by the gate she'd followed Bormann through and to suddenly be confronted out of the dark by things that looked like an unclean cross between a wolf and a man was startling to say the least.  Especially as they didn't seem to be worried by bullets.  She'd confronted many things in her time, but this was something new and frightening.  They chased after her with a rolling lope that was awfully effective.
 

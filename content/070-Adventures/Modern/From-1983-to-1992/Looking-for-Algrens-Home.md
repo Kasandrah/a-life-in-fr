@@ -24,7 +24,7 @@ draft: false
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_             | _[[Athos\|Athos]]_                                                     |
 | _[[The-White-Magicians#Robert Anthony\|Anthony, Robert]]_                     | _Holmes, [[Jenny-H#^efe01a\|Monica]]_ and _[[Neil-F#^7efc15\|Munroe]]_ |
-| _[[Dresdina-Cooper\|Cooper, Dresdina]]_                                 | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_ - Shadow Investigations        |
+| _[[Dresdina-Cooper\|Cooper, Dresdina]]_                                       | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_ - Shadow Investigations        |
 | _[[Sam-Houston-Krescke\|Houston Krescke, Sam]]_                               | _O’Dey, Francis_ - Shadow Investigations                               |
 | _[[The-White-Magicians#Kellion O’Shea\|O’Shea, Killian]]_                     | _Seelie of the Ash Grove_, and their _Queen_                           |
 | _[[Angela-Taylor\|Taylor, Angela]]_                                           | _Wormwood_ - Magician up to no good                                    |
@@ -38,15 +38,15 @@ Angela knows that Mairi McPherson is in New York and may help return Sam, Anjuli
 
 This adventure has two write-ups, one from myself and one from Ben.
 
-- [[Looking-for-Algrens-Home#My Write-Up|My Write-Up]]
-    - [[Looking-for-Algrens-Home#A Friend in Need|A Friend in Need]]
-    - [[Looking-for-Algrens-Home#In the Dreamlands|In the Dreamlands]]
-    - [[Looking-for-Algrens-Home#The Seelie of the Ash Grove|The Seelie of the Ash Grove]]
+- _[[Looking-for-Algrens-Home#My Write-Up|My Write-Up]]_
+    - _[[Looking-for-Algrens-Home#A Friend in Need|A Friend in Need]]_
+    - _[[Looking-for-Algrens-Home#In the Dreamlands|In the Dreamlands]]_
+    - _[[Looking-for-Algrens-Home#The Seelie of the Ash Grove|The Seelie of the Ash Grove]]_
 
-- [[Looking-for-Algrens-Home#Ben’s Write-Up|Ben’s Write-Up]]
-    - [[Looking-for-Algrens-Home#A Friend in Need (Ben)|A Friend in Need (Ben)]]
-    - [[Looking-for-Algrens-Home#In the Dreamlands (Ben)|In the Dreamlands (Ben)]]
-    - [[Looking-for-Algrens-Home#The Seelie of the Ash Grove (Ben)|The Seelie of the Ash Grove (Ben)]]
+- _[[Looking-for-Algrens-Home#Ben’s Write-Up|Ben’s Write-Up]]_
+    - _[[Looking-for-Algrens-Home#A Friend in Need (Ben)|A Friend in Need (Ben)]]_
+    - _[[Looking-for-Algrens-Home#In the Dreamlands (Ben)|In the Dreamlands (Ben)]]_
+    - _[[Looking-for-Algrens-Home#The Seelie of the Ash Grove (Ben)|The Seelie of the Ash Grove (Ben)]]_
 
 ## My Write-Up
 
@@ -110,7 +110,7 @@ On returning to the festival, now in full swing, the party sees the Algrens sing
 
 The Queen is grateful for the return of her subjects and for the defeat of Wormwood. She returns all party members to their rightful places - Dresdina, Killian, Robert, Snake, and Mairi are returned to the cabin in the Finger Lakes from when and where they left, Athos is returned to the Dreamlands proper, while Sam, Anjuli, Monica and Munro are returned to Shahpura, India in September 1925.
 
-## Written by [[Ben-G|Ben G.]]
+## Written by _[[Ben-G|Ben G.]]_
 
 ### A Friend in Need
 

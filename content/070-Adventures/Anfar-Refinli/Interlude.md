@@ -7,7 +7,7 @@ draft: false
 ---
 # Interlude
 
-**Written by [[Neil-F|Neil F.]]**
+**Written by _[[Neil-F|Neil F.]]_**
 
 The white saurian stood within the Actuality that was The Dragon. This was confusing. Perhaps for the first time, its thoughts were confused, be it by ever so little, by the feelings of the _[[Dranffilo-Voklaynn|Voklaynn]]_ entity. But not the petty little Dragon that the humans called “a god”, but The Dragon.
 
@@ -99,7 +99,7 @@ That Voklaynn part of it - much more prominent here in the world that was largel
 
 It was still almost as if he did not believe that it and its Voklaynn were One. Though confusingly, even the Voklaynn herself wondered sometimes about such things. Extraordinary!
 
-Anwyn thought that in the [[The-Summer-Country|Summer Country]] (at least) he had power, and not it. Her. But there was power and there was power. But it … she thought that he would not understand. Appreciate the difference. It was indeed possible Voklaynn might not.
+Anwyn thought that in the _[[The-Summer-Country|Summer Country]]_ (at least) he had power, and not it. Her. But there was power and there was power. But it … she thought that he would not understand. Appreciate the difference. It was indeed possible Voklaynn might not.
 
 Voklaynn began to allow herself to return but then hesitated. No. Lan first. He was inserted into his bed. Thawed out. Dry. Then, with the embarrassment of Voklaynn, it remembered and erected the two tents, making sure the temporal sequence was revised, so that it was the tents that had been pitched before the body had been put inside it.
 

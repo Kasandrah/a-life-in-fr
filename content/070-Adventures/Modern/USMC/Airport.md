@@ -24,11 +24,11 @@ draft: false
 
 | Player Characters                                                                         | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[Michael-B#^2a3d68\|Ford, Aaron]]_, guest PC                                        | _[[Dresdina-Cooper\|Cooper, Dresdina]]_                              |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[010-Modern-Characters#^1c77a1\|Dean, Jefferson]]_                       |
-| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
-| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         | _[[Angela-Taylor\|Taylor, Angela]]_                                        |
+| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
+| _[[Michael-B#^2a3d68\|Ford, Aaron]]_, guest PC                                            | _[[Dresdina-Cooper\|Cooper, Dresdina]]_                                    |
+| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[010-Modern-Characters#^1c77a1\|Dean, Jefferson]]_                       |
+| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         | _[[Angela-Taylor\|Taylor, Angela]]_                                        |
 
 ## Involvement
 

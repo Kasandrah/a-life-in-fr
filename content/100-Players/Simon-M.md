@@ -12,7 +12,7 @@ draft: false
 - _[[010-Knights-of-Arthurian-Britain#Sir Brion|Brion, Sir]]_
 - _[[Nephilim-PCs#Remy Hathaway|Hathaway, Remy]]_
 - _[[090-Dragon-Riders-of-Pern#H'gan|H'gan]]_
-- _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg|Ilsenberg, Major Otto]]_
+- _[[USMC-Fireteam-SG21#Major Otto Ilsenburg|Ilsenberg, Major Otto]]_
 - _[[010-DnD-Adventurers#Istvan|Istvan]]_
 - _[[020-The-Antediluvians#Monico|Monico]]_
 - _[[The-White-Magicians#Professor Edwin Occultree|Occultree, Professor Edwin]]_

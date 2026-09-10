@@ -25,9 +25,9 @@ Also known as **"Ship Under Shadows"**.
 | Player Characters                                                 | Non-Player Characters                                                        |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_ | _[[Sam-Houston-Krescke\|Houston Krescke, Lt. Sam]]_ – Officer, Imperial Army |
-| _[[Jenny-H#^efe01a\|Holmes, Monica]]_                          | _Carew, Sophie_ (as Dorcas Hastings)                                         |
-| _[[Zoran-B#^b62306\|Anstey, Harry]]_                         | _Cosgrove, Marietta_                                                         |
-| _[[George-G#^b3a77d\|Gorson, Joe]]_                        | _[[Neil-F#^7efc15\|Holmes, Munroe]]_                                    |
+| _[[Jenny-H#^efe01a\|Holmes, Monica]]_                             | _Carew, Sophie_ (as Dorcas Hastings)                                         |
+| _[[Zoran-B#^b62306\|Anstey, Harry]]_                              | _Cosgrove, Marietta_                                                         |
+| _[[George-G#^b3a77d\|Gorson, Joe]]_                               | _[[Neil-F#^7efc15\|Holmes, Munroe]]_                                         |
 |                                                                   | _Travers, Sir Danby_                                                         |
 
 ## Involvement

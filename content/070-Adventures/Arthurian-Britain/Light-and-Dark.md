@@ -29,7 +29,7 @@ _(½ Light Fae, ½ Dark Fae, twin to Ailil)_
 - _Lysanor (½ Human, ½ Light Fae)_
 	- Uther Pendragon - named after his grandfather (¾ Human, ¼ Light Fae - by Arthur Pendragon, son of Uther and Ygraine)
 	- _son (¼ Human, ¾ Light Fae - conceived in Summer when Oberon was Light Fae)_
-- _[[010-Knights-of-Arthurian-Britain#Lady Niani|Niani]] (Human) + Brennos_
+- _[[010-Knights-of-Arthurian-Britain#Lady Niani|Niani]]_ (Human) + Brennos_
 	- _Maelin (Mae) (½ Human, ½ Light Fae - conceived in Summer when Oberon was Light Fae if Titania's assertion is true)_
 	- ? (Human)
 

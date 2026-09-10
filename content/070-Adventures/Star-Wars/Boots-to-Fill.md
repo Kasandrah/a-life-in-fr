@@ -7,7 +7,7 @@ draft: false
 ---
 # Boots to Fill
 
-## Written by [[Jenny-H|Jenny H.]] (Jess)
+## Written by _[[Jenny-H|Jenny H.]]_ (Jess)
 
 SYSTEM REPORT TO SEC COM COMMAND
 

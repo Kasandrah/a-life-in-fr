@@ -11,7 +11,7 @@ draft: false
 ---
 # Baron Tyson Trevelyan
 
-**Written by [[Ben-G|Ben G.]] (Tyson)**
+**Written by _[[Ben-G|Ben G.]]_ (Tyson)**
 
 Born: Delhi, India, 1890
 
@@ -43,4 +43,4 @@ Although I had always been with, and had been treated as a Brahmin, I found that
 
 ## Character Sheet
 
-**[[cc_tyson_trevelyan.pdf|Baron Tyson Trevelyan]], Call of Cthulhu**
+**_[[cc_tyson_trevelyan.pdf|Baron Tyson Trevelyan]]_, Call of Cthulhu**

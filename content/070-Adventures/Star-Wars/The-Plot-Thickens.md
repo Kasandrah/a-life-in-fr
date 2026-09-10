@@ -19,7 +19,7 @@ While on Yelsain the crew join the Grand Moot just south of Tradetown, where the
 
 While on Eliad, the crew attend a young noble's party to add "atmosphere", brushing shoulders with "The Iceman".  Also there is the pirate, Tor Skylow, and her crew.  They are adding to the "atmosphere" for a large fee.
 
-While in the Mestra system, the crew become acquainted with "The Vigil", a pro-Alliance group of rich ex-miners' sons.  Here Zeff leaves to join the Alliance, and [[Asher-Norton-Tagge|Asher Fletcher]] joins the crew as the new navigator.  The crew help a prospector remove a valuable alien artefact, a weapon with enough potential power to destroy a Star Destroyer, before a company processing ship could crush his claim.
+While in the Mestra system, the crew become acquainted with "The Vigil", a pro-Alliance group of rich ex-miners' sons.  Here Zeff leaves to join the Alliance, and _[[Asher-Norton-Tagge|Asher Fletcher]]_ joins the crew as the new navigator.  The crew help a prospector remove a valuable alien artefact, a weapon with enough potential power to destroy a Star Destroyer, before a company processing ship could crush his claim.
 
 After returning to Eliad, Deak Freehold contacts a group of young men, sons of the Eliad nobles, who wish to join the Alliance.  The youths are taken on board and, with the prospector and his find, are delivered to the Alliance via Tor Skylow and, surprise surprise, Taran Storm, Jess' father.  Tor arranges a new name and registration for the _Red Storm Rising_, and Jess and her crew are well paid for their share in the recovered weapon.
 
@@ -27,7 +27,7 @@ After returning to Eliad, Deak Freehold contacts a group of young men, sons of t
 
 ### First Message
 
-**Written by [[Jenny-H|Jenny H.]] (Jess)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Jess)**
 
 Transmission from _Red Storm Rising_ to _Storm Clouds_.
 
@@ -73,7 +73,7 @@ Later, while still at the underground shipyard, the crew meet Wing Commander Var
 
 ## Second Message
 
-**Written by [[Jenny-H|Jenny H.]] (Jess)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Jess)**
 
 Transmission from _Silver Griffin_ to _Storm Clouds_.
 

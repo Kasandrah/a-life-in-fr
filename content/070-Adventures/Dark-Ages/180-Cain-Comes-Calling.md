@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # Cain Comes Calling
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 A knight and his extended entourage were just beaten to the outer gate by the racing Miguel, who was the messenger boy from Saragossa, and young Harold. Although the pair had become firm friends, they were arguing about who would go get _[[020-The-Antediluvians#Monico|Monico]]_ when he came to them to find out what was about. As Miguel tells him of the soon-to-arrive entourage of _[[Abdiel#^f5cf41|Don Juan Carlos Vega y Galino]]_, _[[020-The-Antediluvians#Romegio|Romegio]]_ sends Harold into the castle to get someone of authority to greet the visitors.
 

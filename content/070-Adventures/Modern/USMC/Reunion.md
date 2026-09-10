@@ -23,11 +23,11 @@ draft: false
 | Player Characters                                                                         | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                        | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[010-Modern-Characters#^b52f62\|Andrada da Silva, Milton]]_              |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[010-Modern-Characters#^6388f4\|Amado, Inspector Jorge]]_                |
+| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[010-Modern-Characters#^b52f62\|Andrada da Silva, Milton]]_              |
+| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[010-Modern-Characters#^6388f4\|Amado, Inspector Jorge]]_                |
 | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                        | _[[010-Modern-Characters#^57ea6a\|Cabral, Detective Inspector Pedro]]_     |
-| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
-| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         | _[[010-Modern-Characters#^dced9c\|Lobos, Mr Heitor]]_                      |
+| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         | _[[010-Modern-Characters#^dced9c\|Lobos, Mr Heitor]]_                      |
 
 >**GM's Note:** Wallace and his family are recalled to the USA and a replacement Ambassador is on the way to Brasilia.  The party later learns that Wallace and his wife have separated.
 >
@@ -53,7 +53,7 @@ draft: false
 >
 >At a public information lecture, the party learns that a consortium operating out of the park is looking for research funds for the development of countermeasures to the unique airborne viruses found in the rainforest.
 
-## Written by [[Jenny-H|Jenny H.]] (Michal)
+## Written by _[[Jenny-H|Jenny H.]]_ (Michal)
 
 Michal discovered that Dean's mystery man was indeed her David.  Despite her fears, he recognised her immediately.  It turned out that he had no memory of his time in the 1920s (when he had had no memory of his past or of Michal at all), but only had memories of the 1970s prior to landing in Germany in the 1940s.  He'd been caught and sent to Buchenwald before finding another gate to escape through, carrying with him coded information.
 
@@ -87,7 +87,7 @@ In the camp, David had become secretary to the Commandant and observed Mythos ex
 
 Snow received an urgent message from Dean, stating that they had managed to partially decode the information David had brought with him. Bormann was to be taken alive and as soon as possible.
 
-Amado reported that there had been two garrottings in San Paulo, one on the Metro and one outside a lesbian bar.  Both were women.  Bormann had liked to kill women.  They piled into a Blackhawk with a couple of marines, including _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson|Gunnery Sergeant Doug Anderson]]_.  They landed in da Silva's backyard, which was certainly big enough to accommodate them.
+Amado reported that there had been two garrottings in San Paulo, one on the Metro and one outside a lesbian bar.  Both were women.  Bormann had liked to kill women.  They piled into a Blackhawk with a couple of marines, including _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson|Gunnery Sergeant Doug Anderson]]_.  They landed in da Silva's backyard, which was certainly big enough to accommodate them.
 
 Snow went to a police contact he had been given by Amado and showed them a picture of Rosa, claiming they were investigating the possibility of her involvement.  The autopsy had shown a person of her size was likely to have committed the murders.  He was also shown a picture of a symbol carved into the stomach of one victim and the back of the other.
 

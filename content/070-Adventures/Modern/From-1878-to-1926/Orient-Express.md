@@ -22,10 +22,10 @@ draft: false
 
 | Player Characters                                     | Non-Player Characters                                       |
 | ----------------------------------------------------- | ----------------------------------------------------------- |
-| _[[Neil-F#^9d1620\|Boker, Nan]]_                 | _[[Charles-van-Buren\|van Buren, Charles]]_                 |
-| _[[Michael-H#^b6baef\|Petherick, Colonel Gary]]_ | _[[Sarah-Ann-van-Buren\|van Buren, Sarah Ann]]_             |
-| _[[Jenny-H#^88427e\|Powers, Melanie]]_     | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ |
-| _[[George-G#^b2f17d\|Rycroft, Scotty]]_        |                                                             |
+| _[[Neil-F#^9d1620\|Boker, Nan]]_                      | _[[Charles-van-Buren\|van Buren, Charles]]_                 |
+| _[[Michael-H#^b6baef\|Petherick, Colonel Gary]]_      | _[[Sarah-Ann-van-Buren\|van Buren, Sarah Ann]]_             |
+| _[[Jenny-H#^88427e\|Powers, Melanie]]_                | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ |
+| _[[George-G#^b2f17d\|Rycroft, Scotty]]_               |                                                             |
 
 ## Involvement
 

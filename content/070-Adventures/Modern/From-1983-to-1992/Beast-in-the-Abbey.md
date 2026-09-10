@@ -24,14 +24,14 @@ Inverness, Scotland (1991 December) to Wisconsin, Alternate America (1925 July 2
 
 | Player Characters                                                                     | Non-Player Characters                                     |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_                     | _[[Neil-F#^bc047f\|Farquharson, Magnus]]_            |
-| _[[The-White-Magicians#Robert Anthony\|Anthony, Robert]]_                             | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_               |
-| _[[Sam-Houston-Krescke\|Houston Krescke, Sam]]_                                       | _[[Jenny-H#^efe01a\|Holmes, Monica]]_                  |
-| _[[The-White-Magicians#Kellion O’Shea\|O’Shea, Kellion]]_                             | _[[Neil-F\|Holmes, Munroe]]_ - Monica’s twin brother |
+| _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_                     | _[[Neil-F#^bc047f\|Farquharson, Magnus]]_                 |
+| _[[The-White-Magicians#Robert Anthony\|Anthony, Robert]]_                             | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                  |
+| _[[Sam-Houston-Krescke\|Houston Krescke, Sam]]_                                       | _[[Jenny-H#^efe01a\|Holmes, Monica]]_                     |
+| _[[The-White-Magicians#Kellion O’Shea\|O’Shea, Kellion]]_                             | _[[Neil-F\|Holmes, Munroe]]_ - Monica’s twin brother      |
 | _[[Angela-Taylor\|Taylor, Angela]]_                                                   | _Joyce, Simon_                                            |
-| _[[The-White-Magicians#Sydney George Washington\|Washington, Sydney George]]_ | _Mairi (“the elder”)_                                     |
+| _[[The-White-Magicians#Sydney George Washington\|Washington, Sydney George]]_         | _Mairi (“the elder”)_                                     |
 |                                                                                       | _Mairi (“the younger”)_                                   |
-|                                                                                       | _[[Jenny-H#^90313e\|Farquarson, Megan]]_               |
+|                                                                                       | _[[Jenny-H#^90313e\|Farquarson, Megan]]_                  |
 |                                                                                       | _Shadowdancer, Jocelyn_ - Shadow Investigations, USA      |
 |                                                                                       | _Tomlin, Fr. Richard_                                     |
 

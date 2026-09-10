@@ -32,7 +32,7 @@ Xiucoatl is directing Alejandro to find the matching crystal axe, also sentient!
 
 ## Our Party
 
- - Ehecachichtli "Whistle", Lizardman Rogue, [[Ben-G|Ben G.]] ^7a3727
+ - Ehecachichtli "Whistle", Lizardman Rogue, _[[Ben-G|Ben G.]]_ ^7a3727
  - Jeb Sam Smithy, Human Paladin, Ryan W.
  - Lucky, Tabaxi Monk, Feronas
  - Silas Nonagesimus, Storm Sorcerer, Zac W.
@@ -43,7 +43,9 @@ Xiucoatl is directing Alejandro to find the matching crystal axe, also sentient!
 
 **Lucky**
 
-Alejandro likes Lucky, like, really likes Lucky!
+Alejandro liked Lucky, like, really liked Lucky!
+
+After she left the group (player scheduling conflicts), Alejandro asked a powerful mystical shop owner to remove all memories of Lucky in exchange for emotional peace and a very useful magic item.
 
 
 

@@ -9,7 +9,7 @@ draft: false
 ---
 # Yakov
 
->**GM's Note:** The story begins just after Baron Sherlane Halaran resurrected _[[010-DnD-Adventurers#Kubinski, Yakov|Yakov Kubinski]]_ after [[DnD-Mystara-Timeline#Moldain 11|a fatal battle]].
+>**GM's Note:** The story begins just after Baron Sherlane Halaran resurrected _[[010-DnD-Adventurers#Kubinski, Yakov|Yakov Kubinski]]_ after _[[DnD-Mystara-Timeline#Moldain 11|a fatal battle]]_.
 
 You become aware of struggling up to the light.  A man is calling your name.  Your memory of a conversation with a handsome huntsman wearing forest green clothes and carrying a bow is rapidly fading.  This other man calls your name again and you awake.  The first thing you notice is his nose, a prominent, jutting nose that must have earned him many interesting nicknames.  His eyes are blue, his hair snow white, his face clean-shaven.  He appears to be in his early sixties and wears unpretentious clerical robes of the Church of Karameikos.  In a cheery but soft-spoken voice he introduces himself as Baron Sherlane Halaran, Patriarch of Threshold.  He seems very pleased and relieved when you remember meeting him before at the home of Lord Kaerin Penhaligon.
 

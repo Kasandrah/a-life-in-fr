@@ -165,7 +165,7 @@ Hrithik’s Intelligence gives him +3 bonus skill points for each of his Cleric 
 
 6. Garuda Aasimars gain +2 ranks to their acrobatics and fly skills.
 
-7. An Aasimar has **one** racial Hit Dice, hence Hrithik’s additional skill points for being a half-celestial are (8 + 3) x (**1** + 3) = 44 points. All skills for a half-celestial are bought as cross-class skills - i.e., 2 skill points per skill rank. See [[Hrithik-Olafsson#Skills|here]] for details.
+7. An Aasimar has **one** racial Hit Dice, hence Hrithik’s additional skill points for being a half-celestial are (8 + 3) x (**1** + 3) = 44 points. All skills for a half-celestial are bought as cross-class skills - i.e., 2 skill points per skill rank. See _[[Hrithik-Olafsson#Skills|here]]_ for details.
 
 8. Jump is modified by speed. Hrithik’s land speed in armour is 20ft, so he has a -6 penalty on jump skill checks.
 
@@ -445,7 +445,7 @@ A cleric with 5 or more ranks in Knowledge (religion) gets a +2 bonus on turning
 
 ## Our Party
 
-_Grognard_ - full orc / fighter / smith ([[Ben-G|Ben G.]]) ^775558
+_Grognard_ - full orc / fighter / smith (_[[Ben-G|Ben G.]]_) ^775558
 
 _Bump_ - half minotaur/ druid (Ryan W.)
 
@@ -453,7 +453,7 @@ _Biggs_ - Gnome wizard, long white beard (Daniel D.)
 
 _Karalja_ - savage elf ranger, looks civilised (unusually so) (Christian H-M.)
 
-_Kazz_ - human locksmith ([[Jenny-H|Jenny H.]]) ^fb41af
+_Kazz_ - human locksmith (_[[Jenny-H|Jenny H.]]_) ^fb41af
 
 All members of the "A Team" from the Adventurer's Guild, Kherkrub. Sir Edwin Cohen - one of three heads of the Guild. The usual agreement is that the party takes 30% of the fee charged by the Guild for any job, plus has first pick of any items or treasure found. Significant items or artifacts are given to the Guild.
 

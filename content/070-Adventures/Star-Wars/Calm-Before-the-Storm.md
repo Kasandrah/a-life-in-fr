@@ -9,7 +9,7 @@ draft: false
 
 >**GM's Note:**  Jess Storm loses her best friend and navigator, Flis, killed in an "accident" after Jess dumps cargo owned by Yerkys ne Dago.  On the advice of her father, Taran Storm, Jess flees to Minos Sector to contact "someone" (actually Tor Skylow, a friend and business partner of Taran's).
 
-## Written by [[Jenny-H|Jenny H.]] (Jess)
+## Written by _[[Jenny-H|Jenny H.]]_ (Jess)
 
 Jess settled into the bar and ordered her favourite.  They could afford it.  That last run to Farris was particularly profitable.  Flis nudged her and Jess automatically ordered her friend a drink, before turning to see what had caught her eye.
 

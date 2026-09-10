@@ -19,58 +19,58 @@ draft: false
 
 Praetor of Dorset, son of Marshal Dekmar of Dorchester. Arcavius wants Dorset back from the Saxons by eating them away from the edges and fermenting dissent from within.
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ### Sir Brion
 
 A crazy Irish knight eventually embraced by Lillane.
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ### Lord Cynon
 
 Earl of Rydychan, knight and Champion of Epona. Cynon wants to be the best Champion of Epona ever and remove the third brother from the castle, for his mother-in-law.
 
-Played by [[Michael-H|Michael H.]]
+Played by _[[Michael-H|Michael H.]]_
 
 ### Sir Emils
 
 Knight from Champagne (France) searching for a Christian champion.
 
-Played by [[Michael-B|Michael B.]]
+Played by _[[Michael-B|Michael B.]]_
 
 ### Lady Niani
 
 A female knight trying to establish herself in a male-dominated society. Niani wants to get back to Anfar Refinli, otherwise build a local empire. She also wants to investigate the new castle and the strange neighbours.
 
-[[Out-of-Place]]
+_[[Out-of-Place]]_
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_
 
 ### Lord Rhodri
 
 Earl of Jagent, Cymric Pagan born 474 AD. Son of the mercenary knight Gwrfelling. _[[Rhodri|Rhodri]]_ was knighted on the battlefield in 495 AD. He likes Arthur, Jeanne, family, the original Roman Empire, Mithras, playing the harp, and adventuring. He dislikes the fall of the Roman Empire, Saxons, and the Fae (but doesn’t talk about that one).
 
-Played by [[Ben-G|Ben G.]]
+Played by _[[Ben-G|Ben G.]]_
 
 ## Second Campaign - 520 AD
 
->**GM's Note:** We began this soft reboot, but we didn't continue for the reasons stated [[Out-of-Place#GM's Note|here]].
+>**GM's Note:** We began this soft reboot, but we didn't continue for the reasons stated _[[Out-of-Place#GM's Note|here]]_.
 
 ### Brennor McKay
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_
 
 ### Decmus
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ### Gwion
 
-Played by [[Ben-G|Ben G.]]
+Played by _[[Ben-G|Ben G.]]_
 
 ### Maelin
 
 See _[[Out-of-Place#Maelin (Mae)|Maelin (Mae)]]_
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_

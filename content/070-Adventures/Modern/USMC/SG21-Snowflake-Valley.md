@@ -1,19 +1,17 @@
 ---
 aliases:
-  - The Garden
+  - Snowflake Valley
 tags:
   - modern
   - timeline
 aat-render-enabled: true
 timelines:
   - Modern Timeline
-fc-date: 1999-11-05
-fc-end: 1999-11-27
+fc-date: 1999-12-13
+fc-end: 1999-12-24
 fc-category: USMC vs "What the … ?"
-fc-display-name: The Garden
-title: The Garden
+fc-display-name: Snowflake Valley
+title: Snowflake Valley
 draft: false
 ---
-# The Garden
-
-With Mercy the Walkir.
+# SG21 Snowflake Valley

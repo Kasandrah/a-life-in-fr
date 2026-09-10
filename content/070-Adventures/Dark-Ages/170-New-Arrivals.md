@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # New Arrivals
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 Some years have passed, and another adventure began with strangeness. A stranger came to Sadaba, the strangest stranger I’d seen for the longest time. A most disconcerting-looking stranger from the lands of Christianity’s heart. This _[[020-The-Antediluvians#Romegio|Romegio]]_ is apparently a more than useful vintner, at least according to his story. He arrived with the local supplies and was invited in as a guest. When I found out about him, and shared some of the food and spoke to him across a table in the kitchens, I thought I knew of at least one other person who would be quite interested in him: Father.
 

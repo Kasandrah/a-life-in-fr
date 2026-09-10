@@ -29,9 +29,9 @@ draft: false
 
 ## Involvement
 
-Charles was furthering his bootlegging interests off the coast of North Carolina when the [[The-Silk-Scorpion|Silk Scorpion]] crossed paths with a party of academic researchers investigating the disappearance of the first British colony on Roanoke Island.
+Charles was furthering his bootlegging interests off the coast of North Carolina when the _[[The-Silk-Scorpion|Silk Scorpion]]_ crossed paths with a party of academic researchers investigating the disappearance of the first British colony on Roanoke Island.
 
-## Written by [[Ben-G|Ben G.]] (Dr. Alexander Notting)
+## Written by _[[Ben-G|Ben G.]]_ (Dr. Alexander Notting)
 
 My companion, _[[The-White-Magicians#Professor Edwin Occultree|Professor Edwin Occultree]]_, and I had an amazing adventure in the summer of ‘25.  Let me tell you about it.
 
@@ -59,7 +59,7 @@ We contacted Indiana University about the word CRO and found that it meant “So
 
 We travelled down by rail to Elizabeth Town with some student assistants, and we tried to find out if there was a local history club or group that could give us some of the local tales of yore.  The few locals who knew something of the past had little before Elizabeth Town was begun.  So we then tried to charter a boat to the island.  A local fishing boat captain, named Mack, agreed to take us there when we reached an acceptable price for him.  Damn, I hate dickering.
 
-As we approached the island, we passed a rich yacht, which Mack told us was the [[The-Silk-Scorpion|Silk Scorpion]], and it was owned by the van Burens, a couple who were big in Elizabeth Town and elsewhere.
+As we approached the island, we passed a rich yacht, which Mack told us was the _[[The-Silk-Scorpion|Silk Scorpion]]_, and it was owned by the van Burens, a couple who were big in Elizabeth Town and elsewhere.
 
 Our archaeological team was dropped off on the southern part of the island, and we could set up camp easily.  The first days were nothing out of the ordinary, but some of us suffered from nightmares and sleepless nights.  But then everybody was affected.  We explored the island, including the lighthouse.
 

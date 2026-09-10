@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # Potion of Dreams
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 Oh joy! Oh joy! We’ve just been paid a visit by some very surly thugs. Although I couldn’t help snickering at them when they kept throwing threatening glances around them when they were within the castle. But they were a godsend, as they have brought a Chest of BOOKS!!!! There are books on mathematics, astrolabes, abacus, medicine, and geometry…. And a book on pharmacology by the 1st Century Greek Dios Caridis. I was most eager to read this one, but Lucio grabbed it almost as soon as the chest was opened.
 

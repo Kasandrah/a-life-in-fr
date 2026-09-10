@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # Templars in Saragossa
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 Rafi’s troop arrives. There is a troubadour here who is playing songs that bespeak of the illicit amour of young knights and their lords wives. He doesn’t understand that when we laugh, we laugh at him.
 

@@ -16,16 +16,16 @@ draft: false
 ---
 # Moon Dream
 
-1923 December 11th to 19th – Adelaide, South Australia, [[080-Dreamlands|Dreamlands]] and Surrounds
+1923 December 11th to 19th – Adelaide, South Australia, _[[080-Dreamlands|Dreamlands]]_ and Surrounds
 
 ## Characters
 
 | Player Characters                                         | Non-Player Characters                                     |
 | --------------------------------------------------------- | --------------------------------------------------------- |
 | _Allenby, Rita_ – (Dianne)                                | _Bernstein, Israel_ – Jewish publisher                    |
-| _[[Steve-B#^093ac8\|Davidson, Andy]]_                | _Dodd, Captain Joseph_                                    |
-| _[[George-G#^9c0418\|Richardson, Captain Bill]]_   | _Ericsmore_, his cat _Whispernight_ and his boat _Aerial_ |
-| _[[Jenny-H#^7964ca\|Sargon, Chantella]]_               | _Hryciw, Zsigismund_                                      |
+| _[[Steve-B#^093ac8\|Davidson, Andy]]_                     | _Dodd, Captain Joseph_                                    |
+| _[[George-G#^9c0418\|Richardson, Captain Bill]]_          | _Ericsmore_, his cat _Whispernight_ and his boat _Aerial_ |
+| _[[Jenny-H#^7964ca\|Sargon, Chantella]]_                  | _Hryciw, Zsigismund_                                      |
 | _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ | _Monteith, MacGregor_                                     |
 |                                                           | _Monteith, Melissa_ – MacGregor’s sister                  |
 |                                                           | _Odj-strynj, Vladimir Radu_                               |
@@ -40,17 +40,17 @@ Diana previously met Jewish publisher Israel Bernstein at a social gathering. Be
 
 ## Highlights
 
-- [[Moon-Dream#Tuesday 11th December 1923|Tuesday 11th December 1923]]
-- [[Moon-Dream#Wednesday 12th December 1923|Wednesday 12th December 1923]]
-- [[Moon-Dream#Thursday 13th December 1923|Thursday 13th December 1923]]
-- [[Moon-Dream#Friday 14th December 1923|Friday 14th December 1923]]
-- [[Moon-Dream#Saturday 15th December 1923|Saturday 15th December 1923]]
-- [[Moon-Dream#Sunday 16th December 1923|Sunday 16th December 1923]]
-- [[Moon-Dream#Monday 17th December 1923|Monday 17th December 1923]]
-- [[Moon-Dream#Tuesday 18th December 1923|Tuesday 18th December 1923]]
-- [[Moon-Dream#Wednesday 19th December 1923|Wednesday 19th December 1923]]
-- [[Moon-Dream#Injuries Suffered|Injuries Suffered]]
-- [[Moon-Dream#Possessions Acquired|Possessions Acquired]]
+- _[[Moon-Dream#Tuesday 11th December 1923|Tuesday 11th December 1923]]_
+- _[[Moon-Dream#Wednesday 12th December 1923|Wednesday 12th December 1923]]_
+- _[[Moon-Dream#Thursday 13th December 1923|Thursday 13th December 1923]]_
+- _[[Moon-Dream#Friday 14th December 1923|Friday 14th December 1923]]_
+- _[[Moon-Dream#Saturday 15th December 1923|Saturday 15th December 1923]]_
+- _[[Moon-Dream#Sunday 16th December 1923|Sunday 16th December 1923]]_
+- _[[Moon-Dream#Monday 17th December 1923|Monday 17th December 1923]]_
+- _[[Moon-Dream#Tuesday 18th December 1923|Tuesday 18th December 1923]]_
+- _[[Moon-Dream#Wednesday 19th December 1923|Wednesday 19th December 1923]]_
+- _[[Moon-Dream#Injuries Suffered|Injuries Suffered]]_
+- _[[Moon-Dream#Possessions Acquired|Possessions Acquired]]_
 
 ## Tuesday 11th December 1923
 

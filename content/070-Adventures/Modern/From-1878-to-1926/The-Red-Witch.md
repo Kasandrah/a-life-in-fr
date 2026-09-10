@@ -22,7 +22,7 @@ draft: false
 
 | Player Characters                                           | Non-Player Characters                   |
 | ----------------------------------------------------------- | --------------------------------------- |
-| _[[Jenny-H#^72dacc\|Chesterfield, Heather Petunia]]_     | _[[Neil-F#^4dbbf7\|Mason, Brady]]_ |
+| _[[Jenny-H#^72dacc\|Chesterfield, Heather Petunia]]_        | _[[Neil-F#^4dbbf7\|Mason, Brady]]_      |
 | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ | _Red Witch_                             |
 
 ## Involvement

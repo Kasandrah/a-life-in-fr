@@ -7,7 +7,7 @@ draft: false
 ---
 # Braddon G.
 
-## [[050-Modern|Modern]]
+## _[[050-Modern|Modern]]_
 
 _[[Charles-van-Buren|van Buren, Charles]]_
 

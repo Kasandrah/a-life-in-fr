@@ -7,7 +7,7 @@ draft: false
 ---
 # A Jedi for Hadra
 
-## Written by [[Jenny-H|Jenny H.]] (Hadra)
+## Written by _[[Jenny-H|Jenny H.]]_ (Hadra)
 
 Hadra leant against a rim support, surveying the scene below her with a pair of macros.  All quiet, as expected.  "Is everyone in position?" she asked and listened to the team reporting in.  It felt odd stealing ships, especially with what had happened to hers.  However, the Alliance needed transports and she made sure that the ones they stole belonged to people who deserved to lose them.  A kind of revenge with a purpose.
 

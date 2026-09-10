@@ -11,7 +11,7 @@ draft: false
 
 ![[mr_lady_beitris_marsk.jpeg]]
 
-[_Lady Beitris Marsk_](https://www.dndbeyond.com/characters/75746890) _- inspiration from_ [_Arno_](https://www.zbrushcentral.com/u/arno/activity/portfolio) _on_ [_ZBrushCentral.com_](https://www.zbrushcentral.com/t/cleric-part-ii-standing-ready/434744)
+[_Lady Beitris Marsk_](https://www.dndbeyond.com/characters/75746890) _- inspiration from_ [Arno](https://www.zbrushcentral.com/u/arno/activity/portfolio) _on_ [ZBrushCentral.com](https://www.zbrushcentral.com/t/cleric-part-ii-standing-ready/434744)
 
 A female variant human cleric from House Marsk with the Noble Scion Feat. Worships Lathander with passion (read as "eros"), is a card-carrying member of the Church of Sun and Storm because "someone needs to keep an eye on these sheep before they mobilise as religious zealots and start a holy war with our neighbours".
 

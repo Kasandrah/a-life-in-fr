@@ -12,7 +12,7 @@ draft: false
 ---
 # Major Taron Roa
 
-**Written by [[Craig-B|Craig B.]] (Taron)**
+**Written by _[[Craig-B|Craig B.]]_ (Taron)**
 
 ### Confidential Top Secret
 

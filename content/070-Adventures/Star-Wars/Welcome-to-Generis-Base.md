@@ -23,7 +23,7 @@ While on a routine sector scouting mission the _Red Storm Rising_ comes across
 
 ## Fourth Message
 
-**Written by [[Jenny-H|Jenny H.]] (Jess)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Jess)**
 
 Transmission from _Red Storm Rising_ to _Storm Clouds_.
 

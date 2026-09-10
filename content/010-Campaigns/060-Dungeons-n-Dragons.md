@@ -10,7 +10,7 @@ draft: false
   
 [Mystara](http://pandius.com/) is my favourite D&D setting. I’ve run many adventuring parties through Mystara. I have nearly everything that was printed on Mystara, plus I trawl the Internet for related material. There is so much available to Mystara GMs that I’ll never get through it all.
 
-[[010-DnD-Adventurers|D&D Adventurers]]
+_[[010-DnD-Adventurers|D&D Adventurers]]_
 
 ## Grand Duchy of Karameikos
 
@@ -18,13 +18,13 @@ draft: false
 
 **Cover, D&D Gazetteer, The Grand Duchy of Karameikos**
 
-I set my first long-term campaign in the [Grand Duchy of Karameikos](https://i0.wp.com/mystara.thorfmaps.com/wp-content/uploads/2016/01/karameikos-8-1.png). I started the campaign after I began playing in [[Neil-F|Neil F.'s]] Tharamaylor, so I transferred my favourite PCs from Tharamaylor to Karameikos, where they are now significant NPCs.
+I set my first long-term campaign in the [Grand Duchy of Karameikos](https://i0.wp.com/mystara.thorfmaps.com/wp-content/uploads/2016/01/karameikos-8-1.png). I started the campaign after I began playing in _[[Neil-F|Neil F.'s]]_ Tharamaylor, so I transferred my favourite PCs from Tharamaylor to Karameikos, where they are now significant NPCs.
 
-This campaign began with the party coming together and undertaking a series of adventures, during which they learned about the Grand Duchy, its people, and the threats facing its continued survival. Outlined in the [[DnD-Mystara-Timeline|D&D Mystara Timeline]] are events played through to date.
+This campaign began with the party coming together and undertaking a series of adventures, during which they learned about the Grand Duchy, its people, and the threats facing its continued survival. Outlined in the _[[DnD-Mystara-Timeline|D&D Mystara Timeline]]_ are events played through to date.
 
 The party was struggling with _[[Viridis|Viridis]]_, a vengeful green dragon who usually wore an Elven disguise, and a renegade wizard named _[[020-People-of-Karameikos#^725955|Bargle]]_ who intended to summon Elendorath, a move that wouldn’t have been good for Karameikos.
 
-[[020-People-of-Karameikos|People of Karameikos]]
+_[[020-People-of-Karameikos|People of Karameikos]]_
 
 ### Campaign Notes
 

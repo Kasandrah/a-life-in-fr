@@ -7,7 +7,7 @@ draft: false
 ---
 # A Visit from Rogue Squadron
 
-**Written by [[Jenny-H|Jenny H.]]**
+**Written by _[[Jenny-H|Jenny H.]]_**
 
 Leith announced that Rogue Squadron was to pay them a visit.  He also asked the Circle members to keep a low profile during the visit.  Wazza, Royd, and Bursurra decided to organise a party.  The more they got into it, the more complicated the party became, going from just a party to a chance to increase funds to a full-scale training exercise.
 
@@ -29,7 +29,7 @@ The theme was 'come as you aren't'.  There were pirates, Imperials and other un
 
 ## After the Party
 
-**Written by the GM for [[Ben-G|Ben G.]] (Ash)**
+**Written by the GM for _[[Ben-G|Ben G.]]_ (Ash)**
 
 Anna and Zoe would love to chase after Kezz, it's just that on some level he scares them half to death.  The ladies have decided that discretion is the better part of valour and won't be pursuing Kezz. They don't want to give Boddi any reason to be annoyed at them.  So, sighs and admiration from afar will have to do.  They do actually behave like smitten schoolgirls when Kezz is around, and this has not gone unnoticed among other base personnel.
 

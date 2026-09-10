@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # Templars and Falling Stars
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 The following night, the Compline mass has a special guest who is more concerned with talking with someone else, rather than with the Christian God. My father is concerned with how Gwyn sees him. I do believe her putting him off for so long is really annoying him. Hah! Will wonders never cease.
 

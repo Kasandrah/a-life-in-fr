@@ -16,7 +16,7 @@ draft: false
 ---
 # The Bermuda Triangle
 
-1926 September 26th - Bexhill-on-Sea (East Sussex) to Brighton to Portsmouth.  Board the [[The-Silk-Scorpion|Silk Scorpion]] and sail for Falmouth.
+1926 September 26th - Bexhill-on-Sea (East Sussex) to Brighton to Portsmouth.  Board the _[[The-Silk-Scorpion|Silk Scorpion]]_ and sail for Falmouth.
 
 ## Characters
 

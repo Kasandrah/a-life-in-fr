@@ -12,21 +12,21 @@ draft: false
 
 ![[cc_charles_in_suit.jpg]]
 
-| Aspect             | Description                                                                |
-| ------------------ | -------------------------------------------------------------------------- |
-| _Height / weight:_ |                                                                            |
-| _Voice:_           |                                                                            |
-| _Cologne:_         |                                                                            |
-| _Born:_            | 16th November 1896 in Boston, Massachusetts (USA) - American               |
-| _Birth sign:_      | Scorpio                                                                    |
-| _Birth stones:_    | Beryl, obsidian, ruby, sardonyx, topaz                                     |
-| _Birth flowers:_   | Wormwood                                                                   |
-| _Partner:_         | _[[Sarah-Ann-van-Buren\|Sarah Ann van Buren]]_                             |
-| _Occupation_       | Owner of the [[The-Silk-Scorpion\|Silk Scorpion]], smuggler and bootlegger |
-| _Residence:_       | Sarah and Charles divide their time between London, Boston and Long Island |
-| _Drives:_          | [[Mercedes-Benz-SSKL\|1929 Mercedes-Benz SSKL Two-Seater Roadster]]        |
-| _Reads / Writes:_  | English, Japanese, Latin, speaks French, reads / writes Arabic             |
-| _Weapons:_         | Katana, handgun, fist, shotgun, head butt                                  |
+| Aspect             | Description                                                                  |
+| ------------------ | ---------------------------------------------------------------------------- |
+| _Height / weight:_ |                                                                              |
+| _Voice:_           |                                                                              |
+| _Cologne:_         |                                                                              |
+| _Born:_            | 16th November 1896 in Boston, Massachusetts (USA) - American                 |
+| _Birth sign:_      | Scorpio                                                                      |
+| _Birth stones:_    | Beryl, obsidian, ruby, sardonyx, topaz                                       |
+| _Birth flowers:_   | Wormwood                                                                     |
+| _Partner:_         | _[[Sarah-Ann-van-Buren\|Sarah Ann van Buren]]_                               |
+| _Occupation_       | Owner of the _[[The-Silk-Scorpion\|Silk Scorpion]]_, smuggler and bootlegger |
+| _Residence:_       | Sarah and Charles divide their time between London, Boston and Long Island   |
+| _Drives:_          | _[[Mercedes-Benz-SSKL\|1929 Mercedes-Benz SSKL Two-Seater Roadster]]_        |
+| _Reads / Writes:_  | English, Japanese, Latin, speaks French, reads / writes Arabic               |
+| _Weapons:_         | Katana, handgun, fist, shotgun, head butt                                    |
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Charles is very attractive - tall with dark curly hair and dark brown eyes and a
 
 ## Interests
 
-Charles makes his money as a bootlegger and smuggler, using the [[The-Silk-Scorpion|Silk Scorpion]] to transport large amounts of alcohol and restricted goods from Britain via Cuba to secret locations along the New York coast.
+Charles makes his money as a bootlegger and smuggler, using the _[[The-Silk-Scorpion|Silk Scorpion]]_ to transport large amounts of alcohol and restricted goods from Britain via Cuba to secret locations along the New York coast.
 
 ## Education
 
@@ -82,16 +82,16 @@ Charles returned to his family in Boston, then struck out again to make a succes
 
 ## Timeline
 
-| Date                               | Adventure                                            |
-| ---------------------------------- | ---------------------------------------------------- |
-| 1922 December                      | [[Snake-Temple\|Snake Temple]]                       |
-| 1924 February 25th to November 3rd | [[The-Middle-East\|The Middle East]]                 |
-| 1924 November 21st to 30th         | [[Orient-Express\|Orient Express]]                   |
-| 1924 December 1st to 7th           | [[Cornwall\|Cornwall]]                               |
-| 1925 February                      | [[The-Silk-Scorpion\|The Silk Scorpion]]             |
-| 1925 May                           | [[Whispers-from-the-Abyss\|Whispers from the Abyss]] |
-| 1925 June                          | [[Regiment-of-the-Dead\|Regiment of the Dead]]       |
-| 1926 early September               | [[Sihons-Night\|Sihon's Night]]                      |
-| 1926 September 26th                | [[The-Bermuda-Triangle\|The Bermuda Triangle]]       |
+| Date                               | Adventure                                              |
+| ---------------------------------- | ------------------------------------------------------ |
+| 1922 December                      | _[[Snake-Temple\|Snake Temple]]_                       |
+| 1924 February 25th to November 3rd | _[[The-Middle-East\|The Middle East]]_                 |
+| 1924 November 21st to 30th         | _[[Orient-Express\|Orient Express]]_                   |
+| 1924 December 1st to 7th           | _[[Cornwall\|Cornwall]]_                               |
+| 1925 February                      | _[[The-Silk-Scorpion\|The Silk Scorpion]]_             |
+| 1925 May                           | _[[Whispers-from-the-Abyss\|Whispers from the Abyss]]_ |
+| 1925 June                          | _[[Regiment-of-the-Dead\|Regiment of the Dead]]_       |
+| 1926 early September               | _[[Sihons-Night\|Sihon's Night]]_                      |
+| 1926 September 26th                | _[[The-Bermuda-Triangle\|The Bermuda Triangle]]_       |
 
 Charles has bought a small plane for "personal use".  He considers the plane good for business - it's the way of the future.  He has invested a large sum in a small start-up passenger airline.

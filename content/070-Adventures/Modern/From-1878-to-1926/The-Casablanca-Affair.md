@@ -25,17 +25,17 @@ draft: false
 | _[[Aletta-Yasmini\|Yasmini, Aletta]]_ | _[[Viktor-Besarab\|Besarab, Viktor]]_ - Capitaine de Legion Etranger                          |
 |                                       | _Hassan_ - Aletta’s houseboy                                                                  |
 |                                       | _Ikamande, Ipande_ - a Nigerian Muslim, son of the Deputy Fon of Kamande in northeast Nigeria |
-|                                       | _[[Neil-F#^901589\|Jenks, Stanley]]_                                                     |
+|                                       | _[[Neil-F#^901589\|Jenks, Stanley]]_                                                          |
 |                                       | _Pons, Solar_ - famous “Inquiry Agent”                                                        |
 |                                       | _Sampson, Dr Mahmud_ - surgeon called in to treat Pons’ gunshot wounds                        |
 
 ## GM’s Note:
 
-This is the first move of a play-by-mail written by [[Neil-F|Neil F.]] It has some responses from the player, with some questions at the end. Neil was a big fan of play-by-mail games and usually had several on the go at the same time.
+This is the first move of a play-by-mail written by _[[Neil-F|Neil F.]]_ It has some responses from the player, with some questions at the end. Neil was a big fan of play-by-mail games and usually had several on the go at the same time.
 
 All characters in this play-by-mail, except for Solar Pons and my PC Aletta, are Neil’s inventions. It was Neil’s intention for Aletta and Viktor to get together while bringing about the end of Johannes van der Kren, Aletta’s enemy. Viktor was guaranteed to get Aletta’s complete and undivided attention. How could she resist a captain in the French Foreign Legion?
 
-## Written by [[Neil-F|Neil F.]]
+## Written by _[[Neil-F|Neil F.]]_
 
 The car wasn’t large, a flamboyant scarlet Peugeot, but Aletta had plans for a radical improvement in the future. However, the streets were quite narrow in Casablanca, Ad-dar al-Bayda, even the Boulevard Hansali that led to the docks. Aletta was concerned that a bigger vehicle would be difficult to manoeuvre.
 

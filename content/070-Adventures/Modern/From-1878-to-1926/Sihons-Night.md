@@ -22,10 +22,10 @@ draft: false
 
 | Player Characters                                  | Non-Player Characters                          |
 | -------------------------------------------------- | ---------------------------------------------- |
-| _[[Michael-H#^1497cd\|Brook, Charles]]_       | _[[Neil-F#^bc047f\|Farquharson, Magnus]]_ |
+| _[[Michael-H#^1497cd\|Brook, Charles]]_            | _[[Neil-F#^bc047f\|Farquharson, Magnus]]_      |
 | _[[Charles-van-Buren\|van Buren, Charles]]_        | _Jonathan_                                     |
-| _[[Sarah-Ann-van-Buren\|van Buren, Sarah Ann]]_    | _[[Jenny-H#^90313e\|Farquarson, Megan]]_    |
-| _[[Zoran-B#^960632\|Jupiter, Andrew "Monk"]]_ | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_     |
+| _[[Sarah-Ann-van-Buren\|van Buren, Sarah Ann]]_    | _[[Jenny-H#^90313e\|Farquarson, Megan]]_       |
+| _[[Zoran-B#^960632\|Jupiter, Andrew "Monk"]]_      | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_        |
 
 ## Involvement
 

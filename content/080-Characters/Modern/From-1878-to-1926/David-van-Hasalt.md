@@ -30,7 +30,7 @@ _Garrick:_ “mighty warrior”
 | _Partner:_         | _[[Diana-Elizabeth-Winthrop\|Diana Elizabeth Winthrop]]_             |
 | _Occupation_       | Businessman and dilettante                                           |
 | _Residence:_       | Boston, Massachusetts and Hampton Beach, New Hampshire               |
-| _Drives:_          | [[Duesenberg-J-Derham\|1930 Duesenberg J Derham Tourster]]           |
+| _Drives:_          | _[[Duesenberg-J-Derham\|1930 Duesenberg J Derham Tourster]]_         |
 | _Reads / Writes:_  | German, English, Russian, French, Latin                              |
 | _Weapons:_         | Handgun, grapple, shotgun, bowie knife, grenade launcher, fist, mace |
 
@@ -119,7 +119,7 @@ Now David has set to grimly and written up three lists, “People I will never t
 
 Diana is more than happy never to speak to Amanda again, except under very formal and brief circumstances.  She would prefer to cut all ties with Amanda and leave it at that, and she will very gently attempt to steer David into this course of action and away from being an 'avenging fury'.  Amanda's actions may have begun the recent break between Diana and David, but David's lack of action continued it.  Diana has said what she needed to on that matter, but David would do well not to remind her of the hurt he caused her.
 
-To show her continued good faith toward David, in spite of his treatment of her, Diana will take the short list of people he trusts and will place it in a small silver heart shaped locket, a gift from Stephen, that she wears about her neck.  She will also attempt to find out about the other people on the list.  David's judgement has gone astray before, particularly with respect to his mother, and Diana wants to prevent him misplacing his trust again.
+To show her continued good faith toward David, in spite of his treatment of her, Diana will take the short list of people he trusts and will place it in a small silver heart-shaped locket, a gift from Stephen, that she wears about her neck.  She will also attempt to find out about the other people on the list.  David's judgement has gone astray before, particularly with respect to his mother, and Diana wants to prevent him misplacing his trust again.
 
 ## Timeline
 
@@ -132,7 +132,7 @@ To show her continued good faith toward David, in spite of his treatment of her,
 | 1921 September                      | The Wail of the Witch - USA.  Investigation of Mercy Booth and her "old ones" in Salem.  Party destroyed Booth's mummified corpse and left her ghouls in peace.                   |
 | 1922 February                       | Dark Claw - Australia.  The mummy of a Y'Golnac priestess was found in Besant House in Melbourne.  Party destroyed the mummy.                                                     |
 | 1922 August                         | Crystal of Chaos - USA.  Search for the Shining Trapezahedron, a magical object that can be used to summon Nyarlathotep.  Party found the object in the Steeple Church, Boston.   |
-| 1922 September 26th to end December | [[African-Cat-People\|African Cat People]]                                                                                                                                        |
-| 1925 June to July                   | [[Greece\|Greece]]                                                                                                                                                                |
-| 1926 January                        | [[Mormon-Dreams\|Mormon Dreams]]                                                                                                                                                  |
-| 1926 February                       | [[The-Mummys-Curse\|The Mummy’s Curse]]                                                                                                                                           |
+| 1922 September 26th to end December | _[[African-Cat-People\|African Cat People]]_                                                                                                                                      |
+| 1925 June to July                   | _[[Greece\|Greece]]_                                                                                                                                                              |
+| 1926 January                        | _[[Mormon-Dreams\|Mormon Dreams]]_                                                                                                                                                |
+| 1926 February                       | _[[The-Mummys-Curse\|The Mummy’s Curse]]_                                                                                                                                         |

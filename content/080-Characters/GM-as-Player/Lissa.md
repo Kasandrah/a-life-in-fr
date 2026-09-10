@@ -15,9 +15,9 @@ draft: false
 
 **Lissa**
 
-Lissa was my very first Player Character (PC) - created for [[Neil-F|Neil F.’s]] Tharamaylor Campaign in the summer of 1984. In this campaign, she was a young apprentice mage on the run from her master, the wizard _[[Zatarn|Zatarn]]_.
+Lissa was my very first Player Character (PC) - created for _[[Neil-F|Neil F.’s]]_ Tharamaylor Campaign in the summer of 1984. In this campaign, she was a young apprentice mage on the run from her master, the wizard _[[Zatarn|Zatarn]]_.
 
-In my [[060-Dungeons-n-Dragons|Dungeons & Dragons]] campaign, Lissa is a Thyatian Mage, a member of the [[020-People-of-Karameikos#Magician’s Guild|Magician's Guild]] of Specularum and of the [[020-People-of-Karameikos#Church of Karameikos|Church of Karameikos]]. She is the only daughter of Baroness Marianna (deceased) and _[[020-People-of-Karameikos#^e69ee9|Baron Phillip Vorloi]]_, and is referred to as the “Rose of Vorloi”.
+In my _[[060-Dungeons-n-Dragons|Dungeons & Dragons]]_ campaign, Lissa is a Thyatian Mage, a member of the _[[020-People-of-Karameikos#Magician’s Guild|Magician's Guild]]_ of Specularum and of the _[[020-People-of-Karameikos#Church of Karameikos|Church of Karameikos]]_. She is the only daughter of Baroness Marianna (deceased) and _[[020-People-of-Karameikos#^e69ee9|Baron Phillip Vorloi]]_, and is referred to as the “Rose of Vorloi”.
 
 Lissa’s familiar is a female peregrine falcon named Talisman.
 

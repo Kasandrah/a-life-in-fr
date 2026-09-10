@@ -32,11 +32,11 @@ _Ann:_ “grace” - Hebrew (“Hannah”)
 | _Partner:_         | _[[Charles-van-Buren\|Charles van Buren]]_                                   |
 | _Occupation_       | Architect and Egyptologist                                                   |
 | _Residence:_       | Sarah and Charles divide their time between London, Boston and Long Island   |
-| _Drives:_          | [[Mercedes-Benz-SSKL\|1929 Mercedes-Benz SSKL Two-Seater Roadster]]          |
+| _Drives:_          | _[[Mercedes-Benz-SSKL\|1929 Mercedes-Benz SSKL Two-Seater Roadster]]_        |
 | _Reads / Writes:_  | English, writes Hieroglyphics, Demotic, Coptic and Hieratic, speaks Japanese |
 | _Weapons:_         | Handgun, bowie knife, very pistol                                            |
 
-Sarah is an English architect with a passion for Egyptology and travel.  She is married to Charles van Buren, an adventurer and bootlegger from New England who owns the [[The-Silk-Scorpion|Silk Scorpion]], a 120’ long ocean-going ship with a crew of 25.
+Sarah is an English architect with a passion for Egyptology and travel.  She is married to Charles van Buren, an adventurer and bootlegger from New England who owns the _[[The-Silk-Scorpion|Silk Scorpion]]_, a 120’ long ocean-going ship with a crew of 25.
 
 ## Appearance
 
@@ -68,9 +68,9 @@ Sarah can be a good friend with other women.  As a parent, she will maintain st
 
 Although Sarah is a qualified architect, she has an interest in Egyptology sparked by her father, a retired merchant banker with a lifelong interest in archaeology.  Sarah has developed skills in reading and writing Demotic, Hieroglyphics, Coptic and Hieratic, and is learning to speak, read and write Japanese from Charles.
 
-She and Charles own the [[The-Silk-Scorpion|Silk Scorpion]], a 120-foot long luxury sloop with oak and brass fittings registered in London.  Charles made his money as a bootlegger and still uses the yacht for it’s original purpose.  They also own a red Mercedes-Benz SSKL two-seater roadster that they love to drive at breakneck pace along tight, winding roads.
+She and Charles own the _[[The-Silk-Scorpion|Silk Scorpion]]_, a 120-foot long luxury sloop with oak and brass fittings registered in London.  Charles made his money as a bootlegger and still uses the yacht for it’s original purpose.  They also own a red Mercedes-Benz SSKL two-seater roadster that they love to drive at breakneck pace along tight, winding roads.
 
-They divide their time between homes in London, Boston, and Long Island, New York.  When not at home, they travel aboard the [[The-Silk-Scorpion|Silk Scorpion]], taking care of Charles’ many and varied business interests.
+They divide their time between homes in London, Boston, and Long Island, New York.  When not at home, they travel aboard the _[[The-Silk-Scorpion|Silk Scorpion]]_, taking care of Charles’ many and varied business interests.
 
 ## Education
 
@@ -98,13 +98,13 @@ In early February 1858 Thomas Bateman, an older brother of Sarah’s paternal gr
 
 ## Timeline
 
-| Date                               | Adventure                                            |
-| ---------------------------------- | ---------------------------------------------------- |
-| 1924 February 25th to November 3rd | [[The-Middle-East\|The Middle East]]                 |
-| 1924 November 21st to 30th         | [[Orient-Express\|Orient Express]]                   |
-| 1924 December 1st to 7th           | [[Cornwall\|Cornwall]]                               |
-| 1925 February                      | [[The-Silk-Scorpion\|The Silk Scorpion]]             |
-| 1925 May                           | [[Whispers-from-the-Abyss\|Whispers from the Abyss]] |
-| 1925 June                          | [[Regiment-of-the-Dead\|Regiment of the Dead]]       |
-| 1926 early September               | [[Sihons-Night\|Sihon's Night]]                      |
-| 1926 September 26th                | [[The-Bermuda-Triangle\|The Bermuda Triangle]]       |
+| Date                               | Adventure                                              |
+| ---------------------------------- | ------------------------------------------------------ |
+| 1924 February 25th to November 3rd | _[[The-Middle-East\|The Middle East]]_                 |
+| 1924 November 21st to 30th         | _[[Orient-Express\|Orient Express]]_                   |
+| 1924 December 1st to 7th           | _[[Cornwall\|Cornwall]]_                               |
+| 1925 February                      | _[[The-Silk-Scorpion\|The Silk Scorpion]]_             |
+| 1925 May                           | _[[Whispers-from-the-Abyss\|Whispers from the Abyss]]_ |
+| 1925 June                          | _[[Regiment-of-the-Dead\|Regiment of the Dead]]_       |
+| 1926 early September               | _[[Sihons-Night\|Sihon's Night]]_                      |
+| 1926 September 26th                | _[[The-Bermuda-Triangle\|The Bermuda Triangle]]_       |

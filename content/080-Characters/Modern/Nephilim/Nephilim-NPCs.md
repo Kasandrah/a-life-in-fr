@@ -47,7 +47,7 @@ A Pooka who is _[[Nephilim-PCs#Robert Howard|Robert's]]_ companion. Padthuen lik
 
 ## Professor Matthew Patterson
 
-_[[Merlin|Matthew]]_ is a man with a lot of experience in weird stuff. After assisting the group with their [[Serpent-Moon|first initiation]], Matthew returned home to Cornwall. The group has received a photo of him and his wife, Ninian, with “Art”, their English sheepdog, and postcards of Cornwall with invitations to visit.
+_[[Merlin|Matthew]]_ is a man with a lot of experience in weird stuff. After assisting the group with their _[[Serpent-Moon|first initiation]]_, Matthew returned home to Cornwall. The group has received a photo of him and his wife, Ninian, with “Art”, their English sheepdog, and postcards of Cornwall with invitations to visit.
 
 ## Richard Anderson
 

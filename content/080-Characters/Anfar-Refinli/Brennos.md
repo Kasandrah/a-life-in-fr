@@ -15,7 +15,7 @@ draft: false
 
 **Knight of Epona, Goddess of Horses, also known as the Swan Knight**
 
-Brennos is a thirty-year-old Toleki knight whose current home is the [[The-Summer-Country|Summer Country]].  He is large, well-muscled and powerful, just over six feet tall, very strong and moves with grace and fluidity.  Although his cheeks are clean-shaven he has a long, neatly kept moustache, the ends of which just brush the base of his neck.  His wavy, shoulder-length red/blonde hair is plaited at his temples so as to hang on either side of his face.  The rest of his hair is loose about his shoulders.  He has pale skin and piercing green eyes.
+Brennos is a thirty-year-old Toleki knight whose current home is the _[[The-Summer-Country|Summer Country]]_.  He is large, well-muscled and powerful, just over six feet tall, very strong and moves with grace and fluidity.  Although his cheeks are clean-shaven he has a long, neatly kept moustache, the ends of which just brush the base of his neck.  His wavy, shoulder-length red/blonde hair is plaited at his temples so as to hang on either side of his face.  The rest of his hair is loose about his shoulders.  He has pale skin and piercing green eyes.
 
 A very well-spoken man, Brennos uses a refined and elegant style of speech.  His voice is deeper than the usual male voice and has a very attractive burr, especially on “r” sounds.
 

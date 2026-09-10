@@ -19,7 +19,7 @@ Nick’s past lives include:
 
 Nick wants more work.
 
-Played by [[Michael-H|Michael H.]]
+Played by _[[Michael-H|Michael H.]]_
 
 ## Remy Hathaway
 
@@ -33,13 +33,13 @@ Remy’s past lives include:
 
 Remy wants to arrange a date between _[[Nephilim-NPCs#Mark|Mark]]_ and _[[Nephilim-NPCs#Hellina|Hellina]]_, and to find out more about his past life apprenticeships to the Angel of Death.
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ## Kate Hennessey
 
 _[[Kate-Hennessey|Kate]]_ is an awakened fox spirit.
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_
 
 ## Robert Howard
 
@@ -53,7 +53,7 @@ Robert’s past lives include:
 
 Robert has received a communication via Padthuen - "Greetings, friend Leuthwin. My servant, Padthuen, will be your guide. May you serve your prince again. Until the Autumn. Ailil."
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_
 
 ## James Martel
 
@@ -69,4 +69,4 @@ James’ past lives include:
 
 James wants to become a private investigator, visit a volcano in South America, find out how _[[Nephilim-NPCs|Scorcher]]_ (his demonic tutor) can help him, and find out more about the Snow Queen.
 
-Played by [[Ben-G|Ben G.]]
+Played by _[[Ben-G|Ben G.]]_

@@ -9,7 +9,7 @@ draft: false
 
 >**GM's Note:**  Annalise and Taran Storm pay a visit to Generis Base.  Annalise and Caroth have a discussion regarding Jess' whereabouts.
 
-## Written by [[Jenny-H|Jenny H.]] (Jess)
+## Written by _[[Jenny-H|Jenny H.]]_ (Jess)
 
 Taran brought _Storm Clouds_ out of hyperspace.  "The Storm Tag Team's back in town," he transmitted over the coms, quickly followed by the Alliance code.  If his sources were correct about the nature of the man now in charge of Generis Base, he didn't want Caroth to have any excuse to blow him out of the skies.  But that didn't mean he couldn't start stirring the pot before they arrived.  He hadn't intended to come back here, but the rumours of trouble on the Base were too much to ignore and the Storms were never good at avoiding trouble.
 

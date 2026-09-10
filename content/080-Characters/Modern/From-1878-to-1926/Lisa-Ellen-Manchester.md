@@ -77,9 +77,9 @@ Harvard University (1915 to 1920) - Bachelor of Medicine, Bachelor of Surgery (M
 
 | Date          | Adventure                                                                            |
 | ------------- | ------------------------------------------------------------------------------------ |
-| 1922 December | [[Snake-Temple\|Snake Temple]]                                                       |
+| 1922 December | _[[Snake-Temple\|Snake Temple]]_                                                     |
 | 1923 July     | [Edge of Darkness](https://www.foundryvtt.store/products/cha-coc-fvtt-en-starterset) |
-| 1926 June     | [[Monastery-of-Madness\|Monastery of Madness]]                                       |
+| 1926 June     | _[[Monastery-of-Madness\|Monastery of Madness]]_                                     |
 
 ## Character Sheets
 

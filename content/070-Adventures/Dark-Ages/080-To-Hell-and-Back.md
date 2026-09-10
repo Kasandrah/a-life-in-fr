@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # To Hell and Back
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 The following month, after Monico and Rafi had gone on their outing to see the unicorns, our Sire informed us of our next undertaking. Lillane told us that the Emissary from Arcadia, Charon the Ferryman, had asked for her help, again in exchange for some unspecified favor. It seems that there is a war for possession of the Lands of the Dead, so Lillane sends us on our way. But before we are led of to the Circle in the Cellar, Lucio gives me a weapon of last resort; it is a perfume bottle containing something that must be wafted at whomever to take effect. Without any further ado, bar thanks, we go to the Circle in the Cellar, and we are sent straight to Hell - one at a time.
 

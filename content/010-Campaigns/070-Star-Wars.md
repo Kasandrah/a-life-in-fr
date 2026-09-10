@@ -14,98 +14,98 @@ Another time, another Galaxy.  A Galaxy of a billion suns, a billion star syste
 
 ![[sw_star_wars_TC.jpg]]
 
-[[010-Star-Wars-Characters|Star Wars Characters]]
+_[[010-Star-Wars-Characters|Star Wars Characters]]_
 ## The Distant Past
 
-- [Skywalker's Discovery of the Force](#Skywalker's%20Discovery%20of%20the%20Force)
-- [Jedi Bendu of the Ashla](#Jedi%20Bendu%20of%20the%20Ashla)
-- [The Circle of the Ashla](#The%20Circle%20of%20the%20Ashla)
-- [Boddi’s Atonement](#Boddi's%20Atonement)
-- [The Circle Sleeps](#The%20Circle%20Sleeps)
-- [Palpatine’s Conversion](#Palpatine's%20Conversion)
-- [Death of a Jedi Bendu](#Death%20of%20a%20Jedi%20Bendu)
+- _[Skywalker's Discovery of the Force](#Skywalker's%20Discovery%20of%20the%20Force)_
+- _[Jedi Bendu of the Ashla](#Jedi%20Bendu%20of%20the%20Ashla)_
+- _[The Circle of the Ashla](#The%20Circle%20of%20the%20Ashla)_
+- _[Boddi’s Atonement](#Boddi's%20Atonement)_
+- _[The Circle Sleeps](#The%20Circle%20Sleeps)_
+- _[Palpatine’s Conversion](#Palpatine's%20Conversion)_
+- _[Death of a Jedi Bendu](#Death%20of%20a%20Jedi%20Bendu)_
 
 ## The Recent Past
 
-- [The Clone Wars](#The%20Clone%20Wars)
-- [Fall of the Republic Galactica](#Fall%20of%20the%20Republic%20Galactica)
-- [Black Knights of the Sith](#Black%20Knights%20of%20the%20Sith)
-- [The Empire’s Reign of Terror](#The%20Empire's%20Reign%20of%20Terror)
+- _[The Clone Wars](#The%20Clone%20Wars)_
+- _[Fall of the Republic Galactica](#Fall%20of%20the%20Republic%20Galactica)_
+- _[Black Knights of the Sith](#Black%20Knights%20of%20the%20Sith)_
+- _[The Empire’s Reign of Terror](#The%20Empire's%20Reign%20of%20Terror)_
 
 ## Early Adventures
 
-- [[Final-Destination|Final Destination]]
-- [[Mad-Bad-and-Dangerous-to-Know|Mad, Bad, and Dangerous to Know]]
-- [[Parry-Riposte-Checkmate|Parry, Riposte ... Checkmate]]
-- [[Calm-Before-the-Storm|Calm Before the Storm]]
+- _[[Final-Destination|Final Destination]]_
+- _[[Mad-Bad-and-Dangerous-to-Know|Mad, Bad, and Dangerous to Know]]_
+- _[[Parry-Riposte-Checkmate|Parry, Riposte ... Checkmate]]_
+- _[[Calm-Before-the-Storm|Calm Before the Storm]]_
 
 ## Trading in Minos Sector
 
-- [[To-Begin-With|To Begin With]]
-- [[Setting-the-Scene|Setting the Scene]]
-- [[The-Plot-Thickens|The Plot Thickens]]
-- [[The-Finale|The Finale]]
+- _[[To-Begin-With|To Begin With]]_
+- _[[Setting-the-Scene|Setting the Scene]]_
+- _[[The-Plot-Thickens|The Plot Thickens]]_
+- _[[The-Finale|The Finale]]_
 
 ## You're in the Rebellion Now
 
-- [[History-of-Generis-Base|History of Generis Base]]
-- [[Welcome-to-Generis-Base|Welcome to Generis Base]]
-- [[Oplovis-Fleet-Comes-Visiting|Oplovis Fleet Comes Visiting]]
-- [[Reeling-in-the-God-King-of-Masterhome|Reeling in the God-King of Masterhome]]
-- [[A-VIP-Comes-Calling|A VIP Comes Calling]]
-- [[Pirates-and-Parents|Pirates and Parents]]
-- [[Command-Performance-on-Yavin|Command Performance on Yavin]]
-- [[Lost-in-Space|Lost in Space]]
-- [[Storm-Front|Storm Front]]
+- _[[History-of-Generis-Base|History of Generis Base]]_
+- _[[Welcome-to-Generis-Base|Welcome to Generis Base]]_
+- _[[Oplovis-Fleet-Comes-Visiting|Oplovis Fleet Comes Visiting]]_
+- _[[Reeling-in-the-God-King-of-Masterhome|Reeling in the God-King of Masterhome]]_
+- _[[A-VIP-Comes-Calling|A VIP Comes Calling]]_
+- _[[Pirates-and-Parents|Pirates and Parents]]_
+- _[[Command-Performance-on-Yavin|Command Performance on Yavin]]_
+- _[[Lost-in-Space|Lost in Space]]_
+- _[[Storm-Front|Storm Front]]_
 
 ## Separate Adventures
 
-- [[Deak-and-Tor-Fun-in-Space|Deak and Tor - Fun in Space]]
-- [[Troy-Trains-Asher-on-Mantooine|Troy Trains Asher on Mantooine]]
-- [[Strange-Frontier|Strange Frontier]]
-- [[Conspiracy-on-Corellia|Conspiracy on Corellia]]
+- _[[Deak-and-Tor-Fun-in-Space|Deak and Tor - Fun in Space]]_
+- _[[Troy-Trains-Asher-on-Mantooine|Troy Trains Asher on Mantooine]]_
+- _[[Strange-Frontier|Strange Frontier]]_
+- _[[Conspiracy-on-Corellia|Conspiracy on Corellia]]_
 
 ## Together Again
 
-- [[Riders-of-the-Maelstrom|Riders of the Maelstrom]]
-- [Rescue on Mantooine](#Rescue%20on%20Mantooine)
-- [[Storming-Home|Storming Home]]
+- _[[Riders-of-the-Maelstrom|Riders of the Maelstrom]]_
+- _[Rescue on Mantooine](#Rescue%20on%20Mantooine)_
+- _[[Storming-Home|Storming Home]]_
 
 ## Dread Pirate Roger
 
-- [[Domain-of-Evil|Domain of Evil]]
-- [[Reckeenes-Roughnecks|Reckeene's Roughnecks]]
-- [[Annalise-and-Taran|Annalise and Taran]]
-- [[Platt-OKeefe|Platt O’Keefe]]
-- [[A-New-Opportunity|A New Opportunity]]
-- [[Onboard-the-Stellar-Mermaid|Onboard the Stellar Mermaid]]
-- [[The-Saga-of-the-Solar-Wind|The Saga of the Solar Wind]]
-- [[Up-to-No-Good|Up to No Good]]
-- [[Boots-to-Fill|Boots to Fill]]
-- [[Down-and-Out-on-Gelgelar|Down and Out on Gelgelar]]
-- [[On-Hoth-Again|On Hoth Again]]
-- [[A-Jedi-for-Hadra|A Jedi for Hadra]]
-- [[The-Elusive-General-Vernan|The Elusive General Vernan]]
-- [[A-Run-in-with-a-Tagge|A Run-in with a Tagge]]
-- [[The-Beast-Jedi|The Beast Jedi]]
-- [[The-Tree-House|The Tree House]]
+- _[[Domain-of-Evil|Domain of Evil]]_
+- _[[Reckeenes-Roughnecks|Reckeene's Roughnecks]]_
+- _[[Annalise-and-Taran|Annalise and Taran]]_
+- _[[Platt-OKeefe|Platt O’Keefe]]_
+- _[[A-New-Opportunity|A New Opportunity]]_
+- _[[Onboard-the-Stellar-Mermaid|Onboard the Stellar Mermaid]]_
+- _[[The-Saga-of-the-Solar-Wind|The Saga of the Solar Wind]]_
+- _[[Up-to-No-Good|Up to No Good]]_
+- _[[Boots-to-Fill|Boots to Fill]]_
+- _[[Down-and-Out-on-Gelgelar|Down and Out on Gelgelar]]_
+- _[[On-Hoth-Again|On Hoth Again]]_
+- _[[A-Jedi-for-Hadra|A Jedi for Hadra]]_
+- _[[The-Elusive-General-Vernan|The Elusive General Vernan]]_
+- _[[A-Run-in-with-a-Tagge|A Run-in with a Tagge]]_
+- _[[The-Beast-Jedi|The Beast Jedi]]_
+- _[[The-Tree-House|The Tree House]]_
 
 ## You're a Jedi Bendu Now
 
-- [[A-Tree-in-the-Forest|A Tree in the Forest]]
-- [[A-Visit-from-Rogue-Squadron|A Visit from Rogue Squadron]]
-- [[A-Dark-Jedi|A Dark Jedi]]
-- [[Leviathan|Leviathan]]
-- [[Void-Demons|Void Demons]]
-- [[Espaa-Valorums-Ghost|Espaa Valorum's Ghost]]
-- [[The-Corporate-Sector|The Corporate Sector]]
-- [[Novel-Technology|Novel Technology]]
-- [[History-Lesson|History Lesson]]
-- [[Jess-and-Jayme|Jess and Jayme]]
+- _[[A-Tree-in-the-Forest|A Tree in the Forest]]_
+- _[[A-Visit-from-Rogue-Squadron|A Visit from Rogue Squadron]]_
+- _[[A-Dark-Jedi|A Dark Jedi]]_
+- _[[Leviathan|Leviathan]]_
+- _[[Void-Demons|Void Demons]]_
+- _[[Espaa-Valorums-Ghost|Espaa Valorum's Ghost]]_
+- _[[The-Corporate-Sector|The Corporate Sector]]_
+- _[[Novel-Technology|Novel Technology]]_
+- _[[History-Lesson|History Lesson]]_
+- _[[Jess-and-Jayme|Jess and Jayme]]_
 - The Emperor's Dark Adept
 - The Slaver (Voorg the Thandicant) and the Sith
 - The Black Sun
-- [[Lines-of-Storm-Force|Lines of Storm Force]]
+- _[[Lines-of-Storm-Force|Lines of Storm Force]]_
 
 ## The Distant Past
 
@@ -123,7 +123,7 @@ By expanding their individual Force energy and merging it with the Force energy 
 
 The power gained by the Jedi Bendu allowed them to wield a lightsaber with total accuracy, even with obstructed vision. The Jedi Bendu’s awareness of their opponents energy fields was total, an extension of themselves.
 
-[[Jedi-Bendu|Jedi Bendu of the Ashla]]
+_[[Jedi-Bendu|Jedi Bendu of the Ashla]]_
 
 ### The Circle of the Ashla
 

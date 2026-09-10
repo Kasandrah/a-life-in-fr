@@ -26,8 +26,8 @@ Also known as **"Curse of the Centuries"**
 
 | Player Characters                                         | Non-Player Characters                                   |
 | --------------------------------------------------------- | ------------------------------------------------------- |
-| _[[David-van-Hasalt\|van Hasalt, David]]_                 | _[[Jenny-H#^72dacc\|Chesterfield, Heather Petunia]]_ |
-| _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ | _[[Jenny-H#^a797a7\|Ravenwood, Dame Marion]]_        |
+| _[[David-van-Hasalt\|van Hasalt, David]]_                 | _[[Jenny-H#^72dacc\|Chesterfield, Heather Petunia]]_    |
+| _[[Diana-Elizabeth-Winthrop\|Winthrop, Diana Elizabeth]]_ | _[[Jenny-H#^a797a7\|Ravenwood, Dame Marion]]_           |
 
 ## Highlights
 

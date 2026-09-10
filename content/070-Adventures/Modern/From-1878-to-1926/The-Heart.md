@@ -24,9 +24,9 @@ Also known as **"The Sunfire’s Heart"**
 
 | Player Characters                         | Non-Player Characters                       |
 | ----------------------------------------- | ------------------------------------------- |
-| _[[Neil-F#^901589\|Jenks, Stanley]]_ | _Appledorn, Sir Humphrey_                   |
+| _[[Neil-F#^901589\|Jenks, Stanley]]_      | _Appledorn, Sir Humphrey_                   |
 | _[[Aletta-Yasmini\|Yasmini, Aletta]]_     | _Blackthorne, Michael_ - aka Hallahan       |
-|                                           | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_ |
+|                                           | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_    |
 |                                           | _Pugh, Colonel Clifton_                     |
 
 ## Involvement

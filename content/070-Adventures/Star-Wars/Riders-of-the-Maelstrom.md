@@ -7,7 +7,7 @@ draft: false
 ---
 # Riders of the Maelstrom
 
->**GM's Note:** This episode introduced a new PC - _[[010-Star-Wars-Characters#Sari-Blackwood Blackwood, Sari|Sari Blackwood]]_.  Sari's backstory is written up in [[Parry-Riposte-Checkmate|Parry, Riposte ... Checkmate]].
+>**GM's Note:** This episode introduced a new PC - _[[010-Star-Wars-Characters#Sari-Blackwood Blackwood, Sari|Sari Blackwood]]_.  Sari's backstory is written up in _[[Parry-Riposte-Checkmate|Parry, Riposte ... Checkmate]]_.
 
 The crew of the _Red Storm Rising_ are sent to recover a defecting Imperial General (Leith) from Aris, a sprawling jungle planet located in the Albarrio system.  Leith has been provided with an Anomid disguise and a cruise ticket by Rebel agent Tiree, who has instructed Leith to board the _Kauri Princess_, a luxury space liner soon departing from Aris, and await contact by other Rebels.
 
@@ -21,7 +21,7 @@ The crew of the _Red Storm Rising_ manage to warn the Alliance colony on Oasis
 
 ## Afterwards
 
-**Written by [[Jenny-H|Jenny H.]] (Sari)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Sari)**
 
 Neither Sari or Leith can be sure of the other's affections.
 

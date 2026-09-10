@@ -12,7 +12,7 @@ title: Zoran B
 
 ---
 
-## [[050-Modern|Modern]]
+## _[[050-Modern|Modern]]_
 
 _Anstey, Harry_ - a novelist. ^b62306
 

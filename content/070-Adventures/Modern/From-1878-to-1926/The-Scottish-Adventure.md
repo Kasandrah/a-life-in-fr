@@ -23,8 +23,8 @@ Also known as **"Loch Fein"**
 ## Characters
 
 | Player Characters                                                                                    | Non-Player Characters                                                     |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| _Hughes, Myfanwie_ - (Jenny)                                                                         | _[[Neil-F#^c2a5f3\|Allison, Jason]]_ and German Shepherd dog, _Kate_ |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| _Hughes, Myfanwie_ - (Jenny)                                                                         | _[[Neil-F#^c2a5f3\|Allison, Jason]]_ and German Shepherd dog, _Kate_      |
 | _[[Barry-L#^278a96\|MacDonald, Sir James]]_                                                          | _Gibson, Elaine_ - friend of Aletta’s                                     |
 | _[[Jenny-H#^52b214\|Mandiville, Maggie]]_, left soon after arriving in Gregor to take up a job offer | _du Lac, Gwen_ - French Tourist                                           |
 | _[[George-G#^ec1e00\|Wallace, Kingsley]]_                                                            | _McAllum, Liam_  and clan - cultists                                      |

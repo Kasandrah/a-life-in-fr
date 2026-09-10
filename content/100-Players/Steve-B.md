@@ -7,7 +7,7 @@ draft: false
 ---
 # Steve B.
 
-## [[050-Modern|Modern]]
+## _[[050-Modern|Modern]]_
 
 _Davidson, Andy_ - research librarian, Barr Smith Library ^093ac8
 

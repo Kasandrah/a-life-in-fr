@@ -9,7 +9,7 @@ draft: false
 
 >**GM's Note:**  Jess Storm applies for a job at a planet-side casino, her first step in recovering her beloved _Red Storm Rising_.  Jess hopes that this will bring her closer to those who stole her ship.
 
-## Written by [[Jenny-H|Jenny H.]] (Jess)
+## Written by _[[Jenny-H|Jenny H.]]_ (Jess)
 
 Jess was coming home in triumph.  The _Red Storm Rising_ was hers again and the traces of the ship's captivity had been swept away.  In the front view screen, points of light coalesced into the familiar star system of the base.  Her heart surged.  She was nearly there.
 
@@ -21,7 +21,7 @@ Jess grinned as she anticipated Caroth's reaction and pressed a button to transm
 
 Caroth ground his teeth in annoyance.  "That signal is obviously faked.  Blow that ship from the skies!"
 
-Jess heard the order on the com-link, which had been mistakenly held open on the other end.  "I don't think you want to do that Caroth.  I am carrying important visitors who would taken exception to being blown out of the skies."  She looked back towards the lounge where Princess Leia, Admiral Ackbar and a host of other dignitaries were chatting.  "The Alliance High Command would like to have a little chat to you about recent events."
+Jess heard the order on the com-link, which had been mistakenly held open on the other end.  "I don't think you want to do that Caroth.  I am carrying important visitors who would take exception to being blown out of the skies."  She looked back towards the lounge where Princess Leia, Admiral Ackbar and a host of other dignitaries were chatting.  "The Alliance High Command would like to have a little chat to you about recent events."
 
 The communications officer on duty confirmed that the signal indicated just that.  Caroth fumed impotently as the _Red Storm Rising_ was escorted to the landing bay.  Jess executed a perfect three-point turn and landed with a flourish.
 

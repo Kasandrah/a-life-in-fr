@@ -10,7 +10,7 @@ draft: false
 ---
 # David Abrahamson
 
-**Written by [[Jenny-H|Jenny H.]]**
+**Written by _[[Jenny-H|Jenny H.]]_**
 
 David has been missing for some time.  In 1979 he stepped back in time as the result of an unusual explosion to 1925.  Here he lived until 1927 when he forward stepped, circumstances unknown, to 1938.  Here he lived until 1945 when he forward stepped through a gate to 1996.
 

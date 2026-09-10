@@ -19,11 +19,11 @@ The initial setting for events is northeastern Spain, beginning late in 1189 AD.
 
 # Events
 
-In the beginning … the story of _[Lilith](http://whitewolf.wikia.com/wiki/Lilith)_ and the birth of [Clan Bahari](http://whitewolf.wikia.com/wiki/Bahari) is told in the [[010-History-of-Clan-Bahari|History of Clan Bahari]].
+In the beginning … the story of _[Lilith](http://whitewolf.wikia.com/wiki/Lilith)_ and the birth of [Clan Bahari](http://whitewolf.wikia.com/wiki/Bahari) is told in the _[[010-History-of-Clan-Bahari|History of Clan Bahari]]_.
 
-Alliances between Clan Bahari and other factions of order are described in the [[010-The-Circle-of-Order|Circle of Order]]. The known primary agents of each faction are also listed.
+Alliances between Clan Bahari and other factions of order are described in the _[[010-The-Circle-of-Order|Circle of Order]]_. The known primary agents of each faction are also listed.
 
-Meet the new [[020-The-Antediluvians|Antediluvians]].
+Meet the new _[[020-The-Antediluvians|Antediluvians]]_.
 
 ## Recent Events
 
@@ -41,24 +41,24 @@ Queen Berengaria and Cypress (now a Christian base)
 
 ## Beginning Late 1189 AD …
 
-- [[020-Family|Family]]
-- [[030-Templars-in-Saragossa|Templars in Saragossa]]
-- [[040-Potion-of-Dreams|Potion of Dreams]]
-- [[050-Templars-and-Falling-Stars|Templars and Falling Stars]]
-- [[060-The-Search|The Search]]
-- [[070-Unicorn-Dreams|Unicorn Dreams]] - Rafi and Monico
-- [[080-To-Hell-and-Back|To Hell and Back]]
+- _[[020-Family|Family]]_
+- _[[030-Templars-in-Saragossa|Templars in Saragossa]]_
+- _[[040-Potion-of-Dreams|Potion of Dreams]]_
+- _[[050-Templars-and-Falling-Stars|Templars and Falling Stars]]_
+- _[[060-The-Search|The Search]]_
+- _[[070-Unicorn-Dreams|Unicorn Dreams]]_ - Rafi and Monico
+- _[[080-To-Hell-and-Back|To Hell and Back]]_
 - A Circle Shattered …
-    - [[090-Sliver-of-the-Moon|Sliver of the Moon]] - Rafi retrieves a token from the Were (wolves)
-    - [[100-An-Angels-Feather|An Angel's Feather]] - a token from the Angels
-    - [[110-A-Unicorns-Horn|A Unicorn's Horn]] - a token from the Magical Creatures
-    - [[120-A-Fae-Knights-Spurs|A Fae Knight's Spurs]] - a token from the Seelie Fae
-    - [[130-A-Kings-Sword|A King's Sword]] - with which to mend the Circle
-    - [[140-A-Book-in-Yellow|A Book in Yellow]] - a token from an Elder God
-    - [[150-A-Circle-Re-Consecrated|A Circle Re-Consecrated]]
-- [[160-To-Drown-a-Witch|To Drown a Witch]]
-- [[170-New-Arrivals|New Arrivals]] - [[020-The-Antediluvians#Romegio|Romegio]], Harold and Rachel
-- [[180-Cain-Comes-Calling|Cain Comes Calling]]
+    - _[[090-Sliver-of-the-Moon|Sliver of the Moon]]_ - Rafi retrieves a token from the Were (wolves)
+    - _[[100-An-Angels-Feather|An Angel's Feather]]_ - a token from the Angels
+    - _[[110-A-Unicorns-Horn|A Unicorn's Horn]]_ - a token from the Magical Creatures
+    - _[[120-A-Fae-Knights-Spurs|A Fae Knight's Spurs]]_ - a token from the Seelie Fae
+    - _[[130-A-Kings-Sword|A King's Sword]]_ - with which to mend the Circle
+    - _[[140-A-Book-in-Yellow|A Book in Yellow]]_ - a token from an Elder God
+    - _[[150-A-Circle-Re-Consecrated|A Circle Re-Consecrated]]_
+- _[[160-To-Drown-a-Witch|To Drown a Witch]]_
+- _[[170-New-Arrivals|New Arrivals]]_ - _[[020-The-Antediluvians#Romegio|Romegio]]_, Harold and Rachel
+- _[[180-Cain-Comes-Calling|Cain Comes Calling]]_
 
 # Clan Bahari Powers
 

@@ -32,7 +32,7 @@ draft: false
 
 ![[da_anwyn.jpg]]
 
-Lord Anwyn is a 210-year-old male unicorn, a King of the Lesser Children and forest guardian who’s original home was the [[The-Summer-Country|Summer Country]].
+Lord Anwyn is a 210-year-old male unicorn, a King of the Lesser Children and forest guardian who’s original home was the _[[The-Summer-Country|Summer Country]]_.
 
 Unicorns have two forms - a beast form, referred to as their True Form, and a human form.  In his human form Anwyn is perfect beauty and absolute masculinity.  His skin is the colour of clean, fresh ivory, his eyes are like new bluebells and he has a diamond bump on his forehead.  In unicorn form this is his horn, which he refers to as his alicorn.  His hair is long and thick, the colour of old cream satin.  Most of it is loose around his shoulders, but the hair at his temples is plaited, the end of each plait secured with a silver ornament.  He has a heart shaped face, which is beardless, and pointed ears.
 

@@ -9,7 +9,7 @@ draft: false
 
 >**GM's Note:**  Boddi tests the apprentice Jedi by sending each one into a Dark Side tree located deep in the forest.  Ash, Ross, Adam Jr., and Deak conquered their fears and passed Boddi's test.  Leith and Hela didn't pass, but they didn't fail either.  Hadra, Roger, Neena, and Daye failed, and each in their own way paid the price.  Jayme, Lou, Sari, and Vernan have yet to take the test.
 
-## Written by [[Jenny-H|Jenny H.]] (Hadra)
+## Written by _[[Jenny-H|Jenny H.]]_ (Hadra)
 
 Boddi summoned all the apprentice Jedi to the planet's surface.  There, she escorted them to a huge tree and told them that they were to be tested.  Everyone could feel the presence of the Dark Side in the tree.
 

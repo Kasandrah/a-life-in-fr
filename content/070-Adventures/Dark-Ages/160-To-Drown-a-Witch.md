@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # To Drown a Witch
 
-**Written by [[Jenny-H|Jenny H.]] (Gwyn)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Gwyn)**
 
 Gwyn sat in front of the tiny mirror and watched as Juanita put the finishing touches to her appearance. The maid had been a useful addition to their household in Aragon. It was all very well to have a sojourn here, but being at any court was easier with a local person to advise on the right clothes to wear, the right people to speak to and the potential trouble to avoid. Juanita was an inveterate gossip, but a loyal one and a fount of knowledge on all manner of subjects.
 
@@ -66,7 +66,7 @@ She knew it somehow annoyed the Templar that she was devout, though she’d neve
 
 “I can’t imagine why you should think that, unless you can free an accused witch.”
 
-“I thought you might need my help because I saw one of Lady Lillane’s mighty progeny on her knees in prayer. However, I must have been mistaken. Forgive my error. I’ll leave the fate of this accused witch in your capable hands. Such a mundane, mortal problem should barely stretch your abilities, Child of [[Lilith|Lilith]]. Farewell.”
+“I thought you might need my help because I saw one of Lady Lillane’s mighty progeny on her knees in prayer. However, I must have been mistaken. Forgive my error. I’ll leave the fate of this accused witch in your capable hands. Such a mundane, mortal problem should barely stretch your abilities, Child of _[[Lilith|Lilith]]_. Farewell.”
 
 The Templar turned and left the church before Gwyn could reply.
 

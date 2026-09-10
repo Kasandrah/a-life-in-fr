@@ -7,7 +7,7 @@ draft: false
 ---
 # Dianne G.
 
-## [[050-Modern|Modern]]
+## _[[050-Modern|Modern]]_
 
 _Allenby, Rita_
 

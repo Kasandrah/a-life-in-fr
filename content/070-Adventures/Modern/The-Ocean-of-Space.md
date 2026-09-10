@@ -61,7 +61,7 @@ Underwater archaeologists working off the Egyptian coast have discovered an enti
 
 # Characters
 
-Patrons / Sponsors - _[[Charles-van-Buren|Charles]]_ and _[[Sarah-Ann-van-Buren|Sarah van Buren]]_, owners of the [[Silk-Scorpion-II|Silk Scorpion II]], Captain, crew and guests
+Patrons / Sponsors - _[[Charles-van-Buren|Charles]]_ and _[[Sarah-Ann-van-Buren|Sarah van Buren]]_, owners of the _[[Silk-Scorpion-II|Silk Scorpion II]]_, Captain, crew and guests
 
 Marine Salvage - larger ship, Captain and crew
 

@@ -10,7 +10,7 @@ draft: false
 ---
 # Kate Hennessey
 
-**Written by [[Jenny-H|Jenny H.]] (Kate)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Kate)**
 
 METAMORPHOSIS - FOX SPIRIT
 

@@ -14,17 +14,17 @@ Thankyou, all!
 
 The following list links players to characters they've played:
 
-- [[Michael-B|Michael B.]]
-- [[Craig-B|Craig B.]]
-- [[Zoran-B|Zoran B.]]
-- [[Steve-B|Steve B.]]
-- [[Neil-F|Neil F.]]
-- [[George-G|George G.]]
-- [[Dianne-G|Dianne G.]]
-- [[Braddon-G|Braddon G.]]
-- [[Ben-G|Ben G.]]
-- [[Jenny-H|Jenny H.]]
-- [[Michael-H|Michael H.]]
-- [[Barry-L|Barry L.]]
-- [[Simon-M|Simon M.]]
-- [[Sharon-P|Sharon P.]]
+- _[[Craig-B|Craig B.]]_
+- _[[Michael-B|Michael B.]]_
+- _[[Steve-B|Steve B.]]_
+- _[[Zoran-B|Zoran B.]]_
+- _[[Neil-F|Neil F.]]_
+- _[[Ben-G|Ben G.]]_
+- _[[Braddon-G|Braddon G.]]_
+- _[[Dianne-G|Dianne G.]]_
+- _[[George-G|George G.]]_
+- _[[Jenny-H|Jenny H.]]_
+- _[[Michael-H|Michael H.]]_
+- _[[Barry-L|Barry L.]]_
+- _[[Simon-M|Simon M.]]_
+- _[[Sharon-P|Sharon P.]]_

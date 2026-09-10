@@ -9,11 +9,11 @@ draft: false
 
 >**GM's Note:** Jess Storm exchanged a ship cloaking device she found in Minos Sector for Alliance gold and a haven on Generis Base.  In order to persuade the Twi'lek crime lord Yerkys ne Dago to leave her alone, Jess instructed the Alliance to deliver her gold to Yerkys.  Because of the intervention of an enterprising ISB double agent, Yerkys never received the gold.
 >
->Still believing Jess owed him for the cargo she dumped (see [[Calm-Before-the-Storm|Calm Before the Storm]]) and having heard news on Taran Storm's whereabouts from a Rodian informant, Yerkys arranged an "accident" for _Storm Clouds_ and captured Taran and his navigator, Tyler Jensen.
+>Still believing Jess owed him for the cargo she dumped (see _[[Calm-Before-the-Storm|Calm Before the Storm]]_) and having heard news on Taran Storm's whereabouts from a Rodian informant, Yerkys arranged an "accident" for _Storm Clouds_ and captured Taran and his navigator, Tyler Jensen.
 >
 >Taran's friends on Corellia knew he was missing but couldn't contact Jess, as she was on a secret Rebel base.  Then one of them saw the wreck brought into the shipyards.  The story was that Taran and his navigator had been killed and _Storm Clouds_ nearly destroyed in a subspace accident.  Taran's friends sold the wreck for scrap and held the money on Jess' behalf.
 >
->Unknown to Taran's friends, an agent of Yerkys ne Dago bought the wreck.  Yerkys funded the repairs, then instructed his Arconian agent Garindam to sell the ship to someone who would use it in Jess' haunts.  Yerkys hoped to bait Jess out from wherever she was hiding.  This led to the events described in [[Storm-Front|Storm Front]].
+>Unknown to Taran's friends, an agent of Yerkys ne Dago bought the wreck.  Yerkys funded the repairs, then instructed his Arconian agent Garindam to sell the ship to someone who would use it in Jess' haunts.  Yerkys hoped to bait Jess out from wherever she was hiding.  This led to the events described in _[[Storm-Front|Storm Front]]_.
 >
 >Yerkys now believes Jess owes him for his original cargo and his hideout on Farstey, destroyed when Jess, Deak and company rescued Taran and Tyler from Yerkys' dungeon.  Supplying slaves, drugs and nerve toxins is a lucrative business, and Yerkys has rebuilt quickly after losing the last round to Jess and Taran.  Once again, Yerkys ne Dago is turning his attention to the Storm Family.
 >
@@ -21,7 +21,7 @@ draft: false
 >
 >While Yerkys ne Dago and the Imperial Governor of Corellia are making separate plans against the Storm Family, Jess' mother Annalise Storm brings matters to a head.  Having lost contact with Taran, and prompted by a message from Jess via an Alliance agent on Andron Star (the droid C3RJ), Annalise sees Gwilliam Hall.  Soon after the crew of the _Red Storm Rising_ rescue Taran and Tyler from Yerkys ne Dago's dungeons, Annalise leaves the Snow Flower Festival on Andron Star and travels to Corellia aboard the liner _Star Gate_.
 
-## Written by [[Jenny-H|Jenny H.]] (Jess)
+## Written by _[[Jenny-H|Jenny H.]]_ (Jess)
 
 Jess gave _Storm Clouds_ a final going-over.  She really wanted to use the _Red Storm Rising_, but it was a little too conspicuous for ordinary trading.  Too much armoury for even a semi-honest trader.  Much safer to take the less readily identifiable _Storm Clouds_.  But it was still a wrench.  Taran Storm put an arm around his daughter's shoulders.
 

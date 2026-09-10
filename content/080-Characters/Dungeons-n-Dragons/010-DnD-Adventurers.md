@@ -11,7 +11,7 @@ draft: false
 
 Ranger / Fighter / Druid, a tribal human who strives to balance nature in the face of encroaching civilization.
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_
 
 ---
 
@@ -23,7 +23,7 @@ Traldaran Cleric, Bishop of the Church of Traladara.
 
 **Ludmilla Vladimirovna Dangov**
 
-[[Ludmilla|Ludmilla]] is originally from Specularum and has a magical owl named Meyric, named after her Dragon Mage lover. Ludmilla wants to smite _[[020-People-of-Karameikos#^725955|Bargle]]_ and Elendorath while pursuing her relationship with the blue dragon Mage, Meyric.
+_[[Ludmilla|Ludmilla]]_ is originally from Specularum and has a magical owl named Meyric, named after her Dragon Mage lover. Ludmilla wants to smite _[[020-People-of-Karameikos#^725955|Bargle]]_ and Elendorath while pursuing her relationship with the blue dragon Mage, Meyric.
 
 ![[dd_meyric_owlbear.jpg]]
 
@@ -33,7 +33,7 @@ Fly - once every 24 hours, 8-hour duration. By day, the owner can see through th
 
 Attack - five-round duration, once per 24 hours and independent of the above. The owner has no need to concentrate once the attack command has been given. The owl turns into an owl-bear, a huge bear-like creature with the head of a giant owl, 8′ tall, 1500 lbs, alignment Neutral. If the owl is in flight when the owner gives the attack command, it lands on the ground before it turns into an owl-bear.
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_
 
 ---
 
@@ -41,7 +41,7 @@ Played by [[Jenny-H|Jenny H.]]
 
 Traldaran Fighter. _[[Vlad|Vlad]]_ is originally from Specularum, capital of the Grand Duchy of Karameikos, and has a magical, intelligent poleaxe named "Orcsbane". Vlad wants to smite _[[020-People-of-Karameikos#^725955|Bargle]]_ and Elendorath, kill orcs, and pursue his relationship with the lovely Aleena.
 
-Played by [[Michael-H|Michael H.]]
+Played by _[[Michael-H|Michael H.]]_
 
 ![[dd_orcsbane.jpg]]
 
@@ -59,13 +59,13 @@ When using the poleaxe to fight orcs, the wielder has +1 to all saving throws an
 
 ## Gilly
 
-Played by [[Michael-B|Michael B.]]
+Played by _[[Michael-B|Michael B.]]_
 
 ---
 
 ## Hoya
 
-Played by [[Jenny-H|Jenny H.]]
+Played by _[[Jenny-H|Jenny H.]]_
 
 ---
 
@@ -73,7 +73,7 @@ Played by [[Jenny-H|Jenny H.]]
 
 A thief.
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ---
 
@@ -83,7 +83,7 @@ Traldaran Mage. Son of a peasant family in Vorloi demesnes who came to the notic
 
 Yakov is in love with Dona Marianita and often gets Lord Grygori gifts. Yakov wants to become a better mage, smite _[[020-People-of-Karameikos#^725955|Bargle]]_ and strengthen Karameikos, improve the lot of the Traldar and get to know Baron Vorloi and his family. He has an intense dislike of dragons, having been killed by one twice now.
 
-Played by [[Ben-G|Ben G.]]
+Played by _[[Ben-G|Ben G.]]_
 
 Yakov is the current owner of the little magical toy monkey, Dancer.
 
@@ -113,7 +113,7 @@ Played by Christian H-M.
 
 ## Runewalker, Ragnar
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_
 
 ---
 
@@ -127,7 +127,7 @@ Played by Kathryn.
 
 A Shadow Elf Paladin.
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ---
 
@@ -135,4 +135,4 @@ Played by [[Simon-M|Simon M.]]
 
 Elven noble and wizard.
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_

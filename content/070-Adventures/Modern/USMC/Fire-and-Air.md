@@ -23,11 +23,11 @@ draft: false
 | Player Characters                                                                                                 | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                                                | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_                         | _[[010-Modern-Characters#^8067a0\|Bennett, Ambassador Lisa]]_              |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                                         | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_                         | _[[010-Modern-Characters#^8067a0\|Bennett, Ambassador Lisa]]_              |
+| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                                         | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
 | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                                                |                                                                            |
-| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                                             |                                                                            |
-| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                                                 |                                                                            |
+| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                                             |                                                                            |
+| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                                                 |                                                                            |
 | _Wenders, [[020-The-Antediluvians#Gwyn\|Agneta]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_, guest PCs |                                                                            |
 
 >**GM's Note:** Wallace is replaced by Ambassador Lisa Bennett, a highly competent career diplomat in her mid-forties with considerable clout in Washington circles.  Ambassador Bennett proves her mettle by delaying for over a week Dean’s order for the party and the da Silvas to join him in Washington immediately.
@@ -48,7 +48,7 @@ draft: false
 >
 >After all the excitement of the previous night, the flight to Washington is uneventful.  These days military transportation is only occasionally dangerous, and not usually between Brasilia and Washington.
 
-## Written by [[Jenny-H|Jenny H.]] (Michal)
+## Written by _[[Jenny-H|Jenny H.]]_ (Michal)
 
 The team headed back to San Paolo.  The only leads left were the Industrial Park and the books from Gustav's house.  On the way back, Anderson reported a break-in at the Park.  He and the other marine watching the Park had seen a couple running from one building.  It was dark, but they appeared to be moving incredibly fast.  A person had standing jumped onto the top of one building and then helped the other up, then they had moved out of sight.
 
@@ -64,9 +64,9 @@ While this was going on, they found an ad in the national newspaper obliquely re
 
 Angela and Antonio were sent early to act as lookouts and backup.  A couple arrived, introducing themselves as Wim and Agneta Wenders.  They looked at the book and were keen to buy it.  David and Michal noticed Agneta seemed quite nervous, not eating and fidgeting with the cutlery.  Wim did most of the talking.  They then realised that she and Antonio had recognised each other.  Angela and Wim were unaware of this and confused by their respective behaviour.
 
->**GM's Note:** I allowed one player to use their powerful supernatural characters, _[[020-The-Antediluvians#Gwyn|Agneta]]_ and _[[020-The-Antediluvians#Owain and Juanita|Wim Wenders]]_ from [[040-Dark-Ages|Dark Ages]], while everyone else played mortal humans. My blunder created an unsatisfactory in-game experience for my other players, who all voiced serious concerns about the power imbalance and its detrimental impact on my game.
+>**GM's Note:** I allowed one player to use their powerful supernatural characters, _[[020-The-Antediluvians#Gwyn|Agneta]]_ and _[[020-The-Antediluvians#Owain and Juanita|Wim Wenders]]_ from _[[040-Dark-Ages|Dark Ages]]_, while everyone else played mortal humans. My blunder created an unsatisfactory in-game experience for my other players, who all voiced serious concerns about the power imbalance and its detrimental impact on my game.
 >
->They felt their characters were bit players for a couple who could have dealt with the bad guys all on their own. My other players also objected to one player running four characters: Agneta, Wim, _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_, and _[[Jenny-H#^59824f|David Abrahamson]]_. My blatant favouritism had soured the game for my other players and turned out to be the beginning of [[The-Dark-Circle#^714712|the end]] for my USMC campaign.
+>They felt their characters were bit players for a couple who could have dealt with the bad guys all on their own. My other players also objected to one player running four characters: Agneta, Wim, _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_, and _[[Jenny-H#^59824f|David Abrahamson]]_. My blatant favouritism had soured the game for my other players and turned out to be the beginning of _[[The-Dark-Circle#^714712|the end]]_ for my USMC campaign.
 
 David asked the couple to come back the next day.  He had been disturbed by Wim's detailed knowledge of the war period.  The couple was not happy with this, insistent that they were interested in buying the book straight away, but eventually left.
 

@@ -17,7 +17,7 @@ The Great Compromise
 
 The Pact: Menes Creates Empire
 
-[[010-One-Night-Plays#3000 BC - A Fire in Memphis|3000 BC - A Fire in Memphis]]
+_[[010-One-Night-Plays#3000 BC - A Fire in Memphis|3000 BC - A Fire in Memphis]]_
 
 ## 2700 BC Uruk, Sumeria
 
@@ -67,13 +67,13 @@ Beginning of the Roman Empire
 
 The Jesus Incident - Birth of the Piscean Age
 
-## [[010-One-Night-Plays#83 AD - When in Rome|83 AD - When in Rome]]
+## _[[010-One-Night-Plays#83 AD - When in Rome|83 AD - When in Rome]]_
 
 ## 350 AD Rome, Italy
 
 Constantine and the New Church
 
-## [[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots|387 AD - Macaw Feathers and Yax Spots]]
+## _[[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots|387 AD - Macaw Feathers and Yax Spots]]_
 
 ## 395 AD Rome
 
@@ -83,13 +83,13 @@ Fall of the Roman Empire
 
 Beginning of the Byzantine Empire
 
-## [[010-One-Night-Plays#495 AD - The Once and Future King|495 AD - The Once and Future King]]
+## _[[010-One-Night-Plays#495 AD - The Once and Future King|495 AD - The Once and Future King]]_
 
-## [[010-One-Night-Plays#515 AD - On the Road to Avebury|515 AD - On the Road to Avebury]]
+## _[[010-One-Night-Plays#515 AD - On the Road to Avebury|515 AD - On the Road to Avebury]]_
 
-## [[010-One-Night-Plays#600 AD - On the Viking Coast|600 AD - On the Viking Coast]]
+## _[[010-One-Night-Plays#600 AD - On the Viking Coast|600 AD - On the Viking Coast]]_
 
-## [[010-One-Night-Plays#778 AD - The Horn of Roland|778 AD - The Horn of Roland]]
+## _[[010-One-Night-Plays#778 AD - The Horn of Roland|778 AD - The Horn of Roland]]_
 
 ## 830 Aachen, Germania
 
@@ -111,7 +111,7 @@ Domesday Book
 
 First Crusade
 
-## [[010-One-Night-Plays#1100 AD - A History of Clan Bahari|1100 AD - A History of Clan Bahari]]
+## _[[010-One-Night-Plays#1100 AD - A History of Clan Bahari|1100 AD - A History of Clan Bahari]]_
 
 ## 1120 AD Jerusalem
 
@@ -121,7 +121,7 @@ The Crusader States
 
 Second Crusade
 
-## [[010-One-Night-Plays#1189 AD - A Castle in Spain|1189 AD - A Castle in Spain]]
+## _[[010-One-Night-Plays#1189 AD - A Castle in Spain|1189 AD - A Castle in Spain]]_
 
 ## 1189 AD to 1192 AD
 
@@ -135,7 +135,7 @@ The Reconquista
 
 The Cathars
 
-## [[010-One-Night-Plays#1250 AD - A Templar Knight Falls|1250 AD - A Templar Knight Falls]]
+## _[[010-One-Night-Plays#1250 AD - A Templar Knight Falls|1250 AD - A Templar Knight Falls]]_
 
 ## 1300 AD Europe
 
@@ -171,17 +171,17 @@ First printing of the Malleus Maleficarum ("The Witches Hammer") authored by two
 
 Lillane and Tyler leave Europe for a couple of centuries in far off places.
 
-## [[010-One-Night-Plays#1500 AD - The Ottoman Turks|1500 AD - The Ottoman Turks]]
+## _[[010-One-Night-Plays#1500 AD - The Ottoman Turks|1500 AD - The Ottoman Turks]]_
 ## 1590 AD London, England
 
 The New Camelot?
 
-## [[010-One-Night-Plays#1614 AD - The Blood Countess|1614 AD - The Blood Countess]]
+## _[[010-One-Night-Plays#1614 AD - The Blood Countess|1614 AD - The Blood Countess]]_
 ## 1630 AD Paris, France
 
 Birth of the Age of Reason
 
-## [[010-One-Night-Plays#1640 AD - A Small Matter of a Dagger|1640 AD - A Small Matter of a Dagger]]
+## _[[010-One-Night-Plays#1640 AD - A Small Matter of a Dagger|1640 AD - A Small Matter of a Dagger]]_
 
 ## 1650 AD New England, the Americas
 
@@ -191,9 +191,9 @@ For fear of the Devil.
 
 A year of terror as plague strikes London.  70,000 people die as the plague moves from rats to humans via fleas.
 
-## [[010-One-Night-Plays#1671 AD - A Storm at Sea|1671 AD - A Storm at Sea]]
+## _[[010-One-Night-Plays#1671 AD - A Storm at Sea|1671 AD - A Storm at Sea]]_
 
-## [[010-One-Night-Plays#1725 AD - The Legend of the Firebird|1725 AD - The Legend of the Firebird]]
+## _[[010-One-Night-Plays#1725 AD - The Legend of the Firebird|1725 AD - The Legend of the Firebird]]_
 
 ## 1730 AD London, England
 
@@ -203,13 +203,13 @@ The Mechanisation of the Universe.
 
 A wave of vampire mania rages across Central and Eastern Europe.
 
-## [[010-One-Night-Plays#1731 AD - A Death in the Family|1731 AD - A Death in the Family]]
+## _[[010-One-Night-Plays#1731 AD - A Death in the Family|1731 AD - A Death in the Family]]_
 
 ## 1745 AD - Scotland, British Isles
 
 The Scottish Rebellion - Bonnie Prince Charlie wars for his throne.
 
-## [[010-One-Night-Plays#1760 AD - The Pirate King|1760 AD - The Pirate King]]
+## _[[010-One-Night-Plays#1760 AD - The Pirate King|1760 AD - The Pirate King]]_
 
 ## 1789 AD Paris, France
 
@@ -219,16 +219,16 @@ The best of times, the worst of times.
 
 In the early 1800s a law was passed in England that made it illegal to dig up a suicide and put a stake through its heart.  This law was repealed in the 1880s.
 
-## [[010-One-Night-Plays#1850 AD - A Gamble Lost|1850 AD - A Gamble Lost]]
+## _[[010-One-Night-Plays#1850 AD - A Gamble Lost|1850 AD - A Gamble Lost]]_
 ## 1873 AD Paris, France
 
 The siege of Paris - the insurgent uprising.
 
-## [[010-One-Night-Plays#1878 AD - The Wild West|1878 AD - The Wild West]]
+## _[[010-One-Night-Plays#1878 AD - The Wild West|1878 AD - The Wild West]]_
 
-## [[010-One-Night-Plays#1888 AD - Jack the Ripper|1888 AD - Jack the Ripper]]
+## _[[010-One-Night-Plays#1888 AD - Jack the Ripper|1888 AD - Jack the Ripper]]_
 
-## [[010-One-Night-Plays#1896 AD - The Strange Case of the Sussex Vampire|1896 AD - The Strange Case of the Sussex Vampire]]
+## _[[010-One-Night-Plays#1896 AD - The Strange Case of the Sussex Vampire|1896 AD - The Strange Case of the Sussex Vampire]]_
 
 ## 1897 AD Whitby, England
 
@@ -238,16 +238,16 @@ Dracula.  Enough said.
 
 Return of the Magicians
 
-## [[010-One-Night-Plays#1910 AD - Jack the Ripper II|1910 AD - Jack the Ripper II]]
+## _[[010-One-Night-Plays#1910 AD - Jack the Ripper II|1910 AD - Jack the Ripper II]]_
 
 ## 1916 AD France, Europe
 
 The Great War - anathema to life and bane of lovers.
 
-## [[010-One-Night-Plays#1922 AD to 1933 AD - The Roaring Twenties|1922 AD to 1933 AD - The Roaring Twenties]]
+## _[[010-One-Night-Plays#1922 AD to 1933 AD - The Roaring Twenties|1922 AD to 1933 AD - The Roaring Twenties]]_
 ## 1933 AD Berlin, Germany
 
 The spear and the swastika.
 
-## [[010-One-Night-Plays#1995 AD - Let’s Try Again|1995 AD - Let’s Try Again]]
-## [[010-One-Night-Plays#1997 AD - The Lady of the Lake|1997 AD - The Lady of the Lake]]
+## _[[010-One-Night-Plays#1995 AD - Let’s Try Again|1995 AD - Let’s Try Again]]_
+## _[[010-One-Night-Plays#1997 AD - The Lady of the Lake|1997 AD - The Lady of the Lake]]_

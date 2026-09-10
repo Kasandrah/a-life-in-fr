@@ -12,7 +12,7 @@ draft: false
 ---
 # Gwyn (Guinevere)
 
-**Written by [[Jenny-H|Jenny H.]] (Gwyn)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Gwyn)**
 ## Circa 515 AD ...
 
 Guinevere of ? was a fairly typical dutiful daughter, except that she was something of a tomboy.
@@ -73,7 +73,7 @@ _[[020-The-Antediluvians#Angelica|Angelica]]_ - Being a romantic, Gwyn is happy
 
 >**GM's Note:**  Rank amongst vampires and ghouls is determined by Sire and age alone.  As the oldest of Lillane's progeny at Sadaba Castle, Gwyn has rank over all the other vampires and ghouls present.  That Gwyn doesn't exercise her power, doesn't maintain her rank among her "siblings", and sees herself as less capable than younger vampires is a source of disappointment to Lillane.
 
-_Hierarchy_ - Gwyn was introduced last in the vampires and Owain was introduced last in the ghouls (apart from Maria and Angelica, whose situation hadn't yet been clarified, but below [[020-The-Antediluvians#Romegio|Romegio]].)  Well, that puts them in their place, doesn't it?  The list wasn't in order of embracing, or Rollon wouldn't be at the top.  It had to be in order of usefulness.
+_Hierarchy_ - Gwyn was introduced last in the vampires and Owain was introduced last in the ghouls (apart from Maria and Angelica, whose situation hadn't yet been clarified, but below _[[020-The-Antediluvians#Romegio|Romegio]]_.)  Well, that puts them in their place, doesn't it?  The list wasn't in order of embracing, or Rollon wouldn't be at the top.  It had to be in order of usefulness.
 
 >**GM's Note:** Out of game, I introduced the characters to Cain in the same order that their respective players were sitting around the table, from left to right. The order of introduction had nothing to do with perceived usefulness, and everything to do with making sure I didn't miss any PCs. I found out later via an email that Gwyn's player had interpreted this as an in-game insult.
 >
@@ -93,11 +93,11 @@ _[[020-The-Antediluvians#Owain and Juanita|Owain]]_ - He is in a dilemma.  He 
 
 >**GM's Note:** What follows, including the Nosferatu and the timeline, is a player write-up of events that didn't happen in-game.
 >
->I've learned not to let any single player have a disproportionate influence over my campaign. I decide whether to accept **as canon** any player write-ups that 1) alter, redact, or add to in-game events, 2) use my NPCs out of character, or 3) drive my campaign in a direction that has major consequences for my setting.
+>I've learned not to let any single player have a disproportionate influence over my campaign. I decide whether to accept as **canon** any player write-ups that 1) alter, redact, or add to in-game events, 2) use my NPCs out of character, or 3) drive my campaign in a direction that has major consequences for my setting.
 >
->My earth-based campaigns share a single timeline. What happened in the past influences what happens in the future. In-game events in [[030-Arthurian-Britain|Arthurian Britain]] and the [[040-Dark-Ages|Dark Ages]] impact my [[050-Modern|Modern]] campaign. Long-lived NPCs and, for better or worse, PCs, appear in more than one of my earth-based campaigns.
+>My earth-based campaigns share a single timeline. What happened in the past influences what happens in the future. In-game events in _[[030-Arthurian-Britain|Arthurian Britain]]_ and the _[[040-Dark-Ages|Dark Ages]]_ impact my _[[050-Modern|Modern]]_ campaign. Long-lived NPCs and, for better or worse, PCs, appear in more than one of my earth-based campaigns.
 >
->If my Lelia had declared war on the Kindred in **1212 AD**, I would have no reason to run a modern vampire campaign. Of the original White Wolf Dark Ages [vampire clans](https://whitewolf.fandom.com/wiki/Dark_Ages:_Vampire#Clans), only Clan Bahari, posing as Ventrue, would remain. While I agree roleplaying games are a collaborative effort, I do not accept **as canon** any out-of-game writing that imposes such major consequences on my settings.
+>If my Lelia had declared war on the Kindred in **1212 AD**, I would have no reason to run a modern vampire campaign. Of the original White Wolf Dark Ages [vampire clans](https://whitewolf.fandom.com/wiki/Dark_Ages:_Vampire#Clans), only Clan Bahari, posing as Ventrue, would remain. While I agree roleplaying games are a collaborative effort, I do not accept as **canon** any out-of-game writing that imposes such major consequences on my settings.
 >
 >My favourite grognards explain this further:
 > - [Who Has Narrative Control Over the Game Mechanics and Setting in Your Campaign?](https://youtu.be/9FW-qg17QSI?si=-y8sNdD1EdnKQUY_)
@@ -105,9 +105,9 @@ _[[020-The-Antediluvians#Owain and Juanita|Owain]]_ - He is in a dilemma.  He 
 > - [Setting agency in D&D](https://youtu.be/txfPuo6dw3Q?si=YaD7SXF75kmbeLfG)
 > - [The When, Where, How, and What of Player Agency: Or How I Learned to Loathe Sidequests](https://youtu.be/2C9UiQ9aAig?si=nDnfPz7Bvy0aKrHU)
 >
->As a GM, agency over my setting and my narrative is mine alone, not my players'. Take ownership of your setting and your NPCs. Learn to say **no** to players; otherwise, you'll be running their campaign, not yours, and you risk them [[The-Dark-Circle|scuttling player agency]] for the rest of your table.
+>As a GM, agency over my setting and my narrative is mine alone, not my players'. Take ownership of your setting and your NPCs. Learn to say **no** to players; otherwise, you'll be running their campaign, not yours, and you risk them _[[The-Dark-Circle|scuttling player agency]]_ for the rest of your table.
 
-**Written by [[Jenny-H|Jenny H.]] (Gwyn)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Gwyn)**
 
 As she was preparing to leave for Lisbon, Gwyn asked to speak to Lillane.  Gwyn's manner was formal, almost remote.  "Milady, I wish to clarify my mission to Lisbon."
 

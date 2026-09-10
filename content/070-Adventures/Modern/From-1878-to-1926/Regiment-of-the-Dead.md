@@ -36,7 +36,7 @@ draft: false
 
 Recruited by Dr Notting and Professor Occultree.
 
-## Written by [[Ben-G|Ben G.]] (Dr. Alexander Notting)
+## Written by _[[Ben-G|Ben G.]]_ (Dr. Alexander Notting)
 
 Sir Andrew Buckinghamshire received a request for help from a Miss Rebecca Haughton, a resident of Framingham, a small town near Boston.  What kind of help or the problem wasn’t specified, but that it involved her grandfather and something about the Civil War.  Even though he was told it required discretion, Sir Andrew still asked us to investigate this.
 

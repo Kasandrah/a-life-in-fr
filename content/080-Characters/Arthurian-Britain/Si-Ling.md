@@ -36,15 +36,15 @@ If a phoenix was used to decorate a house, it symbolised the loyalty and honesty
 
 ## Incarnations
 
-### [[010-One-Night-Plays#3000 BC - A Fire in Memphis|3000 BC - A Fire in Memphis]]
+### _[[010-One-Night-Plays#3000 BC - A Fire in Memphis|3000 BC - A Fire in Memphis]]_
 
 General in Pharaoh's Army, Memphis, Egypt
 
-### [[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots|387 AD - Macaw Feathers and Yax Spots]]
+### _[[010-One-Night-Plays#387 AD - Macaw Feathers and Yax Spots|387 AD - Macaw Feathers and Yax Spots]]_
 
 K'inick Yax K'uk' Mo', Sun-eyed Green Quetzal Macaw, City State of Copan (Honduras, Central America)
 
-### [[010-One-Night-Plays#1189 AD - A Castle in Spain|1189 AD - A Castle in Spain]]
+### _[[010-One-Night-Plays#1189 AD - A Castle in Spain|1189 AD - A Castle in Spain]]_
 
 Maria / "Julio", Sadaba, Spain
 
@@ -58,16 +58,16 @@ Angela is a very successful businesswoman who has interests in several global IT
 
 Angela is married to _[[Abdiel|Antonio Andrada da Silva]]_, whom she met while he was recovering in a hospital in Italy after his crash.
 
-| Personal Timeline   | Adventure                                                      |
-| ------------------- | -------------------------------------------------------------- |
-| 1996 September 7th  | [[Independence-Day\|Independence Day]]                         |
-| 1996 October 20th   | [[Crystal-Eyes\|Crystal Eyes]]                                 |
-| 1997 January        | [[Reunion\|Reunion]]                                           |
-| 1997 late January   | [[Setting-the-Trap\|Setting the Trap]]                         |
-| 1997 early February | [[Fire-and-Air\|Fire and Air]]                                 |
-| 1997 late February  | [[Or-the-Box\|Or the Box]]                                     |
-| 1997 early March    | [[Marines-on-Ice\|Marines on Ice]]                             |
-| 1997 late March     | [[Marines-in-the-Jungle\|Marines in the Jungle]]               |
-| 1997 April          | [[The-Dark-Circle\|The Dark Circle]]                           |
-| 1997 June           | [[One-of-Our-Planes-is-Missing\|One of Our Planes is Missing]] |
-| 1998 March 6th      | [[Airport\|Airport]]                                           |
+| Personal Timeline   | Adventure                                                        |
+| ------------------- | ---------------------------------------------------------------- |
+| 1996 September 7th  | _[[Independence-Day\|Independence Day]]_                         |
+| 1996 October 20th   | _[[Crystal-Eyes\|Crystal Eyes]]_                                 |
+| 1997 January        | _[[Reunion\|Reunion]]_                                           |
+| 1997 late January   | _[[Setting-the-Trap\|Setting the Trap]]_                         |
+| 1997 early February | _[[Fire-and-Air\|Fire and Air]]_                                 |
+| 1997 late February  | _[[Or-the-Box\|Or the Box]]_                                     |
+| 1997 early March    | _[[Marines-on-Ice\|Marines on Ice]]_                             |
+| 1997 late March     | _[[Marines-in-the-Jungle\|Marines in the Jungle]]_               |
+| 1997 April          | _[[The-Dark-Circle\|The Dark Circle]]_                           |
+| 1997 June           | _[[One-of-Our-Planes-is-Missing\|One of Our Planes is Missing]]_ |
+| 1998 March 6th      | _[[Airport\|Airport]]_                                           |

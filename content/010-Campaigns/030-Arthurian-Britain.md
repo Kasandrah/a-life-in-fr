@@ -16,36 +16,36 @@ Pendragon - Cymric for "High King" - "ben"= "chief", "dragon" = "warlord".
 
 Each test of the Dragon is a test of a candidate’s valour, justice and honour. Arthur will pass his first test, but not his second.
 
-[[010-Knights-of-Arthurian-Britain|Knights of Arthurian Britain]]
+_[[010-Knights-of-Arthurian-Britain|Knights of Arthurian Britain]]_
 
-[[010-The-Seasons|The Seasons]]
+_[[010-The-Seasons|The Seasons]]_
 # Contents
 
-- [[030-Arthurian-Britain#Setting|Setting]]
-- [[030-Arthurian-Britain#History|History]]
-- [[030-Arthurian-Britain#Feudalism|Feudalism]]
-    - [[030-Arthurian-Britain#In the Hall of Arthur Pendragon, King of the Britons|In the Hall of Arthur Pendragon, King of the Britons]]
-- [[030-Arthurian-Britain#Social Classes|Social Classes]]
-    - [[030-Arthurian-Britain#Nobles, Clergy, and Commoners|Nobles, Clergy, and Commoners]]
-- [[030-Arthurian-Britain#Customs|Customs]]
-- [[030-Arthurian-Britain#Knights|Knights]]
-- [[030-Arthurian-Britain#Families|Families]]
-    - [[030-Arthurian-Britain#Dorset|Dorset]]
-    - [[030-Arthurian-Britain#The Orkneys|The Orkneys]]
-    - [[030-Arthurian-Britain#Raven’s Gate (Chalke) Castle|Raven’s Gate (Chalke) Castle]]
-    - [[030-Arthurian-Britain#Silchester|Silchester]]
-- [[030-Arthurian-Britain#Weapons and Armour|Weapons and Armour]]
-- [[030-Arthurian-Britain#Heraldry and Clothing|Heraldry and Clothing]]
-- [[030-Arthurian-Britain#Fortifications|Fortifications]]
-- [[030-Arthurian-Britain#Salisbury|Salisbury]]
-    - [[030-Arthurian-Britain#Salisbury Castle|Salisbury Castle]]
-- [[030-Arthurian-Britain#Magic|Magic]]
-    - [[030-Arthurian-Britain#Glastonbury Tor|Glastonbury Tor]]
-    - [[030-Arthurian-Britain#In the Hall of the Dragon Queen|In the Hall of the Dragon Queen]]
-    - [[030-Arthurian-Britain#In the Hall of the Fomori King|In the Hall of the Fomori King]]
-- [[030-Arthurian-Britain#Faerie|Faerie]]
-    - [[030-Arthurian-Britain#In the Hall of Oberon, King of the Seelie Fae|In the Hall of Oberon, King of the Seelie Fae]]
-    - [[030-Arthurian-Britain#In the Hall of Ailil, Prince of the Unseelie Fae|In the Hall of Ailil, Prince of the Unseelie Fae]]
+- _[[030-Arthurian-Britain#Setting|Setting]]_
+- _[[030-Arthurian-Britain#History|History]]_
+- _[[030-Arthurian-Britain#Feudalism|Feudalism]]_
+    - _[[030-Arthurian-Britain#In the Hall of Arthur Pendragon, King of the Britons|In the Hall of Arthur Pendragon, King of the Britons]]_
+- _[[030-Arthurian-Britain#Social Classes|Social Classes]]_
+    - _[[030-Arthurian-Britain#Nobles, Clergy, and Commoners|Nobles, Clergy, and Commoners]]_
+- _[[030-Arthurian-Britain#Customs|Customs]]_
+- _[[030-Arthurian-Britain#Knights|Knights]]_
+- _[[030-Arthurian-Britain#Families|Families]]_
+    - _[[030-Arthurian-Britain#Dorset|Dorset]]_
+    - _[[030-Arthurian-Britain#The Orkneys|The Orkneys]]_
+    - _[[030-Arthurian-Britain#Raven’s Gate (Chalke) Castle|Raven’s Gate (Chalke) Castle]]_
+    - _[[030-Arthurian-Britain#Silchester|Silchester]]_
+- _[[030-Arthurian-Britain#Weapons and Armour|Weapons and Armour]]_
+- _[[030-Arthurian-Britain#Heraldry and Clothing|Heraldry and Clothing]]_
+- _[[030-Arthurian-Britain#Fortifications|Fortifications]]_
+- _[[030-Arthurian-Britain#Salisbury|Salisbury]]_
+    - _[[030-Arthurian-Britain#Salisbury Castle|Salisbury Castle]]_
+- _[[030-Arthurian-Britain#Magic|Magic]]_
+    - _[[030-Arthurian-Britain#Glastonbury Tor|Glastonbury Tor]]_
+    - _[[030-Arthurian-Britain#In the Hall of the Dragon Queen|In the Hall of the Dragon Queen]]_
+    - _[[030-Arthurian-Britain#In the Hall of the Fomori King|In the Hall of the Fomori King]]_
+- _[[030-Arthurian-Britain#Faerie|Faerie]]_
+    - _[[030-Arthurian-Britain#In the Hall of Oberon, King of the Seelie Fae|In the Hall of Oberon, King of the Seelie Fae]]_
+    - _[[030-Arthurian-Britain#In the Hall of Ailil, Prince of the Unseelie Fae|In the Hall of Ailil, Prince of the Unseelie Fae]]_
 
 # Setting
 
@@ -74,7 +74,7 @@ Church officials and monasteries also rely upon land grants to knightly vassals 
 ## In the Hall of Arthur Pendragon, King of the Britons
 
 - _King Arthur_ and _Queen Maeve_, his wife ^5ae098
-- _Merffyn_ the legendary sorcerer, Arthur’s guardian
+- _[[Merlin|Merffyn]]_ the legendary sorcerer, Arthur’s guardian
 - _[[Brennos|Sir Brennos]]_ (Cymric pagan)
 - _Sir Lancelot_ (French Christian, born 494 AD), wears Seelie armour, carries magical weapons and shield ^9bb92d
 - _Asterlan_ - son of Brennos and Titania, foster son of Arthur and Maeve ^c00cba
@@ -129,11 +129,11 @@ A critical function of marriage is to produce a legitimate heir (the eldest son 
 ## Dorset
 
 - _Praetor Jonathel of Dorset_ (_[[010-Knights-of-Arthurian-Britain#Sir Arcavius|Sir Arcavius]]_’ liege), staunch ally of Earl Robert ^1cd1b1
-- _Lady Margot_ (_[[010-Knights-of-Arthurian-Britain#Sir Arcavius|Sir Arcavius]]_’ wife), daughter of _Eustace, Duke of Clarence_ ^2b21c9
-- _Albania_ and _Bellitia_, twins, daughters of _[[010-Knights-of-Arthurian-Britain#Sir Arcavius|Sir Arcavius]]_ and Margot (born 499)
-- _Decmus_, _[[010-Knights-of-Arthurian-Britain#Sir Arcavius|Sir Arcavius]]_’ eldest son and heir (born 500)
-- _Gessius_, squire to _[[010-Knights-of-Arthurian-Britain#Sir Arcavius|Sir Arcavius]]_ ^70a562
-- _Lepinis_, squire to _[[010-Knights-of-Arthurian-Britain#Sir Arcavius|Sir Arcavius]]_
+- _Lady Margot_ (_Sir Arcavius’_ wife), daughter of _Eustace, Duke of Clarence_ ^2b21c9
+- _Albania_ and _Bellitia_, twins, daughters of _Sir Arcavius_ and Margot (born 499)
+- _Decmus_, _Sir Arcavius’_ eldest son and heir (born 500)
+- _Gessius_, squire to _Sir Arcavius_ ^70a562
+- _Lepinis_, squire to _Sir Arcavius_
 
 ## The Orkneys
 
@@ -201,7 +201,7 @@ Finias, the magic spear that controls the elements, is in Glastonbury Church and
 
 ## In the Hall of the Dragon Queen
 
-- _Lady Voklaynn, Red Dragon of Cymru_, her husband _Lord Anwyn_, and their sons _Illisander_ and _[[Karwin|Karwin]]_
+- _[[Lady-Voklaynn|Lady Voklaynn, Red Dragon of Cymru]]_, her husband _[[Lord-Anwyn|Lord Anwyn]]_, and their sons _[[Illisander|Illisander]]_ and _[[Karwin|Karwin]]_
 - _[[Cendrian]]_
 - _Murias_, Cauldron of the Dagda (of Plenty), resurrects the dead (but they can’t talk) - taken by Rhodri and Arthur from Ben Nevis (from the hall of _Varis the Black_, the un-dead dragon necromancer)
 - _Wise One_ (a giant salmon) ^fc6c1c
@@ -212,7 +212,7 @@ At the heart of the realm lies a great mountain that reaches halfway to the sky.
 
 The realm consists of great forests, rivers, lakes and rolling hills of verdant green grasses, alive with animals, birds and magical creatures.  The seasons cycle through brilliant warm summers abuzz with activity, rich golden autumns muted by falling leaves, crisp diamond bright winters and rainbow coloured springs heavy with floral perfumes.  Two bright silver moons wax and wane with each passing night in a black velvet sky studded with stars.
 
-The people, many refugees from Saxon incursions, are uniformly healthy, robust and given to much playfulness.  They have an affinity for all things musical and poetical, and are fine craftsmen, potters, weavers, jewellers, stonemasons and anything else they turn their hands to.  Most dwell in the great castle on the lower western slope of the mountain - a huge stone construction that has been there as long as anyone can remember.  It is the home of Lady Voklaynn, her husband Lord Anwyn, and their sons _[[Karwin|Karwin]]_ and Illisander.
+The people, many refugees from Saxon incursions, are uniformly healthy, robust and given to much playfulness.  They have an affinity for all things musical and poetical, and are fine craftsmen, potters, weavers, jewellers, stonemasons and anything else they turn their hands to.  Most dwell in the great castle on the lower western slope of the mountain - a huge stone construction that has been there as long as anyone can remember.  It is the home of Lady Voklaynn, her husband Lord Anwyn, and their sons Karwin and Illisander.
 
 An abiding passion is a ball game played with verve, speed, agility and a recklessness that borders on life-threatening.  This game has few, if any, discernible rules and no boundaries - the only aim is to kick the ball through the opposition’s posts decorated with their colours.  These posts can be placed anywhere outside the castle, but players, male and female, often run about within the castle in search of a way to foil the opposing side.
 
@@ -235,13 +235,13 @@ Between the realms of men lie the mythical domains of the faerie - great dark wo
 
 Bold human questers enter the faerie realm to seek the greatest of adventures. From the domain of faerie comes the magic that enchants Britain. Ancient rites and songs echo in the challenges and prizes of adventure.
 
-[[Light-and-Dark|Light and Dark]]
+_[[Light-and-Dark|Light and Dark]]_
 
 ## In the Hall of Oberon, King of the Seelie Fae
 
 The Seelie relinquish power at Samhain (winter solstice - last night of October) and take over again at Beltane. Samhain is the time to choose between rebellion and redemption. At dawn, the Samhain mists force memories from the minds of those who yearn to forget.
 
-- _[[Oberon|Oberon]] and Titania_. Oberon carries Gorias, the sword of Lugh of the Long Arm that makes the wearer invincible in battle.
+- _[[Oberon|Oberon]]_ and _[[Titania|Titania]]_. Oberon carries Gorias, the sword of Lugh of the Long Arm that makes the wearer invincible in battle.
 - _Puck_ ^23db36
 - _Angus_, Bard of the Seelie Fae, and the Harp ^468229
 - _The Captain_ ^9d81c7

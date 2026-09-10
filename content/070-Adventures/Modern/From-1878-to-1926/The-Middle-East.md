@@ -38,18 +38,18 @@ Sarah’s father asked her to attend an auction and bid for some Egyptian artifa
 
 # Highlights
 
-- [[The-Middle-East#The Auction - 25th February 1924|The Auction - 25th February 1924]]
-- [[The-Middle-East#From Boston to Alexandria - 25th February to 16th March 1924|From Boston to Alexandria - 25th February to 16th March 1924]]
-- [[The-Middle-East#Alexandria|Alexandria]]
-- [[The-Middle-East#Cairo and the Ruins of Hermopolis|Cairo and the Ruins of Hermopolis]]
-- [[The-Middle-East#Monastery of Saint Pakomios - end of March to end of May 1924|Monastery of Saint Pakomios - end of March to end of May 1924]]
-- [[The-Middle-East#Jerusalem - end of May to start of July 1924|Jerusalem - end of May to start of July 1924]]
-- [[The-Middle-East#From Jerusalem to Sana, South Yemen - early July to mid August 1924|From Jerusalem to Sana, South Yemen - early July to mid August 1924]]
-- [[The-Middle-East#Sana, South Yemen|Sana, South Yemen]]
-- [[The-Middle-East#From Sana to Iram of the Pillars - late August to 16th September 1924|From Sana to Iram of the Pillars - late August to 16th September 1924]]
-- [[The-Middle-East#Iram of the Pillars|Iram of the Pillars]]
-- [[The-Middle-East#From Iram of the Pillars to Riyadh|From Iram of the Pillars to Riyadh]]
-- [[The-Middle-East#From Riyadh to Alexandria|From Riyadh to Alexandria]]
+- _[[The-Middle-East#The Auction - 25th February 1924|The Auction - 25th February 1924]]_
+- _[[The-Middle-East#From Boston to Alexandria - 25th February to 16th March 1924|From Boston to Alexandria - 25th February to 16th March 1924]]_
+- _[[The-Middle-East#Alexandria|Alexandria]]_
+- _[[The-Middle-East#Cairo and the Ruins of Hermopolis|Cairo and the Ruins of Hermopolis]]_
+- _[[The-Middle-East#Monastery of Saint Pakomios - end of March to end of May 1924|Monastery of Saint Pakomios - end of March to end of May 1924]]_
+- _[[The-Middle-East#Jerusalem - end of May to start of July 1924|Jerusalem - end of May to start of July 1924]]_
+- _[[The-Middle-East#From Jerusalem to Sana, South Yemen - early July to mid August 1924|From Jerusalem to Sana, South Yemen - early July to mid August 1924]]_
+- _[[The-Middle-East#Sana, South Yemen|Sana, South Yemen]]_
+- _[[The-Middle-East#From Sana to Iram of the Pillars - late August to 16th September 1924|From Sana to Iram of the Pillars - late August to 16th September 1924]]_
+- _[[The-Middle-East#Iram of the Pillars|Iram of the Pillars]]_
+- _[[The-Middle-East#From Iram of the Pillars to Riyadh|From Iram of the Pillars to Riyadh]]_
+- _[[The-Middle-East#From Riyadh to Alexandria|From Riyadh to Alexandria]]_
 
 ## The Auction - 25th February 1924
 
@@ -249,9 +249,9 @@ At this point in Levi’s explanation, Charles walked through the gateway in the
 
 As Sarah regained her senses, a massive explosion occurred underground, driving a vast cloud of sand through the entrance and collapsing the ground several feet inwards, about 500 yards from where they stood. Everyone stared at the sand-filled entrance to the underground temple. Magnus could not possibly have survived the explosion and the resulting collapse. 
 
->**Player's Note:** The party decided not to bring available but unstable and dangerous explosives with them on the arduous journey into the desert. The [[Neil-F|GM]] had no Plan B, so "blew up" his magic-using NPC to destroy the scenario's big bad. Far too [deus ex machina](https://en.wikipedia.org/wiki/Deus_ex_machina) for me!
+>**Player's Note:** The party decided not to bring available but unstable and dangerous explosives with them on the arduous journey into the desert. The _[[Neil-F|GM]]_ had no Plan B, so "blew up" his magic-using NPC to destroy the scenario's big bad. Far too [deus ex machina](https://en.wikipedia.org/wiki/Deus_ex_machina) for me!
 >
->[[Jenny-H|Jenny H.]] ran [[Sihons-Night|Sihon's Night]], set two and a half years later, in which the party returned to Iram of the Pillars and found Magnus alive. Jenny used one of her characters, _[[Jenny-H#^14ff80|Mairi McPherson]]_, to motivate the party to find Magnus, the husband of another of her characters, _[[Jenny-H#^90313e|Megan Farquarson]]_.
+>_[[Jenny-H|Jenny H.]]_ ran _[[Sihons-Night|Sihon's Night]]_, set two and a half years later, in which the party returned to Iram of the Pillars and found Magnus alive. Jenny used one of her characters, _[[Jenny-H#^14ff80|Mairi McPherson]]_, to motivate the party to find Magnus, the husband of another of her characters, _[[Jenny-H#^90313e|Megan Farquarson]]_.
 >
 >If the original GM had provided a Plan B to destroy the big bad, Jenny wouldn't have felt the need to run such a transparent "fix". Talk to your players, understand their priorities, and give them multiple options to achieve their goals. Otherwise, they may act to engineer their preferred outcomes, with or without your consent.
 

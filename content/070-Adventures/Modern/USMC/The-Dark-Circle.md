@@ -24,9 +24,9 @@ draft: false
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ | _[[Jenny-H#^59824f\|Abrahamson, David]]_                                                               |
 | _[[Dresdina-Cooper\|Cooper, Dresdina]]_                                    | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                                                               |
-| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_  | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                                                                |
+| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_  | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                                                                |
 | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  | _Wenders, [[020-The-Antediluvians#Gwyn\|Agneta]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_ |
-| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_      |                                                                                                        |
+| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_      |                                                                                                        |
 | _[[The-White-Magicians#Kellion O’Shea\|O'Shea, Kellion]]_                  |                                                                                                        |
 
 ## Highlights
@@ -89,7 +89,7 @@ Torches reveal a man-made tunnel that leads to a gate.  Gwyn and Owain walk thr
 
 This suggests to the team that only supernatural beings can pass through the first gate.  How to get the human members of the party through?  With no personal experience of becoming supernatural, the human members of the team are at a loss how to achieve this.  Gwyn suggests, with a perfectly straight face, that she can turn the human team members into ghouls “just for a little while”.
 
->**GM's Note:** The raison d'être for the stand-in GM's entire scenario. The one thing I'd not allowed since Gwyn had been present in my USMC campaign. From all the way back to [[Fire-and-Air|Fire and Air]].
+>**GM's Note:** The raison d'être for the stand-in GM's entire scenario. The one thing I'd not allowed since Gwyn had been present in my USMC campaign. From all the way back to _[[Fire-and-Air|Fire and Air]]_.
 
 There is complete silence in the tunnel.  After a few minutes, Kellion replies, “you must be joking”.  Antonio, looking coldly at Gwyn, informs Kellion she isn’t joking and that, given what may be at stake, her suggestion should be considered seriously.  While Antonio can’t turn humans into supernatural beings, he can certainly purge any taint of ghoulishness from them afterwards.  “It’ll just hurt a bit."
 
@@ -115,10 +115,10 @@ Gwyn kneels before her Sire, Lillane, and offers her the sword.  Lillane demand
 
 Gwyn and Owain made their own way to wherever they were going.  The rest of the team made their way back to Brasilia in the vain hope that this would now be the end.
 
->**GM's Note:** After "The Dark Circle", all my players but the stand-in GM complained they were playing the other player's game, not mine.  This problem had been building since [[Fire-and-Air|Fire and Air]], but after being locked into the stand-in GM's story as bit players, they didn't want to continue.
+>**GM's Note:** After "The Dark Circle", all my players but the stand-in GM complained they were playing the other player's game, not mine.  This problem had been building since _[[Fire-and-Air|Fire and Air]]_, but after being locked into the stand-in GM's story as bit players, they didn't want to continue.
 >
 >My intention with the United States Marine Corps (USMC) characters was to explore the outcome of matching heavy weaponry against various Cthulhu and non-Cthulhu threats. By catering to the wishes of only one player, the stand-in GM, I'd allowed my game to drift off mission and, finally, out of my hands.
 >
->To address the glaring imbalance in player agency, I asked the stand-in GM to create a new USMC character comparable with the others.  Hence, _[[USMC-Fireteam-SG-21#Major Kris Morrissey|Major Kris Morrissey]]_ replaced _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_ and _[[Jenny-H#^59824f|David Abrahamson]]_.  I also ensured _[[020-The-Antediluvians#Gwyn|Agneta]] and [[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ never appeared in this campaign again.
+>To address the glaring imbalance in player agency, I asked the stand-in GM to create a new USMC character comparable with the others.  Hence, _[[USMC-Fireteam-SG21#Major Kris Morrissey|Major Kris Morrissey]]_ replaced _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_ and _[[Jenny-H#^59824f|David Abrahamson]]_.  I also ensured _[[020-The-Antediluvians#Gwyn|Agneta]] and [[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ never appeared in this campaign again.
 
 ^714712

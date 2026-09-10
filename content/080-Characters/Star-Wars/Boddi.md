@@ -11,7 +11,7 @@ draft: false
 
 **Boddi**
 
-Boddi is over five thousand years old, a Jedi Master and a member of the [[Jedi-Bendu|Circle of the Ashla]], an ancient brotherhood dedicated to protecting the Galaxy.
+Boddi is over five thousand years old, a Jedi Master and a member of the _[[Jedi-Bendu|Circle of the Ashla]]_, an ancient brotherhood dedicated to protecting the Galaxy.
 
 She was one of three Guardians assigned to "protect and serve" while the other Circle members were "sleeping".  This is completely unknown outside of her current associates.
 

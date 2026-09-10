@@ -23,7 +23,7 @@ draft: false
 | Player Characters                                           | Non-Player Characters |
 | ----------------------------------------------------------- | --------------------- |
 | _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ |                       |
-| _[[Jenny-H#^52b214\|Mandiville, Maggie]]_                |                       |
+| _[[Jenny-H#^52b214\|Mandiville, Maggie]]_                   |                       |
 | _O’Donovan, John_ - famous jungle explorer (George)         |                       |
 
 ## Involvement

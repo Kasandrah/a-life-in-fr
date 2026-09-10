@@ -26,9 +26,9 @@ draft: false
 
 | Player Characters                                           | Non-Player Characters                                   |
 | ----------------------------------------------------------- | ------------------------------------------------------- |
-| _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ | _[[Jenny-H#^72dacc\|Chesterfield, Heather Petunia]]_ |
-| _[[Braddon-G#^cc66fa\|Ffollet, Reginald]]_              | _Montgomery, Melissa_ – Heather’s assistant             |
-| _[[Neil-F#^4917b5\|Petrie, Bram]]_                     |                                                         |
+| _[[Alexandria-Mary-MacDonald\|MacDonald, Alexandria Mary]]_ | _[[Jenny-H#^72dacc\|Chesterfield, Heather Petunia]]_    |
+| _[[Braddon-G#^cc66fa\|Ffollet, Reginald]]_                  | _Montgomery, Melissa_ – Heather’s assistant             |
+| _[[Neil-F#^4917b5\|Petrie, Bram]]_                          |                                                         |
 
 ## Involvement
 

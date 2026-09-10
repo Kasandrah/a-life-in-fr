@@ -26,10 +26,10 @@ Also known as **["Trail of the Loathsome Slime"](https://www.rpg.net/reviews/ar
 
 | **Player Characters**                                    | **Non-Player Characters**                |
 | -------------------------------------------------------- | ---------------------------------------- |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_              | _Cole, Edward Kenneth_ – Angela’s cousin |
-| _[[Angela-Taylor\|Taylor, Angela]]_                      | _[[Neil-F#^a450bf\|Davids, David]]_ |
-| _[[George-G#^c52611\|Wellington, Captain Brian]]_ | _Rothman, Arnold_ – 2nd mate and cultist |
-| _[[Michael-H#^570963\|Williams, Jack]]_             |                                          |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                 | _Cole, Edward Kenneth_ – Angela’s cousin |
+| _[[Angela-Taylor\|Taylor, Angela]]_                      | _[[Neil-F#^a450bf\|Davids, David]]_      |
+| _[[George-G#^c52611\|Wellington, Captain Brian]]_        | _Rothman, Arnold_ – 2nd mate and cultist |
+| _[[Michael-H#^570963\|Williams, Jack]]_                  |                                          |
 
 # Involvement
 

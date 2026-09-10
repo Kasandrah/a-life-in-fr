@@ -48,4 +48,4 @@ Took a thumping in hand to hand combat with the MIB (temporarily defeated him).
 
 ## Possessions
 
-£350,000 of antiques, valuables, first editions, a mint condition [[Stutz-BB-Blackhawk|1928 Stutz Model BB Blackhawk Boattail Speedster]], paintings by 1920s painters, stamps, coins, jewellery, some designer 1920s original clothes and gowns, lots of gold.
+£350,000 of antiques, valuables, first editions, a mint condition _[[Stutz-BB-Blackhawk|1928 Stutz Model BB Blackhawk Boattail Speedster]]_, paintings by 1920s painters, stamps, coins, jewellery, some designer 1920s original clothes and gowns, lots of gold.

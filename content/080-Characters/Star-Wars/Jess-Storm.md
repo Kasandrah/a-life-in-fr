@@ -13,7 +13,7 @@ draft: false
 ---
 # Commander Jess (Jessamine) Storm
 
-**Written by [[Jenny-H|Jenny H.]] (Jess)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Jess)**
 
 ### Appearance
 

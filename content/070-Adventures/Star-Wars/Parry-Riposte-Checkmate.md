@@ -9,7 +9,7 @@ draft: false
 
 >**GM's Note:**  Deak Freehold is sent to investigate an unreliable Intel operative, one Sari Blackwood, singer.  Sari is involved with Imperial General Leith and no longer trusted by Intel.  Deak tests Sari's loyalty to the Alliance by using her to obtain information about and access to an Imperial research station developing biological warfare viruses.  Deak forces Sari to return to the Alliance with him, as she is too unreliable to remain with the Imperials.
 
-## Written by [[Jenny-H|Jenny H.]] (Sari)
+## Written by _[[Jenny-H|Jenny H.]]_ (Sari)
 
 Sari sat in front of the mirror and stared sightlessly at it, frowning slightly.  She couldn't define what was disturbing her, just that there was uneasiness in the air, like the build-up of pressure before a storm.  She tried to picture the people in the bar, but there was no one who had struck her as unusual, just the collection of officers and civilians that she normally attracted by her singing.
 

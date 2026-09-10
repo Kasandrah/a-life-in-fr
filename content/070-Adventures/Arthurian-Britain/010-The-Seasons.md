@@ -9,7 +9,7 @@ aat-render-enabled: false
 
 # The Seasons
 
-## [[495-AD|495 AD]]
+## _[[495-AD|495 AD]]_
 
 This campaign begins in 495 AD.  Three young squires, _[[010-Knights-of-Arthurian-Britain#Lord Rhodri|Rhodri]]_, _[[010-Knights-of-Arthurian-Britain#Sir Brion|Brion]]_ and _[[030-Arthurian-Britain#^0711d0|Edar]]_, are sent by their liege, Earl Robert of Salisbury, to investigate tales of a man-eating bear in the western acres.  They meet and dispatch the bear, and make first acquaintance with those who will become significant in their lives.
 
@@ -34,7 +34,7 @@ These include:
 
 All three squires were knighted on the field of battle - the **Battle of Wareham Woods**.
 
-## [[496-AD|496 AD]]
+## _[[496-AD|496 AD]]_
 
 Rescue of the Boy King Arthur, his mother Ygraine and his half-sisters Margawse and Morgaine from Tintagel Castle, under the nose of the ambitious King Mark of Lyonesse.  _[[010-Knights-of-Arthurian-Britain#Lord Cynon|Sir Cynon]]_, one of Ygraine's household knights, joins the party.  After escorting Ygraine to Amesbury Abbey in Salisbury, marrying Margawse off to King Lot of the Orkneys and fostering Morgaine, Rhodri leads the party in exploring the cellars of Marlborough Castle, with Lucienne's assistance.  The season ends with the Festival of the Spring Equinox, presided over by Lady Jeanne in her guise as a Priestess of Raven.
 
@@ -54,7 +54,7 @@ First appearance of:
 - Abbess and Abbott of Amesbury ^d83703
 - Matthew, a boy haunted by banshees. ^2a3e63
 
-## [[497-AD|497 AD]]
+## _[[497-AD|497 AD]]_
 
 A journey to Silchester to see this old walled Roman town.  Odd jobs around Silchester include dealing with a water leaper, battling Saxons, finding evidence of vampires, and going underground to face goblins, ghouls and a Fomori giant.
 
@@ -76,7 +76,7 @@ First appearance of:
 - Lady Etleyenne, of the Seelie Fae
 - Steward of Levcomagus (deceased).
 
-## [[498-AD|498 AD]]
+## _[[498-AD|498 AD]]_
 
 Rhodri, Arcavius and Hywel travel to Medbourne to smite the infamous Gorbodok, half-human, half-demon.  After Gorbodok defeats Rhodri in battle, he takes Rhodri to the Other Realm and demands Rhodri train his army of demons.  Rhodri locates the magical Fae harp of Angus the Bard and plays music to lay Gorbodok low, then escapes back to Medbourne with Lucienne's aid.  Under extreme duress, Rhodri returns the harp to Angus the Bard.
 
@@ -89,7 +89,7 @@ First appearance of:
 - Bishop Bawdwin of Briton, no relation to Father Bawdwin
 - Angus, Bard of the Seelie Fae, and his Harp.
 
-## [[499-AD|499 AD]]
+## _[[499-AD|499 AD]]_
 
 The party sleep on Tor Barrow Hill and wake up in the realm of the Red Dragon of Cymru.  They find the legendary Guardian, who asks Rhodri to ask _[[Oberon|Oberon]]_ to bring Marius to Tor Barrow Hill each year.  The Guardian believes that Oberon will do this in exchange for information on the whereabouts of one of the Great Fae Treasures.  The Guardian gives Rhodri a scroll to pass to Oberon - a scroll that none of the party can read.
 
@@ -116,7 +116,7 @@ First appearance of:
 - Margot, daughter of the Duke of Clarence
 - Duke Eustace of Clarence.
 
-## [[500-AD|500 AD]]
+## _[[500-AD|500 AD]]_
 
 Anglia is taken by new Saxon arrivals.  Rhodri and party are sent to find out whether these new Saxons will link up with those already established in the east.  On the way the party visits the sword in the stone - "whomsoever pulleth out the sword is the rightful king of England".
 
@@ -142,7 +142,7 @@ First appearance of:
 - Otho the Troll, guard to the Unseelie Court
 - Darkain, court sorcerer disguised as a sparrow.
 
-## [[501-AD|501 AD]]
+## _[[501-AD|501 AD]]_
 
 Feeling guilty over Morgaine, Rhodri promises her father _[[Oberon|Oberon]]_ that he will obtain the Stone of Destiny for him.  Jeanne suggests Rhodri get information from a Fomori sympathiser and then steal the Stone, rather than openly challenge the Fomori King for it.  Rhodri gathers a reluctant party for a tough mission.
 
@@ -164,11 +164,11 @@ First appearance of:
 - a male priest of the Morrigan
 - Goibniu the Smith. ^08815a
 
-## [[510-AD|510 AD]]
+## _[[510-AD|510 AD]]_
 
 Arthur woos Lysanor, step-daughter of Earl Sanam of Bedegraine Castle on the Trent River, north-western Logres.  Lysanor is the Chatelaine of Karadigan Castle in her own right.  What is not well known is that she is _[[030-Arthurian-Britain#^11871f|Ailil's]]_ daughter.  Arthur fathers an unacknowledged bastard son on Lysanor, Uther.
 
-## [[511-AD|511 AD]]
+## _[[511-AD|511 AD]]_
 
 Winter with Lady Voklaynn.  Gwen (Rhodri's daughter) falls in love with _[[Karwin|Karwin]]_.  Anwyn, on Rhodri's request, makes her forget.  PCs return to Camelaird.
 
@@ -188,7 +188,7 @@ Emils is carrying a sacred text for "the Merlin" - a genealogy of descent from J
 
 We have failed in France.  Let the Bloodline of Jesus succeed in Britain. - Clovis, 511 AD.
 
-## [[512-AD|512 AD]]
+## _[[512-AD|512 AD]]_
 
 ### March
 
@@ -240,6 +240,6 @@ The players leave Silchester in mid-June.  Arthur has decided to bring the rebe
 
 After this battle, the player knights and Arthur travel north via Voklaynn's realm to Ben Nevis, to attack the Black Dragon.
 
-## [[513-AD|513 AD]]
+## _[[513-AD|513 AD]]_
 
-## [[514-AD|514 AD]]
+## _[[514-AD|514 AD]]_

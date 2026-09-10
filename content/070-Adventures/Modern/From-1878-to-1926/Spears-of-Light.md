@@ -22,9 +22,9 @@ draft: false
 
 | Player Characters                                 | Non-Player Characters                                                  |
 | ------------------------------------------------- | ---------------------------------------------------------------------- |
-| _[[George-G#^1d5c66\|Northwood, Richard]]_ | _Ben, Ivan Denisovich_ – Ukrainian                                     |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_       | _Drake, Dr David_ – in charge of the asylum                            |
-| _[[Aletta-Yasmini\|Yasmini, Aletta]]_             | _[[Neil-F#^901589\|Jenks, Stanley]]_                              |
+| _[[George-G#^1d5c66\|Northwood, Richard]]_        | _Ben, Ivan Denisovich_ – Ukrainian                                     |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_          | _Drake, Dr David_ – in charge of the asylum                            |
+| _[[Aletta-Yasmini\|Yasmini, Aletta]]_             | _[[Neil-F#^901589\|Jenks, Stanley]]_                                   |
 |                                                   | _Harker, Lucinda_ – vampire and _Giles_, her driver                    |
 |                                                   | _Novych, Prince Vladimir Gregorovich_ – cultist and cousin to Rasputin |
 |                                                   | _Read, Virginia (Ginny)_ – Glossop secretary                           |

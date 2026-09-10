@@ -15,12 +15,12 @@ draft: false
 
 >**GM's Note:**  The following begins after Generis Base rebels discover Prince Espaa Valorum's ship, the _Dark Heart_, floating in space and return it to the base for examination.
 
-- [[Strange-Frontier#Scene 1 - Generis Base Docking Bay|Scene 1 - Generis Base Docking Bay]]
-- [[Strange-Frontier#Scene 2 - Generis Base Briefing Room|Scene 2 - Generis Base Briefing Room]]
-- [[Strange-Frontier#Scene 3 - Generis Base Docking Bay|Scene 3 - Generis Base Docking Bay]]
-- [[Strange-Frontier#Scene 4 - First Jump|Scene 4 - First Jump]]
-- [[Strange-Frontier#Scene 5 - Between Jumps|Scene 5 - Between Jumps]]
-- [[Strange-Frontier#Scene 6 - The Colony|Scene 6 - The Colony]]
+- _[[Strange-Frontier#Scene 1 - Generis Base Docking Bay|Scene 1 - Generis Base Docking Bay]]_
+- _[[Strange-Frontier#Scene 2 - Generis Base Briefing Room|Scene 2 - Generis Base Briefing Room]]_
+- _[[Strange-Frontier#Scene 3 - Generis Base Docking Bay|Scene 3 - Generis Base Docking Bay]]_
+- _[[Strange-Frontier#Scene 4 - First Jump|Scene 4 - First Jump]]_
+- _[[Strange-Frontier#Scene 5 - Between Jumps|Scene 5 - Between Jumps]]_
+- _[[Strange-Frontier#Scene 6 - The Colony|Scene 6 - The Colony]]_
 
 ### Scene 1 - Generis Base Docking Bay
 

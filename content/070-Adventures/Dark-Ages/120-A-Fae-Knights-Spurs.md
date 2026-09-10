@@ -8,7 +8,7 @@ aat-render-enabled: false
 ---
 # A Fae Knight's Spurs
 
-**Written by [[Ben-G|Ben G.]] (Raushan)**
+**Written by _[[Ben-G|Ben G.]]_ (Raushan)**
 
 We are allowed a few nights rest, before it is time to obtain a token of the Fae for the Circle’s repair. Gwyn is assigned the task of drafting a message to the Fae, as she has dealt with them in her earlier days … umm, nights really. Looking over her shoulder, I quickly scan the letter but I think she is saying oh so much more than she should. But when I needle her, she gets in a huff. Who could have guessed that she doesn’t take criticism well … ?! Oh well, at least I had lots of fun.
 

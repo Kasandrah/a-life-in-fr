@@ -15,7 +15,7 @@ draft: false
 
 **Ludmilla Vladimirovna Dangov**
 
-## Written by [[Jenny-H|Jenny H.]]
+## Written by _[[Jenny-H|Jenny H.]]_
 
 >**GM's Note:**  This is a play-by-mail for Ludmilla.  It establishes the relationship between Ludmilla and Meyric, the Blue Dragonmage who she rescued from the magical Knight of the Traldar, bane of dragons.
 
@@ -37,7 +37,7 @@ As she stared at the empty throne she felt a sudden breeze from behind stir the 
 
 He strode up to her and, without speaking, took her in his arms, one hand at the base of her spine holding her tightly against him, his other hand gently pulling her head back by her hair.  She barely had time to gasp his name before he bent and covered her mouth with his, taking her breath away with his passionate kiss.  After many moments Ludmilla's knees gave way, but he picked her up and without breaking his kiss carried her to the small cavern hung with tapestries.
 
-## Written by [[Jenny-H|Jenny H.]]
+## Written by _[[Jenny-H|Jenny H.]]_
 
 Ludmilla lay in bed, snuggled deep into the luxurious comfort, Meyric's arm wrapped possessively around her.  In sleep, he looked at peace and fully human.  She should be asleep as well, but she had a decision to make, and it was not her nature to delay difficult choices.  This one in particular would affect her entire life's direction, and she wanted it made and over with, preferably before she left in the morning.
 

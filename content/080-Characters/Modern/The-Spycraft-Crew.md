@@ -15,7 +15,7 @@ draft: false
 - Face class, The Look, very persuasive (feats)
 - Political (Dept. 1)
 
-Played by [[Simon-M|Simon M.]]
+Played by _[[Simon-M|Simon M.]]_
 
 ## Wayne Arthurs aka “Merlin”
 
@@ -25,7 +25,7 @@ Played by [[Simon-M|Simon M.]]
 - Computer nerd
 - Computer espionage (Dept. 3)
 
-Played by [[Ben-G|Ben G.]]
+Played by _[[Ben-G|Ben G.]]_
 
 ## Ken Yip (Kane)
 
@@ -35,7 +35,7 @@ Played by [[Ben-G|Ben G.]]
 - Chinese (born in Hong Kong)
 - Wet Works (Dept. 6)
 
-Played by [[Michael-H|Michael H.]]
+Played by _[[Michael-H|Michael H.]]_
 
 ## Peter Kruger
 
@@ -45,4 +45,4 @@ Played by [[Michael-H|Michael H.]]
 - South African
 - Home Office (Dept. 0)
 
-Played by [[Craig-B|Craig B.]]
+Played by _[[Craig-B|Craig B.]]_

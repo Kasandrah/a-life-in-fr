@@ -25,11 +25,11 @@ Also known as **"Death in Dunwich"**
 | Player Characters                                                 | Non-Player Characters                            |
 | ----------------------------------------------------------------- | ------------------------------------------------ |
 | _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_ | _Dunklehurst_ - Rothenfelder’s private secretary |
-| _[[Zoran-B#^b62306\|Anstey, Harry]]_                         | _[[Neil-F#^7efc15\|Holmes, Munroe]]_        |
-| _[[Braddon-G#^68e18a\|Carew, Sophie]]_                        | _Rothenfelder, J. D._                            |
-| _[[Barry-L#^01b6d6\|Barry Lenny]]_                            |                                                  |
-| _[[George-G#^b3a77d\|Gorson, Joe]]_                        |                                                  |
-| _[[Jenny-H#^efe01a\|Holmes, Monica]]_                          |                                                  |
+| _[[Zoran-B#^b62306\|Anstey, Harry]]_                              | _[[Neil-F#^7efc15\|Holmes, Munroe]]_             |
+| _[[Braddon-G#^68e18a\|Carew, Sophie]]_                            | _Rothenfelder, J. D._                            |
+| _[[Barry-L#^01b6d6\|Barry Lenny]]_                                |                                                  |
+| _[[George-G#^b3a77d\|Gorson, Joe]]_                               |                                                  |
+| _[[Jenny-H#^efe01a\|Holmes, Monica]]_                             |                                                  |
 
 ## Involvement
 

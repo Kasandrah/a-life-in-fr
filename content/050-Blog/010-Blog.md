@@ -8,4 +8,4 @@ draft: false
 ---
 # Blog Posts
 
-[[Diplomacy-RPG-Game-Masters|Diplomacy for RPG Game Masters: The Fine Art of Wrangling Players]]
+_[[Diplomacy-RPG-Game-Masters|Diplomacy for RPG Game Masters: The Fine Art of Wrangling Players]]_

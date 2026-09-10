@@ -9,7 +9,7 @@ draft: false
 ---
 # Captain Taran Storm
 
-**Written by [[Jenny-H|Jenny H.]] (Jess)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Jess)**
 
 Jess' father, a 56 year old Corellian who owns a small fleet of light freighters.  He leads a fairly healthy lifestyle (apart from being shot at occasionally), so is still fit and well preserved.  He looks typically Corellian - dark hair etc.  Ruggedly good looking.
 

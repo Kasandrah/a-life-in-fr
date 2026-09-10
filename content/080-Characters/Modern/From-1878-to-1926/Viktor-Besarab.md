@@ -49,6 +49,6 @@ Viktor owns a house only half a kilometre from Aletta’s seaside villa, located
 
 ## Timeline
 
-| Date        | Adventure                                        |
-| ----------- | ------------------------------------------------ |
-| 1926 August | [[The-Casablanca-Affair\|The Casablanca Affair]] |
+| Date        | Adventure                                          |
+| ----------- | -------------------------------------------------- |
+| 1926 August | _[[The-Casablanca-Affair\|The Casablanca Affair]]_ |

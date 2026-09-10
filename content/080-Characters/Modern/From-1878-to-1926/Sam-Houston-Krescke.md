@@ -23,7 +23,7 @@ draft: false
 | _Partner_          | _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_                        |
 | _Occupation_       | Former Lieutenant in the Imperial Army, now a mercenary adventurer                       |
 | _Residence:_       | Shahpura, northwest India                                                                |
-| _Transport:_       | [[Rolls-Royce-Silver-Ghost\|1925 Rolls Royce Silver Ghost Tourer]]                       |
+| _Transport:_       | _[[Rolls-Royce-Silver-Ghost\|1925 Rolls Royce Silver Ghost Tourer]]_                     |
 | _Reads / Writes:_  | English, German                                                                          |
 | _Weapons:_         | Handgun, machine gun, long-arm, fist, shotgun, grapple, kick, sub-machine gun, head butt |
 
@@ -33,9 +33,9 @@ Sam has dark, piercing sapphire-blue eyes, short and straight corn-blonde hair, 
 
 ## Timeline
 
-| Date                        | Adventure                                               |
-| --------------------------- | ------------------------------------------------------- |
-| 1924 June 16th to 21st      | [[Zeppelin\|Zeppelin]]                                  |
-| 1925 July 20th to September | [[Beast-in-the-Abbey\|Beast in the Abbey]]              |
-| 1992 March                  | [[Looking-for-Algrens-Home\|Looking for Algren’s Home]] |
-| 1925 September              | Sam travels to Shahpura, India with Anjuli.             |
+| Date                        | Adventure                                                 |
+| --------------------------- | --------------------------------------------------------- |
+| 1924 June 16th to 21st      | _[[Zeppelin\|Zeppelin]]_                                  |
+| 1925 July 20th to September | _[[Beast-in-the-Abbey\|Beast in the Abbey]]_              |
+| 1992 March                  | _[[Looking-for-Algrens-Home\|Looking for Algren’s Home]]_ |
+| 1925 September              | Sam travels to Shahpura, India with Anjuli.               |

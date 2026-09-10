@@ -23,8 +23,8 @@ draft: false
 | Player Characters                                                                                                          | Non-Player Characters                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | _Charles_ - English dilettante who has a predilection for art, the occult, doing nothing and duelling with pistols (Simon) | _[[Rajkumari-Anjuli-of-Shahpura\|Anjuli, Rajkumari of Shahpura]]_                                                                             |
-| _[[Jenny-H#^efe01a\|Holmes, Monica]]_                                                                                   | _Ardra, Sher Singh_ - Commander of the Shahpura Royal Guard, Anjuli's bodyguard                                                               |
-| _[[Michael-H#^5f3573\|Smirnoff, Nikolai]]_                                                                            | _Banh, Mohandur_ - Raja’s half-brother and major-domo, an all-around villain                                                                  |
+| _[[Jenny-H#^efe01a\|Holmes, Monica]]_                                                                                      | _Ardra, Sher Singh_ - Commander of the Shahpura Royal Guard, Anjuli's bodyguard                                                               |
+| _[[Michael-H#^5f3573\|Smirnoff, Nikolai]]_                                                                                 | _Banh, Mohandur_ - Raja’s half-brother and major-domo, an all-around villain                                                                  |
 | _Trevelyan_ - British Army Major stationed in the Punjab region (Ben)                                                      | _Bharmal_ - Rajah of Shahpura and his wife _Catherine_, the only child of the 10th Earl of Carmarthen and Rani of Shahpura (Anjuli’s parents) |
 |                                                                                                                            | _Chani_ - Anjuli’s old maid                                                                                                                   |
 |                                                                                                                            | _Lalji_ - Anjuli’s dead elder brother, rumoured to have died by Mohandar’s hand                                                               |
@@ -35,11 +35,11 @@ draft: false
 
 ## Involvement
 
-Anjuli is returning to Shahpura after her adventures in strange places.  Monica is accompanying Anjuli and both women have heavy hearts over the loss of their loved ones.  Sam, Anjuli’s lover, and Munroe, Monica’s brother, remain in [[Alternate-America|Alternate America]] beyond reach, possibly forever.
+Anjuli is returning to Shahpura after her adventures in strange places.  Monica is accompanying Anjuli and both women have heavy hearts over the loss of their loved ones.  Sam, Anjuli’s lover, and Munroe, Monica’s brother, remain in _[[Alternate-America|Alternate America]]_ beyond reach, possibly forever.
 
->**GM’s Note:**  This episode originally started as one of [[Neil-F|Neil F.'s]] many play-by-mail (PBM) games.  The original first move is included below.
+>**GM’s Note:**  This episode originally started as one of _[[Neil-F|Neil F.'s]]_ many play-by-mail (PBM) games.  The original first move is included below.
 
-## Written by [[Neil-F|Neil F.]]
+## Written by _[[Neil-F|Neil F.]]_
 
 Anjuli stood eagerly at the rail of ‘A-Deck’ on the Gold Funnel liner, ‘Duchess of Skye’.  In deference to the chilly weather, she wore western clothes and was wrapped in a luxurious blue mink coat.  She tugged the matching hat down more closely over her icy ears.  Few others were on deck with her, most preferring the comfort of the lounge or their cabins.
 
@@ -198,7 +198,7 @@ Anjuli looked very impressive at that moment had she known it.  Eyes flashing f
 
 >**GM’s Note:**  After Neil’s death, I ran this episode with Neil’s regular players.  As I had no knowledge of what Neil intended, I didn’t include some of the original play-by-mail’s themes or characters in our live play sessions. The episode as described below is told from the viewpoint of Baron Tyson Trevelyan.
 
-## Written by [[Ben-G|Ben G.]] (Tyson)
+## Written by _[[Ben-G|Ben G.]]_ (Tyson)
 
 Monica, Charles, Nikolai, and Anjuli arrive in India on a trip to Shahpura.  Charles tries a drug and has a “trip” where he sees a Rakhasa (demon - blue-skinned, red-eyed, multi-armed) who is after me!
 

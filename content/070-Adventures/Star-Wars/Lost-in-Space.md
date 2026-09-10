@@ -21,7 +21,7 @@ Nichelle shows her ability by intuitively navigating back from unknown space to 
 
 ## Fifth Message
 
-**Written by [[Jenny-H|Jenny H.]] (Jess)**
+**Written by _[[Jenny-H|Jenny H.]]_ (Jess)**
 
 Transmission from _Red Storm Rising_ to _Storm Clouds_.
 

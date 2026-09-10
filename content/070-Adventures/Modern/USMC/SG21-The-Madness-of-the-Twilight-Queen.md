@@ -14,6 +14,6 @@ fc-display-name: The Madness of the Twilight Queen
 title: The Madness of the Twilight Queen
 draft: false
 ---
-# The Madness of the Twilight Queen
+# SG21 The Madness of the Twilight Queen
 
 With _[[Dresdina-Cooper|Dresdina Coooper]]_ and Larabee Hosquith, Capt. Dashiel Walker, Dr. Birgit Ernestus, MD, Dr. Stephanie Parker, EPA, Kimberly Ketcham, DEA.

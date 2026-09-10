@@ -23,8 +23,8 @@ draft: false
 | Player Characters                                       | Non-Player Characters |
 | ------------------------------------------------------- | --------------------- |
 | _[[Lisa-Ellen-Manchester\|Manchester, Dr. Lisa Ellen]]_ |                       |
-| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_             |                       |
-| _[[Zoran-B#^9224e1\|Nacht, Mons. Frederick]]_      |                       |
+| _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                |                       |
+| _[[Zoran-B#^9224e1\|Nacht, Mons. Frederick]]_           |                       |
 
 ## Involvement
 

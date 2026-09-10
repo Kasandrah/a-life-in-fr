@@ -13,7 +13,7 @@ draft: false
 >
 >I wasn't sure whether Vlad would "take the bait", but he did.  The mighty Traldaran warrior fell head over heels in love, much to the amusement of his companions, and now looks for the time when he can be reunited with his beautiful Aleena.
 >
->The story begins just after Baron Sherlane Halaran has resurrected Vlad after [[DnD-Mystara-Timeline#Moldain 11|a fatal battle]].
+>The story begins just after Baron Sherlane Halaran has resurrected Vlad after _[[DnD-Mystara-Timeline#Moldain 11|a fatal battle]]_.
 
 You become aware of struggling up to the light.  A man is calling your name.  Your memory of a conversation with a red-headed Warrior King is rapidly fading.  This other man calls your name again, and you awake.  The first thing you notice is his nose, a prominent, jutting nose that must have earned him many interesting nicknames.  His eyes are blue, his hair snow-white, his face clean-shaven.  He appears to be in his early sixties and wears unpretentious clerical robes of the Church of Karameikos.  In a cheery but soft-spoken voice, he introduces himself as Baron Sherlane Halaran, Patriarch of Threshold.  He seems very pleased and relieved when you remember meeting him before at the home of Lord Kaerin Penhaligon.
 
@@ -31,7 +31,7 @@ Two weeks have gone by.  You are strong enough to walk about and have been to Th
 
 ---
 
-**Written by [[Michael-H|Michael H.]]**
+**Written by _[[Michael-H|Michael H.]]_**
 
 My dearest Aleena,
 
