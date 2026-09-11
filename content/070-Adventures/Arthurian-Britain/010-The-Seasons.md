@@ -48,7 +48,7 @@ First appearance of:
 - mercenary Pictish knights of the Northern Witch
 - Unseelie Red Cap ^25fcff
 - King Lot of the Orkneys
-- _[[Lillane-of-Clan-Bahari|Lady Leda]]_ and her brother Lucienne
+- _[[Lillane-of-Clan-Bahari|Lady Leda]]_ and her brother _[[Lucifer-Morningstar|Lucienne]]_
 - Gilbert, the Red and Black Knight, Castellan of Marlborough Castle, Steward of Mildenhall ^146e71
 - Marlborough Castle's cellar-dwelling necromancer (deceased)
 - Abbess and Abbott of Amesbury ^d83703
