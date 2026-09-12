@@ -22,11 +22,11 @@ draft: false
 
 | Player Characters                                                                         | Non-Player Characters                                                       |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[010-Modern-Characters#^1c77a1\|Dean, Jefferson]]_                        |
-| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[010-Modern-Characters#^ae064c\|McLane, Michael]]_                        |
+| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[010-Modern-Characters#^1c77a1\|Dean, Jefferson]]_                        |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[010-Modern-Characters#^ae064c\|McLane, Michael]]_                        |
 | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                        | _[[010-Modern-Characters#^8ef3f1\|Secretary of State, Warren Christopher]]_ |
-| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     | _Xusa_ - Brazilian TV star and Ambassador Wallace’s mistress.               |
-| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                             |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     | _Xusa_ - Brazilian TV star and Ambassador Wallace’s mistress.               |
+| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                             |
 
 >**GM's Note:** Ambassador Wallace’s mistress Xusa, who is unaware that she has poison under her new acrylic nails, accidentally poisons him.  Xusa rings the Embassy in a panic, and Michael McLane delegates the marines to recover Wallace discreetly from her apartment.  They find Wallace still unconscious, but don’t find Xusa.
 >

@@ -89,7 +89,7 @@ Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the op
 
 **_[[050-Modern#Nephilim, or Angels in America|Nephilim]]_** (Cleveland) - referencing the [3E D20 Occult Lore](https://www.drivethrurpg.com/en/product/145735/occult-lore-penumbra-ogl-3e-digital) supplement?
 
-**_[[USMC-Fireteam-SG21|USMC Fireteam SG21]]_** - continuing the current campaign, but moving to the Stargate facility and referencing the [Stargate: SG-1 Roleplaying Game](https://en.wikipedia.org/wiki/Stargate_SG-1_\(roleplaying_game\)) for setting background. See also [Debriefing: The Stargate SG-1 Roleplaying Game](https://kismetrose.com/sg1/DebriefingIndex.html).
+**_[[USMC-Fireteam-SG-21|USMC Fireteam SG-21]]_** - continuing the current campaign, but moving to the Stargate facility and referencing the [Stargate: SG-1 Roleplaying Game](https://en.wikipedia.org/wiki/Stargate_SG-1_\(roleplaying_game\)) for setting background. See also [Debriefing: The Stargate SG-1 Roleplaying Game](https://kismetrose.com/sg1/DebriefingIndex.html).
 
 ---
 

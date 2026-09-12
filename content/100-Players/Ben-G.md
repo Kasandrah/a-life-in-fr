@@ -12,7 +12,7 @@ draft: false
 - _[[090-Dragon-Riders-of-Pern#B'ruk|B'ruk]]_
 - _[[Alejandro-Guerrero#^7a3727|Ehecachichtli "Whistle"]]_
 - _[[Ciannia#^bbaf47|Flan]]_
-- _[[USMC-Fireteam-SG21#Captain David Goldfarb|Goldfarb, Captain David]]_
+- _[[USMC-Fireteam-SG-21#Captain David Goldfarb|Goldfarb, Captain David]]_
 - _[[Hrithik-Olafsson#^775558|Grognard]]_
 - _[[010-Knights-of-Arthurian-Britain#Gwion|Gwion]]_
 - _[[010-DnD-Adventurers#Kubinski, Yakov|Kubinski, Yakov]]_

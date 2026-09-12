@@ -9,13 +9,13 @@ draft: false
 ---
 # Major Terry Sheridan
 
-**USMC, SG21**
+**USMC, SG-21**
 
 ![[cc_terry_sheridan.jpg]]
 
 **Major Terry Sheridan**
 
-Sheridan is an "alien tech" specialist assigned to SG21 to support operational tasks that rely on the recognition and use of alien ships, gates, weaponry, and artifacts.
+Sheridan is an "alien tech" specialist assigned to SG-21 to support operational tasks that rely on the recognition and use of alien ships, gates, weaponry, and artifacts.
 
 ## Character Sheet
 

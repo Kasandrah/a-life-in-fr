@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Search and Rescue
+  - SG-21 Search and Rescue
 tags:
   - modern
   - timeline
@@ -10,10 +10,10 @@ timelines:
 fc-date: 1999-10-02
 fc-end: 1999-10-16
 fc-category: USMC vs "What the … ?"
-fc-display-name: Search and Rescue
-title: Search and Rescue
+fc-display-name: SG-21 Search and Rescue
+title: SG-21 Search and Rescue
 draft: false
 ---
-# SG21 Search and Rescue
+# SG-21 Search and Rescue
 
 With _[[Terry-Sheridan|Major Terry Sheridan]]_.

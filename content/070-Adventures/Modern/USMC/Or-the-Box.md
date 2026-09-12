@@ -23,11 +23,11 @@ draft: false
 | Player Characters                                                                         | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                        | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[010-Modern-Characters#^1c77a1\|Dean, Jefferson]]_                       |
-| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_ | _[[010-Modern-Characters#^1c77a1\|Dean, Jefferson]]_                       |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                 | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
 | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                        |                                                                            |
-| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     |                                                                            |
-| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                            |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                     |                                                                            |
+| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                         |                                                                            |
 
 >**GM's Note:** The party, minus a vampire and a ghoul, is finally in front of Dean.  Their meeting is held in a room in the Pentagon.  On the table is an unusual wooden box, heavily decorated with medieval-style carvings.
 >

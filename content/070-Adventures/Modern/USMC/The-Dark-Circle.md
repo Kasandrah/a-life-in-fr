@@ -24,9 +24,9 @@ draft: false
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ | _[[Jenny-H#^59824f\|Abrahamson, David]]_                                                               |
 | _[[Dresdina-Cooper\|Cooper, Dresdina]]_                                    | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_                                                               |
-| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_  | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                                                                |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_  | _[[Jenny-H#^14ff80\|McPherson, Mairi]]_                                                                |
 | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  | _Wenders, [[020-The-Antediluvians#Gwyn\|Agneta]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_ |
-| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_      |                                                                                                        |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_      |                                                                                                        |
 | _[[The-White-Magicians#Kellion O’Shea\|O'Shea, Kellion]]_                  |                                                                                                        |
 
 ## Highlights
@@ -119,6 +119,6 @@ Gwyn and Owain made their own way to wherever they were going.  The rest of the
 >
 >My intention with the United States Marine Corps (USMC) characters was to explore the outcome of matching heavy weaponry against various Cthulhu and non-Cthulhu threats. By catering to the wishes of only one player, the stand-in GM, I'd allowed my game to drift off mission and, finally, out of my hands.
 >
->To address the glaring imbalance in player agency, I asked the stand-in GM to create a new USMC character comparable with the others.  Hence, _[[USMC-Fireteam-SG21#Major Kris Morrissey|Major Kris Morrissey]]_ replaced _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_ and _[[Jenny-H#^59824f|David Abrahamson]]_.  I also ensured _[[020-The-Antediluvians#Gwyn|Agneta]] and [[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ never appeared in this campaign again.
+>To address the glaring imbalance in player agency, I asked the stand-in GM to create a new USMC character comparable with the others.  Hence, _[[USMC-Fireteam-SG-21#Major Kris Morrissey|Major Kris Morrissey]]_ replaced _[[Jenny-H#^27cdd0|Michal Hertzeanu]]_ and _[[Jenny-H#^59824f|David Abrahamson]]_.  I also ensured _[[020-The-Antediluvians#Gwyn|Agneta]] and [[020-The-Antediluvians#Owain and Juanita|Wim]] Wenders_ never appeared in this campaign again.
 
 ^714712

@@ -22,11 +22,11 @@ draft: false
 
 ### Player Characters
 
-_[[USMC-Fireteam-SG21#Captain David Goldfarb|Goldfarb, Captain David]]_
+_[[USMC-Fireteam-SG-21#Captain David Goldfarb|Goldfarb, Captain David]]_
 
-_[[USMC-Fireteam-SG21#Major Otto Ilsenburg|Ilsenburg, Major Otto]]_
+_[[USMC-Fireteam-SG-21#Major Otto Ilsenburg|Ilsenburg, Major Otto]]_
 
-_[[USMC-Fireteam-SG21#Colonel Jerry Snow|Snow, Colonel Jerry]]_
+_[[USMC-Fireteam-SG-21#Colonel Jerry Snow|Snow, Colonel Jerry]]_
 
 ## Highlights
 

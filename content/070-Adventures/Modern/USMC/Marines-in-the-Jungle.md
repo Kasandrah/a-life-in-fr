@@ -23,11 +23,11 @@ draft: false
 | Player Characters                                                                                                 | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                                                | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_                         | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
-| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                                         |                                                                            |
+| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_                         | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                                         |                                                                            |
 | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                                                |                                                                            |
-| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                                             |                                                                            |
-| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                                                 |                                                                            |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                                             |                                                                            |
+| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                                                 |                                                                            |
 | _Wenders, [[020-The-Antediluvians#Gwyn\|Agneta]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_, guest PCs |                                                                            |
 
 >**GM's Note:** Suitably armed and supported by additional marines, Snow and Co. investigate the second Nazi base deep in the Amazon jungle.  They rappel down to the jungle floor and discover a tunnel into a ruined temple.

@@ -23,11 +23,11 @@ draft: false
 | Player Characters                                                                                                 | Non-Player Characters                                                      |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | _[[Jenny-H#^59824f\|Abrahamson, David]]_, guest PC                                                                | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_                         | _[[010-Modern-Characters#^8067a0\|Bennett, Ambassador Lisa]]_              |
-| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_                                         | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson\|Anderson, Gunnery Sergeant Doug]]_                         | _[[010-Modern-Characters#^8067a0\|Bennett, Ambassador Lisa]]_              |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_                                         | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
 | _[[Jenny-H#^27cdd0\|Hertzeanu, Michal]]_, guest PC                                                                |                                                                            |
-| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                                             |                                                                            |
-| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                                                 |                                                                            |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_                                             |                                                                            |
+| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_                                                 |                                                                            |
 | _Wenders, [[020-The-Antediluvians#Gwyn\|Agneta]] and [[020-The-Antediluvians#Owain and Juanita\|Wim]]_, guest PCs |                                                                            |
 
 >**GM's Note:** Wallace is replaced by Ambassador Lisa Bennett, a highly competent career diplomat in her mid-forties with considerable clout in Washington circles.  Ambassador Bennett proves her mettle by delaying for over a week Dean’s order for the party and the da Silvas to join him in Washington immediately.

@@ -1,17 +1,17 @@
 ---
 aliases:
-  - USMC Fireteam SG21
+  - USMC Fireteam SG-21
 tags:
   - modern
   - player-character
-title: USMC Fireteam SG21
+title: USMC Fireteam SG-21
 draft: false
 ---
-# USMC Fireteam SG21
+# USMC Fireteam SG-21
 
 ## Colonel Jerry Snow
 
-**USMC, SG21**
+**USMC, SG-21**
 
 - make General, then Chief of Staff - career soldier
 - improve his golf and fishing
@@ -21,7 +21,7 @@ Played by _[[Michael-H|Michael H.]]_
 
 ## Major Otto Ilsenburg
 
-**USMC Intelligence, SG21**
+**USMC Intelligence, SG-21**
 
 - survive the weird stuff with sanity intact
 - patriotic, serve his country
@@ -33,7 +33,7 @@ Played by _[[Simon-M|Simon M.]]_
 
 ## Major Kris Morrissey
 
-**USMC, SG21**
+**USMC, SG-21**
 
 Joined the team just prior to _[[The-Killer-Out-of-Space|The Killer Out of Space]]_.
 
@@ -41,7 +41,7 @@ Played by _[[Jenny-H|Jenny H.]]_
 
 ## Captain David Goldfarb
 
-**US Navy, SG21**
+**US Navy, SG-21**
 
 New York Jew who looks like Jude Law. Almost became a rabbi, but became a doctor instead. Joined the Navy and was assigned eventually to the US Embassy in Brazil.
 
@@ -53,6 +53,6 @@ Played by _[[Ben-G|Ben G.]]_
 
 ## Gunnery Sergeant Doug Anderson
 
-**USMC, SG21**
+**USMC, SG-21**
 
 Played by _[[Craig-B|Craig B.]]_

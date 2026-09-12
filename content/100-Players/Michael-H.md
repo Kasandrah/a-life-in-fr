@@ -14,7 +14,7 @@ draft: false
 - _[[Ciannia#^46e8c5|Drost]]_
 - _[[The-Summer-Country#Lan|Lan]]_
 - _[[020-The-Antediluvians#Rafi|Rafi]]_
-- _[[USMC-Fireteam-SG21#Colonel Jerry Snow|Snow, Colonel Jerry]]_
+- _[[USMC-Fireteam-SG-21#Colonel Jerry Snow|Snow, Colonel Jerry]]_
 - _[[The-White-Magicians#Sydney George Washington|Washington, Sydney George]]_
 
 ___

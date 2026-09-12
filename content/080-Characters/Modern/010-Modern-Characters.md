@@ -70,7 +70,7 @@ _Wallace, Ambassador Henry William_ (45) - the United States Ambassador to Braz
 _Wallace, Heather_ (38) - Ambassador Wallace’s wife who has received some compromising photographs of her husband and his mistress. ^e9324b
 
 Their children are:
- - _Wallace, Rebecca_ (16) who likes _[[USMC-Fireteam-SG21#Captain David Goldfarb|Captain Goldfarb]]_ ^e558c2
+ - _Wallace, Rebecca_ (16) who likes _[[USMC-Fireteam-SG-21#Captain David Goldfarb|Captain Goldfarb]]_ ^e558c2
  - _Wallace, George_ (13) who is a bookish computer nerd ^b83d93
  - _Wallace, Thomas_ ("Tommy" - 6) who likes playing soldiers. ^a67569
 
@@ -158,7 +158,7 @@ _[[Alexandria-Mary-MacDonald|MacDonald, Alexandria Mary]]_
 
 ### Colorado - Cheyenne Mountain - Star Gate Command
 
-_[[USMC-Fireteam-SG21|USMC Fireteam SG21]]_
+_[[USMC-Fireteam-SG-21|USMC Fireteam SG-21]]_
 
 _Donnelly, Susan_ - DARPA SPO, is a 27-year-old Mayan archaeologist, researcher and epigrapher (deciphers and interprets inscriptions) who worked on the Early Copan Acropolis Program in Honduras, South America, supported by National Geographic.  Susan is a member of an ancient Catholic Order known as the Knights of St. Jerome.  Susan has strong skills in machete, Mayan hieroglyphics and Mayan lore (history, culture, mythology and architecture of the Mayans).  Angela Hamilton, a member of the National Geographic Board of Trustees, recommended Susan to David Sedat after Angela read Susan’s papers on Mayan culture. ^d263fb
 

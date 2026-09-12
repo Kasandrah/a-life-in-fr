@@ -24,9 +24,9 @@ draft: false
 
 | Player Characters                                                         | Non-Player Characters                                                      |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_ | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
-| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_     | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
-| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_         | _[[010-Modern-Characters#^dc272f\|Wallace, Henry William]]_                |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_ | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_ |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_     | _[[Si-Ling#1972 AD - Angela Hamilton\|Hamilton, Angela]]_                  |
+| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_         | _[[010-Modern-Characters#^dc272f\|Wallace, Henry William]]_                |
 |                                                                           | _[[010-Modern-Characters#^e9324b\|Wallace, Heather]]_                      |
 |                                                                           | _[[010-Modern-Characters#^e558c2\|Wallace, Rebecca]]_                      |
 |                                                                           | _[[010-Modern-Characters#^b83d93\|Wallace, George]]_                       |

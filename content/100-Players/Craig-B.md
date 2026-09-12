@@ -7,7 +7,7 @@ draft: false
 ---
 # Craig B.
 
-- _[[USMC-Fireteam-SG21#Gunnery Sergeant Doug Anderson|Anderson, Gunnery Sergeant Doug]]_
+- _[[USMC-Fireteam-SG-21#Gunnery Sergeant Doug Anderson|Anderson, Gunnery Sergeant Doug]]_
 - _[[010-DnD-Adventurers#Ashrem of the Wolf Clan|Ashrem of the Wolf Clan]]_
 - _[[010-Star-Wars-Characters#da Silver, Mynos|da Silver, Mynos]]_
 - _[[020-The-Antediluvians#Wolfstead Hengisson|Hengisson, Wolfstead]]_

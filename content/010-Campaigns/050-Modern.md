@@ -71,26 +71,26 @@ Jenny ran _[[Dreamers-Delight|Dreamer’s Delight]]_ and _[[Looking-for-Algrens-
 
 My USMC campaign was set originally in Brazil, specifically the capital city of Brasilia. The PCs were members of the United States Marine Corps (USMC) Security Forces tasked with protecting the Embassy of the United States of America, Brasilia, Brazil. The Embassy had 150 personnel, 30 USMC guards, and a metal detector at the front door.
 
-The PCs have since become operatives in a secretive organisation responsible for neutralizing global paranormal threats. This organisation is run by Jefferson Dean, the man from whom the PCs now take their orders. The PCs have expanded their area of responsibility recently by joining the Stargate program as SG21.
+The PCs have since become operatives in a secretive organisation responsible for neutralizing global paranormal threats. This organisation is run by Jefferson Dean, the man from whom the PCs now take their orders. The PCs have expanded their area of responsibility recently by joining the Stargate program as SG-21.
 
-Meet _[[USMC-Fireteam-SG21|USMC Fireteam SG21]]_.
+Meet _[[USMC-Fireteam-SG-21|USMC Fireteam SG-21]]_.
 
 **USMC Episodes**
 
-| Adventures                                                                   |                                                                                                  |
+| Adventures                                                                       |                                                                                                  |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 1996 September 7th - _[[Independence-Day\|Independence Day]]_                | 1996 October 15th - _[[Loves-Lonely-Children\|Love's Lonely Children]]_                          |
-| 1996 October 20th - _[[Crystal-Eyes\|Crystal Eyes]]_                         | 1996 November - _[[Illegal-Aliens\|Illegal Aliens]]_                                             |
-| 1996 December - _[[Sins-of-the-Father\|Sins of the Father]]_                 | 1997 January - _[[Reunion\|Reunion]]_                                                            |
-| 1997 late January - _[[Setting-the-Trap\|Setting the Trap]]_                 | 1997 early February - _[[Fire-and-Air\|Fire and Air]]_                                           |
-| 1997 late February - _[[Or-the-Box\|Or the Box]]_                            | 1997 early March - _[[Marines-on-Ice\|Marines on Ice]]_                                          |
-| 1997 late March - _[[Marines-in-the-Jungle\|Marines in the Jungle]]_         | 1997 April - _[[The-Dark-Circle\|The Dark Circle]]_                                              |
-| 1997 June - _[[One-of-Our-Planes-is-Missing\|One of Our Planes is Missing]]_ | 1997 September - _[[The-Killer-Out-of-Space\|The Killer Out of Space]]_                          |
-| 1998 March 6th - _[[Airport\|Airport]]_                                      | 1999 May - _[[The-Dark-Side-of-the-Moon\|The Dark Side of the Moon]]_                            |
-| 1999 June - _[[First-Assignment\|First Assignment]]_                         | 1999 July - _[[Trouble-at-Black-Rock\|Trouble at Black Rock]]_                                   |
-| 1999 August - _[[Flames-of-Wrath\|Flames of Wrath]]_                         | 1999 September - <br>_[[A-Funny-Thing-Happened\|A Funny Thing Happened at Carousel 5]]_          |
-| 1999 October - SG 21: _[[SG21-Search-and-Rescue\|Search and Rescue]]_             | 1999 November - SG 21: _[[SG21-The-Garden\|The Garden]]_                                              |
-| 1999 December - SG 21: _[[SG21-Snowflake-Valley\|Snowflake Valley]]_ - Nocturnum  | 2000 January - SG 21: _[[SG21-The-Madness-of-the-Twilight-Queen\|The Madness of the Twilight Queen]]_ |
+| 1996 September 7th - _[[Independence-Day\|Independence Day]]_                    | 1996 October 15th - _[[Loves-Lonely-Children\|Love's Lonely Children]]_                          |
+| 1996 October 20th - _[[Crystal-Eyes\|Crystal Eyes]]_                             | 1996 November - _[[Illegal-Aliens\|Illegal Aliens]]_                                             |
+| 1996 December - _[[Sins-of-the-Father\|Sins of the Father]]_                     | 1997 January - _[[Reunion\|Reunion]]_                                                            |
+| 1997 late January - _[[Setting-the-Trap\|Setting the Trap]]_                     | 1997 early February - _[[Fire-and-Air\|Fire and Air]]_                                           |
+| 1997 late February - _[[Or-the-Box\|Or the Box]]_                                | 1997 early March - _[[Marines-on-Ice\|Marines on Ice]]_                                          |
+| 1997 late March - _[[Marines-in-the-Jungle\|Marines in the Jungle]]_             | 1997 April - _[[The-Dark-Circle\|The Dark Circle]]_                                              |
+| 1997 June - _[[One-of-Our-Planes-is-Missing\|One of Our Planes is Missing]]_     | 1997 September - _[[The-Killer-Out-of-Space\|The Killer Out of Space]]_                          |
+| 1998 March 6th - _[[Airport\|Airport]]_                                          | 1999 May - _[[The-Dark-Side-of-the-Moon\|The Dark Side of the Moon]]_                            |
+| 1999 June - _[[First-Assignment\|First Assignment]]_                             | 1999 July - _[[Trouble-at-Black-Rock\|Trouble at Black Rock]]_                                   |
+| 1999 August - _[[Flames-of-Wrath\|Flames of Wrath]]_                             | 1999 September - <br>_[[A-Funny-Thing-Happened\|A Funny Thing Happened at Carousel 5]]_          |
+| 1999 October - SG-21: _[[SG-21-Search-and-Rescue\|Search and Rescue]]_            | 1999 November - SG 21: _[[SG-21-The-Garden\|The Garden]]_                                              |
+| 1999 December - SG 21: _[[SG-21-Snowflake-Valley\|Snowflake Valley]]_ - Nocturnum | 2000 January - SG 21: _[[SG-21-The-Madness-of-the-Twilight-Queen\|The Madness of the Twilight Queen]]_ |
 
 > "Semper Fidelis" ("Always Faithful")  
 > Official motto of the US Marine Corps  

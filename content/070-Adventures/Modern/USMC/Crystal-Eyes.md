@@ -22,9 +22,9 @@ draft: false
 
 | Player Characters                                                         | Non-Player Characters                                                          |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| _[[USMC-Fireteam-SG21#Captain David Goldfarb\|Goldfarb, Captain David]]_ | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_     |
-| _[[USMC-Fireteam-SG21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_     | _[[010-Modern-Characters#^faa69f\|Campbell, Major James]]_                     |
-| _[[USMC-Fireteam-SG21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_         | _[[010-Modern-Characters#^d7b9d1\|Jones, General James L., Commandant, USMC]]_ |
+| _[[USMC-Fireteam-SG-21#Captain David Goldfarb\|Goldfarb, Captain David]]_ | _[[Abdiel#1960 AD - Antonio Andrada da Silva\|Andrada da Silva, Antonio]]_     |
+| _[[USMC-Fireteam-SG-21#Major Otto Ilsenburg\|Ilsenburg, Major Otto]]_     | _[[010-Modern-Characters#^faa69f\|Campbell, Major James]]_                     |
+| _[[USMC-Fireteam-SG-21#Colonel Jerry Snow\|Snow, Colonel Jerry]]_         | _[[010-Modern-Characters#^d7b9d1\|Jones, General James L., Commandant, USMC]]_ |
 |                                                                           | _[[010-Modern-Characters#^793f63\|Dunbain, Anna]]_                             |
 |                                                                           | _[[010-Modern-Characters#^48931a\|Dunbain, Leonardo]]_                         |
 |                                                                           | _[[010-Modern-Characters#^a00b29\|The General]]_                               |
