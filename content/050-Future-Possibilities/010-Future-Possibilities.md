@@ -1,0 +1,232 @@
+---
+aliases:
+  - Future Possibilities
+title: 010 Future Possibilities
+draft: false
+---
+# Future Possibilities
+
+This site helps me look forward as well as back. I'm interested in running these scenarios at some future opportunity. Something old and something new.
+
+As my focus is running games online via [Foundry VTT](https://foundryvtt.com/), my priority for choosing a future possibility is whether it has been, or can be, adapted to a Foundry-based [game system](https://foundryvtt.com/packages/systems).
+
+## Earth-Based Campaigns
+
+![[fp_fvtt_pendragon.png]]
+
+**Pendragon**
+
+**_[[010-Knights-of-Arthurian-Britain#Second Campaign - 520 AD|Arthurian Britain]]_** - (520 AD using [Pendragon 6th Edition](https://www.foundryvtt.store/products/cha-pen-fvtt-en-core)) - continuing the current campaign, moving forward to the next generation of PC knights, the sons of the PCs so well established in the game to date.
+
+---
+
+![[fp_fvtt_age_of_vikings.png]]
+
+**Age of Vikings**
+
+**[Age of Vikings](https://www.foundryvtt.store/products/cha-aov-fvtt-en-core)** - (977 AD using [Basic Roleplaying: Universal Game Engine](https://www.chaosium.com/basic-roleplaying/)) - starting with [The Cursed Farm](https://foundryvtt.com/packages/cha-aov-fvtt-en-thecursedfarm) and learning one of the two systems I'm reviewing for [Antipodean Moon](https://antipodeanmoon.com/). I will also use [Cthulhu Through the Ages](https://www.drivethrurpg.com/en/product/167651/cthulhu-through-the-ages) for Dark Ages and Mythic Iceland references. See Andrew Logan Montgomery's [review](https://andrewloganmontgomery.blogspot.com/2023/04/basic-roleplaying-universal-game-engine.html) for more details on this system.
+
+---
+
+![[fp_fvtt_dark_ages_vampire.webp]]
+
+**Dark Ages Vampire**
+
+**_[[010-Dark-Ages|Dark Ages]]_** - (1200 AD, Spain using [World of Darkness 5E](https://foundryvtt.com/packages/wod5e/)) - continuing the current campaign, providing opportunities to learn more about _[[010-History-of-Clan-Bahari|Clan Bahari]]_ and the workings of the _[[010-The-Circle-of-Order|Circle of Order]]_.
+
+**Knights Templar and the Crusades** - a new campaign starting in Saragossa and journeying to the Holy Land. The PCs are Templar Knights, [Imbued Hunters](https://whitewolf.fandom.com/wiki/Hunter:_The_Reckoning#Imbued), under the command of _[[Abdiel#^f5cf41|Don Juan Carlos Vega y Galino]]_, with the special commission of giving the unholy progeny of Cain the True Death.
+
+---
+
+![[fp_fvtt_cthulhu_by_gaslight.webp]]
+
+**Cthulhu by Gaslight**
+
+**[Cthulhu by Gaslight](https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-pdf/)** - (late 1800s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - the other system I'm reviewing for [Antipodean Moon](https://antipodeanmoon.com/), supplemented by [Dark Designs](https://www.drivethrurpg.com/en/product/1676/dark-designs), [D20 Past](https://www.drivethrurpg.com/en/product/54231/d20-past-d20m), and [Pulp Cthulhu](https://www.drivethrurpg.com/en/product/199600/pulp-cthulhu-7th-edition-call-of-cthulhu)
+ - [Hudson & Brand](https://www.drivethrurpg.com/en/product/229175/hudson-brand-inquiry-agents-of-the-obscure-a-call-of-cthulhu-setting-for-cthulhu-by-gaslight) with [Spirits of London](https://www.drivethrurpg.com/en/product/229177/the-spirits-of-london-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), [The Thirteen](https://www.drivethrurpg.com/en/product/229178/the-thirteen-a-call-of-cthulhu-sourcebook-for-cthulhu-by-gaslight), and [A Lens of Darkness](https://www.drivethrurpg.com/en/product/231982/a-lens-of-darkness) (Victorian Era London).
+
+---
+
+![[fp_fvtt_call_of_cthulhu.png]]
+
+**Call of Cthulhu**
+
+**_[[010-Modern#From 1878 to 1926|Modern]]_** - (1920s using [Call of Cthulhu](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)) - short campaigns of a few weeks each:
+
+- [Call of Cthulhu Quick-Start Rules](https://foundryvtt.com/packages/cha-coc-fvtt-en-quickstart) with [The Haunting](https://cultistarmoury.org/the-haunting/)
+- [Call of Cthulhu Starter Set](https://www.foundryvtt.store/products/cha-coc-fvtt-en-starterset) with:
+	- Alone Against the Flames (Solo Adventure)
+	- Paper Chase (1-2 Investigators + Keeper): The search for a missing professor leads to a grizzly discovery
+	- Edge of Darkness (2-5 Investigators + Keeper): A group of investigators fulfill the wish of a dying friend and attempt to undo the mistakes of the past
+	- Dead Man Stomp (2-5 Investigators + Keeper): Harlem and jazz music serve as a backdrop to the nefarious schemes of an alien god.
+- Casablanca (Morocco) - _[[Aletta-Yasmini|Aletta]]_ and _[[Viktor-Besarab|Viktor]]_ choose a side in the Rif War, August 1926
+- Los Angeles (USA) - _[[Alexandria-Mary-MacDonald|Alex]]_ and _[[Joshua-Eberhardt|Josh]]_ vs Hollywood’s [betrayal of "Bettys"](https://www.imdb.com/title/tt0166924), February 1926
+- Boston (USA) - _[[Diana-Elizabeth-Winthrop|Diana]]_ and _[[David-van-Hasalt|David]]_ vs the East Coast anarchist movement, April 1926
+- Melbourne (Australia) - _[[Lisa-Ellen-Manchester|Lisa]]_ and _[[Gavin-Lewis|Gavin]]_ vs the Elite’s eugenics mantra, October 1926.
+
+I’ve been developing a longer campaign set in _[[020-India-Campaign-Notes|India]]_ in 1926 with _[[Rajkumari-Anjuli-of-Shahpura|Rajkumari Anjuli of Shahpura]]_ as the focus around whom events unfold. This offers the opportunity for a mix of Indian and [Cthulhu Mythos](https://en.wikipedia.org/wiki/Cthulhu_Mythos) stories, set in the twilight years of the British Raj.
+
+Anjuli’s companions will include _[[Tyson-Trevelyan|Baron Tyson Trevelyan]]_, an ex-British Army Major stationed in India who left the Army in dire circumstances. Tyson has a passion for climbing mountains and looking after his friends, particularly Sher Singh Ardra. Tyson also wants to tie up the loose ends caused by his break with his immediate family.
+<br>
+
+![[fp_fvtt_berlin_wicked_city.jpg]]
+
+**Berlin - The Wicked City**
+
+Another possibility is [Berlin - The Wicked City](https://www.drivethrurpg.com/en/product/269387/berlin-the-wicked-city), set in Weimar Germany between the end of the Great War and the rise of Adolf Hitler and the Nazi Party.
+
+---
+
+![[fp_fvtt_everyday_heroes.jpeg]]
+
+**Everyday Heroes**
+
+**_[[010-Modern#From 1983 to 1992|Modern]]_** - (late 1990s using [Everyday Heroes](https://www.foundryvtt.store/products/eh-core-rulebook)):
+
+Adelaide, South Australia - _[[Dresdina-Cooper|Dresdina]]_ (now with ASIO), _[[Athos|Athos]]_, the _[[010-Dreamlands|Dreamlands]]_, and the new occult.  PCs undergo training as "Dreamers" to influence the real world through dreams, Jungian psychological explorations of the collective unconscious, astral projection, astrology, low-end "mind tricks," and occultism.
+
+Siding with the PCs are the _[[The-White-Magicians|White Magicians]]_; on the opposite side is real evil.  Non-military, soft-end PCs with only their wits, their skills, and prayer to protect them.
+
+**_[[010-Modern#Nephilim, or Angels in America|Nephilim]]_** (Cleveland) - referencing the [3E D20 Occult Lore](https://www.drivethrurpg.com/en/product/145735/occult-lore-penumbra-ogl-3e-digital) supplement?
+
+**_[[010-USMC-Fireteam-SG-21|USMC Fireteam SG-21]]_** - continuing the current campaign, but moving to the Stargate facility and referencing the [Stargate: SG-1 Roleplaying Game](https://en.wikipedia.org/wiki/Stargate_SG-1_\(roleplaying_game\)) for setting background. See also [Debriefing: The Stargate SG-1 Roleplaying Game](https://kismetrose.com/sg1/DebriefingIndex.html).
+
+---
+
+![[fp_fvtt_delta_green.png]]
+
+**Delta Green Agent's Handbook**
+
+**_[[010-Modern#Web of Spies|Web of Spies II]]_** - (2019 AD using [Delta Green: Agents Handbook](https://www.foundryvtt.store/products/delta-green-agents-handbook)) - restarting my [Classic Spycraft/Shadowforce Archer](https://www.drivethrurpg.com/en/publisher/341/crafty-games/category/4320/classic-spycraft) and [Spycraft 2.0](https://www.drivethrurpg.com/en/publisher/341/crafty-games/category/4116/spycraft-2-0) campaign in the [COVID](https://en.wikipedia.org/wiki/COVID-19_pandemic) era.
+
+---
+
+**_[[030-The-Ocean-of-Space|The Ocean of Space]]_** - (current time using ?) - a new campaign for underwater archaeologists investigating ancient and mysterious structures in the world's oceans. _[[Charles-van-Buren|Charles]]_ and _[[Sarah-Ann-van-Buren|Sarah van Buren]]_, wealthy philanthropists onboard their luxury yacht, the _[[1995-Silk-Scorpion-II|Silk Scorpion II]]_, sponsor the research crew.
+
+---
+
+![[fp_fvtt_the_secret_world.png]]
+
+**The Secret World**
+
+**[The Secret World](https://www.drivethrurpg.com/en/product/484494/the-secret-world-core-setting-swade)** - (current time using the [Savage Worlds Core Ruleset](https://foundryvtt.com/packages/swade-core-rules)) - a licensed IP roleplaying game based on the MMO of the [same name](https://www.secretworldlegends.com/#thegame). Inspired by [H.P. Lovecraft's Cthulhu Mythos](https://lovecraft.fandom.com/wiki/Cthulhu_Mythos). Also comes in a [D&D 5E](https://www.drivethrurpg.com/en/product/472546/the-secret-world-5e-core-book) version, but if I'm running D&D 5E, I'd prefer a fantasy setting rather than this modern setting.
+
+## Alternate Worlds
+
+![[fp_fvtt_dragon_age.jpg]]
+
+**Dragon Age Quick Start Guide**
+
+**[Dragon Age](https://www.drivethrurpg.com/en/product/147899/dragon-age-rpg-core-rulebook)** - (using [The Expanse Ruleset](https://foundryvtt.com/packages/expanse), the only Foundry VTT system based on Green Ronin's [Adventure Game Engine](https://greenronin.com/what-is-age-the-adventure-game-engine/), the system underlying Dragon Age) - a licensed IP roleplaying game based on the video games of the [same name](https://www.ea.com/games/dragon-age).
+
+---
+
+![[fp_fvtt_thunder_rift.webp]]
+
+**Thunder Rift**
+
+**_[[010-Dungeons-n-Dragons|Dungeons & Dragons]]_** - (1000 AC using [Old School Essentials](https://www.foundryvtt.store/products/ose-advancedfantasytome) instead of [BECMI](https://www.drivethrurpg.com/en/browse?ruleSystem=44828-basic-becmi-or-od-d))
+
+ - [Council of Wyrms](https://www.drivethrurpg.com/en/product/17026/campaign-option-council-of-wyrms-setting-2e) - be a dragon, half-dragon, or kindred demi-human in the [Dragon Kingdom of Wyrmsteeth](https://www.scribd.com/document/379650395/The-Dragon-Kingdom-of-Wyrmsteeth)
+ - [Thunder Rift](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clmokg2nd005a033cwvm71x05/) from 1st to 5th level, then landing in [Pendleton](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICR29ICAAAAAaSb8XFPPIXlvns5eTgDGdQ?e=1qav07) 
+ - [Rules Cyclopedia](https://www.drivethrurpg.com/en/product/17171/d-d-rules-cyclopedia-basic) + BECMI Adventures from 1st to ? level
+	 - [B1-9: In Search of Adventure](https://index.rpg.net/display-entry.phtml?mainid=64) from 1st to 3rd level
+
+Dungeons & Dragons - same setting and era as the Old School Essentials campaign but using [D&D 5E](https://foundryvtt.com/packages/dnd5e) for a modern audience
+
+ - [The Armstead Catacombs](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clath7ypk0002033crdfl3got/) - the first part of [Lady Elenore's Irregulars](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/claducopy0002033c9km344hu/)
+ - [The Demon Queen Awakens](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clm4jsot90078033c3gze6y0p/)
+ - [Ghoul Island](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/cladh2zlu0008033c1zdcgu9j/) and then moving on to the [Isle of Dread](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/ckn73hfrca5il0762pgsk2nk5/), referencing [Cthulhu by Torchlight](https://marketplace.dndbeyond.com/category/DBIRFDZMU)  
+ - [Rime of the Frostmaiden](https://www.legendkeeper.com/app/ckn05583migrz0762e8hapo3d/clmk3zshy0003033cvz46mgvs/)
+<br>
+
+![[fp_fvtt_icespire_peak.jpg]]
+
+**Dragon of Icespire Peak, D&D Beyond**
+
+I've not adapted the following D&D 5E adventures to Mystara, so they will require additional work before being ready to play.
+
+ - [Dragon of Icespire Peak](https://marketplace.dndbeyond.com/adventures/SRC-00041) levels 1-7, [Storm Lord’s Wrath](https://marketplace.dndbeyond.com/adventures/SRC-00050) levels 7-9, [Sleeping Dragon's Wake](https://marketplace.dndbeyond.com/adventures/SRC-00051) levels 9-11, and [Divine Contention](https://marketplace.dndbeyond.com/adventures/SRC-00052) levels 11-13, an adventure path.
+ - [Heroes of the Borderlands](https://marketplace.dndbeyond.com/category/4705000?pid=DB4705000&Digital%2FPhysical=Digital), a classic entry-level campaign rebooted for the modern era with 40 to 60 hours of playtime for levels 1-5.
+ - [Lost Caverns of Tsojcanth](https://www.dndbeyond.com/claim/source/descent-into-tsojcanth) level 9, an abridged version based on an [AD&D original](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRp88CAAAAARpM2ExTb_VoOmVtqcBXwj4?e=ApawPk), can be placed in any mountain range near a kingdom or settlement. Contains just the lesser caverns.
+ - [The Wild Beyond the Witchlight](https://marketplace.dndbeyond.com/adventures/wild-beyond-the-witchlight?pid=SRC-00079) levels 1-8, set in the Feywild, also known as the Plane of Faerie, hence easier to run in Mystara than other adventures on this list.
+ - [Zombie Clot](https://www.dndbeyond.com/claim/source/dungeon-masters-zombie-clot-play-along-pack) levels ? to ?, the first episode of the [Play Along Pack](https://www.dungeonsanddragons.com/dungeon-masters/#Play-Along-Pack) for [Ravenloft: The Horrors Within](https://marketplace.dndbeyond.com/BB-Ravenloft-WK15). This campaign will start in Mystara but quickly transfer to the [Plane of Ravenloft](https://ravenloft.fandom.com/wiki/Ravenloft), specifically [Sithicus](https://ravenloft.fandom.com/wiki/Sithicus), one of the Realms of Dread.
+
+---
+
+![[fp_fvtt_star_wars.jpg]]
+
+**Star Wars - Edge of the Empire**
+
+**_[[010-Star-Wars|Star Wars]]_** - (using [StarWarsFFG](https://github.com/StarWarsFoundryVTT/StarWarsFFG/wiki)) - continuing the classic space opera campaign post-Return of the Jedi but not following established book / comic continuity.
+
+---
+
+![[fp_fvtt_cathulhu.jpg]]
+
+**Cathulhu**
+
+**_[[010-Dreamlands|Dreamlands]]_** - (equivalent technology to 1400 AD using ?) - 
+
+ - [Cats of Ulthar](https://en.wikipedia.org/wiki/The_Cats_of_Ulthar) - referencing [Cathulhu](https://www.drivethrurpg.com/en/product/128524/cathulhu), be a magical cat in H. P. Lovecraft's Dreamlands!
+ - _[[Dresdina-Cooper|Dresdina]]_ and _[[Athos|Athos]]_ in Ulthar
+
+---
+
+![[fp_fvtt_bladerunner.jpg]]
+
+**Blade Runner**
+
+**[Blade Runner](https://freeleaguepublishing.com/games/blade-runner-rpg/)** - (2037 AD using [Blade Runner](https://www.foundryvtt.store/products/blade-runner-core-game)) - a new cyberpunk campaign set in the future with a USA orientation - gumshoe / film noir feel with Blade Runners and replicants (try to tell who's what).
+
+---
+
+![[fp_fvtt_ruins_of_gauntlight.jpg]]
+
+**Ruins of Gauntlight**
+
+**[Gauntlight Keep](https://pathfinderwiki.com/wiki/Gauntlight_Keep)** - (4726 Age of Lost Omens using [Pathfinder 2E](https://foundryvtt.com/packages/pf2e)) - set on [Golarion](https://map.pathfinderwiki.com/#location=3.31/29.88/1.35) and starting with the [Pathfinder Beginner Box](https://www.foundryvtt.store/products/pf2e-beginner-box), Menace Under Otari, [Troubles in Otari](https://store.paizo.com/pathfinder-adventure-troubles-in-otari-pdf/), then [Abomination Vaults](https://www.foundryvtt.store/products/pf2e-abomination-vaults).
+
+_[[080-Ben-G|Ben G.]]_ and I have invested quite a bit into Pathfinder, so we have a lot of setting and adventure material for ongoing campaigns.
+
+---
+
+![[fp_fvtt_magical_kitties.jpg]]
+
+**Magical Kitties Save the Day**
+
+**[Magical Kitties Save the Day](https://www.atlas-games.com/magicalkitties)** - yes, I'm serious! If you know me well, then you know why this is on my list.
+
+---
+
+![[fp_fvtt_steamscapes.jpg]]
+
+**Steamscapes**
+
+**[Steampunk](https://en.wikipedia.org/wiki/Steampunk)** - (1800s using the [Savage Worlds Core Ruleset](https://foundryvtt.com/packages/swade-core-rules)) - more fantastic than gaslight, so set in alternate worlds instead of my regular series of earthbound campaigns
+
+ - [Steamscapes](https://www.drivethrurpg.com/en/product/124078/steamscapes-north-america) - starts in North America, 1871
+ - [The Widening Gyre](https://www.drivethrurpg.com/en/product/137764/the-widening-gyre-a-savage-steampunk-setting) - 1837 through to 1918 with a more global focus
+
+---
+
+![[fp_fvtt_planescape.webp]]
+
+**Planescape**
+
+Also available for consideration, depending on how much work I have to do to adapt the setting and adventures to a suitable Foundry VTT system:
+ - [AD&D First Edition](https://rpggeek.com/rpg/191/advanced-dungeons-and-dragons-1st-edition)
+	 - [Conan](http://www.waynesbooks.com/Conan.html) (1984)
+	 - [Modules](https://1drv.ms/f/c/91410f4890c8961c/IgAclsiQSA9BIICR-s4BAAAAAaBAI3eQZS4ZpZmIWL3VwqQ?e=tu6kPc) set mostly in Greyhawk
+ - [AD&D Second Edition](https://rpggeek.com/rpg/244/advanced-dungeons-and-dragons-2nd-edition)
+	 - [Spelljammer](https://rpggeek.com/rpgsetting/242/spelljammer) (1991)
+	 - [Al-Qadim Secrets of the Lamp](https://www.drivethrurpg.com/en/product/16877/alq4-secrets-of-the-lamp-2e) (1993)
+	 - [Lankhmar](https://rpggeek.com/rpgitem/55549/lankhmar-city-of-adventure-ad-and-d-2e) (1993)
+	 - [Planescape](https://rpggeek.com/rpgsetting/535/planescape) (1994)
+ - D&D [3.0](https://rpggeek.com/rpg/221/dungeons-and-dragons-3rd-edition) and [3.5](https://rpggeek.com/rpg/243/dungeons-and-dragons-35-edition)
+	 - [Kingdoms of Kalamar](https://www.drivethrurpg.com/en/publisher/336/kenzer-company/category/568/kingdoms-of-kalamar) (2001)
+	 - [Oriental Adventures](https://rpggeek.com/rpgitem/47892/oriental-adventures) (2001)
+	 - [Dragonlance](https://www.drivethrurpg.com/en/publisher/44/wizards-of-the-coast/category/322/dragonlance?src=browse44) (2003)
+	 - [Ghostwalk](https://rpggeek.com/rpgitem/47699/ghostwalk) (2003)
+	 - [Eberron](https://www.drivethrurpg.com/en/publisher/44/wizards-of-the-coast/category/9738/eberron) (2004)
+ - [Mass Effect](https://1drv.ms/b/c/91410f4890c8961c/IQAclsiQSA9BIICRO88CAAAAAa-emF1g6Juvuzauhi3z2jA?e=msvQTh) (d20 system)

@@ -1,0 +1,25 @@
+---
+aliases:
+  - Zoran B.
+tags: players
+draft: false
+title: 060 Zoran B
+---
+# Zoran B.
+
+- _[[030-The-Summer-Country#Kyle|Kyle]]_
+- _[[010-Star-Wars-Characters#Zeff|Zeff]]_
+
+---
+
+## _[[010-Modern|Modern]]_
+
+_Anstey, Harry_ - a novelist. ^b62306
+
+_Ellis, Runyard_ - a soldier. ^91f12c
+
+_Jupiter, Andrew "Monk"_ - a doctor. ^960632
+
+_Nacht, Mons. Frederick_ - a Roman Catholic priest. ^9224e1
+
+_Vincent, Harry_ - author and agent of Arthur Clarke Wildman ^e8ea87
